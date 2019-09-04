@@ -11,6 +11,8 @@ def plaintext_sent_par(units):
     out = []
     for u in units:
         unit = " ".join([word.text.replace(' ', '_') for word in u[1]])
+        unit = unit.replace('_[', ' [').replace(']_', '] ')
+        unit = re.sub(r'([^།])\s*_\s*([^།])', r'\1 \2', unit)
         out.append(unit)
     return out
 
@@ -72,7 +74,7 @@ def prepare_target(dump):
                     new += chunk
 
             sentences[num] = new
-
+    sentences = ' '.join(sentences)
     return sentences, {'notes': notes, 'milestones': milestones}
 
 
@@ -95,7 +97,7 @@ def preprocess(in_dir, out_dir):
         # process target
         sents, metadata = prepare_target(target.read_text(encoding='utf-8-sig'))
         s = out_dir.parent / target.name
-        s.write_text('\n'.join(sents))
+        s.write_text(sents)
 
         m = out_dir / (source.stem + '.json')
         m.write_text(json.dumps(metadata))
