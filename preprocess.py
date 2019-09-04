@@ -12,7 +12,9 @@ def plaintext_sent_par(units):
     for u in units:
         unit = " ".join([word.text.replace(' ', '_') for word in u[1]])
         unit = unit.replace('_[', ' [').replace(']_', '] ')
+        # cleanup extra spaces
         unit = re.sub(r'([^།])\s*_\s*([^།])', r'\1 \2', unit)
+        unit = unit.replace('།_།_', '།_།')
         out.append(unit)
     return out
 
