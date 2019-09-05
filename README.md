@@ -1,8 +1,8 @@
 # 84000 Translation Memory Resources
 **CONTENTS**
-1. [Objectives](https://github.com/84000/translation-memory-resources/wiki#1-objectives)
-2. [Documentation](https://github.com/84000/translation-memory-resources/wiki#2-documentation)
-3. [Instructions for TM Editors](https://github.com/84000/translation-memory-resources/wiki#3-instructions-for-tm-editors)
+1. [Objectives](https://github.com/84000/translation-memory-resources#1-objectives)
+2. [Documentation](https://github.com/84000/translation-memory-resources#2-documentation)
+3. [Instructions for TM Editors](https://github.com/84000/translation-memory-resources#3-instructions-for-tm-editors)
 
 # 1. Objectives:
 
