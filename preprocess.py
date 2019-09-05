@@ -99,10 +99,10 @@ def preprocess(in_dir, out_dir):
         # process target
         sents, metadata = prepare_target(target.read_text(encoding='utf-8-sig'))
         s = out_dir.parent / target.name
-        s.write_text(sents)
+        s.write_text(sents, encoding='utf-8-sig')
 
         m = out_dir / (source.stem + '.json')
-        m.write_text(json.dumps(metadata))
+        m.write_text(json.dumps(metadata), encoding='utf-8-sig')
 
 
 if __name__ == '__main__':
