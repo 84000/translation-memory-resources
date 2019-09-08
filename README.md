@@ -4,12 +4,12 @@
 # translation-memory-resources
 
 **CONTENTS**
-1. [Objectives](link)
-2. [Scripts](link)
-3. [Finished TMs]
-4. [Instructions for TM Editors](link)
-5. [TM Standards](link)
-6. [License](link)
+1. [Objectives](https://github.com/84000/translation-memory-resources/blob/master/README.md#1-objectives)
+2. [Scripts](https://github.com/84000/translation-memory-resources/blob/master/README.md#2-scripts)
+3. [Finished TMs](https://github.com/84000/translation-memory-resources/blob/master/README.md#3-finished-tms)
+4. [Instructions for TM Editors](https://github.com/84000/translation-memory-resources/blob/master/README.md#4-instructions-for-tm-editors)
+5. [TM Standards](https://github.com/84000/translation-memory-resources/blob/master/README.md#5-tm-standards)
+6. [License](https://github.com/84000/translation-memory-resources/blob/master/README.md#6-license)
 
 [1-3,6 will be in the README, 4-5 will be in the README as links to the wiki, then put all the 4) Instructions for TM editors and 5) TM standards as separate wiki pages. Mainly because I want to link TM editors directly to instructions and ignore all the technical aspects.]  
 
@@ -72,16 +72,16 @@ In our previous TMs (“-v1.0”), the folio numbers were put into elements, e.g
 > <prop name="folio">F.71.a</prop>
 
 These were siblings to the actual <seg>s in the .tmx; however, this does not mark the folio ref’s position in the segment string.
-#3. Finished TMs
+# 3. Finished TMs:
 
 [Document the previous versions “-1.0” vs. current “-2.0”, all the metadata, and how they are to be used with OmegaT and 84000’s TM search tool.]
-#4. Instructions for TM Editors:
+# 4. Instructions for TM Editors:
 
 [This section just instructions for how to use InterText. I will link to the relevant chapters of the online PDF of the InterText guied, or also make a short screencast, as the InterText guide is a bit wordy and the TM editors don’t need to read it all]
 
 [The following section will contain the more critical instructions for how to determine the segments themselves.]
 
-#5. TM Standards
+# 5. TM Standards
 
 In order to make the TMs an optimal resource for using on CAT platforms and for machine learning, it is important to clearly define what makes a single segment of Tibetan so that they may be created in a consistent way when they are created by different TM editors.
 
