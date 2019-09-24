@@ -14,7 +14,7 @@
 
 # 1. Objectives:
 
-The purpose of this project is to create simple phrase-by-phrase, English-Tibetan translation memories by aligning 84000's published English translations with the Tibetan source texts found in the eKangyur (based on the Derge edition of the Kangyur). Our objective is to (1) create TMs as a resource to used on CAT platforms such as [OmegaT](https://omegat.org/), and (2) create useful data for other digital Tibetan tools and projects such as word alingers, spell checkers, translation machine learning, and perhaps aligning our Tibetan-English segments with segments created by other groups who are creating canonical TMs from Chinese, Sanskrit, or other sources.
+The purpose of this project is to create simple phrase-by-phrase, English-Tibetan translation memories by aligning 84000's published English translations with the Tibetan source texts found in the eKangyur (based on the Derge edition of the Kangyur). Although, this repository’s workflow is geared for 84000, this methodology is intended to be universal  and may be reproduced by any individual or group to be used for their own Tibetan TM projects. Our objective is to (1) create TMs as a resource to used on CAT platforms such as [OmegaT](https://omegat.org/), and (2) create useful data for other digital Tibetan tools and projects such as word alingers, spell checkers, translation machine learning, and perhaps aligning our Tibetan-English segments with segments created by other groups who are creating canonical TMs from Chinese, Sanskrit, or other sources. 
 
 Because of this, it is important that we standardize our process for creating TMs for the best possible degree of consistency. Standards for the TMs in terms of segment length and structure need to be defined in a clear way so that they will be segmented constantly by all the TM editors working on the project. Also the TMs for each text need to be complete and contain all strings of the English and Tibetan texts including repetitions and strings that are omitted in either the source or target, although the latter can be removed from the TMs for use in CAT platforms.
 
@@ -25,13 +25,16 @@ To align the Tibetan-source and English-target two text (.txt) files will be gen
 # 2. Scripts:
 
 The “preprocess.py” script will create an “input” folder for placing the raw text files for both the English and Tibetan. The files generated in the “output” folder will be ready for aligning in InterText.  
-## 2.A. Tibetan eKangyur Text Segmented with Pybo:
+## 2.A. Tibetan eKangyur Text Segmented with Pybo script:
 
-Using [pybo](https://github.com/Esukhia/pybo), the script, “preprocess.py” has been customized for pre-segmenting the Tibetan and will be used to generate a Tibetan .txt file from [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo will need to be installed locally to run the script). Each segment will be formatted with line breaks. This will provide a foundational consistency since it follows some predetermined rules, although the Tibetan may then be further merged/split by the TM editors according to the guidelines below (4.A-C). 
+[Some more elaboration will be added here in terms of importing the source of the raw Tibetan from the eKangyur repository.]
+
+Using [pybo](https://github.com/Esukhia/pybo), the script, “preprocess.py” has been customized for pre-segmenting the Tibetan and will be used to generate a Tibetan .txt file from the [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo will need to be installed locally to run the script). Each segment will be defined by a single line break. This will provide a foundational consistency since it follows some predetermined rules, although the Tibetan may then be further merged/split by the TM editors according to the guidelines below (4.A-C). 
 
 The Tibetan includes:
 
-- word segmentation created with spaces according to pybo’s bo tokenization. 
+- word-segmentation created with spaces according to pybo’s bo tokenization. 
+- sentence-segmentation created with line breaks according to the script’s identification of clauses according to conjugated verbs and a set of rules concerning the particles immediately following those verbs which govern those clauses. 
 - underscores representing the actual spaces found in the Kangyur text.
 - folio references in the eKangyur format, [3a], [3b] etc...
 
@@ -42,23 +45,29 @@ For example:
 མ་འོངས་པ་ ཡང་ མཁྱེན །_
 འདས་པ་ ཡང་ མཁྱེན །_
 ད་ལྟ ར་ བྱུང་བ་ ཡང་ མཁྱེན །_
+
+The preprocess script will ideally cover 70% of the segmentation and the TM editors will refine and edit the segmentation according to the [TM Guidelines in the wiki](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#2-tm-standards). This preprocess script follows the same segmentation rules found in the [pybo-catscript](https://github.com/Esukhia/cat-scripts), which may be used by translators to presegment any Tibetan text for use on CAT platforms like OmegaT. The hope is that this will optimize TM fuzzy matching for translators since they may use the pybo-catscript as a model for their own segmentation.
+
+[Currently my OmegaT tutorial does not yet explain how and why to use the pybo-catscript, but I will be adding it. I’ll begin updating this as soon as we finish working out the TM editor’s workflow] 
 ## 2.A. English Text Generated from 84000 TEI:
+
+[Some more elaboration to be added here in terms of pulling the English from the TEI according to Dom’s script once I see how that process works]
 
 Note that before the English may be processed by the “preprocess.py” script. Another script needs to be set up to generate the English .txt file for alignment using [84000’s published TEI](link).
 
 The output should contain the milestones, folio references, and notes contained in simple angular brackets including their relevant ids separated by spaces: 
 
-- Milestones along with their @xml:id, e.g.:  <milestone UT22084-061-006-16>
-- Folio references along with their @cRef, e.g.: <ref F.143.b>
-- Notes with their @index preceded by a hashtag “#” symbol, as well as their @xml:id, e.g.: <note #2 UT22084-061-006-214>
+- Milestones along with their @xml:id, e.g.:  {milestone UT22084-061-006-16}
+- Folio references along with their @cRef, e.g.: {ref F.143.b}
+- Notes with their @index preceded by a hashtag “#” symbol, as well as their @xml:id, e.g.: {note #2 UT22084-061-006-214}
 - But do *not* include the actual content of the note, the TM editors will instead reference the note section of the 84000 reading room.  
-- <head> elements should be included. For now, as I am noticing that some of the English in the <head> is indeed a translation of the Tibetan and sometimes it is an interjection of the translator’s outline. The solution to this is to include all of them and instruct TM editors to match interjected English headings with blank entries for the Tibetan.
+- The content of <head> elements should also be included. For now, as I am noticing that some of the English in the <head> is indeed a translation of the Tibetan and sometimes it is an interjection of the translator’s outline. The solution to this is to include all of them and instruct TM editors to match interjected English headings with blank entries for the Tibetan.
 
 Single line breaks should be placed at the end of each paragraph or stanza, i.e., for every instance of a </p> or </lg> found in the TEI.
 
 For example:
-> <milestone UT22084-061-006-16> <ref F.143.b> Homage to the Omniscient One! <milestone UT22084-061-006-17>
-Thus did I hear at one time. The Blessed One was dwelling on the banks of the great Nairañjanā River, together with seven thousand bodhisattvas. Among them were the Noble Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, and all the great śrāvakas like Subhūti, Śāriputra, and Maudgalyāyana. He was circumambulated by Śakra, Brahmā, and all the protectors of the world, as well as all the kings, ministers, brahmins, and householders, and was <ref F.144.a> placed in front of the assembly. After being presented with offerings of almsfood, he pleased his surrounding retinue with a teaching on Dharma, and encouraged, uplifted, and complimented them. By means of his great supernatural power, the Tathāgata and his surrounding retinue were then transported to the city of Vārāṇasī, where they stayed in the grove of the caretaker of mango trees.<note #2 UT22084-061-006-214> <milestone UT22084-061-006-18> At that time the earth trembled greatly,
+> {milestone UT22084-061-006-16} {ref F.143.b} Homage to the Omniscient One! {milestone UT22084-061-006-17}
+Thus did I hear at one time. The Blessed One was dwelling on the banks of the great Nairañjanā River, together with seven thousand bodhisattvas. Among them were the Noble Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, and all the great śrāvakas like Subhūti, Śāriputra, and Maudgalyāyana. He was circumambulated by Śakra, Brahmā, and all the protectors of the world, as well as all the kings, ministers, brahmins, and householders, and was {ref F.144.a} placed in front of the assembly. After being presented with offerings of almsfood, he pleased his surrounding retinue with a teaching on Dharma, and encouraged, uplifted, and complimented them. By means of his great supernatural power, the Tathāgata and his surrounding retinue were then transported to the city of Vārāṇasī, where they stayed in the grove of the caretaker of mango trees.{note #2 UT22084-061-006-214} {milestone UT22084-061-006-18} At that time the earth trembled greatly,
 
 This exported .txt should then be placed in the import folder created by the “preprocess.py” script. The ids will then be stripped and saved in the “tmp” folder while the texts are being aligned in InterText. They will then be reinserted in the final .tmx file.
 ## 2.C. Scripts to Run on .TMX Files Exported from InterText:
@@ -102,21 +111,25 @@ Here is an example translation unit with all these attributes (flag has been add
 
 # 3. Finished TMs:
 
-[Document the previous versions “-1.0” vs. current “-2.0”, all the metadata, and how they are to be used with OmegaT and 84000’s TM search tool.]
+As mentioned, all of the TMs are in the form of .tmx files. A .tmx file uses simple XML markup to align segments of text on the phrase/sentence level (examples will be given below). All of the TMs that were created before 9/01/2019 are also in this format, but were created differently using our [own application](http://translation-memory.84000-translate.org) and used less rigorous standards for defining TM segments. Therefore, we are distinguishing the files by version numbers “-v1.0…” and “v.2.0…”.
+
+The older TMs are still very useful resources although they do not follow the same standards. At some point we might consider creating new v.2 TMs to replace them, however, in the meantime they should be readily used on CAT platforms and as data for other projects such as machine learning.
+
+The differences between the two versions, their markup format and segment standards uses, are documented as follows:
 
 ## **-v1.0**
 
+### Markup:
+
+### TM Segment Standards 
+
 ## **-v2.0**
+
+### Markup:
+
 - <milestone/>, <ref/>, and <note/> elements should be able to appear directly in the segments “<seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
 
 - @xml:id in <milestone/> and <note/> corresponds to unique identifier in published 84000 TEI file.
 
 
-
-
-
-
-
-
-
-
+### TM Segment Standards 
