@@ -53,7 +53,7 @@ The preprocess script will ideally cover 70% of the segmentation and the TM edit
 
 [Some more elaboration to be added here in terms of pulling the English from the TEI according to Dom’s script once I see how that process works]
 
-Note that before the English may be processed by the “preprocess.py” script. Another script needs to be set up to generate the English .txt file for alignment using [84000’s published TEI](link).
+Note that before the English may be processed by the “preprocess.py” script. Another script needs to be set up to generate the English .txt file for alignment using [84000’s published TEI](https://github.com/84000/data/tree/master/tei/translations).
 
 The output should contain the milestones, folio references, and notes contained in simple angular brackets including their relevant ids separated by spaces: 
 
@@ -107,29 +107,139 @@ Here is an example translation unit with all these attributes (flag has been add
 <seg><ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
 </tuv>
 </tu>
-
-
 # 3. Finished TMs:
 
 As mentioned, all of the TMs are in the form of .tmx files. A .tmx file uses simple XML markup to align segments of text on the phrase/sentence level (examples will be given below). All of the TMs that were created before 9/01/2019 are also in this format, but were created differently using our [own application](http://translation-memory.84000-translate.org) and used less rigorous standards for defining TM segments. Therefore, we are distinguishing the files by version numbers “-v1.0…” and “v.2.0…”.
 
 The older TMs are still very useful resources although they do not follow the same standards. At some point we might consider creating new v.2 TMs to replace them, however, in the meantime they should be readily used on CAT platforms and as data for other projects such as machine learning.
 
-The differences between the two versions, their markup format and segment standards uses, are documented as follows:
+The differences between the two versions, their markup format and segment standards, are documented as follows:
 
-## **-v1.0**
+## **-v1.0** Created on our Own Application
+### Methodology:
+
+When we initially begin segmenting the TMs, since we had not yet defined the segmentation in terms of grammar the editors were simply instructed to match segments according to wherever they could sensibly make a clean break. They were given the target to create an ideal segment size which was set for 10-15 English words or about 10-20 Tibetan syllables, This is the ideal length for a segment because it is long enough to have enough context to be understood but short enough to have a high likelihood of being recalled in a fuzzy match. However, often since the grammar is rearranged in the English, the segments were made to be longer in order to find a clean break. TM editors were told to prioritize accuracy over finding ideal segment size. One issue with this is that the English translation often governed the segmentation along side the Tibetan because it was necessary to find clean breaks where both segments could be aligned accurately. Ideally we want the segmentation to be governed by the Tibetan grammar so that the segmentation is consistent and can be applied universally to new translation projects. 
+
+Another challenge that arose under this first methodology was that there were occasionally passages that were based on alternative editions of the Kangyur, or alternative language sources. Also there was the case of Toh 100, which was entirely based on the Sanskrit. In such cases the TM editors were told to skip passages that did not matchup to the Tibetan found in the Dege in the eKangyur (In Toh 100 there were actually a lot of text that did match up to the eKangyur, so we went ahead and made the TMs wherever they matched up).
+
+Another shortcoming was that that the TM creation tool had some difficulty reading segments of duplicate strings on the same folio page. Because we were anticipating the TMs just to be used on CAT platforms at the time, TM editors were instructed to skip duplicate strings since that would save time, and a TM of exactly the same string only needs to be entered once in order for it to be recalled on a CAT platform. However, this is less ideal because there will be lacunae in that alignment record. I have been told this is not ideal for the data to be used for training machine learning since there is no longer a complete record of the alignment as a bitext. However, for the most part, the majority of the segments from each text are included in the record. 
+
+### Summary of Issues with the Version 1.0 Methodology:
+- Segments did not follow any specific grammatical protocols.
+- Segmentation was sometimes governed according to English translation in order to make clean breaks. 
+- Duplicates were often omitted and so there is not a completed record of the bitext.
+- No flags for TMs translated from alternate sources; these were simply skipped if they did not match up to the eKangyur. 
+
+### Markup
+These TMs were created using the standard TMX format with some added metadata:
+- The Tibetan folio page is marked for each segment in a <prop name="folio"> element, this allows the segment to be linked directly to the page in the eKangyur or English publication, for example in [our own TM search tool](http://translator-tools.84000-translate.org/index.html?tab=tibetan-search).
+- The position of the Tibetan string on that folio page was marked with <prop name="position"> representing the character count on that page, however, note that the UI would always read from the first instance of the string on each page, so this is not entirely reliable for duplicate strings. 
+- A timestamp and creationid for each TM segment.
+
+Here is a sample of the markup from version -1.0 :
+
+```
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <body>
+        <tu tuid="5">
+            <prop name="folio">F.71.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:36:45.98+01:00" creationid="admin">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:36:45.98+01:00" creationid="admin">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+    <!--etc.-->
+    </body>
+</tmx>
+```
+
+[Note, under the new methodology the segments were created with shad marks “ ། ” appearing at the beginning of segments. This is not correct according to the Tibetan’s own understanding of the punctuation. I will soon correct all of these with regex commands, and the correct placement of the shads will be used in version -v2.0]
+
+## **-v2.0** Using InterText and Following New TM Guidelines.
+### Methodology:
+
+InterText is a more efficient application for editing the TM segments. Because we can run the English and Tibetan through scripts ahead of time we can arrange the Tibetan segmentation to be close to what we want and then the TM editors just need to align that with the English sentences. This methodology will also be more complete because the TM editors need to account for every string of text in both the Tibetan and English including repetitions and translations made from alternate sources. In the latter cases, TM editors will be instructed to flag the beginning of Tibetan segments with a ! character when the English has been translated from a different source. These can then be converted into markup and may be omitted from TMs used on CAT platforms, or if the translator wishes they may still be used since some of them will be close to the Dege source and may still be useful, but they will be able to recognize the flag warning them of this discrepancy. The notes and their index number will be present in the English text and the TM editors will be instructed to check them for possible alternate sources as they are editing the TMs.
+
+With the time and convenience TM editors save using InterText, they will be directed to use the more rigorous TM standards described (on the wiki page)[https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#2-tm-standards]. Under these new guidelines segmentation will be done from the perspective of the Tibetan grammar rather than the English. In cases where the English compounds two Tibetan segments into an intermingled English string, then the TM editors will be instructed to reduplicate that English string and bracket any text that is not represented in the matching Tibetan string. See the example given for this in [the TM Editor’s Guidelines linked here](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#separating-compounded-english-segments). With this method, the TM editors will never change or correct the English translation ([although, they may flag errors for review](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#marking-errors)).
+
+So with this methodology in mind, we hope to improve on the issues that were mentioned in version 1.0 above.
+
+### Summary of Advantages for the Version 2.0 Methodology:
+- Segments follow a more consistent standard that is based on the output created by the pybo preprocess script, which will mirror the pybo-catscript to be used by translators.
+- Segmentation will be governed by Tibetan grammar and taking cues from the style of the English translation will be avoided. When the English compounds Tibetan segments it may be reduplicated and parsed apart with brackets. This will improve the segmentation’s overall consistency.
+- Complete record of the bitext, empty segments due to omissions may be simply left out when used on CAT platforms, but having the complete bitext will be more useful data for machine learning projects. 
+- Flags for TMs translated from alternate sources.
+- Flags for errors found in English translation; these will include typos, unannotated omissions or ostensible translation errors to be reviewed by editors.  
+- Additional metadata markup will be added to the TMs from the original English TEI including: milestones (along with ids that maybe linked to TEI) and endnotes (especially important for explaining alternate sources).
 
 ### Markup:
 
-### TM Segment Standards 
+[I will update this according to the actual script output once we have that set up, the following is just a draft for what I imagine the output TMX to look like]
 
-## **-v2.0**
-
-### Markup:
+Some differing features found in version -2.0’s markup:
 
 - <milestone/>, <ref/>, and <note/> elements should be able to appear directly in the segments “<seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
-
 - @xml:id in <milestone/> and <note/> corresponds to unique identifier in published 84000 TEI file.
+- <flag type="alternateSource"> and <flag type="englishError"> added to segments that need to be flagged as such. 
 
+Here is a sample of the markup from version -2.0. I added some arbitrary <flag/>s to show how this would work when there was a problematic segment:
 
-### TM Segment Standards 
+```
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <body>
+        <tu>
+            <prop name="folio">F.143.b</prop>
+            <tuv xml:lang="en">
+                <seg><milestone xml:id="UT22084-061-006-214"/> <ref
+folio="143.b"/> Homage to the Omniscient One!</seg>
+            </tuv>
+            <tuv xml:lang="bo">
+                <seg><ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop name="folio">F.143.b</prop>
+            <tuv xml:lang="en">                
+<seg><milestone xml:id="UT22084-061-006-215"/> Thus did I hear at one time.</seg>
+            </tuv>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop name="folio">F.143.b</prop>
+            <flag type="alternateSource">Sanskrit source [citation]</flag>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling on the banks of the great
+Nairañjanā River, together with seven thousand bodhisattvas. Among them were the Noble Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, and all the great śrāvakas like Subhūti, Śāriputra, and Maudgalyāyana.<note xml:id="UT22084-061-006-216"/></seg>
+            </tuv>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆུ་བོ་ཆེན་པོ་ཀླུང་ནཻ་རཉྫ་ནཱའི་འགྲམ་ན། འཕགས་པ་སྤྱན་རས་
+                    གཟིགས་དབང་ཕྱུག་དང་། ལག་ན་རྡོ་རྗེ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་
+                    བྱང་ཆུབ་སེམས་དཔའ་བདུན་སྟོང་དང་། རབ་འབྱོར་དང་། ཤཱ་རིའི་བུ་དང་།
+                    མཽད་གལ་གྱི་བུ་ལ་སོགས་པ་ཉན་ཐོས་ཆེན་པོ་ཐམས་ཅད་དང་ཐབས་ཅིག་ཏུ་བཞུགས་
+                    ཏེ</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop name="folio">F.143.b</prop>
+              <flag type="errorEnglish"/><!--Segment and English translation need to be reviewed.-->
+            <tuv xml:lang="en">
+                <seg>He was circumambulated by Śakra, Brahmā, and all the
+protectors of the world, as well as all the kings, ministers, brahmins, and householders, and was <ref folio="144.a"/>
+                placed in front of the assembly.</seg>
+            </tuv>
+            <tuv xml:lang="bo">
+                <seg>བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་དང་། རྒྱལ་པོ་དང་
+                    ། བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་ཀྱིས་བསྐོར་ཅིང་། མདུན་
+                    <ref folio="144a"/> དུ་བདར་ཏེ</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
+```
