@@ -12,31 +12,31 @@
 2. [TM Standards](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#2-tm-standards)
 # **I. Documentation**
 
+[Right now this documentation is focused on 84000’s workflow, after we this is more or less finalized, I would like to update to also show a clear recommended workflow for other projects to replicate our methodology]
 # 1. Objectives:
 
 The purpose of this project is to create simple phrase-by-phrase, English-Tibetan translation memories by aligning 84000's published English translations with the Tibetan source texts found in the eKangyur (based on the Derge edition of the Kangyur). Although, this repository’s workflow is geared for 84000, this methodology is intended to be universal  and may be reproduced by any individual or group to be used for their own Tibetan TM projects. Our objective is to (1) create TMs as a resource to used on CAT platforms such as [OmegaT](https://omegat.org/), and (2) create useful data for other digital Tibetan tools and projects such as word alingers, spell checkers, translation machine learning, and perhaps aligning our Tibetan-English segments with segments created by other groups who are creating canonical TMs from Chinese, Sanskrit, or other sources. 
 
-Because of this, it is important that we standardize our process for creating TMs for the best possible degree of consistency. Standards for the TMs in terms of segment length and structure need to be defined in a clear way so that they will be segmented constantly by all the TM editors working on the project. Also the TMs for each text need to be complete and contain all strings of the English and Tibetan texts including repetitions and strings that are omitted in either the source or target, although the latter can be removed from the TMs for use in CAT platforms.
+Because of this, it is important that we standardize our process for creating TMs for the best possible degree of consistency. Standards for the TMs in terms of segment length and structure need to be defined in a clear way so that they will be segmented constantly by all the TM editors working on the project. Also the TMs for each text need to be complete and contain all strings of the English and Tibetan texts including repetitions and strings that are omitted in either the source or target, although the latter can be removed from the TMs for use on CAT platforms.
 
-For all of the TMs created previously, before 9/01/2019, this had not been the case because the TMs were mainly created primarily with their use with CAT tools in mind. Although these previous TMs may still be useful data for the other projects mentioned above, they are not ideal because they contain a significant amount of omissions and inconsistencies. These previous versions will all be labeled -v1.0… and all the TMs created according to these new guidelines will be labeled -v2.0...
+For all of the TMs created previously, before 9/01/2019, this had not been the case because the TMs were primarily created with their use for CAT platforms in mind. Although these previous TMs may still be useful data for the other projects mentioned above, they are not ideal because they contain a significant amount of omissions and inconsistencies. These previous versions will all be labeled -v1.0… and all the TMs created according to these new guidelines will be labeled -v2.0...
 
-To align the Tibetan-source and English-target two text (.txt) files will be generated with scripts and [InterText](https://wanthalf.saga.cz/intertext) application will be used to actually create the alignment and generate the .tmx files.
-
+To create the TMs two text (.txt) files containing the Tibetan-source and English-target respectively will be generated with scripts and the [InterText](https://wanthalf.saga.cz/intertext) application will be used to align the texts and generate the .tmx files.
 # 2. Scripts:
 
 The “preprocess.py” script will create an “input” folder for placing the raw text files for both the English and Tibetan. The files generated in the “output” folder will be ready for aligning in InterText.  
-## 2.A. Tibetan eKangyur Text Segmented with Pybo script:
+## 2.A. Pre-segmentation of eKangyur with Pybo Script:
 
 [Some more elaboration will be added here in terms of importing the source of the raw Tibetan from the eKangyur repository.]
 
-Using [pybo](https://github.com/Esukhia/pybo), the script, “preprocess.py” has been customized for pre-segmenting the Tibetan and will be used to generate a Tibetan .txt file from the [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo will need to be installed locally to run the script). Each segment will be defined by a single line break. This will provide a foundational consistency since it follows some predetermined rules, although the Tibetan may then be further merged/split by the TM editors according to the guidelines below (4.A-C). 
+The “preprocess.py” script uses [pybo](https://github.com/Esukhia/pybo), a Tibetan word tokenizer, to identify verbs and pre-segment the text from the [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo will need to be installed locally to run the script). This initial segmentation will create a foundational consistency since it follows our predetermined rules, although the Tibetan will then need to be further merged/split by the TM editors according to the [guidelines](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines). 
 
 The Tibetan includes:
 
-- word-segmentation created with spaces according to pybo’s bo tokenization. 
-- sentence-segmentation created with line breaks according to the script’s identification of clauses according to conjugated verbs and a set of rules concerning the particles immediately following those verbs which govern those clauses. 
-- underscores representing the actual spaces found in the Kangyur text.
-- folio references in the eKangyur format, [3a], [3b] etc...
+- Word-segmentation created with spaces according to pybo’s tokenization. 
+- Sentence-segmentation created with line breaks according to the script’s identification of clauses according to conjugated verbs and a set of rules concerning the particles immediately following those verbs which govern those clauses. 
+- Underscores representing the actual spaces found in the Kangyur text.
+- Folio references in the eKangyur format, [3a], [3b] etc...
 
 For example:
 > དོན་དམ་པ་ ལ་ མཁས་ [147a]  པ འི་ ཆོས་ དང་ ལྡན་པ་ དང་ །_ མྱ་ངན་ ལས་ འདས་པ འི་ ཆོས་ དང་ ལྡན་པ་ ནི་ མ་ ཡིན་ ནོ ། _ །
@@ -245,3 +245,11 @@ protectors of the world, as well as all the kings, ministers, brahmins, and hous
     </body>
 </tmx>
 ```
+
+
+
+
+
+
+
+
