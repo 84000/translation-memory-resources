@@ -97,6 +97,7 @@ These were siblings to the actual &lt;seg>s in the .tmx appearing not inside the
 
 Here is an example translation unit with all these attributes (flag has been added arbitrarily):
 
+```
 <tu>
 <prop name="folio">F.143.b</prop>
 <flag type="alternateSource">Sanskrit source [citation]</flag>
@@ -107,6 +108,7 @@ Here is an example translation unit with all these attributes (flag has been add
 <seg><ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
 </tuv>
 </tu>
+```
 # 3. Finished TMs:
 
 As mentioned, all of the TMs are in the form of .tmx files. A .tmx file uses simple XML markup to align segments of text on the phrase/sentence level (examples will be given below). All of the TMs that were created before 9/01/2019 are also in this format, but were created differently using our [own application](http://translation-memory.84000-translate.org) and used less rigorous standards for defining TM segments. Therefore, we are distinguishing the files by version numbers “-v1.0…” and “v.2.0…”.
@@ -243,11 +245,3 @@ protectors of the world, as well as all the kings, ministers, brahmins, and hous
     </body>
 </tmx>
 ```
-
-
-
-
-
-
-
-
