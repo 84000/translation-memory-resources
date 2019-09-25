@@ -61,9 +61,9 @@ The output should contain the milestones, folio references, and notes contained 
 - Folio references along with their @cRef, e.g.: {ref F.143.b}
 - Notes with their @index preceded by a hashtag “#” symbol, as well as their @xml:id, e.g.: {note #2 UT22084-061-006-214}
 - But do *not* include the actual content of the note, the TM editors will instead reference the note section of the 84000 reading room.  
-- The content of <head> elements should also be included. For now, as I am noticing that some of the English in the <head> is indeed a translation of the Tibetan and sometimes it is an interjection of the translator’s outline. The solution to this is to include all of them and instruct TM editors to match interjected English headings with blank entries for the Tibetan.
+- The content of &lt;head> elements should also be included. For now, as I am noticing that some of the English in the &lt;head> is indeed a translation of the Tibetan and sometimes it is an interjection of the translator’s outline. The solution to this is to include all of them and instruct TM editors to match interjected English headings with blank entries for the Tibetan.
 
-Single line breaks should be placed at the end of each paragraph or stanza, i.e., for every instance of a </p> or </lg> found in the TEI.
+Single line breaks should be placed at the end of each paragraph or stanza, i.e., for every instance of a &lt;/p> or &lt;/lg> found in the TEI.
 
 For example:
 > {milestone UT22084-061-006-16} {ref F.143.b} Homage to the Omniscient One! {milestone UT22084-061-006-17}
@@ -76,9 +76,9 @@ This exported .txt should then be placed in the import folder created by the “
 
 ### Markup
 
-- Milestones converted to <milestone xml:id=””/>
-- Notes converted to <note xml:id=””/>
-- References in both Tib and Eng to <ref folio=””/>
+- Milestones converted to &lt;milestone xml:id=””/>
+- Notes converted to &lt;note xml:id=””/>
+- References in both Tib and Eng to &lt;ref folio=””/>
 - Some markup at the root element or body identifying the actual text’s TEI id
 
 ### Flags
@@ -91,22 +91,22 @@ Note, these flags may be converted into markup in the exported TMX, but they cou
 
 In our previous TMs (“-v1.0”), the folio numbers were put into elements, e.g.:
 
-> <prop name="folio">F.71.a</prop>
+> &lt;prop name="folio">F.71.a&lt;/prop>
 
-These were siblings to the actual <seg>s in the .tmx appearing not inside the segments but as an element marking up each translation unit <tu>; These are essential for allowing the TM search tool to link to the page in the reading room as -v1.0 has no milestone markers. It would probably be best if all the references that mark the actual page turns remained present in the segment strings: <ref folio=”11.a”/> but then also have the most recent folio ref marked as the <prop> element in every tu 
+These were siblings to the actual &lt;seg>s in the .tmx appearing not inside the segments but as an element marking up each translation unit &lt;tu>; These are essential for allowing the TM search tool to link to the page in the reading room as -v1.0 has no milestone markers. It would probably be best if all the references that mark the actual page turns remained present in the segment strings: &lt;ref folio=”11.a”/> but then also have the most recent folio ref marked as the &lt;prop> element in every tu 
 
 Here is an example translation unit with all these attributes (flag has been added arbitrarily):
 
-> <tu>
-<prop name="folio">F.143.b</prop>
-<flag type="alternateSource">Sanskrit source [citation]</flag>
-<tuv xml:lang="en">
-<seg><milestone xml:id="UT22084-061-006-214"/> <ref folio="143.b"/> Homage to the Omniscient One!</seg>
-</tuv>
-<tuv xml:lang="bo">
-<seg><ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
-</tuv>
-</tu>
+> &lt;tu>
+&lt;prop name="folio">F.143.b&lt;/prop>
+&lt;flag type="alternateSource">Sanskrit source [citation]&lt;/flag>
+&lt;tuv xml:lang="en">
+&lt;seg>&lt;milestone xml:id="UT22084-061-006-214"/> &lt;ref folio="143.b"/> Homage to the Omniscient One!&lt;/seg>
+&lt;/tuv>
+&lt;tuv xml:lang="bo">
+&lt;seg>&lt;ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །&lt;/seg>
+&lt;/tuv>
+&lt;/tu>
 # 3. Finished TMs:
 
 As mentioned, all of the TMs are in the form of .tmx files. A .tmx file uses simple XML markup to align segments of text on the phrase/sentence level (examples will be given below). All of the TMs that were created before 9/01/2019 are also in this format, but were created differently using our [own application](http://translation-memory.84000-translate.org) and used less rigorous standards for defining TM segments. Therefore, we are distinguishing the files by version numbers “-v1.0…” and “v.2.0…”.
@@ -132,8 +132,8 @@ Another shortcoming was that that the TM creation tool had some difficulty readi
 
 ### Markup
 These TMs were created using the standard TMX format with some added metadata:
-- The Tibetan folio page is marked for each segment in a <prop name="folio"> element, this allows the segment to be linked directly to the page in the eKangyur or English publication, for example in [our own TM search tool](http://translator-tools.84000-translate.org/index.html?tab=tibetan-search).
-- The position of the Tibetan string on that folio page was marked with <prop name="position"> representing the character count on that page, however, note that the UI would always read from the first instance of the string on each page, so this is not entirely reliable for duplicate strings. 
+- The Tibetan folio page is marked for each segment in a &lt;prop name="folio"> element, this allows the segment to be linked directly to the page in the eKangyur or English publication, for example in [our own TM search tool](http://translator-tools.84000-translate.org/index.html?tab=tibetan-search).
+- The position of the Tibetan string on that folio page was marked with &lt;prop name="position"> representing the character count on that page, however, note that the UI would always read from the first instance of the string on each page, so this is not entirely reliable for duplicate strings. 
 - A timestamp and creationid for each TM segment.
 
 Here is a sample of the markup from version -1.0 :
@@ -182,11 +182,11 @@ So with this methodology in mind, we hope to improve on the issues that were men
 
 Some differing features found in version -2.0’s markup:
 
-- <milestone/>, <ref/>, and <note/> elements should be able to appear directly in the segments “<seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
-- @xml:id in <milestone/> and <note/> corresponds to unique identifier in published 84000 TEI file.
-- <flag type="alternateSource"> and <flag type="englishError"> added to segments that need to be flagged as such. 
+- &lt;milestone/>, &lt;ref/>, and &lt;note/> elements should be able to appear directly in the segments “&lt;seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
+- @xml:id in &lt;milestone/> and &lt;note/> corresponds to unique identifier in published 84000 TEI file.
+- &lt;flag type="alternateSource"> and &lt;flag type="englishError"> added to segments that need to be flagged as such. 
 
-Here is a sample of the markup from version -2.0. I added some arbitrary <flag/>s to show how this would work when there was a problematic segment:
+Here is a sample of the markup from version -2.0. I added some arbitrary &lt;flag/>s to show how this would work when there was a problematic segment:
 
 ```
 <tmx xmlns="http://www.lisa.org/tmx14">
