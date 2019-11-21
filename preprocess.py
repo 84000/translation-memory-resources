@@ -106,12 +106,12 @@ def preprocess(in_dir, out_dir):
 
 
 if __name__ == '__main__':
-    in_dir = Path('input')
+    in_dir = Path('pre_input')
     in_dir.mkdir(exist_ok=True)
 
-    out_dir = Path('output/tmp')
+    out_dir = Path('pre_output/tmp')
     out_dir.mkdir(exist_ok=True, parents=True)
-    # empty output folder at each run
+    # empty pre_output folder at each run
     for o in out_dir.parent.glob('*.txt'):
         o.unlink()
     for o in out_dir.glob('*.txt'):
