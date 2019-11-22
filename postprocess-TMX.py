@@ -12,13 +12,13 @@ def remove_tags(tm):
     return tm3
 
 
-# Re-insert metadata from output/tmp file into TMX as XML tags
+# Re-insert metadata from pre_output/tmp file into TMX as XML tags
 def insert_metatags(tm, meta_data):
     lines = tm.split('\n')
     for num, s in enumerate(lines):
         if '$' in s:
             new = ''
-            for chunk in re.split(r'(\$\d+)', lines[num]):
+            for chunk in re.split(r'(\$\d+\s*)', lines[num]):
                 if '$' in chunk:
                     g_id = re.findall(r'\$\d+', lines[num])
                     new += '<milestone xml:id="'
@@ -47,7 +47,8 @@ def insert_metatags(tm, meta_data):
     return lines
 
 
-# Create flags for alternative sources translations and errors.
+# Convert flags made by TM editors for alternative sources and dubious
+# translations into XML tags.
 def create_flags(tm):
     lines = tm.split('\n')
     for num, s in enumerate(lines):
@@ -98,11 +99,14 @@ def postprocess(in_dir, out_dir):
             exit(f'{file} is missing.\nExiting')
 
         # access .json file from 'output/tmp' folder
-        file_stem = str(file.stem).rstrip('bo.en.tmx')
-        json_file = in_dir.parent / 'output' / 'tmp' / (file_stem + '-bo.json')
+        file_stem = str(file.name).rstrip('.bo.en.tmx')
+        # note, rstrip removes any characters in argument string, but this
+        # works for 84000 project because all input files end with a number.
+
+        json_file = in_dir.parent / 'pre_output' / 'tmp' / (file_stem + '-bo.json')
         if not json_file.is_file():
             exit(f'{json_file} is missing.\nExiting')
-        read_meta_data = open(json_file, 'r', encoding='utf-8-sig').read()
+        read_meta_data = json_file.read_text(encoding='utf-8-sig')
         meta_data = json.loads(read_meta_data)
 
         # process TMX
@@ -114,7 +118,6 @@ def postprocess(in_dir, out_dir):
         tm = normalize_tibetan(tm)
         to_file = out_dir / file.name
         to_file.write_text(tm, encoding='utf-8-sig')
-        read_meta_data.close()
 
 
 if __name__ == '__main__':
