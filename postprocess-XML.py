@@ -27,7 +27,7 @@ def insert_metatags(text, meta_data):
                     index = chunk.strip("#")
                     g_id = re.findall(r'#\d+', lines[num])
                     new += '<note index="'
-                    new += index[0]
+                    new += index
                     new += '" xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
@@ -64,8 +64,8 @@ def normalize_tibetan(text):
     segments = re.split(r'(>.*?<)', text)
     for num, s in enumerate(segments):
         if re.search('་', s):  # Find Tibetan strings according to Tsegs
-            s2 = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<ref folio="\1.\2"/>', s)
-            s3 = re.sub(r' ', '', s2)
+            s2 = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<ref folio="F.\1.\2"/>', s)
+            s3 = re.sub(r' (?![a-z])', '', s2)
             segments[num] = re.sub('_', ' ', s3)
     segments = ''.join(segments)
     return segments

@@ -27,8 +27,6 @@ def insert_metatags(tm, meta_data):
                 else:
                     new += chunk
             lines[num] = new
-        if re.search(r'\[\d+\.?[ab]]', s):
-            lines[num] = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<ref folio="\1.\2"/>', lines[num])
         if '#' in s:
             new = ''
             for chunk in re.split(r'(#\d+)', lines[num]):
@@ -36,7 +34,7 @@ def insert_metatags(tm, meta_data):
                     index = chunk.strip("#")
                     g_id = re.findall(r'#\d+', lines[num])
                     new += '<note index="'
-                    new += index[0]
+                    new += index
                     new += '" xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
@@ -60,34 +58,36 @@ def create_flags(tm):
     return lines
 
 
+# Normalize Tibetan; remove spaces created by pybo and reformat folio refs into
+# XML tags
+def normalize_tibetan(tm):
+    segments = re.split(r'([</?seg>])', tm)
+    for num, s in enumerate(segments):
+        if re.search('་', s):  # Find Tibetan segments according to Tsegs
+            s2 = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<ref folio="F.\1.\2"/>', s)
+            s3 = re.sub(r'\s(?![a-z])', '', s2)
+            segments[num] = re.sub('_', ' ', s3)
+    segments = ''.join(segments)
+    return segments
+
+
 # Generate <prop> folio references for each TM unit
 def create_folio_props(tm):
     tm_units = re.split('(<tu>)', tm)
     folio_count = 'INPUT_STARTING_FOLIO'
     for num, s in enumerate(tm_units):
         if re.search(r'folio=', s):
-            folio_count = re.findall(r'folio="(\d+\.[ab])', s)[0]
+            folio_count = re.findall(r'folio="(F\.\d+\.[ab])', s)[0]
             tm_units[num - 1] = '<tu>'
-            tm_units[num - 1] += '<prop name="folio">F.'
+            tm_units[num - 1] += '<prop name="folio">'
             tm_units[num - 1] += folio_count
             tm_units[num - 1] += '</prop>'
         if re.search(r'<tu>', s):
-            tm_units[num] += '<prop name="folio">F.'
+            tm_units[num] += '<prop name="folio">'
             tm_units[num] += folio_count
             tm_units[num] += '</prop>'
     tm_units = ''.join(tm_units)
     return tm_units
-
-
-# Normalize Tibetan, remove spaces created by pybo
-def normalize_tibetan(tm):
-    segments = re.split(r'([</?seg>])', tm)
-    for num, s in enumerate(segments):
-        if re.search('་', s):  # Find Tibetan segments according to Tsegs
-            s2 = re.sub(r'\s(?!a-z)', '', s)
-            segments[num] = re.sub('_', ' ', s2)
-    segments = ''.join(segments)
-    return segments
 
 
 # This is the primary function in the script to process all TMX files exported
@@ -114,8 +114,8 @@ def postprocess(in_dir, out_dir):
         tm = remove_tags(tm)
         tm = insert_metatags(tm, meta_data)
         tm = create_flags(tm)
-        tm = create_folio_props(tm)
         tm = normalize_tibetan(tm)
+        tm = create_folio_props(tm)
         to_file = out_dir / file.name
         to_file.write_text(tm, encoding='utf-8-sig')
 
