@@ -24,11 +24,8 @@ def insert_metatags(text, meta_data):
             new = ''
             for chunk in re.split(r'(#\d+)', lines[num]):
                 if chunk.startswith('#'):
-                    index = chunk.strip("#")
                     g_id = re.findall(r'#\d+', lines[num])
-                    new += '<note index="'
-                    new += index
-                    new += '" xml:id="'
+                    new += '<note xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
                 else:
@@ -71,8 +68,20 @@ def normalize_tibetan(text):
     return segments
 
 
+# Remove Folio Refs in English since they are already marked in the Tibetan
+# and they might not line up exactly to the points where the translators have
+# placed them.
+def remove_folio_refs_en(text):
+    lines = text.split('\n')
+    for num, s in enumerate(lines):
+        if re.search(r'\[\d+\.?[ab]\s?', s):
+            lines[num] = re.sub(r'\[\d+\.?[ab]]\s?', '', s)
+    lines = '\n'.join(lines)
+    return lines
+
+
 # This is the primary function in the script to process all XML files exported
-# from InterText in directory "post_input" and write to "post_output"
+# from InterText in directory "post_input" and write to "post_output".
 def postprocess(in_dir, out_dir):
     # get path for XML in post_input
     for file in in_dir.glob('*.xml'):
@@ -105,6 +114,7 @@ def postprocess(in_dir, out_dir):
                 text = file.read_text(encoding='utf-8-sig')
                 text = insert_metatags(text, meta_data)
                 text = create_flags_en(text)
+                text = remove_folio_refs_en(text)
                 to_file = out_dir / file.name
                 to_file.write_text(text, encoding='utf-8-sig')
 

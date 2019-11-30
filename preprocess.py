@@ -36,13 +36,14 @@ def prepare_source(dump):
 
 
 def prepare_target(dump):
-    # temporarily remove line returns
-    # because it would confuse hunalign to have sentences split over multiple lines(verses)
-    dump = dump.replace('\n', ' ')
-    dump = re.sub(r'\s+', ' ', dump)
-    # split in sentences using periods and excl. marks
-    dump = dump.replace('. ', '.\n')
-    dump = dump.replace('! ', '!\n')
+    # The tag markup in the export for 84000's target texts is a bit odd and needs to be
+    # formatted to the markup expected by this script. The oddity, is due to some minor
+    # miscommunications on my part. The following substitutions will correct these tags
+    # as is needed. In the future if this script is used as a template for similar projects,
+    # this odd markup should be dispensed with, as standard valid XML tags would be preffered. (CW)
+    dump = re.sub(r'\{\{milestone:UT22084-(\d\d\d-\d\d\d-\d+)}}', r'<milestone UT22084-\1>', dump)
+    dump = re.sub(r'\{\{page:\{number:\d+,folio:(F\.\d+\.[ab])}}}', r'<ref \1>', dump)
+    dump = re.sub(r'[ ]?\{\{note:\{index:(\d+),id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<note #\1 UT22084-\2>', dump)
     sentences = dump.split('\n')
     milestones = {}
     notes = {}
@@ -68,7 +69,7 @@ def prepare_target(dump):
             new = ''
             for chunk in re.split(r'(<note #[0-9]+ [0-9a-zA-Z\-]+>)', sentences[num]):
                 if '<note' in chunk:
-                    n = re.findall(r'<note (#[0-9]+) ([0-9a-zA-Z\-]+)>', sentences[num])
+                    n = re.findall(r'<note (#[0-9]+) ([0-9a-zA-Z\-]+)>', chunk)
                     n_ref, n_id = n[0]
                     notes[n_ref] = n_id
                     new += n_ref
@@ -76,7 +77,7 @@ def prepare_target(dump):
                     new += chunk
 
             sentences[num] = new
-    sentences = ' '.join(sentences)
+    sentences = '\n'.join(sentences)
     return sentences, {'notes': notes, 'milestones': milestones}
 
 

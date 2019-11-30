@@ -31,11 +31,8 @@ def insert_metatags(tm, meta_data):
             new = ''
             for chunk in re.split(r'(#\d+)', lines[num]):
                 if chunk.startswith('#'):
-                    index = chunk.strip("#")
                     g_id = re.findall(r'#\d+', lines[num])
-                    new += '<note index="'
-                    new += index
-                    new += '" xml:id="'
+                    new += '<note xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
                 else:
@@ -69,6 +66,18 @@ def normalize_tibetan(tm):
             segments[num] = re.sub('_', ' ', s3)
     segments = ''.join(segments)
     return segments
+
+
+# Remove Folio Refs in English since they are already marked in the Tibetan
+# and they might not line up exactly to the points where the translators have
+# placed them.
+def remove_folio_refs_en(tm):
+    lines = tm.split('\n')
+    for num, s in enumerate(lines):
+        if re.search(r'\[\d+\.?[ab]]\s?', s):
+            lines[num] = re.sub(r'\[(\d+)\.?([ab])]\s?', r'', s)
+    lines = '\n'.join(lines)
+    return lines
 
 
 # Generate <prop> folio references for each TM unit
@@ -115,6 +124,7 @@ def postprocess(in_dir, out_dir):
         tm = insert_metatags(tm, meta_data)
         tm = create_flags(tm)
         tm = normalize_tibetan(tm)
+        tm = remove_folio_refs_en(tm)
         tm = create_folio_props(tm)
         to_file = out_dir / file.name
         to_file.write_text(tm, encoding='utf-8-sig')
