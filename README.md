@@ -165,8 +165,6 @@ Here is a sample of the markup from version -1.0 :
 </tmx>
 ```
 
-[Note, under the new methodology the segments were created with shad marks “ ། ” appearing at the beginning of segments. This is not correct according to the Tibetan’s own understanding of the punctuation. I will soon correct all of these with regex commands, and the correct placement of the shads will be used in version -v2.0]
-
 ## **-v2.0** Using InterText and Following New TM Guidelines.
 ### Methodology:
 
@@ -179,7 +177,7 @@ Therefore, with this methodology in mind, we hope to improve on the issues that 
 ### Summary of Advantages for the Version 2.0 Methodology:
 - Segments follow a more consistent standard that is based on the output created by the pybo preprocess script, which will mirror the pybo-catscript to be used by translators.
 - Segmentation will be governed by Tibetan grammar and taking cues from the style of the English translation will be avoided. When the English compounds Tibetan segments it may be reduplicated and parsed apart with brackets. This will improve the segmentation’s overall consistency.
-- Complete record of the bitext, empty segments due to omissions may be simply left out when used on CAT platforms, but having the complete bitext will be more useful data for machine learning projects. 
+- When a .tmx file is exported from InterText, segments with either empty English or Tibetan segments will be excluded from the file. This is ideal for the TMs use in CAT platforms; however, the complete record of the bitext, which includes empty segments due to omissions are included in a separate set of .xml alignment files that will provide more complete data useful for machine learning projects. 
 - Flags for TMs translated from alternate sources.
 - Flags for errors found in English translation; these will include typos, unannotated omissions or ostensible translation errors to be reviewed by editors.  
 - Additional metadata markup will be added to the TMs from the original English TEI including: milestones (along with ids that maybe linked to TEI) and endnotes (especially important for explaining alternate sources).
@@ -192,9 +190,9 @@ Some differing features found in version -2.0’s markup:
 
 - &lt;milestone/>, &lt;ref/>, and &lt;note/> elements should be able to appear directly in the segments “&lt;seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
 - @xml:id in &lt;milestone/> and &lt;note/> corresponds to unique identifier in published 84000 TEI file.
-- &lt;flag type="alternateSource"> and &lt;flag type="englishError"> added to segments that need to be flagged as such. 
+- &lt;flag type="alternateSource"> and &lt;flag type="dubiousTranslation"> added to segments that need to be flagged as such. Ostensibly these will be removed once the correction has been confirmed and corrected in the published translation and TM.
 
-Here is a sample of the markup from version -2.0. I added some arbitrary &lt;flag/>s to show how this would work when there was a problematic segment:
+Here is a sample of the markup from version -2.0. Note that I have added wordwrap in this example, which should not be included within the segment text strings. I also added some arbitrary &lt;flag/>s to show how this would work when there was a problematic segment:
 
 ```
 <tmx xmlns="http://www.lisa.org/tmx14">
@@ -204,11 +202,10 @@ Here is a sample of the markup from version -2.0. I added some arbitrary &lt;fla
         <tu>
             <prop name="folio">F.143.b</prop>
             <tuv xml:lang="en">
-                <seg><milestone xml:id="UT22084-061-006-214"/>
-                    <ref folio="143.b"/> Homage to the Omniscient One!</seg>
+                <seg><milestone xml:id="UT22084-061-006-214"/>Homage to the Omniscient One!</seg>
             </tuv>
             <tuv xml:lang="bo">
-                <seg><ref folio="143.b"/> ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+                <seg><ref folio="143.b"/>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
             </tuv>
         </tu>
         <tu>
@@ -222,7 +219,7 @@ Here is a sample of the markup from version -2.0. I added some arbitrary &lt;fla
         </tu>
         <tu>
             <prop name="folio">F.143.b</prop>
-            <flag type="alternateSource">Sanskrit source [citation]</flag>
+            <flag type="alternateSource">Segment was translated from the Sanskrit, see note.</flag>
             <tuv xml:lang="en">
                 <seg>The Blessed One was dwelling on the banks of the great Nairañjanā River,
                     together with seven thousand bodhisattvas. Among them were the Noble
@@ -239,12 +236,12 @@ Here is a sample of the markup from version -2.0. I added some arbitrary &lt;fla
         </tu>
         <tu>
             <prop name="folio">F.143.b</prop>
-            <flag type="errorEnglish"/>
+            <flag type="dubiousTranslation"/>
             <!--Segment and English translation need to be reviewed.-->
             <tuv xml:lang="en">
                 <seg>He was circumambulated by Śakra, Brahmā, and all the protectors of the world,
-                    as well as all the kings, ministers, brahmins, and householders, and was <ref
-                        folio="144.a"/> placed in front of the assembly.</seg>
+                    as well as all the kings, ministers, brahmins, and householders, and was placed 
+                    in front of the assembly.</seg>
             </tuv>
             <tuv xml:lang="bo">
                 <seg>བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་དང་། རྒྱལ་པོ་དང་ །
