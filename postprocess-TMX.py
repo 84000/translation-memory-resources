@@ -12,10 +12,15 @@ def remove_tags(tm):
     return tm3
 
 
-# Re-insert metadata from pre_output/tmp file into TMX as XML tags
+# Re-insert metadata from pre_output/tmp file into TMX as XML tags.
+# Also adds proper tags into the header.
 def insert_metatags(tm, meta_data):
     lines = tm.split('\n')
     for num, s in enumerate(lines):
+        if 'tmx version=' in s:
+            lines[num] = re.sub('>', ' xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0">', s)
+        if '<header' in s:
+            lines[num] = re.sub('XML aligned text"', 'XML aligned text" eft:text-id="INPUT_TEXT_ID"', s)
         if '$' in s:
             new = ''
             for chunk in re.split(r'(\$\d+\s*)', lines[num]):
@@ -48,9 +53,9 @@ def create_flags(tm):
     lines = tm.split('\n')
     for num, s in enumerate(lines):
         if re.search(r'<tuv xml:lang="bo">\s*\t*<seg>\s*!', s):
-            lines[num - 1] += '<flag type="alternateSource"/>'
+            lines[num - 1] += '<eft:flag type="alternateSource"/>'
         if re.search(r'<tuv xml:lang="en">\s*\t*<seg>\s*%', s):
-            lines[num - 2] += '<flag type="dubiousTranslation"/>'
+            lines[num - 2] += '<eft:flag type="dubiousTranslation"/>'
     lines = '\n'.join(lines)
     return lines
 
