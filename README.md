@@ -76,10 +76,10 @@ For example:
 The Noble Great Vehicle Sūtra
 The Question of Kṣemaṅkara
 $1 [167.b] Homage to all buddhas and bodhisattvas!
-$2 Thus did I hear at one time. The Blessed One was staying in the Nyagrodha Park of the Śākyas, near Kapilavastu 
-in the Śākya country, together with a great saṅgha of five hundred monks. At that time a Śākya youth#2 named 
-Kṣemaṅkara set out from the city of Kapilavastu for Nyagrodha Park, where the Blessed One was staying. As soon as 
-he arrived there, he touched his head to the feet of the Blessed One and sat down to one side.
+$2 Thus did I hear at one time. The Blessed One was staying in the Nyagrodha Park of the Śākyas, near Kapila
+vastu in the Śākya country, together with a great saṅgha of five hundred monks. At that time a Śākya youth#2 
+named Kṣemaṅkara set out from the city of Kapilavastu for Nyagrodha Park, where the Blessed One was staying. 
+As soon as he arrived there, he touched his head to the feet of the Blessed One and sat down to one side.
 ```
 
 These two .txt files containing the Tibetan source and English translation may now be sent to the TM editors to create the alignments. TM editors, do not need to be trained to run the scripts but should be trained to focus simply on creating the alignments in InterText.
@@ -184,7 +184,7 @@ Here is a sample of the markup from version -1.0 :
 ## **-v2.0** Using InterText and Following New TM Guidelines.
 ### Methodology:
 
-InterText is a more efficient application for editing the TM segments. Because we can run the English and Tibetan through scripts ahead of time, we can arrange the Tibetan segmentation to be close to what we want, and then the TM editors just need to align that with the English sentences. This methodology also creates a complete record of the bitext alignment because the TM editors need to account for every string of text in both the Tibetan and English including repetitions and translations made from alternate sources. In the latter cases, TM editors will be instructed to flag the beginning of Tibetan segments with a ! character when the English has been translated from a different source. These can then be converted into markup and may be omitted from TMs used on CAT platforms, or if the translator wishes they may still be used since some segments will still be quite close to the Dege source and may still be useful, but they will be able to recognize the flag warning of this discrepancy. The notes and the accompanying index number will be present in the English text and the TM editors will be instructed to check them for possible alternate sources as they are editing the TMs.
+InterText is a more efficient application for editing the TM segments. Because we can run the English and Tibetan through scripts ahead of time, we can arrange the Tibetan segmentation to be close to what we want, and then the TM editors just need to align that with the English sentences. This methodology also creates a complete record of [the bitext alignment](https://github.com/84000/translation-memory-resources/blob/master/README.md#xml-alignment-files-generated-by-intertext) because the TM editors need to account for every string of text in both the Tibetan and English including repetitions and translations made from alternate sources. In the latter cases, TM editors will be instructed to flag the beginning of Tibetan segments with a ! character when the English has been translated from a different source. These can then be converted into markup and may be omitted from TMs used on CAT platforms, or if the translator wishes they may still be used since some segments will still be quite close to the Dege source and may still be useful, but they will be able to recognize the flag warning of this discrepancy. The notes and the accompanying index number will be present in the English text and the TM editors will be instructed to check them for possible alternate sources as they are editing the TMs.
 
 With the time and convenience TM editors save using InterText, they will be directed to use the more rigorous TM standards described [on the wiki page](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#2-tm-standards). Under these new guidelines segmentation will be done from the perspective of the Tibetan grammar rather than the English. In cases where the English compounds two Tibetan segments into an intermingled English string, then the TM editors will be instructed to reduplicate that English string and bracket any text that is not represented in the matching Tibetan string. (See the example given for this in [the TM Editor’s Guidelines linked here](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#separating-compounded-english-segments)). With this method, the TM editors will never change or correct the English translation ([although, they may flag errors for review](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#marking-errors)).
 
@@ -200,28 +200,28 @@ Therefore, with this methodology in mind, we hope to improve on the issues that 
 
 ### Markup:
 
-[I will update this according to the actual script output once we have that set up, the following is just a draft for what I imagine the output TMX to look like]
-
 Some differing features found in version -2.0’s markup:
 
-- &lt;milestone/>, &lt;ref/>, and &lt;note/> elements should be able to appear directly in the segments “&lt;seg/>” but remain hidden on CAT platforms and still be functional (though I have only tested with OmegaT so far).
+- &lt;milestone/>, &lt;ref/>, and &lt;note/> elements should be able to appear directly in the segments “&lt;seg/>” but remain hidden on CAT platforms and still be functional (Although I have only tested this with OmegaT and SmartCAT, which have no problems).
 - @xml:id in &lt;milestone/> and &lt;note/> corresponds to unique identifier in published 84000 TEI file.
-- &lt;flag type="alternateSource"> and &lt;flag type="dubiousTranslation"> added to segments that need to be flagged as such. Ostensibly these will be removed once the correction has been confirmed and corrected in the published translation and TM.
+- &lt;flag type="alternateSource"> and &lt;flag type="dubiousTranslation"> added to segments that need to be flagged as such. Ostensibly the latter will be removed once the correction has been confirmed and corrected in the published translation and TM.
 
 Here is a sample of the markup from version -2.0. Note that I have added wordwrap in this example, which should not be included within the segment text strings. I also added some arbitrary &lt;flag/>s to show how this would work when there was a problematic segment:
 
 ```
-<tmx xmlns="http://www.lisa.org/tmx14">
-    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase"
-        adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" version="1.4b">
+    <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo"
+    o-tmf="XML aligned text" eft:text-id="UT22084-061-006"/>
     <body>
         <tu>
             <prop name="folio">F.143.b</prop>
-            <tuv xml:lang="en">
-                <seg><milestone xml:id="UT22084-061-006-214"/>Homage to the Omniscient One!</seg>
-            </tuv>
             <tuv xml:lang="bo">
-                <seg><ref folio="143.b"/>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <milestone xml:id="UT22084-061-006-16"/>
+                    Homage to the Omniscient One!</seg>
             </tuv>
         </tu>
         <tu>
