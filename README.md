@@ -12,31 +12,31 @@
 2. [TM Standards](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#2-tm-standards)
 # **I. Documentation**
 
-The scripts and documentation used here were initially created for 84000’s own workflow, however, all the resources used here are open and available for other organizations or publishers wishing to replicate this methodology for making their own TM resources.
+The scripts and documentation here were initially created for 84000’s own workflow, however, all the resources used here are open and available for other organizations or publishers wishing to replicate this methodology for making their own TM resources.
 
 # 1. Objectives:
 
 The purpose of this project is to create simple phrase-by-phrase, English-Tibetan translation memories by aligning 84000's published English translations with the Tibetan source texts found in the eKangyur (based on the Derge edition of the Kangyur). Although, this repository’s workflow is geared for 84000, this methodology is intended to be universal and may be reproduced by any individual or group to be used for their own Tibetan TM projects. Our objective is to (1) create TMs in the form of .tmx files to be used on CAT platforms such as [OmegaT](https://omegat.org/), and (2) create useful data for other digital Tibetan tools and projects such as word alingers, spell checkers, translation machine learning, and perhaps aligning our Tibetan-English segments with segments created by other groups who are creating canonical TMs from Chinese, Sanskrit, or other sources. 
 
-Because of this, it is important that we standardize our process for creating TMs for the best possible degree of consistency. Standards for the TMs in terms of segment length and structure need to be defined in a clear way so that they will be segmented constantly by all the TM editors working on the project. Therefore, Part II of this documentation (on the wiki page) contains detailed guidelines for our recommended TM standards.  
+Because of this, it is important that we standardize our process for creating TMs for the best possible degree of consistency. Standards for the TMs in terms of segment length and structure need to be defined in a clear way so that they will be segmented constantly by all the TM editors working on the project. Therefore, [Part II of this documentation](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#1-instructions-for-aligning-tms-from-pre-segmented-text-files-using-intertext) (on the wiki page) contains detailed guidelines for our recommended TM standards.  
 
-For all of the TMs created previously, before 10/01/2019, this had not been the case because the TMs were primarily created with their use for CAT platforms in mind. Although these previous TMs are still very useful for the projects mentioned above, they are not completely ideal because they contain a significant amount of inconsistencies and additionally they omit repeting segments, which make them less useful for machine learning projects. All of these previous versions are still useful and available in [our database](https://github.com/84000/data-translation-memory), but they will all be labeled -v1 and moving forward all the new TMs created according to these new guidelines will be labeled -v2.
+All of the TMs that have been gathered at this time are available in the [data-translation-memory repository](https://github.com/84000/data-translation-memory).
 
-To create the TMs two text (.txt) files containing the Tibetan-source and English-target respectively will be generated with scripts and the [InterText](https://wanthalf.saga.cz/intertext) application will be used to align the texts and generate the .tmx files. Additionally, InterText will generate a set of .xml alignment files, which we are storing in a separate directory, the latter is not useful for translators using CAT platforms, but may be valuable data for future machine learning projects.
+For all of the TMs created previously, before 10/01/2019, this had not been the case because the TMs were primarily created with their use for CAT platforms in mind. Although these previous TMs are still very useful for the projects mentioned above, they are not completely ideal because they contain a significant amount of inconsistencies, and additionally they omit repeting segments which make them less useful for machine learning projects. Both of these versions of the TMs are included in the database linked above, but the TMs created without the standards documented here will all be labeled "-v1" and moving forward all the new TMs created according to these new guidelines will be labeled "-v2".
+
+To create the TMs, two text (.txt) files containing the Tibetan-source and English-target respectively are be generated with scripts, and the [InterText](https://wanthalf.saga.cz/intertext) application is used to align the texts and generate the .tmx files. Additionally, InterText generates a set of .xml alignment files, which we are storing in a separate directory, the latter is not useful for translators using CAT platforms, but may be valuable data for future machine learning projects.
 
 # 2. Scripts:
 
-The preprocess.py script used in this repository is set up to convert 84000's published TEI texts into a simple text file and store relevant markup in a tempory .json file. Then TM editors align the text files using InterText and the metadata is reorganized with the postprocess.py script. These scripts are specifically arranged for the tags used in 84000's TEI. For other projects seeking to replicate this methodology, we can adjust these scripts for each project depending on the markup they would like to include in their final TMs. It isn't required to include markup up .tmx files but recording things like folio references, milestones, flags, and identifiers for annotations will make those TMs more useful. At the very least, if there is no desired markup, running the simple [pybo-catscript](https://github.com/Esukhia/cat-scripts) will pre-segment the Tibetan source text according to our model.
+The preprocess.py script used in this repository is set up to convert 84000's published TEI texts into a simple text file and store relevant markup in a tempory .json file. Then TM editors align the text files using InterText and the metadata is re-entered in a suitable format with the postprocess.py script. These scripts are specifically arranged for the tags used in 84000's TEI. For other projects seeking to replicate this methodology, we can arrange to have the scripts adjusted for each project depending on the markup they would like to include in their final TMs. It isn't required to include markup up .tmx files but recording things like folio references, milestones, flags, and identifiers for annotations will make those TMs more useful. At the very least, if there is no desired markup, running the simple [pybo-catscript](https://github.com/Esukhia/cat-scripts) will pre-segment the Tibetan source text according to our model.
 
 The “preprocess.py” script will create an “pre_input” folder for placing the raw text files for both the English and Tibetan. The files generated in the “pre_output” folder will be ready for aligning in InterText. Likewise, when the alignment is completed in InterText the exported .tmx TMs and .xml aligment files should be placed into the "post_out" folders generated by the "postprocess.py" script. Again, these scripts are specifically set up for 84000 publications so any project emulating this methodology should contact @celso-scott to adjust the script according to their project's needs.
 
 ## 2.A. Pre-segmentation of eKangyur with the Pybo Script:
 
-[Some more elaboration will be added here in terms of importing the source of the raw Tibetan from the eKangyur repository.]
+The “preprocess.py” script uses [pybo](https://github.com/Esukhia/pybo), a Tibetan word tokenizer, to identify verbs and pre-segment the text from the [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo needs to be installed locally to run the script). This initial segmentation will create a foundational consistency since it follows at set of predetermined rules we have written into the script, although the Tibetan will then need to be further merged/split by the TM editors according to the [TM Guidelines in the wiki](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines). 
 
-The “preprocess.py” script uses [pybo](https://github.com/Esukhia/pybo), a Tibetan word tokenizer, to identify verbs and pre-segment the text from the [eKangyur](https://github.com/Esukhia/derge-kangyur) (note that pybo will need to be installed locally to run the script). This initial segmentation will create a foundational consistency since it follows our predetermined rules, although the Tibetan will then need to be further merged/split by the TM editors according to the [TM Guidelines in the wiki](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines). 
-
-The Tibetan includes:
+The outputed Tibetan text includes:
 
 - Word-segmentation created with spaces according to pybo’s tokenization. 
 - Sentence-segmentation created with line breaks according to the script’s identification of clauses according to conjugated verbs and a set of rules concerning the particles immediately following those verbs which govern those clauses. 
@@ -51,32 +51,35 @@ For example:
 འདས་པ་ ཡང་ མཁྱེན །_
 ད་ལྟ ར་ བྱུང་བ་ ཡང་ མཁྱེན །_
 
-The preprocess script will ideally cover 70% of the segmentation and the TM editors will refine and edit the TMs based on that. This preprocess script follows the same segmentation rules found in the [pybo-catscript](https://github.com/Esukhia/cat-scripts), which may be used by translators to presegment any Tibetan text for use on CAT platforms like OmegaT. The hope is that this will optimize TM fuzzy matching for translators since they may use the pybo-catscript as a model for their own segmentation.
+The preprocess script will ideally cover 60% of the segmentation and the TM editors will refine and edit the TMs based on that. As mentioned, the script follows the same segmentation rules found in the [pybo-catscript](https://github.com/Esukhia/cat-scripts), which is intended be used by translators to presegment any Tibetan text for use on CAT platforms like OmegaT. The hope is that this will optimize TM fuzzy matching for translators since they may use the pybo-catscript as a model for their own segmentation.
 
-[Currently my OmegaT tutorial does not yet explain how and why to use the pybo-catscript, but I will be adding it. I’ll begin updating this as soon as we finish working out the TM editor’s workflow] 
+[Currently my OmegaT tutorial does not yet explain how and why to use the pybo-catscript, but I will be adding details about this soon. In the near future, I would like to make arrangements to have this script hosted somewhere online, so that translators may run the script on a text file through a simple upload. Although the pybo-catscript is already available now, it requires that translators know how to clone the repository, install Python, install pybo, and run the script].
+
 ## 2.A. English Text Generated from 84000 TEI:
 
-[Some more elaboration to be added here in terms of pulling the English from the TEI according to Dom’s script once I see how that process works]
+The .txt files used for aligning the English translation are generated by the preprocess.py script from [84000’s published TEI](https://github.com/84000/data/tree/master/tei/translations) (Note there are currently two scripts being used to set up the English, contact @Celso-Scott for more details).
 
-Note that before the English may be processed by the “preprocess.py” script, another script needs to be set up to generate the English .txt file for alignment using [84000’s published TEI](https://github.com/84000/data/tree/master/tei/translations).
+The output contains milestones, folio references, and notes; the corresponding ids to the milestones and notes are stored in a .json file while the alignment is being performed in InterText, but will be re-inserted into the final TMs:
 
-The output will contain the milestones, folio references, and notes contained in simple angular brackets including their relevant ids separated by spaces: 
+- Milestones are represented with $ symbol:  $1, $2, $3, etc. 
+- Folio references are represented as: F.2.b, F.3.a, F.3.b etc. (Note that these are to be used for the TM editor's reference, but in the finalized TM records, they will all be removed because they are already accurately located in the Tibetan-source and there may be some disparity between where they are placed in the Tibetan source and where they were placed in the English translation.)
+- Notes with their @index preceded by a hashtag “#” symbol: #2, #3, #4, etc. The text file does not include the actual content of the note, the TM editors will instead reference the note section of the 84000 reading room, which correspond to the index used here.  
 
-- Milestones along with their @xml:id, e.g.:  {milestone UT22084-061-006-16}
-- Folio references along with their @cRef, e.g.: {ref F.143.b}. Note that these are to be used for the TM editor's reference, but in the finalized TM records, they will all be removed because they are already accurately located in the Tibetan-source and there may be some disparity between where they are placed in the Tibetan source and where they were placed in the English translation.
-- Notes with their @index preceded by a hashtag “#” symbol, as well as their @xml:id, e.g.: {note #2 UT22084-061-006-214}
-- But it will not include the actual content of the note, the TM editors will instead reference the note section of the 84000 reading room.  
-
-Single line breaks should be placed at the end of each paragraph or stanza, i.e., for every instance of a &lt;/p> or &lt;/lg> found in the TEI.
+Single line breaks are placed at the end of each paragraph or stanza, i.e., for every instance of a &lt;/p> or &lt;/lg> found in the TEI.
 
 For example:
-> &lt;milestone UT22084-061-006-16> <ref F.143.b> Homage to the Omniscient One! &lt;milestone UT22084-061-006-17>
-Thus did I hear at one time. The Blessed One was dwelling on the banks of the great Nairañjanā River, together with seven thousand bodhisattvas. Among them were the Noble Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, and all the great śrāvakas like Subhūti, Śāriputra, and Maudgalyāyana. He was circumambulated by Śakra, Brahmā, and all the protectors of the world, as well as all the kings, ministers, brahmins, and householders, and was &lt;ref F.144.a> placed in front of the assembly. After being presented with offerings of almsfood, he pleased his surrounding retinue with a teaching on Dharma, and encouraged, uplifted, and complimented them. By means of his great supernatural power, the Tathāgata and his surrounding retinue were then transported to the city of Vārāṇasī, where they stayed in the grove of the caretaker of mango trees.&lt;note #2 UT22084-061-006-214> &lt;milestone UT22084-061-006-18> At that time the earth trembled greatly,
+> The Noble Great Vehicle Sūtra
+The Question of Kṣemaṅkara
+$1 [167.b] Homage to all buddhas and bodhisattvas!
+$2 Thus did I hear at one time. The Blessed One was staying in the Nyagrodha Park of the Śākyas, near Kapilavastu in the Śākya country, together with a great saṅgha of five hundred monks. At that time a Śākya youth#2 named Kṣemaṅkara set out from the city of Kapilavastu for Nyagrodha Park, where the Blessed One was staying. As soon as he arrived there, he touched his head to the feet of the Blessed One and sat down to one side.
 
-This exported .txt should then be placed in the import folder created by the “preprocess.py” script. The ids will then be stripped and saved in the “tmp” folder while the texts are being aligned in InterText. They will then be reinserted in the final .tmx file.
+These two .txt files containing the Tibetan source and English translation may now be sent to the TM editors to create the alignments. TM editors, do not need to be trained to run the scripts but should be trained to focus simply on creating the alignments in InterText.
+
 ## 2.C. Scripts to Run on .TMX Files Exported from InterText:
 
-[Still need to see how the .TMX will be exported from InterText and configure the final form of .TMX what follows are some general principles that I am mentioning as a draft.]
+When the alignment is completed in InterText. The completed alignments from InterText using the "Export" command. This will export three .xml alignment files, additionally the alignment should be exported as a .tmx file with the "Export texts as --> TMX (stripped markup)" command. 
+
+Both the postprocess-TMX.py and postprocess-XML.py scripts should be run on all of these files in the "post_output" folder generated by the script. As mentioned the script will re-insert all of the id tags for the notes, milestones, and folio references. Additionally the script will clean up the header and create markup for any flags created by the TM editors in InterText (see details below).  
 
 ### Markup
 
