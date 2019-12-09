@@ -13,12 +13,12 @@ def remove_tags(tm):
 
 
 # Re-insert metadata from pre_output/tmp file into TMX as XML tags.
-# Also adds proper tags into the header.
+# Also adds proper tags into the root and header.
 def insert_metatags(tm, meta_data):
     lines = tm.split('\n')
     for num, s in enumerate(lines):
-        if 'tmx version=' in s:
-            lines[num] = re.sub('>', ' xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0">', s)
+        if '<tmx' in s:
+            lines[num] = re.sub('<tmx', '<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"', s)
         if '<header' in s:
             lines[num] = re.sub('XML aligned text"', 'XML aligned text" eft:text-id="INPUT_TEXT_ID"', s)
         if '$' in s:
@@ -26,7 +26,7 @@ def insert_metatags(tm, meta_data):
             for chunk in re.split(r'(\$\d+\s*)', lines[num]):
                 if '$' in chunk:
                     g_id = re.findall(r'\$\d+', lines[num])
-                    new += '<milestone xml:id="'
+                    new += '<tei:milestone xml:id="'
                     new += meta_data["milestones"][g_id[0]]
                     new += '"/>'
                 else:
@@ -37,7 +37,7 @@ def insert_metatags(tm, meta_data):
             for chunk in re.split(r'(#\d+)', lines[num]):
                 if chunk.startswith('#'):
                     g_id = re.findall(r'#\d+', lines[num])
-                    new += '<note xml:id="'
+                    new += '<tei:note xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
                 else:
@@ -66,7 +66,7 @@ def normalize_tibetan(tm):
     segments = re.split(r'([</?seg>])', tm)
     for num, s in enumerate(segments):
         if re.search('་', s):  # Find Tibetan segments according to Tsegs
-            s2 = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<ref folio="F.\1.\2"/>', s)
+            s2 = re.sub(r'\[(\d+)\.?([ab])]\s?', r'<tei:ref folio="F.\1.\2"/>', s)
             s3 = re.sub(r'\s(?![a-z])', '', s2)
             segments[num] = re.sub('_', ' ', s3)
     segments = ''.join(segments)
