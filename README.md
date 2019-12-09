@@ -124,7 +124,7 @@ Here is an example translation unit with all these attributes (a flag has been a
 <prop name="folio">F.143.b</prop>
 <eft:flag type="alternateSource">Sanskrit source [citation]</flag>
 <tuv xml:lang="en">
-<seg><milestone xml:id="UT22084-061-006-214"/> <ref folio="143.b"/> Homage to the Omniscient One!</seg>
+<seg><tei:milestone xml:id="UT22084-061-006-214"/><tei:ref folio="143.b"/>Homage to the Omniscient One!</seg>
 </tuv>
 <tuv xml:lang="bo">
 <seg><ref folio="143.b"/>! ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
@@ -209,7 +209,7 @@ Some differing features found in version -2.0’s markup:
 Here is a sample of the markup from version -2.0. Note that I have added wordwrap in this example, which should not be included within the segment text strings. I also added some arbitrary &lt;flag/>s to show how this would work when there was a problematic segment:
 
 ```
-<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" version="1.4b">
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
     <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo"
     o-tmf="XML aligned text" eft:text-id="UT22084-061-006"/>
     <body>
@@ -219,15 +219,13 @@ Here is a sample of the markup from version -2.0. Note that I have added wordwra
                 <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>
-                    <milestone xml:id="UT22084-061-006-16"/>
-                    Homage to the Omniscient One!</seg>
+                <seg><tei:milestone xml:id="UT22084-061-006-16"/>Homage to the Omniscient One!</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.143.b</prop>
             <tuv xml:lang="en">
-                <seg><milestone xml:id="UT22084-061-006-215"/> Thus did I hear at one time.</seg>
+                <seg><tei:milestone xml:id="UT22084-061-006-215"/> Thus did I hear at one time.</seg>
             </tuv>
             <tuv xml:lang="bo">
                 <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
@@ -235,12 +233,12 @@ Here is a sample of the markup from version -2.0. Note that I have added wordwra
         </tu>
         <tu>
             <prop name="folio">F.143.b</prop>
-            <flag type="alternateSource">Segment was translated from the Sanskrit, see note.</flag>
+            <eft:flag type="alternateSource">Segment was translated from the Sanskrit, see note.</flag>
             <tuv xml:lang="en">
                 <seg>The Blessed One was dwelling on the banks of the great Nairañjanā River,
                     together with seven thousand bodhisattvas. Among them were the Noble
                     Avalokiteśvara, Vajrapāṇi, Maitreya, and Mañjuśrī, and all the great śrāvakas
-                    like Subhūti, Śāriputra, and Maudgalyāyana.<note xml:id="UT22084-061-006-216"
+                    like Subhūti, Śāriputra, and Maudgalyāyana.<tei:note xml:id="UT22084-061-006-216"
                     /></seg>
             </tuv>
             <tuv xml:lang="bo">
@@ -252,7 +250,7 @@ Here is a sample of the markup from version -2.0. Note that I have added wordwra
         </tu>
         <tu>
             <prop name="folio">F.143.b</prop>
-            <flag type="dubiousTranslation"/>
+            <eft:flag type="dubiousTranslation"/>
             <!--Segment and English translation need to be reviewed.-->
             <tuv xml:lang="en">
                 <seg>He was circumambulated by Śakra, Brahmā, and all the protectors of the world,
@@ -261,8 +259,7 @@ Here is a sample of the markup from version -2.0. Note that I have added wordwra
             </tuv>
             <tuv xml:lang="bo">
                 <seg>བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་དང་། རྒྱལ་པོ་དང་ །
-                    བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་ཀྱིས་བསྐོར་ཅིང་། མདུན་ <ref
-                        folio="144a"/> དུ་བདར་ཏེ</seg>
+                    བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་ཀྱིས་བསྐོར་ཅིང་། མདུན་<tei: ref folio="144a"/>དུ་བདར་ཏེ</seg>
             </tuv>
         </tu>
     </body>
