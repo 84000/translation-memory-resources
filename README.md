@@ -9,7 +9,7 @@
 
 **II. Instructions for TM Editors**
 1. [Instructions for Aligning TMs from Pre-Segmented Text Files Using InterText](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines#1-instructions-for-aligning-tms-from-pre-segmented-text-files-using-intertext)
-2. [TM Standards](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines)
+2. [TM Standards](https://github.com/84000/translation-memory-resources/wiki/TM-Editor-Guidelines) (from Table of Contents)
 # **I. Documentation**
 
 The scripts and documentation here were initially created for 84000’s own workflow, however, all the resources used here are open and available for other organizations or publishers wishing to replicate this methodology for making their own TM resources.
