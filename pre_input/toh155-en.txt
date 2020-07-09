@@ -1,0 +1,12 @@
+{{version:v 2.15.4 2020}}
+The Noble Māhayāna Sūtra
+The Questions of the Nāga King Sāgara
+{{milestone:UT22084-058-002-13}} {{page:{number:1,folio:F.205.a}}} Prostrations to all buddhas and bodhisattvas.
+{{milestone:UT22084-058-002-14}} Thus did I hear at one time. The Bhagavān {{page:{number:2,folio:F.205.b}}} was dwelling at the place of the nāga king Sāgara together with a great assembly of 1,250 bhikṣus as well as a multitude of bodhisattvas and mahāsattvas. At that time the Bhagavān said to the nāga king Sāgara:
+{{milestone:UT22084-058-002-15}} “Lord of the nāgas, if one utters these four aphorisms of the Dharma, in uttering them one is expressing all 84,000 articles of the Dharma. What are the four? They are as follows.
+{{milestone:UT22084-058-002-16}} “To fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all compounded phenomena are impermanent; to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all contaminated phenomena are suffering; to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that all phenomena are without self; and to fully engage in understanding the inexhaustible doctrine of the bodhisattva mahāsattvas that nirvāṇa is peace. {{note:{index:13,id:UT22084-058-002-65}}}
+{{milestone:UT22084-058-002-17}} “Lord of the nāgas, if one utters these four aphorisms of the Dharma, in uttering them one is expressing all 84,000 articles of the Dharma.”
+{{milestone:UT22084-058-002-18}} When the Bhagavān had spoken in this way, the bhikṣus and bodhisattvas rejoiced and greatly praised the teachings of the Bhagavān.
+{{milestone:UT22084-058-002-19}} This completes the Noble Mahāyāna Sūtra, “ The Questions of the Nāga King Sāgara .”
+Colophon
+{{milestone:UT22084-058-002-66}} Translated and finalized by the Indian abbot Surendrabodhi and the senior editor-translator, the monk Yeshé Dé.

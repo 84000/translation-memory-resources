@@ -1,0 +1,8 @@
+{{version:v 1.12.3 2020}}
+
+The Sūtra on the Threefold Training
+{{milestone:UT22084-068-016-10}} {{page:{number:1,folio:F.55.b}}} Homage to all buddhas and bodhisattvas.
+{{milestone:UT22084-068-016-32}} Thus have I heard at one time. As the Bhagavān was wandering in the land of Vṛji, he arrived at the village of Kuṭigrāmaka and settled to the north of that village in a grove of sāl trees, {{note:{index:4,id:UT22084-068-016-11}}} {{page:{number:2,folio:F.56.a}}} with a great saṅgha of bhikṣus. Thereupon the Bhagavān taught the following to the bhikṣus:
+{{milestone:UT22084-068-016-12}} “This, bhikṣus, is discipline. {{note:{index:5,id:UT22084-068-016-13}}} This is meditative concentration. This is wisdom. Bhikṣus, training in discipline will lead one to abide for a long time in meditative concentration. Training in meditative concentration will lead one to gain wisdom. By training in wisdom, one’s mind will be completely liberated from desire, anger, and ignorance. In this way, having a completely liberated mind, a noble śrāvaka will perfectly know: ‘My defilements {{note:{index:6,id:UT22084-068-016-14}}} have ceased. I have lived the sublime life. What was to be done has been done. From here onward, I will not know any further existence.’ ”
+{{milestone:UT22084-068-016-15}} After the Bhagavān had thus spoken, the bhikṣus rejoiced and praised the Bhagavān’s words.
+{{milestone:UT22084-068-016-33}} This completes “ The Sūtra on the Threefold Training .”

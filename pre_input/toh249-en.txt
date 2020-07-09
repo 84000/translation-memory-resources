@@ -1,0 +1,16 @@
+{{version:v 1.5.2 2019}}
+The Noble Mahāyāna Sūtra Entitled
+Teaching the Four Factors
+{{milestone:UT22084-066-007-16}} {{page:{number:1,folio:F.59.a}}} Homage to all the buddhas and bodhisattvas!
+{{milestone:UT22084-066-007-55}} Thus did I hear at one time. The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks, {{note:{index:8,id:UT22084-066-007-17}}} and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī.
+{{milestone:UT22084-066-007-18}} At that time the Blessed One said to the bodhisattva mahāsattva Maitreya, {{page:{number:2,folio:F.59.b}}} “O Maitreya, bodhisattva mahāsattva, if you possess four factors, the misdeeds you have committed and accumulated will be overcome.
+{{milestone:UT22084-066-007-19}} “What are these four? The action of repentance, antidotal action, the power of restraint, and the power of support.
+{{milestone:UT22084-066-007-56}} “The action of repentance is to feel intense remorse for any non-virtuous action you have committed.
+{{milestone:UT22084-066-007-57}} “Antidotal action is to put great effort into virtuous actions once you have committed a non-virtuous action.
+{{milestone:UT22084-066-007-58}} “The power of restraint is to make a pledge and thereby refrain from any similar action. {{note:{index:9,id:UT22084-066-007-20}}}
+{{milestone:UT22084-066-007-59}} “The power of support is to take refuge in the Buddha, Dharma, and Saṅgha, and not to forsake the mind of awakening. By relying on such powerful forces, you will be immune to misdeeds.
+{{milestone:UT22084-066-007-21}} “O Maitreya, bodhisattva mahāsattva, if you possess these four factors, you will overcome any misdeeds that you have committed and accumulated. The bodhisattva mahāsattva should continually read this sūtra, recite it aloud, and reflect and meditate on it, doing so many times. Through this, the effects of negative conduct will not come about.”
+{{milestone:UT22084-066-007-22}} Once the Blessed One had said this, the whole assembly, including the bodhisattva mahāsattva Maitreya, the monks, the bodhisattvas, and the ranks of the gods, such as Śakra, were overjoyed and full of praise for what the Blessed One had taught.
+{{milestone:UT22084-066-007-23}} This concludes the noble Mahāyāna sūtra entitled “ Teaching the Four Factors .”
+Colophon
+{{milestone:UT22084-066-007-24}} Translated, edited, and corrected by the Indian preceptor Surendrabodhi and the principal editor and translator venerable Yeshé Dé.

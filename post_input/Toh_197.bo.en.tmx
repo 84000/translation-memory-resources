@@ -1,0 +1,421 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ བདུད་རྩི་ བརྗོད་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra |#| The Nectar of Speech |#| [271.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 Homage to all buddhas and bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ རྒྱལ་པོ འི་ ཁབ་ ན་ འོད་མ འི་ ཚལ་ བྱ་ ཀ་ ལན་ ད་ ཀ་ གནས་པ་ ན་ དགེ་སློང་ ལྔ་ བརྒྱ་ ཐམ་པ འི་ དགེ་སློང་ གི་ དགེ་འདུན་ ཆེན་པོ་ དང་ ཐབས་ཅིག་ ཏུ་ བཞུགས་ ཏེ །_ |#| བྱང་ཆུབ་ སེམས་དཔའ་ བདུན་ ཁྲི་ ཉིས་ སྟོང་ གི་ བྱང་ཆུབ་ སེམས་དཔ འི་ དགེ་འདུན་ ཆེན་པོ་ དང་ ཡང་ ཐབས་ཅིག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Bhagavān was residing in Rājagṛha, at the Kalandaka­nivāsa in Veṇuvana, with a great saṅgha of five hundred bhikṣus and a great saṅgha of seventy-two thousand bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཚེ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ ཞེས་ བྱ་བ་ འཁོར་ དེ་ཉིད་ དུ་ འདུས་པ ར་ གྱུར་ ཏེ་ འདུག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>At that time the bodhisattva mahāsattva Maitreya was also seated in the assembly.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ སྟན་ ལས་ ལངས་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 The bodhisattva mahāsattva Maitreya rose from his seat,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>draped his upper robe over one shoulder,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>པུས་མོ་ གཡས་པ འི་ ལྷ་ང་ ས་ ལ་ བཙུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>knelt on his right knee, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས །_ |#| བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>with palms joined bowed to the Bhagavān and said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གལ་ཏེ་ ཞུས་ ནས་ ཞུ་བ་ ལུང་བསྟན་པ འི་ སླད་ དུ་ བདག་ ལ་ སྐབས་ དབྱེ་བ ར་ གནང་ ན །_ |#| བཅོམ་ལྡན་འདས་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ ལ་ བདག་ ཕྱོགས་ འགའ་ཞིག་ ཞུ་བ ར་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“With permission, I would like to ask the blessed, thus-gone, worthy, perfect Buddha some questions.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 The Bhagavān replied,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ དེ་བཞིན་ གཤེགས་པ ས་ ཁྱོད་ ལ་ རྟག་ ཏུ་ སྐབས་ ཕྱེས །_ |#| བྱམས་པ་ ཁྱོད་ ཅི་ དང་ ཅི་ འདོད་པ་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་ རྒྱས་ ལ་ དྲིས་ ཤིག་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Maitreya, the Tathāgata will always grant you permission. |#| Maitreya, ask the thus-gone, worthy, perfect Buddha whatever you wish, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དྲིས་པ་ དེ་ དང་ དེ འི་ ལུང་བསྟན་ པས་ ངས་ ཁྱོད་ ཀྱི་ སེམས་ རངས་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I shall ease your mind by answering each of your questions.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ ས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 The bodhisattva mahāsattva Maitreya then asked the Bhagavān,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ བྱང་ཆུབ་ སེམས་ [272a]  དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ རྣམས་ ཆོས་ དུ་ དག་ དང་ ལྡན་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, [272.a] what are the qualities that bodhisattva mahāsattvas need to have</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདུད་ ཀྱི་ རིས་ ཐམས་ཅད་ ཀྱིས་ བགེགས་ བགྱིད་པ ར་ མི་འགྱུར་བ་ དང་ །_ བདུད་ ཀྱི་ འཁོར་ ཐམས་ཅད་ ཀྱིས་ འདའ་བ ར་ བགྱིད་པ ར་ མ་ ལགས་པ་ དང་ །_ སེམས་ཅན་ རྣམས་ ལ་ སྙིང་བརྩེ་བ འི་ སླད་ དུ་ ཚེ་རིང་ དུ་ སྐྱོང་བ ར་ བགྱིད་པ་ དང་ །_ མྱུར་ དུ་ བླ་ ན་ |#| མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ ར་ འགྱུར་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>so that none of Māra’s hordes will cause them obstacles, so that none of Māra’s retinue will transgress against them, so that out of love for sentient beings they will live for a long time, and so that they will soon fully awaken to unexcelled and perfect awakening?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ ལ་ ལེགས་ སོ་ ཞེས་ བྱ་བ་ བྱིན་ ཏེ |#| བྱམས་པ་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 The Bhagavān replied to the bodhisattva mahāsattva Maitreya, |#| “Maitreya, excellent, excellent!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ ཁྱོད་ སྐྱེ་བོ་ མང་པོ་ ལ་ ཕན་པ འི་ ཕྱིར་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Maitreya, [your intention in asking the thus-gone, worthy, perfect Buddha about this matter is excellent, since ]you act for the benefit of many beings, [aim for the happiness of many beings, have compassion for the world, and seek the welfare, benefit, and well-being of gods and humans.]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་བོ་ མང་པོ་ ལ་ བདེ་བ་ དང་ །_ འཇིག་རྟེན་ ལ་ སྙིང་བརྩེ་བ་ དང་ །_ ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ འི་ དོན་ དང་ །_ ཕན་པ་ དང་ བདེ་བ འི་ ཕྱིར་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ ལ་དོན་ འདི་ འདྲི་བ ར་ སེམས་པ་ ནི་ ཁྱོད་ ཡང་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>[Maitreya, ]your intention in asking the thus-gone, worthy, perfect Buddha about this matter is excellent, since you [act for the benefit of many beings, ]aim for the happiness of many beings, have compassion for the world, and seek the welfare, benefit, and well-being of gods and humans.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཕྱིར་ བྱམས་པ་ ཁྱོད་ ལེགས་པ ར་ རབ་ཏུ་ ཉོན་ ལ་ ཡིད་ ལ་ ཟུང་ ཤིག་</seg></tuv>
+	<tuv xml:lang="en"><seg>Hence, Maitreya, listen very well and keep it in mind!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ངས་ བཤད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I will explain it.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ ས་ དེ་ལྟ ར་ འཚལ་ ལོ་ ཞེས་ གསོལ་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattva mahāsattva Maitreya replied, “I will do so,” and he</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་ འདས་ ཀྱི་ ལྟར་ ཉན་པ་ དང་ །_ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>listened accordingly as the Bhagavān taught as follows.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ རྣམས་ ཆོས་ ལྔ་ དང་ ལྡན་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 “Maitreya, there are five qualities that bodhisattva mahāsattvas should have</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདུད་ ཀྱི་ རིས་ ཐམས་ཅད་ ཀྱིས་ བགེགས་ བྱ་བ ར་ མི་འགྱུར་བ་ དང་ །_ བདུད་ ཀྱི་ འཁོར་ ཐམས་ཅད་ ཀྱིས་ འདའ་བ ར་ བྱ་བ་ མ་ཡིན་པ་ དང་ །_ སེམས་ཅན་ རྣམས་ ལ་ སྙིང་བརྩེ་བ འི་ ཕྱིར་ ཚེ་རིང་ དུ་ སྐྱོང་བ ར་ བྱེད་པ་ དང་ །_ མྱུར་ དུ་ བླ་ ན་ |#| མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>so that none of Māra’s hordes will cause them obstacles, so that none of Māra’s retinue will transgress against them, so that out of love for sentient beings they will live for a long time, and so that they will soon fully awaken to unexcelled and perfect awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྔ་པོ་ དག་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>What are those five qualities?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྒྱུན་ མི་འཆད་པ ར་ ཆོས་སྦྱིན་པ་ དང་ །_ རྒྱུན་ མི་འཆད་པ ར་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ མི་ འཇིགས་པ་ སྦྱིན་པ་ དང་ །_ རྒྱུན་ མི་འཆད་པ ར་ བྱམས་པ་ ཆེན་པོ་ དང་ །_ སྙིང་རྗེ་ ཆེན་པོ་ དང་ །_ དགའ་བ་ ཆེན་པོ་ དང་ །_ བཏང་སྙོམས་ ཆེན་པོ་ བསྒོམ་པ་ དང་ །_ རྒྱུན་ མི་འཆད་པ ར་ མཆོད་རྟེན་ རྙི ས་པ་ གསོས་པ་ དང་ །_ རྒྱུན་ མི་ [272b]  འཆད་པ ར་ སེམས་ཅན་ ཐམས་ཅད་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ལ་མོ ས་ པར་ བྱ་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are the unceasing giving of the Dharma; |#| the unceasing giving of freedom from fear; |#| the unceasing practice of great love, great compassion, great joy, and great equanimity; |#| the unceasing repair of dilapidated stūpas; |#| [272.b] and the unceasing inspiring of all beings to set their minds on awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ རྣམས་ ཆོས་ ལྔ་པོ་ དེ་དག་ དང་ ལྡན་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>#4 Maitreya, if bodhisattva mahāsattvas have those five qualities,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདུད་ ཀྱི་ རིས་ ཐམས་ཅད་ ཀྱིས་ བགེགས་ བྱ་བ ར་ མི་འགྱུར་བ་ དང་ །_ བདུད་ ཀྱི་ འཁོར་ ཐམས་ཅད་ ཀྱིས་ འདའ་བ ར་ བྱ་བ་ མ་ཡིན་པ་ དང་ །_ སེམས་ཅན་ རྣམས་ ལ་ སྙིང་བརྩེ་བ འི་ ཕྱིར་ ཚེ་རིང་ དུ་ སྐྱོང་བ ར་ བྱེད་པ་ དང་ །_ མྱུར་ དུ་ བླ་ ན་ |#| མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>none of Māra’s hordes will cause them obstacles, none of Māra’s retinue will transgress against them, out of love for sentient beings they will live for a long time, and they they will soon fully awaken to unexcelled and perfect awakening.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ ཆོས་ ལྔ་ བསྟན་པ་ འདི་ བཤད་ པ་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 When the Bhagavān had taught this discourse on the five qualities,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ ལྔ་ སྟོང་ ནི་ ལེན་པ་ མེད་པར་ ཟག་པ་ རྣམས་ ལས་ སེམས་ རྣམ་པར་ གྲོལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>the minds of five thousand bhikṣus became free of all defilements with no further appropriation;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ བདུན་ ཁྲི་ ཉིས་ སྟོང་ ནི་ མི་ སྐྱེ་བ འི་ ཆོས་ ལ་ བཟོད་པ་ ཐོབ་པ ར་ གྱུར་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>seventy-two thousand bodhisattvas attained the acceptance that phenomena do not arise;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྷ འི་ བུ་ བརྒྱད་ ཁྲི་ བཞི་ སྟོང་ ནི་ ཆོས་ རྣམས་ ལ་ ཆོས་ ཀྱི་ མིག་ རྡུལ་མེད་ ཅིང་ དྲི་མ་ དང་ བྲལ་བ་ ཉོན་ མོངས་པ་ མེད་པ་ རྣམ་པར་ དག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>and the Dharma eye of eighty-four thousand gods regarding phenomena became purified, free from dust and stains, and without defilements.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ ས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 The bodhisattva mahāsattva Maitreya then said to the Bhagavān,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ བདག་ སྤོབས་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, I feel inspired to speak.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེ་བ ར་ གཤེགས་པ་ བདག་ སྤོབས་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Blissful One, I feel inspired to speak.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 The Bhagavān said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ ད་ དེ འི་ དུས་ ལ་ བབ་པ ར་ ཤེས་ ན འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Noble son, speak if you know the time has come.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ །_ བཅོམ་ལྡན་འདས་ ཀྱིས་ གནང་ བས །_ དེ འི་ ཚེ་ སྟན་ ལས་ ལངས་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 Having thus received the Bhagavān’s permission, the bodhisattva mahāsattva Maitreya rose from his seat,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>draped his upper robe over one shoulder,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>པུས་མོ་ གཡས་པ འི་ ལྷ་ང་ ས་ ལ་ བཙུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>knelt on his right knee, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས་ བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>with palms joined bowed to the Bhagavān and said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ འདོད་ཆགས་ དང་ །_ ཞེ་སྡང་ དང་ །_ གཏི་མུག་ ཐམས་ཅད་ ཀྱི་ བྲོ་ནད་ ཅན །_ ལྟ་བ་ ཐམས་ཅད་ ཀྱི་ རབ་རིབ་ དང་ ལིང་ཏོག་ གི་ མུན་པ ས་ བསྒྲིབས་པ་ ཐམས་ཅད་ ཀྱི་ ཉོན་མོངས་པ་ ཐམས་ཅད་ ཀྱི་ བྲོ་ནད་ གསོ་བ་ དང་ །_ ཆོས་ ཀྱི་ མིག་ བླ་ ན་ |#| མེད་པ་ ཡོངས་སུ་ སྦྱང་བ འི་ སླད་ དུ་ བཅོམ་ལྡན་འདས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ བསྟན་པ་ འདི་ ནི་ ཨ་ལ་ ལ་ རྨད་ དུ་ བྱུང་བ་ ཆེན་པོ་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, how marvelous that this Dharma discourse has been taught by the Bhagavān in order that all beings—sick because of desire, anger, and ignorance, and obscured by the darkness of the cataracts and visual aberrations of all views—may have their illnesses of the afflictions cured, and have their unexcelled Dharma eye purified!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ བསྟན་པ་ འདི་ ནི་ ཨ་ [273a]  ལ་ལ་ བདུད་རྩི་ ཆེན་པོ་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Bhagavān, this Dharma discourse you have taught is a great nectar!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ བསྟན་པ་ འདི་ ནི་ ཨ་ལ་ ལ་སྨན་པ འི་ རྒྱལ་པོ་ ཆེན་པོ་ ལྟ་བུ་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>[273.a] Bhagavān, this Dharma discourse you have taught is a great panacea!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐ་ན་ དུད་འགྲོ འི་ སྐྱེ་གནས་ སུ་ སྐྱེས་པ་ ཡང་ རུང་ སྟེ</seg></tuv>
+	<tuv xml:lang="en"><seg>Even for beings born as animals,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ གི་ རྣ་ལམ་ དུ་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ གྲག་པ ར་ གྱུར་པ་ དེ་དག་ ནི་ དགེ་བ འི་ རྩ་བ་ ཆེན་པོ འི་ ཚོགས་ བསགས་པ་ དག་ སྟེ །_ |#| སེམས་ཅན་ ཐམས་ཅད་ ལས་ ཁྱད་པར་ དུ་ འཕགས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>those who happen to hear this Dharma discourse will have gathered thereby an accumulation of great roots of virtue and will be superior to all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཐམས་ཅད་ ལ་ ལྟ་བ་ དང་ ལྡན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will behold all buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་བོ་ མང་པོ་ ལ་ ལྷག་པ ར་ བགྱི་བ་ བགྱིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will be of great service to many beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་བ འི་ རྩ་བ་ སྐྲུན་པ་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will bring about roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ལས་ ཀྱི་ སྒྲིབ་པ་ དེ་ ཡོངས་སུ་ དག་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>They will purify their karmic obscurations, [be freed from the animal realm, and attain human bodies. Then, remembering their previous lifetimes and]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུད་འགྲོ འི་ ཡུལ་ དེ་ལས་ ཡོངས་སུ་ ཐར་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>They will [purify their karmic obscurations, ]be freed from the animal realm, and [attain human bodies. Then, remembering their previous lifetimes and]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི འི་ ལུས་ ཐོབ་པ ར་ འགྱུར་ ཞིང་ །_ ཐོབ་ ནས་ |#| ཀྱང་ ཚེ་རབས་ སྔ་མ་ དྲན་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>They will [purify their karmic obscurations, be freed from the animal realm, and ]attain human bodies. Then, remembering their previous lifetimes and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ འི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>gaining faith in the teachings of the Tathāgata,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཀྱི་ ཞིང་ གང་དང་གང་ དུ་ སྐྱེ་བ ར་ འཚལ་བ་ དེ་ དང་ དེར་ སྐྱེ་བ ར་ འགྱུར་ ན །_ |#| མིར་ གྱུར་ ནས་ ཐོས་པ་ རྣམས་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ འཚལ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>they will be reborn in any buddha realm they wish. |#| So if that is the case even for them, what need is there to mention those who hear this teaching as human beings?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཐོས་པ་ དེ་ ནི་ དེ་ལྟ ར་ སེམས་ཅན་ རྣམས་ ཀྱི་ དོན་ ཆེན་པོ་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 “Bhagavān, hearing this Dharma discourse is of great benefit to beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ གང་དག་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཐོས་པ འི་ སེམས་ཅན་ དེ་དག་ ནི་ བླ་ ན་ |#| མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ ལ་ ངེས་པ འི་ ཚོགས་ ལ་ གནས་པ ར་ འགྱུར་བ་ ལགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Bhagavān, beings who hear this Dharma discourse belong to the assembly of those who are certain to awaken fully to unexcelled and perfect awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ བཅོམ་ལྡན་འདས་ དེ་དག་ ནི་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ ཡོངས་སུ་ བཟུང་བ ས་ མྱུར་ དུ་ བླ་ ན་ |#| མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ ར་ འགྱུར་ ལགས་སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Respected Bhagavān, because they will be embraced by the thus-gone, worthy, perfect buddhas, they will soon fully awaken to unexcelled and perfect awakening.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>said the Bhagavān.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 “Excellent, Maitreya, excellent!”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ ཁྱོད་ ཀྱིས་ ཇི་སྐད་ སྨྲས་པ་ དེ་ ནི་ དེ་བཞིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Maitreya, it is just as you have said.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ བདེན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is the truth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཁོ་ན འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is that alone.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ མ་ ནོར་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is unmistaken.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཐེ་ཙོམ་ དང་ བཅས་པ ས་ ཐོས་པ འི་ སེམས་ཅན་ དེ་དག་ ཀྱང་ དགེ་བ འི་ རྩ་བ་ ཆུང་ངུ་ དང་ ལྡན་པ་ མ་ ཡིན་ ན །_ |#| གང་དག་ ཐེ་ཙོམ་ མེད་པར་ ཉན་པ་ དང་ །_ འཛིན་པ་ དང་ །_ འཆང་བ་ དང་ །_ ཀློག་པ་ དང་ །_ ཀུན་ ཆུབ་པ ར་ བྱེད་པ་ དང་ །_ རྒྱ་ [273b]  ཆེ ར་ ཡང་དག་ པར་ སྟོན་པ་ ལྟ་ སྨོས་ ཀྱང་ ཅི་ དགོས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Even those who listen to this Dharma discourse doubtingly will have no small roots of virtue, so what need is there to mention those who listen to, retain, hold, read, master, and [273.b] teach it extensively and properly without any doubts?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མདོ་སྡེ་ འཛིན་པ་ དེ་ལྟ་ བུ་ དེ་དག་ ལ་ བདུད་ ཀྱི་ ལས་ འབྱུང་བ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Such holders of the sūtra will not encounter the works of Māra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ལ་ འདོད་ཆགས་ དང་ །_ ཞེ་སྡང་ དང་ །_ གཏི་མུག་ དང་ །_ ང་རྒྱལ་ དང་ །_ སེར་སྣ་ དང་ །_ ཁྲོ་བ་ དང་ །_ གནོད་སེམས་ ཀྱིས་ གནོད་པ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will not be harmed by desire, anger, ignorance, pride, avarice, rage, or malevolence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ལུས་ ལ་ རིམས་ནད་ དང་ །_ ནད་ འབྱུང་བ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Their bodies will not be stricken by plague or disease.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡུལ་ གང་ ན་ མདོ་སྡེ་ འདི་ ལྟ་བུ་ འདི་ འཛིན་པ་ དང་ །_ ཆོས་ སྨྲ་བ་ གནས་པ འམ །_ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ གླེགས་བམ་ དུ་ བྲིས་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>In whatever region such a sūtra as this is kept, wherever such a Dharma teacher dwells, or wherever this Dharma discourse is written down as a scripture—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོད་པ འི་ ཡུལ་ དེར་ ནད་ དང་ །_ ཡམས་ ཀྱི་ ནད་ དང་ །_ གནོད་པ་ དང་ །_ འགོ་བ འི་ ནད་ དང་ །_ འཁྲུག་པ་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>in such places all diseases, epidemics, harm, contagions, and conflicts will be quelled.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ ས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 Then the bodhisattva mahāsattva Maitreya said to the Bhagavān,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ སླད་མ འི་ ཚེ་ སླད་མ འི་ དུས་ ལྔ་ བརྒྱ་པ་ ཐ་མ་ ལ་ དམ་པ འི་ ཆོས་ འཇིག་པ ར་ འགྱུར་བ འི་ དུས་ ལ་ བབ་ ཅིང་ །_ སངས་རྒྱས་ ཀྱི་ བྱང་ཆུབ་ འཇིག་པ ར་ འགྱུར་བ་ འཇིགས་པ་ ཆེན་པོ ས་ འཇིག་པ འི་ དུས་ ལ་ བབ་པ་ ན་ བདག་ གིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ སྐྱེས་བུ་ དམ་པ་ དེ་དག་ ལ་ རབ་ཏུ་ བསྟན་པ ར་ བགྱི འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, later, in the future, during the final five hundred years when the time of destruction has come, the true Dharma is disappearing, and there is a great danger that the Buddha’s awakening will vanish, I shall teach this Dharma discourse to those noble beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ལ་ གཟི་བྱིན་ སྩལ་བ ར་ བགྱི འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I shall invigorate them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡུལ་ གང་ ན་ མདོ་སྡེ་ འདི་ འཛིན་ པ་ དེ་ལྟ་ བུ་ དག་ གནས་པ འི་ ཡུལ་ དེར་ བདག་ གིས་ དུས་ མ་ ལགས་པ འི་ བསེར་མ་ དང་ །_ དགུང་ཆར་ དང་ །_ མུ་གེ་ དང་ །_ བྲོ་ནད་ ཡ་ང་བ་ དང་ །_ མི་ངས་ དང་ །_ ཡམས་ ཀྱི་ ནད་ དང་ །_ འགོ་བ འི་ ནད་ དང་ །_ གནོད་པ་ དང་ །_ འཁྲུག་པ་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བགྱི འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In places where a holder of this sūtra resides, I shall quell all untimely cold winds, winter rains, famine, diseases, plagues, epidemics, infectious disease, harm, and conflict.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡུལ་ གང་ ན་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ འཆང་བ་ དང་ །_ གླེགས་བམ་ དུ་ བགྱིས་པ འམ །_ རྒྱལ་མཚན་ གྱི་ རྩེ་མོ ར་ བཏགས་པ་ ལ་ མཆོད་པ་ བགྱིད་པ འི་ ཡུལ་ དེར་ བདག་ གི་ བྱིན་ གྱི་ རླབས་ ཀྱིས་ ཕ་རོལ་ གྱི་ དམག་ཚོགས་ ཐམས་ཅད་ དང་ །_ ཆོམ་རྐུན་ དང་ །_ སྲིན་པོ་ དང་ །_ མཁའ་འགྲོ་ མ འི་ ཡ་ང་བ་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In a place where this Dharma discourse is kept and written down as a scripture or tied at the top of a banner and worshiped—in such a place, all the terrors of hostile armies, thieves, rākṣasas, and ḍākinīs will be quelled through my blessing.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ ན་ ཆོས་ སྨྲ་བ་ འདི་ ལྟ་བུ་ དག་ དང་ །_ མདོ་སྡེ་ འདི་ འཆང་བ འི་ ཡུལ་ དེར་ བདག་ གིས་ ལོ་ཏོག་ དང་ །_ ནོར་ དང་ །_ འབྲུ་དང་ །_ མེ་ཏོག་ དང་ །_ ལོ་མ་ དང་ །_ འབྲས་བུ་ ཐམས་ཅད་ ཕུན་སུམ་ ཚོགས་པ་ དང་ །_ བདེ་བ་ ཐམས་ཅད་ འབྱུང་ [274a]  བར་ བྱིན་ གྱིས་ བརླབ་པ ར་ བགྱི འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I shall bless those places where such Dharma teachers reside and where this sūtra is kept, so that all harvests, riches, grains, flowers, leaves, and fruits may be abundant, and all kinds of joy may arise.” [274.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>said the Bhagavān.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!བྱམས་པ་ ཁྱོད་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ དོན་ གྱི་ ཕྱིར་ དང་ །_ དེ་བཞིན་ གཤེགས་པ འི་ དམ་པ འི་ ཆོས་ ཡོངས་སུ་ གཟུང་བ འི་ ཕྱིར་ དང་ །_ དེ་བཞིན་ གཤེགས་པ འི་ ཆོས་ ཀྱི་ ཚུལ་ ཡོངས་སུ་ བསྐྱེད་པ འི་ ཕྱིར་ གོ་ཆ་ ཆེན་པོ་ བགོས་ ཏེ་ |#| སེང་གེ འི་ སྒྲ་ བསྒྲགས་པ་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 “Excellent, Maitreya!” |#| “It is excellent indeed that you have donned the great armor and proclaimed the lion’s roar for the benefit of all beings in order to uphold the true Dharma of the Tathāgata and to sustain#5 the Dharma way of the Tathāgata.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཁྱོད་ ལ་ ཡོངས་སུ་ གཏད་ ཀྱིས་ ཕྱི་མ འི་ ཚེ །_ ཕྱི་མ འི་ དུས་ ལྔ་ བརྒྱ་པ་ ཐ་མ་ ལ་ དམ་པ འི་ ཆོས་ ནུབ་པ འི་ དུས་ ལ་ བབ་ ཅིང་ སངས་རྒྱས་ ཀྱི་ བྱང་ཆུབ་ འཇིག་ པ ར་ འགྱུར་ ལ །_ འཇིགས་པ་ ཆེན་པོ ས་ འཇིག་པ འི་ དུས་ ལ་ བབ་པ འི་ ཚེ་ ཁྱོད་ ཀྱིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ བསྟན་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I entrust this Dharma discourse to you. |#| Thereby, later, in the future, during the final five hundred years when the time of destruction has come, the true Dharma is disappearing, and there is a great danger that the Buddha’s awakening will vanish, you should teach this Dharma discourse to all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རབ་ཏུ་ བསྒྲགས་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should proclaim it.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེས་བུ་ དམ་པ་ དེ་དག་ གི་ མོས་པ་ བསྐྱེད་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should inspire those noble beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དོན་དམ་པ འི་ ཆོས་ཉིད་ ཚད་མ ར་ བྱས་ ལ་ མངོན་པར་ བརྩོན་པ ས་ ལས་ གཞན་ མི་ བྱ་བ ར་ རབ་ཏུ་ བསྒྲགས་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should proclaim that they must do nothing else but persevere in taking ultimate reality as their authority.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དོན་དམ་པ འི་ ཆོས་ཉིད་ ཁོ་ན་ ལས་ བརྩམས་ ཏེ་ དབང་ དུ་ བྱས་ ལ་ བསྟན་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should teach them only according to ultimate reality.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ ནས་ ཀྱང་ སྐྱེས་བུ་ དམ་པ་ དེ་དག་ གིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཇི་ལྟ་བ་ བཞིན་ དུ་ ཕྱིན་ ཅི་ མ་ ལོག་པ ར་ དོན་ རྟོགས་ པ ར་ འགྱུར་བ་ དེ་ལྟ ར་ བསྟན་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should be sure to teach them in such a way that those noble beings understand this Dharma discourse unmistakably as it is.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ བྱམས་པ ས་ གསོལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattva Maitreya said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ དེ་ལྟ ར་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, I will do so.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དབང་པོ་ དང་ བཅས་པ འི་ ལྷ་ རྣམས་ དང་ །_ ཚངས་པ་ དང་ བཅས་པ འི་ ལྷ་ རྣམས་ དང་ །_ སྐྱེ་དགུ འི་ བདག་པོ་ དང་ བཅས་པ་ རྣམས་ ཀྱིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ མཇུག་ ཏུ་ ཕྱིན་པ འི་ དུས་ ལ་ བབ་པ ར་ ཤེས་ ནས</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 Thereupon Indra and his retinue of gods, Brahmā and his retinue of gods, Prajāpati, and others, realizing that this Dharma discourse was coming to an end,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ ལ་ ལྷ འི་ མེ་ཏོག་ དང་ །_ བདུག་པ་ དང་ །_ སྤོས་ དང་ །_ མེ་ཏོག་ ཕྲེང་ དང་ །_ བྱུག་པ་ དང་ །_ ཕྱེ་མ་ དང་ །_ གོས་ དང་ །_ གདུགས་ དང་ །_ རྒྱལ་མཚན་ དང་ །_ བ་དན་ དག་ གིས་ མཆོད་ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>offered heavenly flowers, fragrant smoke, incense, flower garlands, ointments, powders, garments, parasols, banners, and flags to the Bhagavān and the bodhisattva mahāsattva Maitreya.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ ཅེས་ བཅོམ་ལྡན་འདས་ གང་ གིས་ སེམས་ཅན་ དཔག་ ཏུ་ མ་ མཆིས་པ་ རྣམས་ ཀྱི་ དོན་ བགྱིས་པ་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ནི་ ཨ་ལ་ ལ་ བདུད་རྩི་ བརྗོད་པ་ ལགས་སོ་ ཞེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 They then exclaimed, “Bhagavān, this Dharma discourse that benefits innumerable beings is indeed a marvelous nectar of speech!” [274.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ [274b]  ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 The Bhagavān now said to Venerable Ānanda,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་དགའ་བོ་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ལྟ་བུ་ ཐོས་པ ར་ དཀ ས །_ ཁྱོད་ ཀྱིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ānanda, such a Dharma discourse is rarely heard. |#| Therefore, you must retain this Dharma discourse.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡི་གེར་ བྲིས་ ཤིག _། ཆོངས་ ཤིག _། ལྷོགས་ ཤིག _། ཀུན་ ཆུབ་པ ར་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>You must write it down, hold it, read it aloud, and master it!”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ གསོལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>said Ānanda.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ བདག་ གིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ གཟུང་ ལགས་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 “Bhagavān, I will retain this Dharma discourse,”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི འི་ མིང་ ཅི་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Bhagavān, what is the name of this Dharma discourse?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ཅི་ ལྟར་ གཟུང་བ ར་ བགྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How should it be remembered?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>replied the Bhagavān,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་དགའ་བོ་ དེ འི་ ཕྱིར་ ཁྱོད་ ཀྱིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ བདུད་རྩི་ བརྗོད་པ་ ཞེས་ བྱ་བ ར་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ānanda,” |#| “you should remember this Dharma discourse as The Nectar of Speech .</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ ས་ ཞུས་པ་ ཞེས་ བྱ་བ ར་ ཡང་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>You should also refer to it as The Question of Maitreya .”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 After the Bhagavān had thus spoken,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་ པོ་ བྱམས་པ་ དང་ །_ དགེ་སློང་ དེ་དག་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ དེ་དག་ དང་ །_ ཐམས་ཅད་ དང་ ལྡན་པ འི་ འཁོར་ དེ་ |#| དང་ །_ ལྷ་ དང་ །_ མི་ དང་ །_ ལྷ་མ་ ཡིན་ དང་ །_ དྲི་ཟ ར་ བཅས་པ འི་ འཇིག་རྟེན་ ཡི་ རངས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>the entire assembly—Venerable Ānanda, the bodhisattva mahāsattva Maitreya, the bhikṣus, the bodhisattvas, and also the gods, humans, asuras, and gandharvas—all rejoiced and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །།_།།_</seg></tuv>
+	<tuv xml:lang="en"><seg>praised the words of the Bhagavān.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ བདུད་རྩི་ བརྗོད་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>This concludes the noble Mahāyāna sūtra “The Nectar of Speech.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྒྱ་གར་ གྱི་ མཁན་པོ་ པྲཛྙཱ་ བརྨ་ དང་ །_ ཞུ་ཆེན་ གྱི་ ལོཙྪ་བ་ བན་དེ་ ཡེ་ཤེས་ སྡེས་ བསྒྱུར་ ཅིང་ ཞུས་ ཏེ་ གཏན་ ལ་ ཕབ་པ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 Translated, edited, and finalized by the Indian abbot Prajñāvarman and the chief editor-translator Venerable Yeshé Dé.</seg></tuv>
+</tu>
+</body>
+</tmx>

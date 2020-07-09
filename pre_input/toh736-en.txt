@@ -1,0 +1,13 @@
+{{version:v 1.1.2 2020}}
+The Noble
+Dhāraṇī of Parṇaśavarī
+{{milestone:UT22084-094-013-18}} {{page:{number:1,folio:F.228.b}}} Homage to the noble Parṇaśavarī.
+{{milestone:UT22084-094-013-67}} Homage to the Three Jewels. Homage to the thus-gone, worthy, perfect buddha, the blessed Amitābha. Homage to the bodhisattva great being, the deeply compassionate and noble Avalokiteśvara. Homage to the bodhisattva great being Mahāsthāmaprāpta. {{note:{index:16,id:UT22084-094-013-20}}}
+{{milestone:UT22084-094-013-19}} Homage to you, blessed Parṇaśavarī, dwarfish piśācī who wields an axe and a noose. {{note:{index:17,id:UT22084-094-013-22}}}
+{{milestone:UT22084-094-013-23}} Whatever fears may arise, every plague, pestilence, and pandemic, all calamities and conflicts, and all personal anxieties {{note:{index:18,id:UT22084-094-013-24}}} affect only the foolish, not the wise. {{note:{index:19,id:UT22084-094-013-25}}}
+{{milestone:UT22084-094-013-68}} May truth, words of truth, and true speech send them away and dispel them! {{note:{index:20,id:UT22084-094-013-27}}} May these words of mantra empowered by the wise guard me and all beings. May they protect us, keep us secure, defend us, and bring us peace and good fortune. May they protect us from punishment and weapons. May they neutralize all poisons. May they protect from the dangers of fire and the dangers of water. May they cut down kākhordas. May they establish the protective boundary and bind the earth.
+{{milestone:UT22084-094-013-28}} The dhāraṇī is:
+amṛte amṛte amṛtodbhave {{page:{number:2,folio:F.229.a}}} amṛta­sambhave āśvaste āśvastāṅge mā mara mā mara mā sara mā sara. {{note:{index:21,id:UT22084-094-013-29}}}
+Grant peace! {{note:{index:22,id:UT22084-094-013-30}}} Pacify every illness! Bring an end to all kinds of untimely death! Pacify all evil influences from the planets and stars! Pacify all venom! O Blessed Parṇaśavarī! {{note:{index:23,id:UT22084-094-013-31}}}
+tunna tunna vitunna vitunna tuṇa tuṇa tumule svāhā. oṃ gauri gāndhāri caṇḍāli mātaṅgi pukkasi svāhā. oṃ aṅkure māṅkure kurare parṇa­śavari svāhā. namas sarva­śavarīṇām mahā­śavarīṇām {{note:{index:24,id:UT22084-094-013-32}}} bhagavati piśāci parṇa­śavari piśāci svāhā. oṃ piśāci parṇaśavari hrīḥ jaḥ hūṃ phaṭ piśāci svāhā. {{note:{index:25,id:UT22084-094-013-33}}}
+{{milestone:UT22084-094-013-34}} “The Noble Dhāraṇī of Parṇaśavarī” is complete. {{note:{index:26,id:UT22084-094-013-35}}}

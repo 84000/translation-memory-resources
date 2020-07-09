@@ -1,0 +1,14 @@
+{{version:v 1.26.2 2019}}
+The Noble Mahāyāna Sūtra
+The Inquiry of Avalokiteśvara on the Seven Qualities
+{{milestone:UT22084-057-009-9}} {{page:{number:1,folio:F.331.a}}} Homage to the Bhagavān Mañjuśrīkumārabhūta!
+{{milestone:UT22084-057-009-10}} Thus have I heard at one time. The Bhagavān was dwelling in Rājagṛha {{note:{index:4,id:UT22084-057-009-53}}} on the Vulture Peak mountain {{note:{index:5,id:UT22084-057-009-54}}} together with a great monastic assembly of 1,250 monks and a multitude of bodhisattva mahāsattvas. At that time, the bodhisattva mahāsattva Noble Avalokiteśvara rose from his seat, arranged his upper robe on one shoulder, and placed his right knee in the center of a lotus flower.
+{{milestone:UT22084-057-009-11}} Joining his hands in devotion toward the Bhagavān, he asked him, “Bhagavān, in how many qualities should a bodhisattva train, just after generating the altruistic mind set on attaining awakening?” {{note:{index:6,id:UT22084-057-009-55}}}
+The Bhagavān replied to the bodhisattva mahāsattva Noble Avalokiteśvara’s inquiry with the following words.
+{{milestone:UT22084-057-009-12}} “Kulaputra, bodhisattvas should train in seven qualities just after generating the altruistic mind set on attaining awakening. {{note:{index:7,id:UT22084-057-009-56}}} What are the seven? They are as follows.
+“(1) One should not have sexual enjoyment even in thought, not to mention joining together the two sexual organs. {{page:{number:2,folio:F.331.b}}} “(2) One should not take up with a non-virtuous friend even in dreams. “(3) With a mind free like a bird, one should be completely without grasping. “(4) With mastery in skill and wisdom, one should be without pride and reified conceptions of ‘I.’ “(5) One should abandon conceptions of existence and non-existence and be firm in the emancipation ( vimokṣa ) of emptiness. “(6) One should not take delight in saṃsāra through an inauthentic conceptual understanding, saṃsāra being like a magical illusion or dream. “(7) And one should refrain from deprecating the law of cause and effect.
+“Kulaputra, a bodhisattva who has just generated the altruistic mind set on attaining awakening {{note:{index:8,id:UT22084-057-009-57}}} should train in these seven qualities.”
+{{milestone:UT22084-057-009-13}} When the Bhagavān had spoken, the bodhisattva Noble Avalokiteśvara, along with the monks and bodhisattvas, rejoiced and praised highly what had been proclaimed by the Bhagavān. {{note:{index:9,id:UT22084-057-009-58}}}
+{{milestone:UT22084-057-009-14}} This completes the noble Mahāyāna sūtra, “ The Inquiry of Avalokiteśvara on the Seven Qualities .” {{note:{index:10,id:UT22084-057-009-59}}}
+Colophon
+{{milestone:UT22084-057-009-60}} Translated and edited by the Indian master Dīpaṃkara­śrī­jñāna and the translator monk Gewai Lodrö.

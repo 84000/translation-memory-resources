@@ -1,0 +1,197 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ ཅིང་ འབྲེལ་བར་ འབྱུང་བ་ དང་པོ་ དང་ རྣམ་པར་ དབྱེ་བ་ བསྟན་པ་ ཞེས་ བྱ་བ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Sūtra |#| Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དཀོན་མཆོག་ གསུམ་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [123.b] Homage to the Three Jewels.#5</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ འི་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ མཉན་ཡོད་ ན་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ མགོན་མེད་ ཟས་ སྦྱིན་ གྱི་ ཀུན་དགའ་ར་བ་ ན་ བཞུགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Bhagavān was dwelling in Śrāvastī at Jeta Grove, in the park of Anāthapiṇḍada.#6</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགེ་སློང་ རྣམས་ ལ་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 Then the Bhagavān spoke to the monks:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱེད་ ལ་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ དང་པོ་ དང་ རྣམ་པར་ དབྱེ་བ་ བསྟན་ གྱིས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Monks,#7 I shall teach you the fundamental exposition and detailed analysis of dependent arising.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལེགས་པ ར་ རབ་ཏུ་ ཉོན་ ལ་ ཡིད་ ལ་ ཟུང་ ཤིག་ དང་ བཤད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Listen very well and bear this in mind as I explain.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ དང་པོ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>What is the fundamental exposition of dependent arising?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟ་སྟེ །_ འདི་ ཡོད་ ན་ འདི་ འབྱུང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>It is thus: if this exists, that arises;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ སྐྱེས་པ ས་ འདི་ སྐྱེ་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>by this having been produced, that is produced.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟ་སྟེ །_ མ་རིག་པ འི་ རྐྱེན་ གྱིས་ འདུ་བྱེད །_ འདུ་བྱེད་ ཀྱི་ རྐྱེན་ གྱིས་ རྣམ་པར་ ཤེས་པ །_ རྣམ་པར་ ཤེས་པ འི་ རྐྱེན་ གྱིས་ མིང་ དང་ གཟུགས །_ མིང་ དང་ གཟུགས་ ཀྱི་ རྐྱེན་ གྱིས་ སྐྱེ་མཆེད་ དྲུག _། སྐྱེ་མཆེད་ དྲུག་ གི་ རྐྱེན་ གྱིས་ རེག་པ །_ རེག་པ འི་ རྐྱེན་ གྱིས་ ཚོར་བ །_ ཚོར་བ འི་ རྐྱེན་ གྱིས་ སྲེད་པ །_ སྲེད་པ འི་ རྐྱེན་ གྱིས་ ལེན་པ །_ ལེན་པ འི་ རྐྱེན་ གྱིས་ སྲིད་པ །_ སྲིད་པ འི་ རྐྱེན་ གྱིས་ སྐྱེ་བ །_ སྐྱེ་བ འི་ རྐྱེན་ གྱིས་ རྒ་ཤི་ དང་ །_ མྱ་ངན་ དང་ །_ སྨྲེ་སྔགས་ འདོན་པ་ དང་ །_ སྡུག་བསྔལ་བ་ དང་ །_ ཡིད་ མི་ བདེ་བ་ དང་ །_ འཁྲུག་པ་ རྣམས་ འབྱུང་བ ར་ འགྱུར་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 “It is thus: through the condition of ignorance, formations arise; |#| through the condition of formations, consciousness arises; |#| through the condition of consciousness, name-and-form arises; |#| through the condition of name-and-form, the six sense sources arise; |#| through the condition of the six sense sources, contact arises; |#| through the condition of contact, feeling arises; |#| through the condition of feeling, craving arises; |#| through the condition of craving, grasping arises; |#| through the condition of grasping, existence arises; |#| through the condition of existence, birth arises; |#| through the condition of birth, aging and death—as well as sorrow, lamentation, suffering, unhappiness, and strife—arise.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ལྟ ར་ ན་ སྡུག་བསྔལ་ གྱི་ ཕུང་པོ་ ཆེན་པོ་ འབའ་ཞིག་པོ་ འདི་ འབྱུང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In this way, this sole great heap of suffering arises.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ དང་པོ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This is the fundamental exposition of dependent arising.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ འི་ རྣམ་པར་ དབྱེ་བ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 “What is the detailed analysis of dependent arising?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་རིག་པ འི་ རྐྱེན་ གྱིས་ འདུ་བྱེད་ ཅེས་བྱ་ བ འི་ མ་རིག་པ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>What is ignorance in the statement, ‘Through the condition of ignorance, formations arise’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དེ་ སྔོན་ གྱི་ མཐའ་མི་ ཤེས་པ་ དང་ །_ ཕྱི་མ འི་ མཐའ་མི་ ཤེས་པ་ དང་ །_ སྔོན་ དང་ ཕྱི་མ འི་ མཐའ་མི་ ཤེས་པ་ དང་ །_ ནང་མི་ ཤེས་པ་ དང་ །_ ཕྱི་མི་ ཤེས་པ་ དང་ །_ ནང་ དང་ ཕྱི་མི་ ཤེས་པ་ དང་ །_ ལས་མི་ ཤེས་པ་ དང་ །_ རྣམ་པར་ སྨིན་པ་ མི་ ཤེས་པ་ དང་ །_ ལས་ དང་ རྣམ་ [124a]  པར་ སྨིན་པ་ མི་ ཤེས་པ་ དང་ །_ སངས་རྒྱས་ མི་ ཤེས་པ་ དང་ །_ ཆོས་ མི་ ཤེས་པ་ དང་ །_ དགེ་འདུན་ མི་ ཤེས་པ་ དང་ །_ སྡུག་བསྔལ་ མི་ ཤེས་པ་ དང་ །_ ཀུན་འབྱུང་ དང་ །_ འགོག་པ་ དང་ །_ ལམ་ མི་ ཤེས་པ་ དང་ །_ རྒྱུ་ མི་ ཤེས་པ་ དང་ །_ རྒྱུ་ལ ས་ ཡང་དག་ པར་ འབྱུང་བ འི་ ཆོས་ མི་ ཤེས་པ་ དང་ །_ དགེ་བ་ དང་ །_ མི་དགེ་བ་ དང་ །_ ཁ་ན་མ་ཐོ་བ་ དང་ བཅས་པ་ དང་ །_ ཁ་ན་མ་ཐོ་བ་ མེད་པ་ དང་ །_ བསྟེན་པ ར་ བྱ་བ་ དང་ །_ བསྟེན་པ ར་ བྱ་བ་ མ་ཡིན་པ་ དང་ །_ ངན་པ་ དང་ །_ གྱ་ནོམ་པ་ དང་ །_ ནག་པོ་ དང་ །_ དཀར་པོ་ དང་ །_ རྣམ་པར་ དབྱེ་བ་ དང་ བཅས་པ འི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་ བ་ དང་ །_ རེག་པ འི་ སྐྱེ་མཆེད་ དྲུག་ ཡང་དག་པ་ ཇི་ལྟ་ བ་ བཞིན་ ཁོང་ དུ་ མི་ ཆུད་པ་ དང་ །_ གང་དེ་ དང་ དེར་ ཡང་དག་པ་ ཇི་ལྟ་ བ་ བཞིན་ དུ་ མི་ ཤེས་པ་ དང་ །_ མ་ མཐོང་བ་ དང་ །_ མངོན་པར་ མ་ རྟོགས་པ་ དང་ །_ རྨོངས་པ་ དང་ །_ ཀུན་ དུ་ རྨོངས་པ་ དང་ །_ མ་རིག་པ་ དང་ །_ མུན་པ འི་ རྣམ་པ་ ཞེས་ བྱ་བ་ འདི་ ནི་ མ་རིག་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is not knowing the past, not knowing the future, and not knowing either the past or the future. |#| It is not knowing the inner, not knowing the outer, and not knowing either the inner or the outer. |#| It is not knowing actions, not knowing their maturation, and not knowing either actions [124.a] or their maturation. |#| It is not knowing the Buddha, not knowing the Dharma, not knowing the Saṅgha. |#| It is not knowing suffering, origin, cessation, or the path. |#| It is not knowing the causes and not knowing that phenomena arise from causes. |#| It is not knowing virtue and nonvirtue. |#| It is not knowing unseemliness and not knowing the absence of unseemliness. |#| It is not knowing what to engage in and what not to engage in. |#| It is not knowing what is bad, sublime, negative, or positive. |#| It is not knowing the phenomena that dependently arise within such divisions. |#| It is failing to understand the six sense sources of contact just as they are. |#| It is not knowing what is and how it is. |#| It is not seeing and not understanding. |#| It is being confused, deluded, ignorant, and obscured. |#| This is ignorance.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་རིག་པ འི་ རྐྱེན་ གྱིས་ འདུ་བྱེད་ ཅེས་བྱ་བ འི་ འདུ་བྱེད་ གང་ཞེ་ན །_ |#| འདུ་བྱེད་ ནི་ རྣམ་པ་ གསུམ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 “What are formations in the statement, ‘Through the condition of ignorance, formations arise’? |#| They are threefold.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསུམ་ གང་ཞེ་ན །_ ལུས་ ཀྱི་ འདུ་བྱེད་ དང་ །_ ངག་ གི་ འདུ་བྱེད་ དང་ །_ ཡིད་ ཀྱི་ འདུ་བྱེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>What are the three?#8 They are the formations of the body, the formations of speech, and the formations of the mind.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུ་བྱེད་ ཀྱི་ རྐྱེན་ གྱིས་ རྣམ་པར་ ཤེས་པ་ ཞེས་ བྱ་བ འི་ རྣམ་པར་ ཤེས་པ་ གང་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 “What is consciousness in the statement, ‘Through the condition of formations, consciousness arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཤེས་པ འི་ ཚོགས་ དྲུག་ སྟེ །_ |#| མིག་ གི་ རྣམ་པར་ ཤེས་པ་ དང་ །_ རྣ་བ་ དང་ །_ སྣ་ དང་ །_ ལྕེ་ དང་ །_ ལུས་ དང་ །_ ཡིད་ ཀྱི་ རྣམ་པར་ ཤེས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is the six collections of consciousness: the consciousnesses of the eye, ear, nose, tongue, body, and mind.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཤེས་པ འི་ རྐྱེན་ གྱིས་ མིང་ དང་ གཟུགས་ ཞེས་ བྱ་བ་ ལ་ མིང་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 “What is name in the statement, ‘Through the condition of consciousness, name-and-form arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ཅན་ མ་ཡིན་པ འི་ ཕུང་པོ་ བཞི་ སྟེ །_ |#| ཚོར་བ འི་ ཕུང་པོ་ དང་ །_ འདུ་ཤེས་ ཀྱི་ ཕུང་པོ་ དང་ །_ འདུ་བྱེད་ ཀྱི་ ཕུང་པོ་ དང་ །_ རྣམ་པར་ ཤེས་པ འི་ ཕུང་པོ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is the four formless aggregates. |#| They are the aggregate of feeling, the aggregate of perception, the aggregate of formations, and the aggregate of consciousness.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 “What is form ?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ གང་ཡིན་པ་ ཅི་ཡང་ རུང་ །_ |#| དེ་དག་ ཐམས་ཅད་ འབྱུང་བ་ ཆེན་པོ་ བཞི་ དང་ །_ འབྱུང་བ་ ཆེན་པོ་ བཞི་ དག་ རྒྱུ ར་ བྱས་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Whatever form there may be, it is all the four great elements and form derived from the four great elements.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ འདི་ དང་ །_ སྔ་མ འི་ མིང་ གཉི་ ག་ གཅིག་ ཏུ་ མངོན་པར་ བསྡུས་ ནས་ མིང་ དང་ གཟུགས་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>when both form and the aforementioned name are taken together, they are called name-and-form.#9</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མིང་ དང་ གཟུགས་ ཀྱི་ རྐྱེན་ གྱིས་ སྐྱེ་མཆེད་ དྲུག་ ཅེས་བྱ་བ འི་ སྐྱེ་མཆེད་ དྲུག་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 “What are the six sense sources in the statement, ‘Through the condition of name-and-form, the six sense sources arise’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནང་ གི་ སྐྱེ་མཆེད་ དྲུག་ སྟེ །_ |#| མིག་ ནང་ གི་ སྐྱེ་མཆེད་ དང་ །_ རྣ་བ་ དང་ །_ སྣ་ དང་ །_ ལྕེ་ དང་ །_ ལུས་ དང་ །_ ཡིད་ ནང་ གི་ སྐྱེ་མཆེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There are six inner sense sources: the inner sense sources of the eye, ear, nose, tongue, body, and mind. [124.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་ [124b]  མཆེད་ དྲུག་ གི་ རྐྱེན་ གྱིས་ རེག་པ་ ཞེས་ བྱ་བ འི་ རེག་པ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 “What is contact in the statement, ‘Through the condition of the six sense sources, contact arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རེག་པ འི་ ཚོགས་ དྲུག་ སྟེ །_ |#| མིག་ གི་ འདུས་ ཏེ་ རེག་པ་ དང་ །_ རྣ་བ་ དང་ །_ སྣ་ དང་ །_ ལྕེ་ དང་ །_ ལུས་ དང་ །_ ཡིད་ ཀྱི་ འདུས་ ཏེ་ རེག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There are six collections of contact: being conjoined with the eye, ear, nose, tongue, body, and mind. |#| This is contact.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རེག་པ འི་ རྐྱེན་ གྱིས་ ཚོར་བ་ ཞེས་ བྱ་བ འི་ ཚོར་བ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 “What is feeling in the statement, ‘Through the condition of contact, feeling arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚོར་བ་ ནི་ གསུམ་ སྟེ །_ |#| བདེ་བ་ དང་ །_ སྡུག་བསྔལ་བ་ དང་ །_ བདེ་བ་ ཡང་ མ་ ཡིན །_ |#| སྡུག་བསྔལ་བ་ ཡང་ མ་ཡིན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There are three feelings: pleasure, pain, and neither pleasure nor pain.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚོར་བ འི་ རྐྱེན་ གྱིས་ སྲེད་པ་ ཞེས་ བྱ་བ འི་ སྲེད་པ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 “What is craving in the statement, ‘Through the condition of feeling, craving arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲེད་པ་ ནི་ གསུམ་ སྟེ །_ |#| འདོད་པ འི་ སྲེད་པ་ དང་ །_ གཟུགས་ ཀྱི་ སྲེད་པ་ དང་ །_ གཟུགས་ མེད་པ འི་ སྲེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There are three cravings: the craving of the desire realm, the craving of the form realm, and the craving of the formless realm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲེད་པ འི་ རྐྱེན་ གྱིས་ ལེན་པ་ ཞེས་ བྱ་བ འི་ ལེན་པ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 “What is grasping in the statement, ‘Through the condition of craving, grasping arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལེན་པ་ ནི་ བཞི་ སྟེ །_ |#| འདོད་པ་ ཉེ་བ ར་ ལེན་པ་ དང་ །_ ལྟ་བ་ ཉེ་བ ར་ ལེན་པ་ དང་ །_ ཚུལ་ཁྲིམས་ དང་ བརྟུལ་ཞུགས་ ཉེ་བ ར་ ལེན་པ་ དང་ །_ བདག་ ཏུ་ སྨྲ་བ་ ཉེ་བ ར་ ལེན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Grasping is of four types: grasping at desire, grasping at views, grasping at moral rules and vows and rites, and grasping at theories that assert the self.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལེན་པ འི་ རྐྱེན་ གྱིས་ སྲིད་པ་ ཞེས་ བྱ་བ འི་ སྲིད་པ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 “What is existence in the statement, ‘Through the condition of grasping, existence arises’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲིད་པ་ ནི་ གསུམ་ སྟེ །_ |#| འདོད་པ འི་ སྲིད་པ་ དང་ །_ གཟུགས་ ཀྱི་ སྲིད་པ་ དང་ །_ གཟུགས་ མེད་པ འི་ སྲིད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There are three existences: the existences of the desire realm, the form realm, and the formless realm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲིད་པ འི་ རྐྱེན་ གྱིས་ སྐྱེ་བ་ ཞེས་ བྱ་བ འི་ སྐྱེ་བ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 “What is birth in the statement, ‘Through the condition of existence, birth arises’? |#| Birth refers to the way a being is born into a particular class of beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ སེམས་ཅན་ དེ་ དང་ དེ་དག་ གི་ སེམས་ཅན་ གྱི་ རིས་ དེ་ དང་ དེ་དག་ ཏུ་ གང་ སྐྱེ་བ་ དང་ །_ ཤིན་ཏུ་ སྐྱེ་བ་ དང་ །_ འཕོ་བ་ དང་ །_ མངོན་ པར་ འབྱུང་བ་ དང་ །_ རབ་ཏུ་ འབྱུང་བ་ དང་ །_ ཕུང་པོ་ སོ་སོ ར་ ཐོབ་པ་ དང་ །_ ཁམས་ སོ་སོ ར་ ཐོབ་པ་ དང་ །_ སྐྱེ་མཆེད་ སོ་སོ ར་ ཐོབ་པ་ དང་ །_ ཕུང་པོ་ རྣམས་ མངོན་པར་ གྲུབ་པ་ དང་ །_ སྲོག་ གི་ དབང་པོ་ རབ་ཏུ་ སྐྱེས་པ་ འདི་ ནི་ སྐྱེ་བ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It refers to conception, entrance, maturation, manifestation, obtaining aggregates, obtaining elements, obtaining sense sources, fully developing aggregates, and the manifestation of the life faculty.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་བ འི་ རྐྱེན་ གྱིས་ རྒ་ཤི་ ཞེས་ བྱ་བ འི་ རྒ་བ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 “What is aging in the statement, ‘Through the condition of birth, aging and death arise’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དེ འི་ སྤྱི་ ཐེར་ དང་ །_ སྐྲ་དཀར་ དང་ །_ གཉེར་མ འི་ ཚོགས་པ་ དང་ །_ རྙི ས་པ་ དང་ །_ ཞུམ་པ་ དང་ །_ བ་ལང་ ཆུ་ འཐུང་བ་ ལྟ་བུ ར་ གུག་པ་ དང་ །_ ལུས་ ནག་པོ འི་ ཐིག་ལེ ས་ གང་བ་ དང་ །_ ལུད་པ་ ལུ་ ཞིང་ དབུགས་ རྒོད་པ་ དང་ །_ མདུན་ དུ་ ལུས་ བུབ་པ་ ལྟར་ བྱེད་པ་ དང་ །_ ཁར་བ་ ལ་ བརྟེན་པ་ དང་ །_ བླུན་པ ས་ མོང་རྟུལ་བ་ ཉིད་ དང་ །_ ཞན་པ་ ཉིད་ དང་ །_ ཉམས་པ་ དང་ །_ ཡོངས་སུ་ ཉམས་པ་ དང་ །_ དབང་པོ་ རྒུད་པ་ དང་ །_ འདུ་བྱེད་ རྣམས་ རྙིངས་པ་ དང་ །_ ཤིན་ཏུ་ རྙིངས་པ ར་ གྱུར་པ་ འདི་ ནི་ རྒ་བ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Aging refers to becoming bald, white haired, wrinkled, worn out, slack, hunched like a cow drinking water, covered with liver spots, having drooping limbs, being afflicted with rheumatism, breathing heavily, walking hunched over, walking with a stick, feeling unwell and lethargic, being weakened, being exhausted, having impaired faculties, losing one’s memory, and becoming old and decrepit. |#| This is called aging.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཆི་བ་ གང་ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 “What is death? [125.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ གང་ཡིན་པ་ དེ་ དང་ དེ་དག་ སེམས་ [125a]  ཅན་ གྱི་ རིས །_ དེ་ དང་ དེ་དག་ ནས་ འཕོས་པ་ དང་ །_ འཕོ་བ་ ཉིད་ དང་ །_ ཞིག་པ་ དང་ །_ ནང་ཉམས་པ་ དང་ །_ ཚེ་ ཉམས་པ་ དང་ །_ དྲོད་ ཡལ་བ་ དང་ །_ སྲོག་ གི་ དབང་པོ་ འགགས་པ་ དང་ །_ ཕུང་པོ་ རྣམས་ འདོར་བ་ དང་ །_ ཤི་བ་ དང་ །_ དུས་ བྱེད་པ་ འདི་ ནི་ ཤི་བ་ ཞེས་ བྱ་ སྟེ</seg></tuv>
+	<tuv xml:lang="en"><seg>Death is the departure or passing away of each and every being from their respective class of sentient beings; |#| it is their disintegration, internal deterioration, loss of life, fading of bodily warmth, cessation of the life faculty, discarding of the aggregates, dying, and decease.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤི་བ་ འདི་ དང་ སྔ་མ་ རྒ་བ་ གཉིས་ གཅིག་ ཏུ་ བསྡུས་ ནས་ རྒ་ཤི་ ཞེས་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Combining the two into one, death with the aforementioned aging, this is known as aging and death .</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ རྣམ་པར་ དབྱེ་བ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This is the detailed analysis of dependent arising.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱེད་ ལ་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ དང་པོ་ དང་ རྣམ་པར་ དབྱེ་བ་ བཤད་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 “O monks, I said that I would explain to you the fundamental exposition and detailed analysis of dependent arising, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ ངས་ སྨྲས་པ་ གང་ཡིན་པ་ དེ འི་ ཆེད་ དུ་ ངས་ སྨྲས་པ་ འདི་དག་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>they are as I have now described them.”#10</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ དང་པོ་ དང་ རྣམ་པར་ དབྱེ་བ་ བསྟན་པ་ ཞེས་ བྱ་བ འི་ མདོ་ རྫོགས་ སོ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 This concludes “ The Sūtra Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising .”</seg></tuv>
+</tu>
+</body>
+</tmx>

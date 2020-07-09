@@ -1,0 +1,2393 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ ཆོས་ ཀྱི་ ཚུལ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra |#| Proper Dharma Conduct</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [15.b] Homage to all buddhas and bodhisattvas!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ ལྡན་འདས་ མཉན་ཡོད་ ན་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ ན་ སྨྱུག་མ་ ལས་ བྱས་པ འི་ འཁོར་ གྱི་ ཁྱམས་ ན་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One was at Prince Jeta’s Grove at Śrāvastī, where he was residing in a pavilion made of bamboo.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཚེ་ སྨྱུག་མ་ ལས་ བྱས་པ འི་ འཁོར་ གྱི་ ཁྱམས་ སུ་ འདུས་ ཤིང་ འཁོད་པ འི་ བྱང་ཆུབ་ སེམས་དཔའ་ རབ་ཏུ་ མང་པོ་ དག་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>At that time, a great number of bodhisattvas, who were also gathered and assembled at the bamboo pavilion, had the following thought:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ཅག་ གིས་ ཇི་ལྟ ར་ གནས་པ ར་ བྱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“How are we to live?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ བསྒྲུབ་པ ར་ བྱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are we to practice?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ རྣལ་འབྱོར་ དུ་ བྱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are we to train?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ སེམས་ཅན་ རྣམས་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་ སྙམ་པ་ དང་ །_ དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ རབ་ཏུ་ མང་པོ་ དེ་དག་ གི་ བསམ་པ་ མཁྱེན་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>How are we to ripen others?” |#| $3 Knowing the thoughts of these many bodhisattvas, the Blessed One</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྨྱུག་མ་ ལས་ བྱས་པ འི་ འཁོར་ གྱི་ ཁྱམས་ ག་ལ་བ་ དེར་ གཤེགས་ ཏེ་ |#| བྱོན་ ནས་ |#| གདན་ བཏིང་བ་ ལ་ བཞུགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>went before them and sat down on a seat by the pavilion in front of them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཞུགས་ ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ རབ་ཏུ་ མང་པོ་ དེ་དག་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Sitting there, the Blessed One said to the many bodhisattvas,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Noble sons, excellent, excellent.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྱོད་ ཀྱི་ རྟོག་པ་ ནི་ བཟང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Your intention is noble,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་ ཀྱི་ དྲི་བ་ ནི་ མཛེས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>your questions are beautiful,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤོབས་པ་ ནི་ དགེ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>your eloquence is virtuous, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་ ལ་ བྱ་བ་ ནི་ ཚུལ་བཞིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>your concerns are proper.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ |#| འི་ ཕྱིར་ ལེགས་པ ར་ རབ་ཏུ་ ཉོན་ ལ་ ཡིད་ ལ་ ཟུང་ ཤིག་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, noble sons, listen carefully and keep in mind what is said.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ རྣམས་ ཀྱི་ ཚུལ་ གང་ བྱང་ཆུབ་ སེམས་དཔ འི་ སྤྱོད་པ་ ཐམས་ཅད་ སྟོན་ པ ར་ བྱེད་པ་ དང་ །_ སངས་རྒྱས་ ཀྱི་ ཆོས་ ཐམས་ཅད་ རྗོད་པ ར་ བྱེད་པ་ དེ་ལྟ་ བུ འི་ ཆོས་ ཀྱི་ ཚུལ་ ངས་ ཁྱོད་ ལ་ བཤད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I shall now explain proper Dharma conduct to you. |#| This includes a presentation of the complete bodhisattva conduct—the proper conduct of bodhisattva great beings—and an explanation of all buddha qualities.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ལེགས་ སོ་ ཞེས་ གསོལ་ ནས །_ |#| བྱང་ཆུབ་ སེམས་དཔའ་ དེ་དག་ བཅོམ་ལྡན་འདས་ ཀྱི་ ལྟར་ ཉན་པ་ དང་ །_ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་དག་ ལ་ འདི་སྐད་ [16a]  ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 “Very well, Blessed One,” the bodhisattvas replied, and they listened to the Blessed One with full attention. |#| $5 The Blessed One said, [16.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མྱ་ངན་ ལས་ འདས་པ འི་ བསམ་པ་ ཅན་ དུ་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Noble sons, maintain the thought of nirvāṇa and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁོར་བ ར་ སྦྱོར་བ་ ཅན་ དུ་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>apply yourselves to saṃsāra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁོར་བ་ དང་ མྱ་ངན་ ལས་ འདས་པ་ ལ་ ཡང་ གནས་པ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not dwell in either saṃsāra or in nirvāṇa.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ གིས་ གསོལ་པ །_ བཅོམ་ ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མྱ་ངན་ ལས་ འདས་པ འི་ བསམ་པ་ ཅན་ དང་ འཁོར་བ ར་ སྦྱོར་བ་ ཅན་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas maintain the thought of nirvāṇa and apply themselves to saṃsāra?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཁོར་བ་ དང་ །_ མྱ་ངན་ ལས་ འདས་པ་ ལ་ ཡང་ མི་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not dwell in either saṃsāra or in nirvāṇa?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 The Blessed One said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཆི་བ་ མེད་པ འི་ བདེ་བ་ ལ་ རེག་པ ར་ བྱ་བ འི་ ཕྱིར་ མྱ་ངན་ ལས་ འདས་པ འི་ བསམ་པ་ ཅན་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“They maintain the thought of nirvāṇa in order to reach the happiness of immortality.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་བ འི་ རྩ་བ་ བསགས་པ འི་ ཕྱིར་ འཁོར་བ ར་ སྦྱོར་བ་ ཅན་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They apply themselves to saṃsāra in order to gather the roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ དང་ སོ་སོ འི་ སྐྱེ་བོ་ དག་ སྟེན་པ འི་ ཕྱིར་ འཁོར་བ་ དང་ མྱ་ངན་ ལས་ འདས་པ་ ལ འང་ མི་ གནས་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They do not dwell in either saṃsāra or nirvāṇa in order to attend to noble and ordinary beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ ལྟ་བས་ན་ |#| རང་ གི་ སེམས་ ཡོངས་སུ་ སྦྱོངས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 “Therefore, noble sons, train your minds,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ གྱི་ སེམས་ སྲུངས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>protect the minds of others, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་དཔའ་བ་ ཅན་ དུ་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be courageous.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ རང་ གི་ སེམས་ ཡོངས་སུ་ སྦྱོང་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas train their minds?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ གཞན་ གྱི་ སེམས་ སྲུང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they protect the minds of others?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེམས་དཔའ་བ་ ཅན་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they courageous?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཉོན་མོངས་པ་ སེལ་བ ས་ རང་ གི་ སེམས་ ཡོངས་སུ་ སྦྱོང་བ ར་ བྱེད་པ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 The Blessed One said, “They train their minds by eliminating afflictions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁོང་ཁྲོ་བ་ མེད་པ ས་ གཞན་ གྱི་ སེམས་ སྲུང་བ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They protect others’ minds by being without anger.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ ཀྱི་ སེམས་ མི་ གཏོང་བ ས་ སེམས་དཔའ་བ་ ཡིན་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are courageous as they do not relinquish the mind of awakening. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ བྱ་བ་ དང་ ཡང་ འགལ་བ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 “Therefore, noble sons, do not go against what is proper,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱ་བ་ མ་ཡིན་པ་ ལ་ ཡང་ སྣང་བར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>perceive what is improper, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ ལ་ ལན་ རེ་བ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>do not hope to get anything in return for what has been done.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བགྱི་བ་ དང་ མི་འགལ་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not go against what is proper?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ མི་ བགྱི་བ་ ལ་ ཡང་ གདའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they leave behind what is improper?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བགྱི་བ་ ལ་ ལན་ རེ་བ་ མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not hope to get anything in return for what has been done?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བྱ་བ་ དང་ འགལ་བ ར་ མི་ བྱ་བ་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ འི་ ཆོས་ ལ་ འཇུག་པ ས་ ལས་ ཀྱི་ རྣམ་པར་ སྨིན་པ་ ལ་ ཡིད་ཆེས་ པར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 The Blessed One said, “ ‘Not going against what is proper’ means having confidence in the ripening of actions due to engaging with the Dharma of dependent origination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>[16b]  བྱ་བ་ མ་ཡིན་པ་ ལ་ སྣང་བ་ ནི་ སྙིང་རྗེ་ ཆེན་པོ་ ལ་ འཇུག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Perceiving what is improper’ means being committed to great compassion. [16.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ ལ་ ལན་ རེ་བ་ མེད་པ་ ནི་ ལན་ དུ་ ཕན་ འདོགས་པ ར་ རེ་བ་ མེད་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not hoping to get anything in return for what has been done’ means not hoping for any benefit in return. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ དུས་ མ་ཡིན་པ ར་ ནི་ མ་ ལྡང་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 “Therefore, noble sons, do not get up at inappropriate times.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ ལ་ བབ་ ན་ ནི་ མ་ ཉལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not sleep when the time has come.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉལ་བ་ རྣམས་ ནི་ སློང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Rouse those who are sleeping.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ ནི་ ཉོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Sleep forever.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ དུས་ མ་ ལགས་ པར་ མི་ ལྡང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not get up at inappropriate times?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུས་ ལ་ བབ་ ན་ |#| མི་ ཉལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not sleep when the time has come?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཉལ་བ་ རྣམས་ སློང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they rouse those who are sleeping?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ ཉལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they sleep forever?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ དུས་ མ་ཡིན་པ ར་ མི་ ལྡང་བ་ ནི་ སྣོད་ དུ་མ་ གྱུར་པ་ རྣམས་ ལ་ ཆོས་ མི་ བསྟན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 The Blessed One said, “ ‘Not getting up at inappropriate times’ means not teaching the Dharma to those who are inappropriate recipients.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ ལ་ བབ་ ན་ མི་ ཉལ་བ་ ནི་ སྣོད་ དུ་ གྱུར་པ་ ལས་ འདའ་བ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not sleeping when the time has come’ means not passing over suitable vessels.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉལ་བ་ རྣམས་ བསླང་བ་ ནི་ དུས་ དང་ དུས་ མ་ཡིན་པ ས་ བསྐུལ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Rousing those who sleep’ means encouraging others in terms of the appropriate and inappropriate times.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ ཉལ་བ་ ནི་ སྙོམས་ པ ར་ འཇུག་པ་ ལས་མི་ ལྡང་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Sleeping forever’ means never arising from attainment. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཡིད་བརྟན་པ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 “Therefore, noble sons, be without confidence,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་བརྟན་པ་ གཞིག་ པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>destroy confidence, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་ མ་ བརྟན་པ་ རྣམས་ ལ་ ཡིད་བརྟན་ པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>have confidence in those without confidence.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ ཆུབ་ སེམས་དཔའ་ རྣམས་ ཡིད་ མི་ རྟོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas without confidence?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡིད་བརྟན་པ་ འཇིག་པ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they destroy confidence?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡིད་ མ་ བརྟན་པ་ རྣམས་ ལ་ ཡིད་ རྟོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they have confidence in those without confidence?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཡིད་ མི་ བརྟན་ ཞེས་ བྱ་བ་ ནི་ གཟུགས་ མེད་པ འི་ སྙོམས་པ ར་ འཇུག་པ་ རྣམས་ ལ་ ཡིད་ མི་ གཞག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 The Blessed One said, “ ‘Being without confidence’ means not settling the mind in the formless attainments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་བརྟན་པ་ གཞིག་ པར་ བྱ་བ་ ནི་ སྙོམས་པ ར་ འཇུག་པ་ བཟློག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Destroying confidence’ means reversing the formless attainments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་ མ་ བརྟན་པ་ རྣམས་ ལ་ ཡིད་བརྟན་ པར་ བྱ་བ་ ནི་ ལོག་པ ར་ ཞུགས་པ་ རྣམས་ ལ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Having confidence in those without confidence’ refers to those who are in error. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ནོར་ དང་ ལྡན་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 “Therefore, noble sons, be endowed with wealth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ ཤེས་པ་ མེད་པར་ སྦྱོར་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Connect those who are without gratitude.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ ལ འང་ ལན་ རེ་བ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not hope to get anything in return.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྙེད་པ་ ཆེན་པོ ས་ ཉེ་བ ར་ འཚོ་བར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Maintain a livelihood with great profit.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ནོར་ དང་ ལྡན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas endowed with wealth?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བྱས་པ་ འཚལ་བ་ མ་ མཆིས་པ ར་ སྦྱོར་བ་ ལགས །_ [17a]</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they connect those who are without gratitude? [17.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཅི་ ལ འང་ ལན་ མི་ རེ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not hope to get anything in return?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྙེད་པ་ ཆེན་པོ ས་ ཉེ་བ ར་ འཚོ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they maintain a livelihood with great profit?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ནོར་ དང་ ལྡན་པ་ ཞེས་ བྱ་བ་ ནི་ ནོར་ བདུན་ དང་ ལྡན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 The Blessed One said, “ ‘Being endowed with wealth’ means being endowed with the seven riches.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ ཤེས་པ་ མེད་པར་ སྦྱར་བ་ ནི་ སེར་སྣ་ ཅན་ རྣམས་ སྦྱིན་པ་ ལ་ སྦྱར་བ་ དང་ །_ ཤེས་ རབ་ འཆལ་པ་ རྣམས་ ཤེས་རབ་ ལ་ སྦྱར་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Connecting those who are without gratitude’ means connecting the greedy with generosity and connecting those with distorted wisdom with wisdom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ ལ འང་ ལན་ རེ་བ་ མེད་པ་ ནི་ རང་ གི་ དགོས་པ་ ལ འང་ ནན་ཏན་ དུ་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not hoping to get anything in return’ means diligently working toward one’s own purpose.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྙེད་པ་ ཆེན་པོ ས་ ཉེ་བ ར་ འཚོ་བ་ ནི་ བླ་ ན་ མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ ཏུ་ ཡོངས་སུ་ བསྔོ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Maintaining a livelihood with great profit’ means dedicating toward unsurpassed and perfect awakening. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ ལྟ་བས་ན་ ཆགས་པ་ ཡང་ ཤེས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 “Therefore, noble sons, understand passion.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ རྣམས་ ལ་ ཡང་ སྤྱོད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Enjoy passion.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ ལ་ ཞེན་པ་ རྣམས་ ལ འང་ ལྟོས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Consider those who are attached to passion.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ མེད་པ་ ལ འང་ སྲུངས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Protect those who are without passion.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ལ་ ཆགས་ པ་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas understand passion?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ་ རྣམས་ ལ་ སྤྱོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they enjoy passion?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ ར་ ཞེན་པ་ ལ་ ལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they consider those who are attached to passion?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ་ མ་ མཆིས་པ་ སྲུང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they protect those who are without passion?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཆགས་པ་ ཤེས་པ ར་ བྱ་བ་ ནི་ གཟུགས་ མེད་པ འི་ སྙོམས་པ ར་ འཇུག་པ་ རྣམས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 The Blessed One said, “ ‘Understanding passion’ means understanding the formless attainments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ རྣམས་ ལ་ སྤྱད་པ་ ནི་ སྐྱེ་མཆེད་ དྲུག་ གཅད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Enjoying passion’ means cutting the six sense sources.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ ར་ ཞེན་པ་ ལ་ ལྟ་བ་ ནི་ སོ་སོ འི་ སྐྱེ་བོ་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Considering those who are attached to passion’ means ripening ordinary beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ མེད་པ་ སྲུང་བ་ ནི་ སྐྱོན་མེད་ པར་ མི་ འཇུག་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Protecting those who are without passion’ means not entering the state that is free from faults. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| འཇིགས་ པར་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 “Therefore, noble sons, be terrified,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མངོན་པར་ དགའ་བ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be without joy,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་བརྩེ་བ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be without love, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་རྗེ་བ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be without compassion.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ འཇིགས་ པར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas terrified?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ མངོན་པར་ དགའ་བ་ མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without joy?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྙིང་བརྩེ་ བ་མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without love?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྙིང་རྗེ་ བ་མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they not compassionate?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ འཇིགས་ ཞེས་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ས ས་ འཇིགས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 The Blessed One said, “ ‘Terrified’ means being terrified by the levels of the hearers and the solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མངོན་པར་ དགའ་བ་ མེད་ ཅེས་བྱ་བ་ ནི་ གཟུགས་ མེད་པ འི་ སྙོམས་པ ར་ འཇུག་པ་ རྣམས་ ལ་ [17b]  དགའ་བ་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Without joy’ means [17.b] not finding any joy in the formless attainments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་བརྩེ་བ་ མེད་པ་ ནི་ ཕྱི་རོལ་ གྱི་ དངོས་པོ་ རྣམས་ ཡོངས་སུ་ བཏང་བ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Without love’ means relinquishing outer phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་རྗེ་བ་ མེད་པ་ ནི་ ནང་ གི་ དངོས་པོ་ མགོ་ ལ་སོགས་པ་ ཡོངས་སུ་ བཏང་བ་ ལ་ སྟེ །_ |#| དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Without compassion’ means giving away personal body parts, such as the head. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| བདེན་པ་ ཡང་ ཁོང་ དུ་ ཆུད་པ ར་ གྱིས་ ཤིག _།_ བརྫུན་ དུ་ སྨྲ་བ་ ཡང་ མ་ སྤང་ ཞིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 “Therefore, noble sons, understand the truth and do not give up lying.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བདེན་པ་ ཁོང་ དུ་ ཆུད་པ ར་ བགྱི་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas understand the truth?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བརྫུན་ དུ་ སྨྲ་བ་ ནི་ མི་ སྤོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not give up lying?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བདེན་པ་ ཁོང་ དུ་ ཆུད་པ ར་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་ རྒྱས་ འདུལ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$22 The Blessed One said, “They ‘understand the truth’ in order to tame hearers and solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བརྫུན་ དུ་ སྨྲ་བ་ མི་ སྤང་བ་ ནི་ འདུས་བྱས་ ལ་ཉེ་ བར་ སྤྱོད་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘do not give up lying’ in order to make use of conditioned phenomena. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ བགྱིས་ ཏེ །_ |#| ཚུ་རོལ་ གྱི་ ངོགས་ ལ་ བལྟ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$23 “Therefore, noble sons, cross over but look at the shore on this side.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ མ་ བྱེད་པ ར་ ཕ་རོལ་ གྱི་ ངོགས་ ལ་ བལྟ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Look at the shore on the other side but do not cross over.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཕ་རོལ་ ཏུ་ ཕྱིན་ ཅིང་ ཚུ་རོལ་ གྱི་ ངོགས་ ལ་ བལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas cross over but look at the shore on this side?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ མི་ བགྱིད་ ཅིང་ ཕ་རོལ་ གྱི་ ངོགས་ ལ་ བལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they look at the shore on the other side without crossing over?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ སེམས་ དང་ །_ སྤྱོད་པ་ དང་ །_ བསམ་པ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$24 The Blessed One said, “ ‘Crossing over’ refers to the minds, conduct, and thoughts of all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུ་རོལ་ གྱི་ ངོགས་ ལ་ བལྟ་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘look at the shore on this side’ in order to ripen all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ མི་ བྱ་བ་ ནི་ ཕ་རོལ་ བསྒྲལ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘do not cross over’ so that they can liberate others.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ གྱི་ ངོགས་ ལ་ ལྟ་བ་ ནི་ རྟག་ ཏུ་ མྱ་ངན་ ལས་ འདའ་བ་ ལ་ གཞོལ་བ ར་ བྱ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Looking at the shore on the other side’ means always leaning toward nirvāṇa. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| རྟག་ ཏུ་ མི་ འཐུན་ པར་ ཡང་ གྱིས་ ལ་ རྩོད་པ་ མེད་པ་ མཆོག་ ཏུ་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$25 “Therefore, noble sons, on the one hand never conform, and on the other hand do take the lack of dispute to be supreme.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ ལ་ ཡང་ གནས་ ལ་ སྐྱོན་ ཡང་ མཐོང་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand dwell in love, and on the other hand do see flaws.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ ཆུབ་ སེམས་དཔའ་ རྣམས་ རྟག་ ཏུ་ མི་ འཐུན་ པར་ བགྱིད་པ་ དང་ །_ རྩོད་པ་ མ་ མཆིས་པ་ མཆོག་ ཏུ་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas never conform and take the lack of dispute to be supreme?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བྱམས་པ་ ལ་ གནས་ ཤིང་ སྐྱོན་ ཡང་ མཐོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they dwell in love but also see flaws?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ རྟག་ ཏུ་ མི་ འཐུན་ པར་ བྱེད་པ་ ནི་ དམ་པ འི་ ཆོས་ ཡོངས་སུ་ གཟུང་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$26 The Blessed One said, “They ‘never conform’ in order to uphold the sacred Dharma. [18.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>[18a]  རྩོད་པ་ མེད་པ་ མཆོག་ ཏུ་ བྱེད་པ་ ནི་ བསམ་པ་ དག་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘take the lack of dispute to be supreme’ in order to purify thoughts.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ ལ་ གནས་པ་ ནི་ སེམས་ཅན་ ཡོངས་སུ་ བསྐྱབ་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘dwell in love’ in order to protect beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉེས་པ་ མཐོང་བ་ ནི་ འདུས་བྱས་ ཀྱི་ དངོས་པོ་ ཐམས་ཅད་ དེ་དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Seeing flaws’ means seeing all compounded entities.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཟད་པ་ ཡང་ ཟད་པ ར་ མ་ བྱེད་ ཅིག _། |#| མི་ཟད་ པར་ ཡང་ ལྟུང་བ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$27 “Therefore, noble sons, on the one hand do not exhaust what becomes exhausted, and on the other hand do not fall into what does not become exhausted.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཟད་པ འི་ ཆོས་ཉིད་ ཀྱང་ ཁོང་ དུ་ ཆུད་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Understand the nature of exhaustion.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཟད་པ་ ཟད་པ ར་ མི་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not exhaust what becomes exhausted?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ མི་ཟད་ པར་ མི་ ལྟུང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not fall into what does not become exhausted?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཟད་པ འི་ ཆོས་ཉིད་ ཀྱང་ ཁོང་ དུ་ ཆུད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they understand the nature of exhaustion?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཟད་པ་ ཞེས་ བྱ་བ་ ནི་ འདུས་བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$28 The Blessed One said, “ ‘What becomes exhausted’ means the compounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ཟད་པ་ ཞེས་ བྱ་བ་ ནི་ འདུས་མ་བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What does not become exhausted’ means the uncompounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ བྱང་ཆུབ་ སེམས་དཔ ས་ དགེ་བ འི་ རྩ་བ་ བསགས་པ འི་ ཕྱིར་ འདུས་བྱས་ ཀྱང་ ཟད་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In order to accumulate roots of virtue bodhisattvas must not exhaust compounded phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐབས་ ལ་ མཁས་པ ས་ འདུས་མ་བྱས་ སུ་ ཡང་ ལྟུང་བ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Using their skill in means, they must not fall into the uncompounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཟད་པ འི་ ཆོས་ཉིད་ ཁོང་ དུ་ ཆུད་པ ར་ བྱ་བ་ ནི་ མི་རྟག་པ འི་ མཐ ར་ འགྱུར་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Understanding the nature of exhaustion’ means knowing the fact of impermanence. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མུན་པ འི་ ནང་ ན འང་ གནས་པ ར་ གྱིས་ ཤིག _། སྣང་བ་ ཡང་ ཟིན་པ ར་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>$29 “Therefore, noble sons, on the one hand dwell within darkness, and on the other hand seize the light.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ བྱ་བ་ ནི་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do what should not be done.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱ་བ་ ནི་ ཡལ་བ ར་ ཞོག་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Set aside what should be done.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མུན་པ འི་ ནང་ ན་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas dwell within darkness?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྣང་བ་ ཟིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they seize the light?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ མི་ བགྱི་བ་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they do what should not be done?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བགྱི་བ་ ཡལ་བ ར་ གཞོག་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they set aside what should be done?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མུན་པ་ ཞེས་ བྱ་བ་ ནི་ མི་ ཤེས་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$30 The Blessed One said, “ ‘Darkness’ means ignorance.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཀྱིས་ སེམས་ཅན་ མི་ ཤེས་པ་ རྣམས་ ཀྱི་ དོན་ དུ་ བདེན་པ་ ཐོབ་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Bodhisattvas must attain the truth for the benefit of ignorant beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྣང་བ་ ཞེས་ བྱ་བ་ ནི་ ཤེས་རབ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Light’ means insight.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤེས་རབ་ དེས་ ཀྱང་ མུན་པ་ བསལ་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>By that insight they must clear away darkness.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ བྱ་བ་ ཞེས་ བྱ་བ་ ནི་ མྱ་ངན་ ལས་ འདས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What should not be done’ means passing beyond suffering.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱ་བ་ ཞེས་ བྱ་བ་ ནི་ མངོན་པར་ འདུ་ བྱ་བ་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What should be done’ means non-performance.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཀྱིས་ ཡལ་བ ར་ གཞག་ པར་ བྱ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is what bodhisattvas must set aside. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཟབ་མོ འི་ ཆོས་ ཀྱི་ སྣང་བ་ ལ་ ཡང་ གནས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$31 “Therefore, noble sons, dwell in the light of the profound Dharma. [18.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྣང་བ འི་ [18b]  ཆོས་ རྣམས་ ལ འང་ བརྙས་པ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not despise apparent phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྣང་བ་ དང་ མི་སྣང་བ་ ལ འང་ མ་གནས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not dwell in either appearance or nonappearance.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཟབ་མོ འི་ ཆོས་ ཀྱི་ སྣང་བ་ ལ་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas dwell in the light of the profound Dharma?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྣང་བར་ གྱུར་པ འི་ ཆོས་ རྣམས་ ལ་ བརྙས་པ་ མ་ མཆིས་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not despise apparent phenomena?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྣང་བ་ དང་ མི་སྣང་བ་ ལ་ མི་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not dwell in either appearance or nonappearance?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཟབ་ ཅེས་བྱ་བ་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$32 The Blessed One said, “ ‘Profound’ refers to dependent origination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཀྱིས་ ལྟ་བ་ ཐམས་ཅད་ དང་ བྲལ་བ ས་ ཆོས་ ཐམས་ཅད་ ལ་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ ཡིན་པ ར་ རིག་ པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>By being free of all views, bodhisattvas must understand that all phenomena are dependent origination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ གང་དག་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ ས་ སྣང་བར་ གྱུར་པ་ དེ་དག་ ལ་ ཡང་ སེམས་ཅན་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ འི་ ཕྱིར་ བརྙས་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Since all phenomena are dependent origination, in order to ripen beings they must not despise apparent phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྣང་བ་ དང་ མི་སྣང་བ་ ལ་ གནས་པ ར་ མི་ བྱ་བ་ ནི་ གཉིས་ དང་ བྲལ་བ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘do not dwell in either appearance or nonappearance’ in order to be free from duality. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ ལྟ་བས་ན་ གང་ཡང་ དག་པ ར་ བསྡུ་བ ར་ བྱ་བ་ དེ་ ལ་ འདོད་པ་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$33 “Therefore, noble sons, be without desire for what is to be accumulated, and yet,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་ པར་ བསྡུ་བ འི་ ཕྱིར་ཡང་ བརྩོན་འགྲུས་ མ་ གློད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>in order to accumulate, do not loosen your diligence.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གང་ཡང་ དག་པ ར་ བསྡུ་བ ར་ བགྱི་བ་ དེ་ ལ་ འདོད་པ་ མ་ མཆིས་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas without desire for what is to be accumulated?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡང་དག་ པར་ བསྡུ་བ ར་ བགྱི་བ འི་ སླད་ དུ་ བརྩོན་འགྲུས་ ལྷོད་པ ར་ མི་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they, in order to accumulate, not loosen their diligence?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཡང་དག་ པར་ བསྡུ་བ་ ཞེས་ བྱ་བ་ ནི་ དགེ་བ འི་ རྩ་བ་ རྣམས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$34 The Blessed One said, “ ‘What is to be accumulated’ are the roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ འདོད་པ་ མེད་པ་ ནི་ མི་ལྟ་བ ར་ སེམས་ཅན་ རྣམས་ ལ་ གཏང་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being without desire for that’ means freely giving them to sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་ པར་ བསྡུ་བ་ ལ་ བརྩོན་འགྲུས་ མི་ གློད་པ་ ནི་ དགེ་བ འི་ རྩ་བ་ ལ་ ངོམས་ མི་ ཤེས་པ ར་ བརྩོན་པ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘In order to accumulate, not loosening their diligence’ means applying effort while never feeling sated by roots of virtue. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གཏིང་དཔག་ དཀའ་བ ར་ ཡང་ གྱིས་ ཤིག _། སྤྱོད་པ་ གསལ་བ་ ལ་ ཡང་ སྣང་བར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$35 “Therefore, noble sons, on the one hand be hard to fathom, and on the other hand manifest intelligible conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་ འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གཏིང་དཔག་ དཀའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas hard to fathom?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྤྱོད་པ་ གསལ་བ་ ལ་ ཡང་ གདའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they manifest intelligible conduct?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གཏིང་དཔག་ དཀའ་བ་ ཞེས་ བྱ་བ་ ནི་ ཟབ་པ་ ལ་ སྙོམས་པ ར་ འཇུག་པ་ སྟེ །_ |#| གང་ ལ་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ [19a]  ཀྱང་ གཏིང་ མི་ རྙེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$36 The Blessed One said, “ ‘Being hard to fathom’ means resting in the profound, a state that not even the hearers and solitary buddhas [19.a] can fathom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤྱོད་པ་ གསལ་བ་ ལ་ ཡང་ སྣང་བ་ ཞེས་ བྱ་བ་ ནི་ བྱིས་པ་ སོ་སོ འི་ སྐྱེ་བོ འི་ ཆོས་ རྣམས་ དང་ འདྲེ་བ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Manifesting intelligible conduct’ means blending with the phenomena of childish ordinary beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ལམ་ ལས་ གཟུར་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$37 “Therefore, noble sons, avoid the path.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལམ་གོལ་བ་ ན་ ཡང་ སྣང་བར་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>When the path is lost, illuminate.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པ འི་ ལམ་ ཡང་ མ་ དོར་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not reject the authentic path.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ལམ་ ལས་ འཛུར་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas avoid the path?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ལམ་གོལ་བ་ ན་ ཡང་ གདའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they illuminate when the path is lost?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡང་དག་པ འི་ ལམ་ མི་ འདོར་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not reject the authentic path?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ལམ་ ལས་ འཛུར་བ་ ཞེས་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ལམ་ ལས་ འབྱོལ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$38 The Blessed One said, “ ‘Avoiding the path’ means turning away from the paths of the hearers and the solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལམ་གོལ་བ་ ན་ སྣང་བ་ ནི་ སེམས་ཅན་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘illuminate when the path is lost’ in order to mature sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པ འི་ ལམ་ མི་ འདོར་བ་ ནི་ འདི་ལྟ་སྟེ །_ |#| ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ དྲུག་ གི་ ལམ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not rejecting the authentic path’ refers to the path of the six perfections. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཕྱིར་ མི་ ལྡོག་པ འི་ གོ་ཆ་ ཡང་ བགོ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$39 “Therefore, noble sons, don the armor of non-regression.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ ལས་ ཀྱང་ ཕྱིར་ ལྡོག་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Turn away from everything.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱིར་ལོག་ ནས་ ཀྱང་ སྒྲོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be free after having turned away.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཕྱིར་ མི་ ལྡོག་པ འི་ གོ་ཆ་ བགོས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas don the armor of non-regression?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཐམས་ཅད་ ལས་ ཕྱིར་ ལྡོག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they turn away from everything?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཕྱིར་ ལྡོག་ ནས་ |#| སྒྲོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they free after having turned away?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཕྱིར་ མི་ ལྡོག་པ འི་ གོ་ཆ་ བགོས་ ཞེས་ བྱ་བ་ ནི་ ཆོས་ དང་ འཐུན་པ འི་ དམ་བཅས་པ་ ལ་ གནས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$40 The Blessed One said, “ ‘Donning the armor of non-regression’ means observing vows that are in accord with the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ ལས་ ཕྱིར་ ལྡོག་པ་ ནི་ ཆོས་ དང་ མི་ ལྡན་པ འི་ དམ་བཅས་པ་ ལས་ ལྡོག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Turning away from everything’ means turning away from vows that are not endowed with the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱིར་ལོག་པ་ ནས་ སྒྲོལ་བ་ ནི་ མི་དགེ་བ འི་ ཆོས་ ཐམས་ཅད་ ཀྱི་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being free after having turned away’ means being free from all nonvirtuous qualities. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| འདུམ་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$41 “Therefore, noble sons, be united.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ དབྱེ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Always divide.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བརྟན་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be steadfast.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བློ་རྒོད་ ཅིང་ མི་རྒོད་ པར་ ཡང་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>Be both agitated as well as not agitated.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ འདུམ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas united?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ བྱེ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they always divide?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བརྟན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they steadfast?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བློ་རྒོད་ ཅིང་ མི་རྒོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they both agitated and not agitated?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ འདུམ་པ་ ཞེས་ བྱ་བ་ ནི་ བདུད་ ཟིལ་ གྱིས་ མནན་པ འི་ ཕྱིར་ [19b]  རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$42 The Blessed One said, “They are ‘united’ in order to overcome māras. [19.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ བྱེ་བ་ ནི་ གཅིག་ ནས་ གཅིག་ ཏུ་ བརྒྱུད་ ཅིང་ མི་ གནས་པ འི་ སེམས་ གཞན་ དང་ གཞན་ ཤེས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Always dividing’ means knowing that a continuous succession is different from the non-abiding mind.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བརྟན་པ་ ནི་ བསྒྲུབ་པ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Steadfast’ means being steadfast in accomplishment.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བློ་རྒོད་ ཅིང་ མི་རྒོད་པ་ ནི་ དགེ་བ འི་ ཆོས་ གཞན་ དང་ གཞན་ ལ་ དམིགས་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘both agitated and not agitated’ in order to observe the different virtuous qualities. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| རྗེས་ སུ་ ཆགས་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$43 “Therefore, noble sons, be affectionate.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ ཞེ་ འགྲས་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Always be hostile.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡུན་རིང་པོ ར་ ལྟ་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Look for a long time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ མི་ གཟོ་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not respond in kind.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ རྗེས་སུ་ ཆགས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas affectionate?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ ཞེ་ འགྲས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they always hostile?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡུན་རིང་པོ ར་ ལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they look for a long time?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བྱས་པ་ མི་ གཟོ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not respond in kind?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ རྗེས་སུ་ ཆགས་པ་ ཞེས་ བྱ་བ་ ནི་ ཐེག་པ་ ཆེན་པོ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$44 The Blessed One said, “ ‘Affectionate’ means being affectionate toward the Great Vehicle.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེ་ འགྲས་པ་ ཞེས་ བྱ་བ་ ནི་ ཐེག་པ་ དམན་པ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Hostile’ means being hostile to the lower vehicle.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡུན་རིང་པོ ར་ ལྟ་བ་ ནི་ འཁོར་བ་ ཡོངས་སུ་ བཟུང་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘look for a long time’ in order to accept saṃsāra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ མི་ གཟོ་བ་ ནི་ སྡིག་པ་ བྱས་པ་ རྣམས་ ལ་ ཕྱིར་ ལན་ མི་ གློན་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not responding in kind’ means not retaliating against those who commit evil acts. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གཏོང་བ་ ཡང་ ཤིན་ཏུ་ ཐོང་ ཤིག _། སེར་སྣ་ ཅན་ དུ་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$45 “Therefore, noble sons, on the one hand be very generous, and on the other hand be miserly.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཛིན་པ འི་ སེམས་ ཀྱང་ མེད་པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be free from a grasping attitude.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་ འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གཏོང་བ་ ཤིན་ཏུ་ གཏང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas very generous?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེར་སྣ་ ཅན་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they miserly?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཛིན་པ འི་ སེམས་མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they free from a grasping attitude?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གཏོང་བ་ ཤིན་ཏུ་ གཏང་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཡོངས་སུ་ མི་ གཏང་བ འི་ ཕྱིར་ སྦྱིན་པ་ གཏང་ བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$46 The Blessed One said, “ ‘Being very generous’ means being generous in order to not abandon anyone.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེར་སྣ་ ཅན་ དུ་ བྱ་བ་ ནི་ སྣོད་ དུ་མ་ གྱུར་པ་ རྣམས་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being miserly’ means being miserly to those who are not proper recipients.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཛིན་པ་ མེད་པ འི་ སེམས་ སུ་ བྱ་བ་ ནི་ ཆོས་ ལ་ སློབ་དཔོན་ གྱི་ དཔེ་མཁྱུད་ མེད་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘free from a grasping attitude’ so that teachers are not stingy with the teachings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གང་དག་ སྤངས་པ་ དེ་དག་ ནི་ ཡོངས་སུ་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$47 “Therefore, noble sons, accept those who have been abandoned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ ཡོངས་སུ་ བཟུང་བ་ དེ་དག་ ནི་ ཡལ་བ ར་ ཞོག་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Disregard those who have been accepted.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནད་པ་ ལྟར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Act like a sick person.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ན་བ་ རྣམས་ ཀྱང་ གསོས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Cure the sick.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གང་དག་ སྤངས་པ་ དེ་དག་ ཡོངས་སུ་ འཛིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas accept those who have been abandoned?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ གང་དག་ ཡོངས་སུ་ བཟུང་བ་ དེ་དག་ ཡལ་བ ར་ [20a]  འཇོག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they disregard [20.a] those who have been accepted?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ནད་པ་ ལྟ་བུ ར་ གྱུར་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they act like a sick person?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ན་བ་ རྣམས་ ཀྱང་ གསོ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they cure the sick?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གང་དག་ སྤངས་པ་ དེ་དག་ ཡོངས་སུ་ གཟུང་བ་ ནི་ ལོག་པ་ ཉིད་ དུ་ ངེས་པ འི་ སེམས་ཅན་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱིས་ སྤངས་པ་ དེ་དག་ བྱང་ཆུབ་ སེམས་དཔ ས་ ཡོངས་སུ་ བཟུང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$48 The Blessed One said, “ ‘Accepting those who have been abandoned’ means that bodhisattvas must accept those beings who are fixed in error and have been abandoned by all the buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ ཡོངས་སུ་ བཟུང་བ་ དེ་དག་ ཡལ་བ ར་ གཞག་པ་ ནི་ སློབ་པ་ དང་ མི་སློབ་པ་ ཐམས་ཅད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Disregarding those who have been accepted’ means disregarding all those on the paths of training and no training.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནད་པ་ ལྟར་ ཡང་ བྱ་ ཞིང་ ན་བ་ རྣམས་ ཀྱང་ གསོ་བ ར་ བྱ་བ་ ནི་ བསམས་ བཞིན་ དུ་ རྒ་བ་ དང་ ན་བ་ བསྟན་ ནས་ |#| སོ་སོ འི་ སྐྱེ་བོ་ རྣམས་ ལ་ ཆོས་ བསྟན་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Acting like a sick person and curing the sick’ means intentionally demonstrating old age and sickness and then teaching the Dharma to ordinary beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| བདུད་ ཀྱི་ ལས་ རྣམས་ ནི་ འབར་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$49 “Therefore, noble sons, cause the works of Māra to blaze, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཀྱི་ ཆོས་ རྣམས་ ནི་ ཞི་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>pacify buddha qualities.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བདུད་ ཀྱི་ ལས་ རྣམས་ ནི་ འབར་བ ར་ བགྱིད་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas cause the works of Māra to blaze?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སངས་རྒྱས་ ཀྱི་ ཆོས་ རྣམས་ ནི་ ཞི་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they pacify buddha qualities?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བདུད་ ཀྱི་ ལས་ འབར་བ ར་ བྱེད་པ་ ནི་ དགེ་བ འི་ ཆོས་ ལ་ བརྩོན་པ་ རྣམས་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$50 The Blessed One said, “ ‘Causing the works of Māra to blaze’ means striving for virtuous qualities.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཀྱི་ ཆོས་ རྣམས་ ཞི་བ ར་ བྱེད་པ་ ནི་ ཆོས་ ཐམས་ཅད་ ཉོན་མོངས་པ་ དང་ །_ ཉེ་བ འི་ ཉོན་མོངས་ པ་ མེད་པར་ སྦྱོར་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Pacifying buddha qualities’ means engaging with all phenomena while free from afflictions and secondary afflictions. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ བདུད་ རྣམས་ དང་ ནི་ འཐབ་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$51 “Therefore, noble sons, fight with the māras and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོན་པ་ ནི་ མ་ ཚོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>do not investigate the teacher.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བདུད་ དང་ འཐབ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas fight with the māras?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྟོན་པ་ མི་ ཚོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not investigate the teacher?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བདུད་ དང་ འཐབ་པ ར་ བྱ་བ་ ནི་ བྱང་ཆུབ་ སེམས་དཔའ་ དག་ གང་ གི་ ཚེ་ སེམས་ཅན་ རྣམས་ ཡོངས་སུ་ སྨིན་པ ར་ བྱེད་པ་ དེ འི་ ཚེ་ བར་ཆད་ བྱ་བ འི་ ཕྱིར་ བདུད་ བརྩོན་པ ར་ བྱེད་པ་ ན འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$52 The Blessed One said, “They ‘fight with the māras’ because the māras work hard to create obstacles when bodhisattvas ripen sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོན་པ་ མི་ ཚོལ་བ་ ནི་ དགེ་བ འི་ ཆོས་ ཐམས་ཅད་ དང་ ལྡན་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘do not investigate the teacher’ because he is endowed with all virtuous qualities. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ གང་དག་ ཉན་ཐོས་ ཀྱིས་ སྨད་པ ར་ བྱ་བ་ དེ་ ཁྱེད་ ཀྱིས་ མ་སྨད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$53 “Therefore, noble sons, do not slander what the hearers slander, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ལ་ ཉན་ཐོས་ མངོན་པར་ དགའ་བ་ དེ་ ལ་ ཁྱེད་ དགའ་བ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>do not have fondness for what the hearers are fond of.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གང་དག་ ཉན་ཐོས་ ཀྱིས་ [20b]  སྨད་པ ར་ བགྱི་བ་ དེ་དག་ ལ་ མི་ དམོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not slander what the hearers slander? [20.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ གང་ ལ་ ཉན་ཐོས་ དགའ་བ་ དེ་ ལ་ མི་ དགའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>And how do they not have fondness for what the hearers are fond of?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཉན་ཐོས་ ནི་ སྐྱེ་བ འི་ གནས་ རྣམས་ ལ་ སྨོད་ དེ །_ |#| དེ་དག་ ཁྱེད་ ཀྱིས་ སྨད་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$54 The Blessed One said, “Hearers slander the modes of birth, but you should not slander them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉན་ཐོས་ ནི་ རང་ ཡོངས་སུ་ མྱ་ངན་ ལས་ འདས་པ་ ལ་ མངོན་པར་ དགའ་ ན་ དེ་ ལ་ ཁྱེད་ ཀྱིས་ མངོན་པར་ དགའ་བ ར་ མི་ བྱ་ སྟེ །_ |#| དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Hearers find pleasure in their personal nirvāṇa, but you should not find pleasure in that. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| འཇིག་རྟེན་ ན་ གནས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$55 “Therefore, noble sons, abide in the world.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ གྱི་ ཆོས་ རྣམས་ མྱོང་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Experience the phenomena of the world.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ གྱིས་ ཀྱང་ མ་ གོས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Moreover, be unstained by the world, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ ན་ ཐོགས་པ་ རྣམས་ ཀྱང་ སྒྲོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>free those who are bound in the world.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ འཇིག་རྟེན་ ན་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas abide in the world?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཇིག་རྟེན་ གྱི་ ཆོས་ རྣམས་ མྱོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they experience the phenomena of the world?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཇིག་རྟེན་ གྱིས་ མི་ གོས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they unstained by the world?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཇིག་རྟེན་ དུ་ ཐོགས་པ་ སྒྲོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they free those who are bound in the world?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ འཇིག་རྟེན་ ན་ གནས་པ ར་ བྱ་བ་ ནི་ འདོད་པ་ དང་ །_ གཟུགས་ དང་ །_ གཟུགས་ མེད་པ་ རྣམས་ སུ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$56 The Blessed One said, “ ‘Abiding in the world’ means abiding in the desire realm, the form realm, and the formless realm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ གྱི་ ཆོས་ རྣམས་ མྱང་བ ར་ བྱ་བ་ ནི་ འཇིག་རྟེན་ གྱི་ ཆོས་ བརྒྱད་པོ་ དག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Experiencing the phenomena of the world’ means experiencing the eight worldly concerns.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ གྱིས་ མི་ གོས་པ ར་ བྱ་བ་ ནི་ བདེ་བ་ དང་ སྡུག་བསྔལ་ གྱིས་ མི་བསྐྱོད་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being unstained by the world’ means being unmoved by happiness and suffering.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ དུ་ ཐོགས་པ་ བསྒྲལ་བ་ ནི་ ཁམས་ གསུམ་ གྱི་ བཙོན་ར་ ནས་ འདོན་པ་ སྟེ །_ |#| དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Freeing those who are bound in the world’ means releasing those who are in the prison of the three realms. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཡང་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$57 “Therefore, noble sons, be light,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྕི་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be heavy,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྡུག་བསྔལ་ བར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>suffer, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེ་ བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be happy.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཡང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas light?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ལྕི་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they heavy?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྡུག་བསྔལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they suffer?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བདེ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they happy?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཡང་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ བྱ་བ་ ཅི་ ཡོད་པ་ ལ་ སྙིང་ལས་ སུ་ བྱེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$58 The Blessed One said, “ ‘Being light’ means worrying about the actions of all sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྕི་བ་ ནི་ ཡི་དམ་ ལ་ བརྟན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being heavy’ means being firm in their vows.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྡུག་བསྔལ་ བར་ བྱ་བ་ ནི་ མི་ འཐུན་པ འི་ གཉེན་པོ་ རྣམས་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘suffer’ because they engage in unpleasant antidotes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེ་བ ར་ བྱ་བ་ ནི་ བསོད་ནམས་ བྱས་པ འི་ ཕྱིར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘happy’ because they have produced merit.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ མི་སྣང་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$59 “Therefore, noble sons, be invisible.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ དུ་ སྣང་ [21a]  བར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Appear everywhere. [21.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱོལ་བ ར་ བྱ་བ་ རྣམས་ ལ་ ནི་ བྱོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Avoid mistakes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྡད་པ ར་ བྱ་བ་ རྣམས་ ལ་ ནི་ སྡོད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do what remains to be done.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ལ་ མི་ གདའ་བ་ ཡང་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>%The bodhisattvas asked, “Blessed One, how are bodhisattvas invisible?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཐམས་ཅད་ དུ་ གདའ་བ་ ཡང་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>%How do they appear everywhere?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བྱོལ་བ ར་ བགྱི་བ་ རྣམས་ ལ་ བྱོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they avoid mistakes?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བསྡད་པ ར་ བགྱི་བ་ རྣམས་ ལ་ སྡོད་པ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they do what remains to be done?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མི་སྣང་བ ར་ བྱ་བ་ ནི་ ལྟུང་བ་ དང་ འཁྲུལ་པ་ ཐམས་ཅད་ ལས་ ཡང་དག་ པར་ འདས་པ ར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$60 The Blessed One said, “ ‘Being invisible’ means having transcended all downfalls and mistakes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ དུ་ སྣང་བར་ ཡང་ བྱ་བ་ ནི་ བྱང་ ཆུབ་ ཀྱི་ ཕྱོགས་ ཀྱི་ ཆོས་ ཡང་དག་ པར་ བསྒྲུབ་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Appearing everywhere’ means accomplishing the factors that are in harmony with awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱོལ་བ ར་ བྱ་བ་ རྣམས་ ལས་ འབྱོལ་བ་ ནི་ འཐབ་མོ་ དང་ རྩོད་པ་ རྣམས་ ལས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Avoiding mistakes’ means avoiding strife and dispute.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྡད་པ ར་ བྱ་བ་ རྣམས་ ལ་ སྡོད་པ་ ནི་ སེམས་ཅན་ ཚོགས་པ ར་ བྱ་བ འི་ ཕྱིར་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Doing what remains to be done’ means gathering sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མ་ བྱས་པ་ རྣམས་ ལ འང་ གནས་པ ར་ གྱིས་ ཤིག _། བྱས་པ་ རྣམས་ ལ འང་ གནས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$61 “Therefore, noble sons, on the one hand dwell on what has not been done, and on the other hand dwell on what has been done.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ དང་ མ་ བྱས་པ་ རྣམས་ ལ འང་ སེམས་ མཉམ་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Have impartial minds with regard to both what has and has not been done.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མ་ བགྱིས་པ་ རྣམས་ ལ འང་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas dwell on what has not been done?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བགྱིས་པ་ རྣམས་ ལ འང་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they dwell on what has been done?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བགྱིས་པ་ དང་ མ་ བགྱིས་པ་ རྣམས་ ལ འང་ སེམས་ མཉམ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they have impartial minds with regard to both what has and has not been done?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མ་ བྱས་པ་ རྣམས་ ལ་ གནས་པ་ ནི་ དགེ་བ འི་ རྩ་བ་ ཡང་དག་ པར་ བསྒྲུབ་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$62 The Blessed One said, “They ‘dwell on what has not been done’ in order to accomplish the roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ རྣམས་ ལ་ གནས་ པ་ ནི་ དགེ་བ འི་ རྩ་བ་ བྱས་པ་ དེ འི་ གོང་མ འི་ ཆོས་ དང་ སྦྱར་བ ར་ བྱ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘dwell on what has been done’ in order to reach the higher qualities of the roots of virtue that have been performed.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པ་ དང་ མ་ བྱས་པ་ རྣམས་ ལ་ སེམས་ མཉམ་པ ར་ བྱ་བ་ ནི་ ཚུལ་ཁྲིམས་ དང་ ལྡན་པ་ དང་ །_ ཚུལ་ཁྲིམས་ འཆལ་པ་ རྣམས་ ལ་ བྱེ་བྲག་ མེད་པ འི་ འདུ་ཤེས་ སུ་ བྱ་བ་ སྟེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Having impartial minds with regard to both what has and has not been done’ means making no distinction between those who observe discipline and those who have faulty discipline.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ ལྟ་བས་ན་ སྙིང་པོ་ མེད་པ་ ལས་ ཀྱང་ སྙིང་པོ་ ཚོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$63 “Therefore, noble sons, strive for what has an essence instead of what has no essence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་པོ་ ལ་ ཡང་སྙིང་པོ་ མེད་པ འི་ འདུ་ཤེས་ སྐྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Give rise to the notion that the essence has no essence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་པོ་ དང་ སྙིང་པོ་ མེད་པ་ ལ་ ཡང་ སྤྱོད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Experience what both has an essence and has no essence.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ སྙིང་པོ་ མ་ མཆིས་པ་ ལ་ སྙིང་པོ་ ཚོལ་བ་ ལགས །_ [21b]</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas strive for what has an essence instead of what has no essence? [21.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྙིང་པོ་ ལ་ སྙིང་པོ་ མ་ མཆིས་པ ར་ འདུ་ཤེས་ བསྐྱེད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they give rise to the notion that the essence has no essence?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྙིང་པོ་ དང་ སྙིང་པོ་ མ་ མཆིས་པ་ ལ་ སྤྱོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they experience what both has an essence and has no essence?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ སྙིང་པོ་ མེད་ ཅེས་བྱ་བ་ ནི་ ལུས་ དང་ །_ སྲོག་ དང་ །_ ལོངས་སྤྱོད་ རྣམས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$64 The Blessed One said, “ ‘What has no essence’ means the body, life force, and possessions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ལས་ དམ་པ འི་ ཆོས་ ཡོངས་སུ་ རྫོགས་པ ར་ བྱ་ བ ས་ སྙིང་པོ་ བཙལ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Instead of striving for that, they strive for what has an essence by perfecting the sacred Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་པོ་ ཞེས་ བྱ་བ་ ནི་ འདུས་མ་བྱས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Essence’ means the uncompounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཀྱི་ ཆོས་ ལ་ གཟུད་པ འི་ ཕྱིར་ དེ་ ལ་ སྙིང་པོ་ མ་ཡིན་པ འི་ འདུ་ཤེས་ བསྐྱེད་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In order to apprehend the qualities of buddhahood, one must give rise to the notion that they are without essence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙིང་པོ་ དང་ སྙིང་པོ་ མ་ཡིན་པ་ ལ་ སྤྱོད་པ་ ནི་ འདུས་བྱས་ དང་ །_ འདུས་མ་བྱས་ ཀྱི་ ཆོས་ རྣམས་ ལ་ བློ་ གཏང་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Experiencing what both has an essence and has no essence’ means abandoning the idea of both compounded and uncompounded phenomena. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| དམ་བཅས་པ་ ནི་ ཉམས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$65 “Therefore, noble sons, break your vows.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ ནི་ མ་ ཉམས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Maintain unimpaired discipline.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ འཆལ་པ་ རྣམས་ ལ་ ནི་ ལྟོས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Pay attention to those who have faulty discipline.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ དང་ ལྡན་པ་ རྣམས་ ལ་ ནི་ ཡལ་བ ར་ ཞོག་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Disregard those who are disciplined.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_། བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ དམ་བཅས་པ་ ཉམས་པ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas break their vows?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ཚུལ་ ཁྲིམས་ མ་ ཉམས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they maintain unimpaired discipline?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ཚུལ་ ཁྲིམས་ འཆལ་པ་ རྣམས་ ལ་ ལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they pay attention to those who have faulty discipline?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ཚུལ་ ཁྲིམས་ དང་ ལྡན་པ་ རྣམས་ ལ་ ཡལ་བ ར་ གཞོག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they disregard those who are disciplined?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ དམ་བཅས་པ་ ཉམས་པ ར་ བྱ་བ་ ནི་ དགེ་བ འི་ རྩ་བ་ གོང་མ་ དང་ གོང་མ་ ལ་ ལྷག་པ ར་ དམིགས་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$66 The Blessed One said, They “break their vows’ in order to aim for higher roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ མ་ ཉམས་པ ར་ བྱ་བ་ ནི་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ལ་ ལྷག་པ ར་ དམིགས་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘maintain unimpaired discipline’ in order to aim for the mind of awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ འཆལ་པ་ རྣམས་ ལ་ ལྟ་བ་ ནི་ ཚུལ་ཁྲིམས་ ལ་ སྦྱར་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘pay attention to those who have faulty discipline’ in order to connect them with discipline.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ དང་ ལྡན་པ་ རྣམས་ ལ་ ཡལ་བ ར་ གཞག་པ་ ནི་ བྱ་བ་ བྱས་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘disregard those who are disciplined’ because their work is done. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ གཞན་ གྱི་ ནོར་ ལ་ དགའ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$67 “Therefore, noble sons, delight in the wealth of others,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རང་ གི་ ནོར་ ནི་ ཡོངས་སུ་ ཐོང་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>give away your own wealth, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉེ་བ ར་ གནས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>be present.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གཞན་ གྱི་ ནོར་ ལ་ དགའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas delight in the wealth of others?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རང་ གི་ ནོར་ ཡོངས་སུ་ གཏོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they give away their own wealth?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཉེ་བ ར་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they present?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གཞན་ གྱི་ ནོར་ ལ་ མངོན་པར་ དགའ་བ་ ཞེས་ བྱ་བ་ ནི་ [22a]  བྱང་ཆུབ་ སེམས་དཔའ་ དང་ །_ ཉན་ཐོས་ དང་ །_ རང་ སངས་རྒྱས་ ཐམས་ཅད་ དང་ །_ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ བསོད་ནམས་ ལ་ རྗེས་སུ་ ཡི་ རང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$68 The Blessed One said, “ ‘Delighting in the wealth of others’ means rejoicing in the merit of [22.a] all bodhisattvas, hearers, and solitary buddhas, as well as that of all sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རང་ གི་ ནོར་ ཡོངས་སུ་ གཏང་བ་ ནི་ རང་ གི་ དགེ་བ འི་ རྩ་བ་ རྣམས་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཡོངས་སུ་ གཏང་ བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Giving away one’s own wealth’ means giving one’s own roots of virtue to all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉེ་བ ར་ གནས་པ ར་ བྱ་བ་ ནི་ བྱང་ཆུབ་ ཏུ་ ཡོངས་སུ་ བསྔོ་བ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being present’ refers to the dedication to awakening. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མཆོག་ ཏུ་ ཕྱིན་པ ར་ ཡང་ གྱིས་ ཤིག _། སེམས་ དམའ་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$69 “Therefore, noble sons, on the one hand be splendorous, and on the other hand be humble.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལེ་ལོ་ ཅན་ དུའང་ གྱིས་ ཤིག _། རྟག་ ཏུ་ བརྩོན་པ ར་ ཡང་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand be lazy, and on the other hand always persevere.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མཆོག་ ཏུ་ ཕྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas splendorous?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེམས་ དམའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they humble?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ལེ་ལོ་ ཅན་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they lazy?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ བརྩོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they always persevere?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མཆོག་ ཏུ་ ཕྱིན་པ་ ནི་ ཤེས་རབ་ དང་ ཡེ་ཤེས་ ཀྱིས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$70 The Blessed One said, “They are ‘splendorous’ due to insight and wisdom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ དམའ་བ་ ནི་ ང་རྒྱལ་ མེད་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being humble’ means not having pride.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལེ་ལོ་ ཅན་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ས་ འཐོབ་པ ར་ བྱ་བ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being lazy’ refers to attaining the levels of the hearers and solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ བརྩོན་པ་ ནི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ རྣམས་ ལ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Always persevering’ means persevering in the perfections. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མི་ སྲུན་པ ར་ ཡང་ གྱིས་ ཤིག _། དུལ་བ འི་ ས་ ལ་ གནས་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$71 “Therefore, noble sons, on the one hand be wrathful, and on the other hand be gentle.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིགས་ པར་ ཡང་ གྱིས་ ཤིག _། སེང་གེ འི་ རྩལ་ གྱིས་ རྣམ་པར་ གནོན་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand be fearful, and on the other hand subdue with the force of a lion.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མི་ སྲུན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas wrathful?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུལ་བ འི་ ས་ ལ་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they gentle?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཇིགས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they fearful?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེང་གེ འི་ རྩལ་ གྱིས་ རྣམ་པར་ གནོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they subdue with the force of a lion?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མི་ སྲུན་པ ར་ བྱ་བ་ ནི་ བདུད་ ཐམས་ཅད་ གདུལ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$72 The Blessed One said, “They are ‘wrathful’ in order to tame all māras.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུལ་བ འི་ ས་ ལ་ གནས་པ་ ནི་ སེམས་ཅན་ ཅང་ཤེས་ གདུལ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘gentle’ in order to tame beings of good origin.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིགས་ པར་ བྱ་བ་ ནི་ སྡིག་པ་ ཐམས་ཅད་ ལས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being fearful’ means being fearful of any wrongdoing.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེང་གེ འི་ རྩལ་ གྱིས་ རྣམ་པར་ གནོན་པ ར་ བྱ་བ་ ནི་ ཕས་ ཀྱི་ རྒོལ་བ་ ཐམས་ཅད་ སྨད་ བབ་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘subdue with the force of a lion’ in order to suppress all adversarial disputes. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཡིད་ དུ་ འོང་བ ར་ ཡང་ གྱིས་ ཤིག _། ཡིད་ དུ་ མི་ འོང་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$73 “Therefore, noble sons, on the one hand be attractive, and on the other hand be unattractive.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྨད་ དུ་ མེད་པར་ ཡང་ གྱིས་ ཤིག _། སྨད་ [22b]  དུ་ཡོད་ པར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand be free from reproach, [22.b] and on the other hand reproach.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཡིད་ དུ་ འོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas attractive?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡིད་ དུ་ མི་ འོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they unattractive?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྨད་ དུ་མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they free from reproach?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྨད་ དུ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they reproach?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཡིད་ དུ་ འོང་བ་ ཞེས་ བྱ་བ་ ནི་ ཡོན་ཏན་ གྱིས་ ཕྱུག་པ འི་ ཕྱིར་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱི་ ཐུགས་ སུ་ བྱོན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$74 The Blessed One said, “ ‘Attractive’ means that through their wealth of good qualities they have arrived at the mind of all buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡིད་ དུ་ མི་ འོང་བ་ ནི་ མངོན་པར་ ཤེས་པ་ ཐམས་ཅད་ ཀྱི་ རྣམ་པར་ འཕྲུལ་པ འི་ ཕྱིར་ བདུད་ ཐམས་ཅད་ ཀྱི་ ཡིད་ དུ་ མི་ འོང་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Unattractive’ refers to their manifestation of all the superknowledges, which are unattractive to all māras.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྨད་ དུ་ མེད་པ་ ནི་ ལུས་ དང་ །_ ངག་ དང་ །_ ཡིད་ ཡོངས་སུ་ དག་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘free from reproach’ because their body, speech, and mind are pure.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྨད་ དུ་ཡོད་པ་ ནི་ མི་དགེ་བ འི་ ཆོས་ ཐམས་ཅད་ ལ་ དམོད་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘reproach’ because they disparage all unwholesome qualities. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ རྨ་ བྱུང་བ་ རྣམས་ ལ་ རྨ་ མ་ འབྱིན་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$75 “Therefore, noble sons, do not discourage those who are discouraged.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྨ་ མ་བྱུང་བ་ རྣམས་ ལ་ རྨ་ ཕྱུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Discourage those who are not discouraged.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཚོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Search for wisdom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཀྱི་ བྱ་བ་ རྣམས་ ལ་ དགའ་བ ར་ མ་ བྱེད་ ཅིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>Avoid fondness for the actions of wisdom.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ རྨ་ བྱུང་བ་ རྣམས་ ལ་ རྨ་ མི་ འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not discourage those who are discouraged?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྨ་ མ་བྱུང་བ་ རྣམས་ ལ་ རྨ་འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they discourage those who are not discouraged?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡེ་ཤེས་ ཚོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they search for wisdom?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཡེ་ཤེས་ ཀྱི་ བགྱི་བ་ རྣམས་ ལ་ མི་ དགའ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they avoid fondness for the actions of wisdom?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ རྨ་ བྱུང་བ་ རྣམས་ ཞེས་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ས་ སྟེ་ དེ་ ལ་ རྨ་ དབྱུང་བ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$76 The Blessed One said, “ ‘Those who are discouraged’ means those who are on the levels of the hearers and solitary buddhas. |#| They should not be discouraged.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྨ་ མ་བྱུང་བ་ རྣམས་ ཞེས་ བྱ་བ་ ནི་ སོ་སོ འི་ སྐྱེ་བོ་ ཐམས་ཅད་ དེ །_ |#| དེ་དག་ ནི་ རྨ་ དབྱུང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Those who are not discouraged’ means all ordinary beings. |#| They should be discouraged.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ བཙལ་བ ར་ བྱ་བ་ ནི །_ ཟད་པ་ དང་ མི་ སྐྱེ་བ་ ཤེས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Searching for wisdom’ means searching for the knowledge of exhaustion and the unborn.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཀྱི་ བྱ་བ་ ལ་ དགའ་བ ར་ མི་ བྱ་བ་ ནི་ འདུས་མ་བྱས་ སུ་ ལྟུང་བ ར་ མི་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Avoiding fondness for the actions of wisdom’ means not straying into the uncompounded. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| མཉམ་པ ར་ གཞག་ པར་ ཡང་ གྱིས་ ཤིག _། སེམས་ རྣམ་པར་ གཡེང་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$77 “Therefore, noble sons, on the one hand rest in composure, and on the other hand be distracted.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ མི་ གནས་པ ར་ ཡང་ གྱིས་ ཤིག _། རྟག་ ཏུ་ སྙོམས་པ ར་ ཞུགས་ པར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand do not let your minds rest, and on the other hand always remain composed.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མཉམ་པ ར་ གཞག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas rest in composure?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེམས་ རྣམ་པར་ གཡེང་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they distracted?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེམས་ མི་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not let their minds rest?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ སྙོམས་པ ར་ ཞུགས་པ་ ལགས །_ [23a]</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they always remain composed?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མཉམ་པ ར་ གཞག་པ་ ནི་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ཀྱིས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$78 The Blessed One said, [23.a] “They ‘rest in composure’ by means of the mind of awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ རྣམ་པར་ གཡེང་བ ར་ བྱ་བ་ ནི་ ཉན་ཐོས་ ཀྱི་ སེམས་ལས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Distracted’ means being distracted from the mind of the hearers.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ གནས་པ་ ནི་ དེ་ ལ་མ་ ཆགས་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘do not let their minds rest’ because they are unattached to that.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ སྙོམས་པ ར་ ཞུགས་པ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ སེམས་ མཉམ་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘always remaining composed’ because they maintain an unbiased mind toward all beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ བསྲེག་པ ར་ བྱ་བ་ ནི་ སྲེགས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$79 “Therefore, noble sons, burn what must be burnt.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚིག་པ་ ནི་ སྐྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Set things on fire.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེས་པ་ ནི་ ཐོང་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Abandon birth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཕྱེ་བ་ ནི་ བསྡུས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Collect the extensive.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བསྲེག་པ ར་ བགྱི་བ་ སྲེག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas burn what must be burnt?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཚིག་པ་ རྣམས་ སྐྱེད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they set things on fire?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྐྱེས་པ་ རྣམས་ གཏོང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they abandon birth?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྣམ་པར་ ཕྱེ་བ་ རྣམས་ སྡུད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they collect the extensive?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བསྲེག་པ ར་ བྱ་བ་ སྲེག་པ་ ནི་ ཉོན་མོངས་པ་ ཐམས་ཅད་ ཤེས་རབ་ ཀྱི་ མེས་ སྲེག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$80 The Blessed One said, “ ‘Burning what must be burnt’ means burning all afflictions with the fire of wisdom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚིག་པ་ སྐྱེད་པ་ ནི་ ཐབས་ ཀྱིས་ ཕུང་པོ་ དང་ །_ ཁམས་ དང་ །_ སྐྱེ་མཆེད་ རྣམས་ གཟུང་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Setting things on fire’ means skillfully apprehending the aggregates, elements, and sense sources.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེས་ ནས་ གཏོང་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ བྱ་བ་ ཅི་ ཡོད་པ་ ལ་ སྙིང་ལས་ སུ་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Abandoning birth’ means having misgivings about all the activities of beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཕྱེ་བ ས་ བསྡུ་བ་ ཞེས་ བྱ་བ་ དེ་ ནི་ ཡོངས་སུ་ བསྔོ་བ འི་ ཚིག་ བླ་དགས་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Collecting the extensive’ is synonymous with dedicating the merit. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| དུས་ མ་ཡིན་པ་ ནི་ དུས་ སུ་ ཤེས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$81 “Therefore, noble sons, know the wrong time to be the right time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ ནི་ དུས་ མ་ཡིན་པ ར་ ཤེས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Know the right time to be the wrong time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ དང་ དུས་ མ་ཡིན་པ་ ལ་ མཁས་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be knowledgeable about the right time and the wrong time.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ དུས་ མ་ ལགས་པ་ ལ་ དུ ས་ སུ་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas know the wrong time to be the right time?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུས་ ལ་དུ ས་ མ་ ལགས་ པར་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they know the right time to be the wrong time?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུས་ དང་ དུས་ མ་ ལགས་པ་ ལ་ མཁས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they knowledgeable about the right time and the wrong time?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གང་ ཉན་ཐོས་ ཀྱི་ ས་ ཐོབ་པ ར་ བྱ་བ འི་ དུས་ དེ་ ནི་ བྱང་ཆུབ་ སེམས་དཔ འི་ དུས་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$82 The Blessed One said, “The time for the attainment of the hearers is ‘the wrong time’ for bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ཐམས་ཅད་ ཡོངས་སུ་ རྫོགས་པ ར་ བྱས་ ཏེ་ བླ་ ན་ མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ ཏུ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ་ ནི་ བྱང་ཆུབ་ སེམས་དཔ འི་ དུས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When they have completed all the perfections and fully awaken to unexcelled and perfect buddhahood, that is ‘the right time’ for bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ དང་ དུས་ མ་ཡིན་པ་ ལ་ མཁས་པ ར་ བྱ་བ་ ནི་ དུས་ བཞིན་ དུ་ དགེ་བ འི་ རྩ་བ་ ཡང་དག་ པར་ བསྒྲུབ་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ [23b]  ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘knowledgeable about the right time and the wrong time’ in order to accomplish roots of virtue at the right time. |#| That is the proper conduct. [23.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ འབྱོར་པ་ ནི་ ཕྱེ་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$83 “Therefore, noble sons, separate from what has been attained,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ འབྱོར་པ་ ནི་ སྦྱོར་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>connect with what has not been attained, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འབྱོར་པ་ དང་ མ་ འབྱོར་པ་ ལ་ ཆགས་པ ར་ ཡང་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>do not be attached to attainment or non-attainment.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ འབྱོར་པ་ འབྱེད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas separate from what has been attained?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་མ་ འབྱོར་ པ་ ནི་ སྦྱོར་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they connect with what has not been attained?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྦྱོར་བ་ དང་ །_ མི་ སྦྱོར་བ་ ལ་མ་ ཆགས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they not attached to attainment or non-attainment?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ འབྱོར་པ་ ནི་ ཕྱིན་ ཅི་ ལོག་ བཞི་ འཁོར་བ འི་ འདམ་ དང་ འབྱོར་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$84 The Blessed One said, “ ‘What has been attained’ means the acquirement of the four misapprehensions and the swamp of saṃsāra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ བྱང་ཆུབ་ སེམས་དཔ ས་ དབྱེ་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is what a bodhisattva must separate from.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ འབྱོར་པ་ ནི་ མྱ་ངན་ ལས་ འདས་པ འི་ ཚུལ་བཞིན་ ཡིད་ ལ་ བྱ་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What has not been attained’ means the proper contemplation of nirvāṇa.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ བྱང་ཆུབ་ སེམས་དཔ ས་ སྦྱར་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is what a bodhisattva must connect with.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འབྱོར་པ་ དང་ མ་ འབྱོར་པ་ ལ་ ཆགས་པ ར་ མི་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ སྤྱོད་པ་ དང་ །_ སོ་སོ འི་ སྐྱེ་བོ འི་ སྤྱོད་པ་ ལ་མ་ ཆགས་པ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not being attached to attainment or non-attainment’ means not being attached to the conduct of the hearers and solitary buddhas or the conduct of ordinary beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| དབུགས་ ཕྱིན་པ་ རྣམས་ ནི་ དབུགས་ མ་ ཕྱུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$85 “Therefore, noble sons, do not relieve those who are relieved.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དབུགས་ མ་ ཕྱིན་པ་ རྣམས་ ནི་ དབུགས་ཕྱུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Relieve those who have not been relieved.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ དབུགས་ ཕྱིན་པ་ རྣམས་ དབུགས་ མི་ འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not relieve those who are relieved?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དབུགས་ མ་ ཕྱིན་པ་ རྣམས་ དབུགས་ འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they relieve those who have not been relieved?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་ པ །_ དབུགས་ ཕྱིན་པ་ རྣམས་ དབུགས་ མི་ དབྱུང་བ་ ནི །_ ཡོངས་སུ་ སྨིན་པ འི་ སེམས་ཅན་ རྣམས་ ཡོངས་སུ་ སྨིན་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$86 The Blessed One said, “ ‘Not relieving those who are relieved’ means that one should not ripen beings who are already ripened.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དབུགས་ མ་ ཕྱིན་པ་ རྣམས་ དབུགས་དབྱུང་བ་ ནི་ ཡོངས་སུ་ མ་ སྨིན་པ འི་ སེམས་ཅན་ རྣམས་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Relieving those who have not been relieved’ means that one should ripen beings who have not been ripened. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| རྨ་ བྱུང་བ ར་ ཡང་ གྱིས་ ཤིག _། མ་ རྨས་པ ར་ ཡང་ གྱིས་ ཤིག _། རྨ་ བྱུང་བ་ རྣམས་ ནི་ སོས་པ ར་ ཡང་ གྱིས་ ཤིག _། |#| རྨ་ མ་བྱུང་བ་ རྣམས་ ནི་ རྨ་ དབྱུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$87 “Therefore, noble sons, get injured, avoid injury, heal wounds, and |#| do not cause injury where there are no wounds.”#2</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ རྨ་འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas get injured?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་མ་ རྨས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they avoid injury?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྨ་ བྱུང་བ་ རྣམས་ གསོ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they heal wounds?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྨ་ མ་བྱུང་བ་ རྨ་ མི་ འབྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not cause injury where there are no wounds?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ རྨ་ འབྱུང་བ་ ནི་ ཡན་ལག་ དང་ ཉིང་ལག་ ཡོངས་སུ་ བཏང་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$88 The Blessed One said, “They ‘get injured’ in order to give away their major and minor limbs.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ རྨས་པ ར་ བྱ་བ་ ནི་ སེམས་ ཀྱིས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Avoiding injury’ means doing so mentally. [24.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྨ་ བྱུང་བ་ རྣམས་ གསོ་བ་ [24a]  ནི་ ལྟུང་བ་ བྱུང་བ་ རྣམས་ ཆོས་བཞིན་ དུ་ བཅོས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Healing wounds’ means correcting downfalls according to the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྨ་ མ་བྱུང་བ་ རྨ་ མི་ དབྱུང་བ་ ནི་ སྲོག་ གི་ ཕྱིར་ཡང་ བསླབ་པ་ ལས་ འགལ་བ ར་ མི་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not causing injury where there are no wounds’ means that they should not transgress their trainings even at the cost of their lives. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཉེ་བ ར་ འཚོ ར་ མེད་པར་ ཡང་ གྱིས་ ཤིག _། སེམས་ཅན་ ཐམས་ཅད་ ཉེ་ བ ར་ འཚོ་བར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$89 “Therefore, noble sons, on the one hand be without a livelihood, and on the other hand provide a livelihood for all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བསགས་པ་ རྣམས་ ཀྱང་ སོགས་ ཤིག _། བསགས་པ་ རྣམས་ ཀྱང་ ཆུད་ མ་ གཟན་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand collect what has not been collected, and on the other hand do not waste what has been collected.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཉེ་བ ར་ འཚོ་བ་ མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas to be without a livelihood?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སེམས་ཅན་ ཐམས་ཅད་ ཉེ་བ ར་ འཚོ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they provide a livelihood for all beings?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་མ་ བསགས་པ་ སོགས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they collect what has not been collected?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བསགས་པ་ ཆུད་ མི་ གཟོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not waste what has been collected?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཉེ་བ ར་ འཚོ་བ་ མེད་པ་ ནི་ བདུད་ དང་ མུ་སྟེགས་ ཅན་ ཐམས་ཅད་ ཀྱིས་ གླགས་ མི་ རྙེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$90 The Blessed One said, “ ‘Being without a livelihood’ prevents all māras and non-Buddhists from getting an opportunity.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ཉེ་བ ར་ འཚོ་བ་ ནི་ དཔག་ བསམ་ གྱི་ ཤིང་ ལྟ་བུ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Providing a livelihood for all beings’ means being like a wish-fulfilling tree.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བསགས་པ་ བསགས་པ་ ནི་ དགེ་བ འི་ རྩ་བ་ བསྐྱེད་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘collect what has not been collected’ in order to create roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསགས་པ་ ཆུད་ མི་ གཟན་པ་ ནི་ དགེ་བ འི་ སེམས་སྐྱེས་ སོ་ ཅོག་ བྱང་ཆུབ་ ཏུ་ ཡོངས་སུ་ བསྔོ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not wasting what has been collected’ means dedicating all virtuous thoughts to awakening. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| སྟོབས་ ཆུང་བ ར་ ཡང་ གྱིས་ ཤིག _།_ སྟོབས་ དང་ ལྡན་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$91 “Therefore, noble sons, on the one hand be weak, and on the other hand be powerful.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ མེད་པར་ ཡང་ གྱིས་ ཤིག _། དཔུང་གཉེན་ མེད་པར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand be without support, and on the other hand be without a leader.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ སྟོབས་ ཆུང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas weak?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྟོབས་ དང་ ལྡན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they powerful?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟེན་ མ་ མཆིས་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without support?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དཔུང་གཉེན་ མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without a leader?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ སྟོབས་ ཆུང་ངུ་ བྱ་བ་ ནི་ གནོད་པ ར་ བྱེད་པ་ རྣམས་ ལ་ ལན་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$92 The Blessed One said, “ ‘Being weak’ means not retaliating against those who cause harm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོབས་ དང་ ལྡན་པ ར་ བྱ་བ་ ནི་ ཕན་པ་ མི་ བྱེད་པ་ རྣམས་ ལ་ བཟོད་པ ས་ ཕན་ གདགས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being powerful’ means patiently helping those who cannot help themselves.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟེན་ མེད་པར་ བྱ་བ་ ནི་ སོ་སོ་ རང་ གིས་ ཤེས་པ ས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are ‘without support’ because they are self-reliant.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དཔུང་གཉེན་ མེད་པར་ བྱ་བ་ ནི་ གཞན་ གྱི་ དྲིང་ མི་ འཇོག་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being without a leader’ means not following others. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| དང་བ་ དག་ ནི་ རྙོག་པ་ ཅན་ དུ་ གྱིས་ ཤིག _། རྙོག་པ་ ཅན་ དག་ ནི་ དང་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$93 “Therefore, noble sons, stain what is pure, purify what is stained.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྙོག་པ་ མེད་པར་ ཡང་ གྱིས་ ཤིག _། རྟག་ ཏུ་ དང་བ ར་ [24b]  ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be without stains, and always be pure.” [24.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ དང་བ་ དག་ ནི་ རྙོག་པ་ ཅན་ དུ་ བགྱི་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas stain what is pure?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྙོག་པ་ ཅན་ དག་ ནི་ དང་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they purify what is stained?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྙོག་པ་ མ་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without stains?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ དང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they always pure?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ དང་བ་ དག་ རྙོག་པ་ ཅན་ དུ་ བྱ་བ་ ནི་ མཉམ་པ ར་ གཞག་པ འི་ སེམས་ ལ་ དགེ་བ འི་ རྩ་བ་ དག་ གིས་ བསྒོ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$94 The Blessed One said, “ ‘Staining what is pure’ means defiling the mind of equipoise with roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྙོག་པ་ ཅན་ དག་ དང་བ ར་ བྱ་བ་ ནི་ ཉོན་མོངས་ པས་ རྙོགས་པ འི་ སེམས་ བྱང་ཆུབ་ ཀྱི་ སེམས་ སུ་ དང་བ ར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Purifying what is stained’ means purifying the mind stained by afflictions so that it becomes the mind of awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྙོག་པ་ མེད་པར་ བྱ་བ་ ནི་ ཉོན་མོངས་ པ་ ཐམས་ཅད་ བསལ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being without stains’ means eliminating all afflictions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ དང་བ ར་ བྱ་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ སེམས་ དང་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being always pure’ means having a pure attitude toward all beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ལུགས་ ལས་ བཟློག་ པར་ འཇུག་པ ར་ ཡང་ གྱིས་ ཤིག _། ལུགས་བཞིན་ དུ་ ཡང་ སློབས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$95 “Therefore, noble sons, on the one hand go against the grain, and on the other hand train with the grain, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤྱིའུ་ཚུགས་ ཀྱི་ རྒྱུད་ ཀྱང་ ཤེས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>know the continuum that is reversed.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ལུགས་ ལས་ བཟློག་ པར་ འཇུག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas go against the grain?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ལུགས་བཞིན་ དུ་ སློབ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they train with the grain?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྤྱིའུ་ཚུགས་ ཀྱི་ རྒྱུད་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they know the continuum that is reversed?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ལུགས་ ལས་ བཟློག་ པར་ འཇུག་པ ར་ བྱ་བ་ ནི་ བྱིས་པ་ སོ་སོ འི་ སྐྱེ་བོ་ ཐམས་ཅད་ ཀྱི་ སྤྱོད་པ་ ལས་ ཕྱིར་ལོག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$96 The Blessed One said, “ ‘Going against the grain’ means that you turn away from the behavior of all childish ordinary people.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལུགས་བཞིན་ དུ་ བསླབ་པ་ ནི་ བྱང་ཆུབ་ སེམས་དཔ འི་ བསླབ་པ་ ཐམས་ཅད་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Training with the grain’ means training in all the practices of the bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤྱིའུ་ཚུགས་ ཀྱི་ རྒྱུད་ ཤེས་པ ར་ བྱ་བ་ ནི་ འདུ་ཤེས་ མེད་ འདུ་ཤེས་ མེད་ མིན་ སྐྱེ་མཆེད་ ཀྱི་ སྙོམས་པ ར་ འཇུག་པ་ ལས་ལོག་ སྟེ་ འདོད་པ འི་ ཁམས་ སུ་ སྣང་བར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>%‘Knowing the continuum that is reversed’ means reverting from the attainment of the stage of neither thought nor no thought and then appearing in the desire realm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ བདུད་རྩི་ དང་ དུག་ ཏུ་ མ་ འདྲེས་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$97 “Therefore, noble sons, do not mix nectar and poison.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ མེད་པ་ རྣམས་ དང་ མ་ བསྟེན་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not associate with those who are without poison.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ དང་ ལྡན་པ་ རྣམས་ ལ་ བདུད་རྩི འི་ སྦྱིན་པ་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>Offer nectar to those who are poisoned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བདུད་རྩི་ དང་ དུག་ ཏུ་ མ་ འདྲེས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not mix nectar and poison?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུག་ མ་ མཆིས་པ་ རྣམས་ དང་ མི་ སྟེན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not associate with those who are without poison?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དུག་ དང་ ལྡན་པ་ རྣམས་ ལ་ བདུད་རྩི འི་ སྦྱིན་པ་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they offer nectar to those who are poisoned?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བདུད་ [25a]  རྩི་ ཞེས་ བྱ་བ་ ནི་ བག་ ཡོད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$98 The Blessed One said, [25.a] “ ‘Nectar’ is conscientiousness and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ ཅེས་བྱ་བ་ ནི་ བག་མེད་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>‘poison’ is carelessness.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ བྱང་ཆུབ་ སེམས་དཔ ས་ བག་ ཡོད་པར་ བྱ་ ཞིང་ བག་མེད་པ འི་ སེམས་ དང་ མ་ འདྲེས་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Bodhisattvas should be conscientious and not mix that with a careless attitude.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ མེད་པ་ རྣམས་ ཞེས་ བྱ་བ་ ནི་ ཉན་ཐོས་ རྣམས་ ཏེ །_ |#| དེ་དག་ དང་ བསྟེན་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Those who are without poison’ are the hearers, and they should not associate with them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ དང་ ལྡན་པ་ ཞེས་ བྱ་བ་ ནི་ སོ་སོ འི་ སྐྱེ་བོ་ རྣམས་ ཏེ །_ |#| དེ་དག་ ལ་ བདུད་རྩི་ བསྟན་པ ར་ བྱ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Those who are poisoned’ are ordinary beings, and bodhisattvas must teach the nectar to them. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ མངོན་པར་ དགའ་བ ར་ བྱ་བ་ ལ་ ནི་ མངོན་པར་ དགའ་བ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$99 “Therefore, noble sons, do not be delighted by what delights.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མངོན་པར་ དགའ་བ ར་ མི་ བྱ་བ་ ལ་ ནི་ མངོན་པར་ དགའ་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be delighted by what does not delight.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགའ་བ་ དང་ འདོད་ཆགས་ དང་ ལྡན་པ ར་ ཡང་ གྱིས་ ཤིག _། དགའ་བ་ དང་ འདོད་ཆགས་ ཡོངས་སུ་ བཅད་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand be delighted and passionate, and on the other hand eliminate delight and passion.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ མངོན་པར་ དགའ་བ ར་ བགྱི་བ་ ལ་ མངོན་པར་ དགའ་བ ར་ མི་ བགྱིད་ པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas not delighted by what delights?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ མངོན་པར་ དགའ་བ ར་ མི་ བགྱི་བ་ ལ་ མངོན་པར་ དགའ་བ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they delighted by what does not delight?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དགའ་བ་ དང་ འདོད་ཆགས་ དང་ ལྡན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they delighted and passionate?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དགའ་བ་ དང་ འདོད་ཆགས་ ཡོངས་སུ་ གཅོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they eliminate delight and passion?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ མངོན་པར་ དགའ་བ་ ཞེས་ བྱ་བ་ ནི་ ངར་ འཛིན་པ་ དང་ ང་ ཡི ར་ འཛིན་པ་ སྟེ །_ |#| དེ་དག་ ལ་ མངོན་པར་ དགའ་བ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$100 The Blessed One said, “ ‘What delights’ means grasping at I and grasping at mine , but they should not be delighted by that.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མངོན་པར་ མི་ དགའ་བ་ ནི་ བདུད་ རྣམས་ ཀྱིས་ སངས་རྒྱས་ ཀྱི་ ཡེ་ཤེས་ ལ་ སྟེ །_ |#| དེ་ ལ་ མངོན་པར་ དགའ་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What does not delight’ refers to the way māras perceive buddha wisdom, but bodhisattvas should be delighted by that.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགའ་བ་ དང་ འདོད་ཆགས་ དང་ ལྡན་པ ར་ བྱ་བ་ ནི་ འཁོར་བ་ ན་ སྲེད་པ་ ནི་ ཟླ་ ཡིན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being delighted and passionate’ means being a companion to those who crave cyclic existence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགའ་བ་ དང་ འདོད་ཆགས་ ཡོངས་སུ་ གཅད་པ་ ནི་ འགོག་པ་ ཡོངས་སུ་ ཤེས་པ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Eliminating delight and passion’ means knowing cessation. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ བཅིང་བ ས་ བཅིངས་པ ར་ ཡང་ གྱིས་ ཤིག _། བཅིང་བ ས་ བཅིངས་པ་ རྣམས་ ཀྱང་ ཁྲོལ་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$101 “Therefore, noble sons, on the one hand tie with bonds, and on the other hand untie the bonds that bind.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གྲོལ་བ་ རྣམས་ ལ འང་ བསྙེན་བཀུར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Serve those who are liberated.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ གྲོལ་བ་ རྣམས་ ཀྱི་ རྗེས་སུ་ འབྲང་བ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Follow those who are not liberated.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ བཅིང་བ ས་ བཅིངས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas tie with bonds?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བཅིངས་པ་ རྣམས་ དགྲོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they untie the bonds that bind?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ གྲོལ་བ་ རྣམས་ ལ་ བསྙེན་བཀུར་ [25b]  བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they serve those who are liberated? [25.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་མ་ གྲོལ་བ་ རྣམས་ ཀྱི་ རྗེས་སུ་ འབྲང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they follow those who are not liberated?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བཅིང་བ ས་ བཅིངས་པ ར་ བྱ་བ་ ནི་ བསླབ་པ འི་ བཅིང་བ ས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$102 The Blessed One said, “ ‘Tying with bonds’ means tying the bonds of training.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅིངས་པ་ འགྲོལ་བ་ ནི་ སྲེད་པ འི་ བཅིང་བ་ ལས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Untying the bonds’ means untying the bonds of craving.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གྲོལ་བ་ རྣམས་ ལ་ བསྙེན་བཀུར་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་ རྒྱས་ རྣམས་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Serving those who are liberated’ means serving the hearers and solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ གྲོལ་བ་ རྣམས་ ཀྱི་ རྗེས་སུ་ འབྲང་བ ར་ བྱ་བ་ ནི་ བྱིས་པ་ སོ་སོ འི་ སྐྱེ་བོ་ རྣམས་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Following those who are not liberated’ means ripening childish ordinary beings. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ འདོད་པ ར་ བྱ་བ་ རྣམས་ ལ་ ནི་ འདོད་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$103 “Therefore, noble sons, desire the desirable.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདོད་པ ར་ མི་ བྱ་བ་ རྣམས་ ལ་ ནི་ འདོད་པ ར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not desire the undesirable.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདོད་པ་ དང་ བྲལ་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be without desire.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ འཚལ་བ ར་ བགྱི་བ་ རྣམས་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas desire the desirable?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཚལ་བ ར་ མི་ བགྱི་བ་ རྣམས་ མི་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not desire the undesirable?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཚལ་བ་ དང་ བྲལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they without desire?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ བྱང་ཆུབ་ སེམས་དཔ འི་ འདོད་པ ར་ མི་ བྱ་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཐམས་ཅད་ དེ །_ |#| དེ་དག་ ལ་ འདོད་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$104 The Blessed One said, “Desirable to the world and its gods are the blessed buddhas, so they should desire them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྷ་ དང་ བཅས་པ འི་ འཇིག་རྟེན་ གྱི་ འདོད་པ ར་ བྱ་བ་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ ཏེ །_ |#| དེ་དག་ ལ་ འདོད་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Undesirable to the bodhisattvas are the hearers and solitary buddhas, so they should not desire them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདོད་ པ་ དང་ བྲལ་བ ར་ བྱ་བ་ ནི་ བརྒྱ་བྱིན་ དང་ ཚངས་པ ར་ སྐྱེ་བ་ ལ་ ལྟ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being without desire’ means being without desire toward birth as Śakra and Brahmā. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཇི་ཙམ་ དུ་ ཆུང་བ འི་ ས་བོན་ ལ་ འདམ་ བརྙས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$105 “Therefore, noble sons, do not belittle a seed, however small.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞིང་ ཚད་ མེད་པ་ ལ་ ཡང་མོ ས་ པར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Have interest in a limitless field.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཐོབ་པ་ ཆེན་པོ་ ནི་ མ་ སྒྲུབས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not attain a great acquisition.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་ འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཇི་ཙམ་ དུ་ ཆུང་བ འི་ ས་བོན་ ལ་ ཡང་ བརྙས་པ ར་ མི་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas not belittle a seed, however small?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཞིང་ ཚད་མ་ མཆིས་པ་ ལ་མོ ས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they have interest in a limitless field?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ འཐོབ་པ་ ཆེན་པོ་ མི་ སྒྲུབ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not attain a great acquisition?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཇི་ཙམ་ དུ་ ཆུང་བ འི་ ས་བོན་ ཞེས་ བྱ་བ་ ནི་ ཇི་ཙམ་ དུ་ ཆུང་ བ འི་ དགེ་བ འི་ རྩ་བ་ སྟེ །_ |#| དེ་ ལ་ བརྙས་པ ར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$106 The Blessed One said, “ ‘A seed however small’ means that however small the root of virtue, they must not despise that.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞིང་ ཚད་ མེད་པ་ ལ་ ཡང་མོ ས་ པར་ བྱ་བ་ ནི་ སངས་རྒྱས་ ལ་ ཕུལ་བ འི་ སྦྱིན་པ་ ཚད་ མེད་པ་ ལ་མོ ས་ པར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Having interest in a limitless field’ means having interest in the immeasurable generosity of offering to the Buddha.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཐོབ་པ་ ཆེན་པོ་ མི་ སྒྲུབ་པ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ སྦྱིན་པ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not attaining a great acquisition’ means giving to all beings. |#| That is the proper conduct. [26.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་ [26a]  བས་ ན་ ཆགས་པ་ རྣམས་ ནི་ ཁོང་ དུ་ ཆུད་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$107 “Therefore, noble sons, understand attachment,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ རྣམས་ ལ་ ནི་ སྤྱོད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>engage with attachment,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ ལ་ ཞེན་པ་ རྣམས་ ལ་ ནི་ ལྟོས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>consider those who crave attachment, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ མེད་པར་ ནི་ མ་ ལྟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>do not fall into being without attachment.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཆགས་པ་ རྣམས་ འཚལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas understand attachment?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ་ རྣམས་ ལ་ སྤྱོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they engage with attachment?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ་ ལ་ ཞེན་པ་ རྣམས་ ལ་ ལྟ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they consider those who crave attachment?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆགས་པ་ མ་ མཆིས་པ་ ཉིད་ དུ་ མི་ལྟུང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they not fall into being without attachment?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཆགས་པ་ ཞེས་ བྱ་བ་ ནི་ ཐེག་པ་ དམན་པ་ ལ་ འདོད་པ་ དང་ །_ ཁོང་ཁྲོ་བ འི་ སེམས་ ཏེ །_ |#| དེ་ གཉིས་ ནི་ བྱང་ཆུབ་ སེམས་དཔ ས་ བསྲུང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$108 The Blessed One said, “ ‘Attachment’ means desiring the Lesser Vehicle, and it means the angry mind. |#| Bodhisattvas must be on guard against these two.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ རྣམས་ ལ་ སྤྱད་པ་ ནི་ འདོད་པ་ དང་ །_ གཟུགས་ དང་ །_ གཟུགས་ མེད་པ་ རྣམས་ སུ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Engaging with attachment’ means engaging with attachment in the desire, form, and formless realms.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆགས་པ་ ལ་ ཞེན་པ་ རྣམས་ ལ་ ལྟ་བ་ ནི་ ཆགས་པ་ མེད་པ་ ཉིད་ དུ་ མི་ལྟུང་བ་ ནི་ མངོན་པར་ འདུ་ བྱ་བ་ མེད་པ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Considering those who crave attachment’ means not falling into the unconditioned state that is without attachment. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཡང་བ ར་ ཡང་ གྱིས་ ཤིག _། ཁུར་ཆེན་པོ་ ཡང་ ཁྱེར་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$109 “Therefore, noble sons, on the one hand unburden yourselves, and on the other hand carry a great burden.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བླངས་པ་ ནི་ མ་ ལེན་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Do not take up what has not been taken up.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བླངས་པ་ ནི་ ཉམས་ འོག་ ཏུ་ ཆུད་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Bring what you have taken up into experience.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཡང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas unburden themselves?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཁུར་ཆེན་པོ་ ཁྱེར་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they carry a great burden?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་མ་ བླངས་པ་ མི་ ལེན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they avoid lifting what has not been taken up?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བླངས་པ་ ཉམས་ འོག་ ཏུ་ ཆུད་པ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they bring what they have taken up into experience?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཡང་བ ར་ བྱ་བ་ ནི་ ཉོན་མོངས་པ་ ཐམས་ ཅད་ བཅད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$110 The Blessed One said, “ ‘Unburdening’ means eliminating all afflictions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁུར་ཆེན་པོ་ བཀུར་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Carrying a great burden’ means carrying all sentient beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བླངས་པ་ མི་ བླང་བ་ ནི་ ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ཐེག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Not taking up what has not been taken up’ means not taking up the vehicles of the hearers and solitary buddhas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བླངས་པ་ ཉམས་ འོག་ ཏུ་ ཆུད་པ ར་ བྱ་བ་ ནི་ ཐེག་པ་ ཆེན་པོ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Bringing what they have taken up into experience’ refers to the Great Vehicle. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| སྨད་པ ར་ ཡང་ གྱིས་ ཤིག _། བསྟོད་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$111 “Therefore, noble sons, on the one hand condemn, and on the other hand praise.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉེ་བ ར་ བསྙེན་པ ར་ ཡང་ གྱིས་ ཤིག _། སྤང་བ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand approach, and on the other hand abandon.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ སྨོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas condemn?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བསྟོད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they praise?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཉེ་བ ར་ བསྙེན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they approach? [26.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ [26b]  ལྟར་ ན་ སྤང་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>And how do they abandon?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ སྨད་པ་ ནི་ མི་དགེ་བ འི་ ཆོས་ ཐམས་ཅད་ སྨད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$112 The Blessed One said, “ ‘Condemning’ means condemning all nonvirtuous phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྟོད་པ་ ནི་ དགེ་བ འི་ ཆོས་ ཐམས་ཅད་ བསྟོད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Praising’ means praising all virtuous phenomena.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྙེན་པ་ ནི་ འཕགས་པ འི་ ལམ་ མོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Approaching’ means approaching the path of the noble ones.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤང་བ་ ནི་ མི་དགེ་བ འི་ ཕྱོགས་ ཀྱི་ ལམ་ ཐམས་ཅད་ དེ་དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Abandoning’ means abandoning all paths that lead in nonvirtuous directions. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གྲོང་ དང་ །_ གྲོང་ཁྱེར་ དང་ །_ ཡུལ་འཁོར་ དང་ །_ ཕོ་བྲང་ འཁོར་ དག་ ཏུ་ ནི་ བསམ་གཏན་ གྱི་ སྟོབས་ སྟོན་ ཅིང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$113 “Therefore, noble sons, demonstrate the power of concentration in villages, cities, kingdoms, and royal courts, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགོན་པ་ དང་བ ས་ མཐའ་ རྣམས་ སུ་ ནི་ ཉོན་མོངས་པ་ ཆུང་བ ར་ སྟོན་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>demonstrate few afflictions in the jungles and borderlands.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གྲོང་ དང་ །_ གྲོང་ཁྱེར་ དང་ །_ ཡུལ་འཁོར་ དང་ །_ ཕོ་བྲང་ འཁོར་ རྣམས་ སུ་ བསམ་གཏན་ གྱི་ སྟོབས་ སྟོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas demonstrate the power of concentration in villages, cities, kingdoms, and royal courts?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ དགོན་པ་ དང་ །_ བས་མཐའ་ རྣམས་ སུ་ ཉོན་མོངས་པ་ ཆུང་བ ར་ སྟོན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they demonstrate few afflictions in jungles and borderlands?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!བཀའ་ སྩལ་པ །_ གྲོང་ དང་ །_ གྲོང་ཁྱེར་ དང་ །_ ཡུལ་འཁོར་ དང་ །_ ཕོ་བྲང་ འཁོར་ དག་ ཏུ་ ཕྱིན་པ་ ན་ གཟུགས་ དང་ །_ སྒྲ་ དང་ །_ དྲི་ དང་ །_ རོ་ དང་ །_ རེག་བྱ་ རེག་པ་ དག་སྣང་ བར་ འགྱུར་ ཏེ |#| དེ་དག་ ནི་ བསམ་གཏན་ གྱི་ སྟོབས་ ཀྱིས་ མནན་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$114 The Blessed One said, “When they reach villages, cities, kingdoms, and royal courts, many gross#3 types of forms, sounds, smells, tastes, and tactile sensations will manifest, but these must be subdued through the power of concentration.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགོན་པ་ དང་བ ས་ མཐའ་ རྣམས་ ན་ འདུག་པ འི་ ཚེ་ ཉོན་མོངས་པ་ གང་དག་ སྐྱེ་བ ར་ འགྱུར་བ་ དེ་དག་ ནི་ དབེན་པ འི་ ཡོན་ཏན་ གྱིས་ མནན་པ ར་ བྱ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When dwelling in jungles and borderlands, they must subdue those afflictions that arise with the qualities of disengagement. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ ཆུ འི་ ནང་ ན འང་ འདུག་པ ར་ གྱིས་ ཤིག _། རྟག་པ ར་ སྐོམ་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$115 “Therefore, noble sons, on the one hand remain in water, and on the other hand always be thirsty.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐོམ་པ་ ཡང་ སོལ་ ཅིག _། |#| སྐོམ་པ་ མེད་པར་ མ་ བྱེད་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand quench your thirst, but do not be free from thirst.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཆབ་ ཀྱི་ ནང་ ན་ མཆིས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas remain in water?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ རྟག་ ཏུ་ སྐོམ་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they always thirsty?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྐོམ་པ་ བསལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they quench their thirst?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ སྐོམ་པ་ མ་ མཆིས་པ ར་ མི་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How are they not free from thirst?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ ཆུ འི་ ནང་ ན་ འདུག་པ ར་ བྱ་བ་ ནི །_ ཆོས་ ཀྱི་ ཚུལ་ གནས་པ ར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$116 The Blessed One said, “ ‘Remaining in water’ means observing proper Dharma conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་པ ར་ སྐོམ་པ ར་ བྱ་བ་ ནི་ ཆོས་ ཀྱིས་ སྐོམ་པ ར་ བྱས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Always being thirsty’ means thirsting for the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐོམ་པ་ བསལ་བ་ ནི་ ཆོས་ ཀྱིས་ ཆོས་ ཀྱི་ བྱ་བ་ བསྒྲུབ་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Quenching their thirst’ means accomplishing Dharma activity by means of the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐོམ་པ་ མེད་པར་ མི་ བྱ་བ་ ནི་ འདུས་མ་བྱས་ སུ་ ལྟུང་བ ར་ མི་ བྱ་བ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Being free from thirst’ means not straying into the uncompounded state. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གཅིག་ [27a]  པུ་ གྲོགས་ མེད་པར་ ཡང་ གྱིས་ ཤིག _། གཡོག་ མང་པོ་ དང་ འཁོར་ མང་པོ་ དང་ ལྡན་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$117 “Therefore, noble sons, [27.a] on the one hand be alone and without friends, and on the other hand have many servants and attendants.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གཅིག་པུ་ གྲོགས་ མ་ མཆིས་པ ར་ ཡང་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas alone and without friends?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ གཡོག་ མང་པོ་ དང་ འཁོར་ མང་པོ་ དང་ ལྡན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they have many servants and attendants?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གཅིག་པུ་ གྲོགས་ མེད་པར་ བྱ་བ་ ནི་ དགེ་བ འི་ རྩ་བ་ ཐམས་ཅད་ ཡང་དག་ པར་ བསྒྲུབ་པ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$118 The Blessed One said, “ ‘Being alone and without friends’ means accomplishing all roots of virtue.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཡོག་ མང་པོ་ དང་ ལྡན་པ ར་ བྱ་བ་ ནི་ དགེ་བ འི་ རྩ་བ་ དེ་དག་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ ཉེ་བ ར་ འཚོ་བར་ བྱ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Having many servants’ means that those roots of virtue are the sustenance of all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁོར་ མང་པོ་ དང་ ལྡན་པ ར་ བྱ་བ་ ལ་ འཁོར་ མང་པོ་ ཞེས་ བྱ་བ་ ནི་ བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ ཀྱི་ ཆོས་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>As for ‘having many attendants,’ this refers to the factors that are in harmony with awakening. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| གྲོལ་བ ར་ ཡང་ གྱིས་ ཤིག _། བཙོན་ར ར་ ཚུད་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$119 “Therefore, noble sons, on the one hand be free, and on the other hand enter prison.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ ཡང་ གྱིས་ ཤིག _། ཆུ་བོ་ ཆེན་པོ འི་ ནང་ དུ་ འདུག་པ ར་ ཡང་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the one hand cross to the other shore, and on the other hand remain in the great rivers.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ གྲོལ་བ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas free?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བཙོན་ར ར་ ཚུད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they enter prison?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they cross to the other shore?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཆུ་བོ་ ཆེན་པོ འི་ ནང་ ན་ གནས་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they remain in the great rivers?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀའ་ སྩལ་པ །_ གྲོལ་བ ར་ བྱ་བ་ ནི་ ཉོན་མོངས་པ་ དང་ བདུད་ ཀྱི་ བཅིང་བ་ ཐམས་ཅད་ ལས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$120 The Blessed One said, “ ‘Being free’ means being free from all afflictions and bonds of the māras.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙོན་ར ར་ ཚུད་པ ར་ ཡང་ བྱ་བ་ ནི་ བསམས་ བཞིན་ དུ་ སྐྱེ་བ་ རྣམས་ སུ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Entering prison’ means taking birth at will.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་རོལ་ ཏུ་ ཕྱིན་པ ར་ ཡང་ བྱ་བ་ ནི་ སེམས་ཅན་ ཐམས་ཅད་ ཀྱི་ སྐད་ ཤེས་པ་ ལ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Crossing to the other shore’ means knowing the languages of all beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆུ་བོ་ ཆེན་པོ འི་ ནང་ ན་ གནས་པ ར་ ཡང་ བྱ་བ་ ནི་ ཆུ་བོ་ བཞི ས་ ཁྱེར་བ འི་ སེམས་ ཅན་ སྒྲོལ་བ འི་ ཕྱིར་ ཏེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They ‘remain in the great rivers’ in order to free those beings who are carried away by the four great rivers. |#| That is the proper conduct.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ དེ་ལྟ་བས་ན་ |#| ཚད་ ཡོད་པ་ ལ་ ཡང་ སོ་སོ ར་ རྟོག་པ ར་ གྱིས་ ཤིག _། ཚད་ མེད་པར་ ཡང་ མཉམ་པ་ཉིད་ དུ་ ཁོང་ དུ་ ཆུད་པ ར་ གྱིས་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$121 “Therefore, noble sons, on the one hand contemplate what is measurable, and on the other hand understand the immeasurable to be sameness.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསོལ་པ །_ བཅོམ་ལྡན་འདས་ ཇི་ལྟ ར་ ན་ བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ཚད་ མཆིས་པ་ ལ་ ཡང་ སོ་སོ ར་ རྟོག་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The bodhisattvas asked, “Blessed One, how do bodhisattvas contemplate what is measurable?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ ཚད་མ་ མཆིས་པ་ ལ་ ཡང་ མཉམ་པ་ཉིད་ དུ་ ཁོང་ དུ་ ཆུད་པ ར་ བགྱིད་པ་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How do they understand the immeasurable to be sameness?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$122 The Blessed One said,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིགས་ ཀྱི་ བུ་ དག་ ཚད་ ཡོད་པ་ ཞེས་ བྱ་བ་ ནི་ འདུས་བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Noble sons, ‘what is measurable’ is the compounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚད་ མེད་པ་ ཞེས་ བྱ་བ་ ནི་ འདུས་མ་བྱས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>‘What is immeasurable’ is the uncompounded. [27.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ བྱང་ཆུབ་ སེམས་ [27b]  དཔ ས་ འདུས་བྱས་ ཀྱང་ སྤང་བ ར་ མི་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>In this regard, on the one hand bodhisattvas should not abandon the compounded, but</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་བྱས་ སུ་ གཏོགས་པ འི་ ཉོན་མོངས་པ་ རྣམས་ དང་ ཡང་ འགྲོགས་ པར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>they should also not associate with afflictions, which are part of the compounded.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་མ་བྱས་ ལ་ ཡང་ བརྟག་ པར་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They should also examine the uncompounded, but</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱོན་མེད་ པར་ ཡང་འཇུག་ པར་ མི་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>they should not enter the state that is free from faults.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་བྱས་ དང་ འདུས་མ་བྱས་ གཅིག་པ འི་ མཚན་ཉིད་ དང་ ལྡན་ པ འི་ ཤེས་རབ་ ཀྱིས་ བྱང་ཆུབ་ ཀྱི་ སྙིང་པོ ར་ མཉམ་པ་ཉིད་ དུ་ མངོན་པར་ རྫོགས་པ ར་ སངས་རྒྱས་ པར་ བྱ་ སྟེ་ དེ་ ནི་ ཚུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Through the insight that the compounded and the uncompounded share a single characteristic, they must perfectly awaken within that sameness at the seat of awakening. |#| That is the proper conduct.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ གྱི་ ཚིག་ འདི་དག་ བསྟན་པ འི་ ཚེ་ ལྷ འི་ བུ་ བརྒྱད་ སྟོང་ ནི་ བྱང་ཆུབ་ ཏུ་ སེམས་བསྐྱེད་ པར་ གྱུར་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$123 When these statements on proper conduct were taught, eight thousand gods gave rise to the mind of awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ ལྔ་ བརྒྱ་ ནི་ མི་ སྐྱེ་བ འི་ ཆོས་ ལ་ བཟོད་པ་ ཐོབ་པ ར་ གྱུར་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Five hundred bodhisattvas attained acceptance that phenomena are unborn.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>When the Blessed One had said this,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ རབ་ཏུ་ མང་པོ་ དེ་དག་ དང་ །_ ལྷ་ དང་ །_ མི་ དང་ །_ ལྷ་མ་ ཡིན་ དང་ །_ དྲི་ཟ ར་ བཅས་པ འི་ འཇིག་རྟེན་ ཡི་ རངས་ ཏེ །_ |#| བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་ པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>the large number of bodhisattva great beings, as well as the world with its gods, humans, asuras, and gandharvas, rejoiced and praised what the Blessed One had said.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ ཆོས་ ཀྱི་ ཚུལ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$124 This concludes the noble Great Vehicle sūtra “Proper Dharma Conduct.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྒྱ་གར་ གྱི་ མཁན་པོ་ པྲཛྙཱ་ བར་མ་ དང་ །_ ཞུ་ཆེན་ གྱི་ ལོ་ ཙྪ་བ་ བན་དེ་ ཡེ་ཤེས་ སྡེ་ ལ་སོགས་ པས་ བསྒྱུར་ ཅིང་ ཞུས་ ཏེ་ གཏན་ ལ་ ཕབ་པ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$125 This was translated, edited, and finalized by the Indian scholar Prajñāvarman and the chief editor-translator Venerable Yeshé Dé and others.</seg></tuv>
+</tu>
+</body>
+</tmx>
