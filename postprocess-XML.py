@@ -13,7 +13,7 @@ def insert_metatags(text, meta_data):
             new = ''
             for chunk in re.split(r'(\$\d+\s*)', lines[num]):
                 if '$' in chunk:
-                    g_id = re.findall(r'\$\d+', lines[num])
+                    g_id = re.findall(r'\$\d+', chunk)
                     new += '<milestone xml:id="'
                     new += meta_data["milestones"][g_id[0]]
                     new += '"/>'
@@ -24,12 +24,21 @@ def insert_metatags(text, meta_data):
             new = ''
             for chunk in re.split(r'(#\d+)', lines[num]):
                 if chunk.startswith('#'):
-                    g_id = re.findall(r'#\d+', lines[num])
+                    g_id = re.findall(r'#\d+', chunk)
                     new += '<note xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
                 else:
                     new += chunk
+            lines[num] = new
+        if '<text' in s:
+            grab_id = meta_data["milestones"]["$1"]
+            grab_id = re.sub(r'(UT22084-\d+-\d+)-\d+', r'\1', grab_id)
+            new = '<text text-version="'
+            new += meta_data["text_version"]["text_version"]
+            new += '" text-id="'
+            new += grab_id
+            new += '">'
             lines[num] = new
     lines = '\n'.join(lines)
     return lines
@@ -103,7 +112,7 @@ def postprocess(in_dir, out_dir):
             if 'en' in file.name and '.bo' not in file.name:
                 # process translation XML file
                 # get filestem to access .json file from 'output/tmp' folder
-                file_stem = str(file.name).rstrip('.en.xml')
+                file_stem = str(file.name).replace('.en.xml','')
                 # note, rstrip removes any characters in argument string, but this
                 # works for 84000 project because all input files end with a number.
                 json_file = in_dir.parent / 'pre_output' / 'tmp' / (file_stem + '-bo.json')

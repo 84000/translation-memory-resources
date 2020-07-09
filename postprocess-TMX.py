@@ -20,12 +20,19 @@ def insert_metatags(tm, meta_data):
         if '<tmx' in s:
             lines[num] = re.sub('<tmx', '<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"', s)
         if '<header' in s:
-            lines[num] = re.sub('XML aligned text"', 'XML aligned text" eft:text-id="INPUT_TEXT_ID"', s)
+            grab_id = meta_data["milestones"]["$1"]
+            grab_id = re.sub(r'(UT22084-\d+-\d+)-\d+', r'\1', grab_id)
+            new = '<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="'
+            new += grab_id
+            new += '" eft:text-version="'
+            new += meta_data["text_version"]["text_version"]
+            new += '"/>'
+            lines[num] = new
         if '$' in s:
             new = ''
             for chunk in re.split(r'(\$\d+\s*)', lines[num]):
                 if '$' in chunk:
-                    g_id = re.findall(r'\$\d+', lines[num])
+                    g_id = re.findall(r'\$\d+', chunk)
                     new += '<tei:milestone xml:id="'
                     new += meta_data["milestones"][g_id[0]]
                     new += '"/>'
@@ -36,7 +43,7 @@ def insert_metatags(tm, meta_data):
             new = ''
             for chunk in re.split(r'(#\d+)', lines[num]):
                 if chunk.startswith('#'):
-                    g_id = re.findall(r'#\d+', lines[num])
+                    g_id = re.findall(r'#\d+', chunk)
                     new += '<tei:note xml:id="'
                     new += meta_data["notes"][g_id[0]]
                     new += '"/>'
@@ -113,7 +120,7 @@ def postprocess(in_dir, out_dir):
             exit(f'{file} is missing.\nExiting')
 
         # access .json file from 'output/tmp' folder
-        file_stem = str(file.name).rstrip('.bo.en.tmx')
+        file_stem = str(file.name).replace('.bo.en.tmx','')
         # note, rstrip removes any characters in argument string, but this
         # works for 84000 project because all input files end with a number.
 
@@ -124,7 +131,7 @@ def postprocess(in_dir, out_dir):
         meta_data = json.loads(read_meta_data)
 
         # process TMX
-        tm = file.read_text(encoding='utf-8-sig')
+        tm = file.read_text(encoding='utf-8')
         tm = remove_tags(tm)
         tm = insert_metatags(tm, meta_data)
         tm = create_flags(tm)
@@ -132,7 +139,7 @@ def postprocess(in_dir, out_dir):
         tm = remove_folio_refs_en(tm)
         tm = create_folio_props(tm)
         to_file = out_dir / file.name
-        to_file.write_text(tm, encoding='utf-8-sig')
+        to_file.write_text(tm, encoding='utf-8')
 
 
 if __name__ == '__main__':

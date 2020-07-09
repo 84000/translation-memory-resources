@@ -47,6 +47,7 @@ def prepare_target(dump):
     sentences = dump.split('\n')
     milestones = {}
     notes = {}
+    text_version = {}
     mstone = 1
     for num, s in enumerate(sentences):
         if '<milestone' in s:
@@ -65,6 +66,12 @@ def prepare_target(dump):
         if '<ref' in s:
             sentences[num] = re.sub(r'<ref [A-Za-z]\.([0-9]+\.[ab])>', r'[\1]', sentences[num])
 
+        if '{{version:v' in s:
+            new = ''
+            t_ver = re.findall(r'version:v (\d+\.\d+\.\d+ \d+)}', sentences[num])
+            text_version['text_version'] = t_ver[0]
+            sentences[num] = new
+
         if '<note' in s:
             new = ''
             for chunk in re.split(r'(<note #[0-9]+ [0-9a-zA-Z\-]+>)', sentences[num]):
@@ -78,7 +85,7 @@ def prepare_target(dump):
 
             sentences[num] = new
     sentences = '\n'.join(sentences)
-    return sentences, {'notes': notes, 'milestones': milestones}
+    return sentences, {'notes': notes, 'milestones': milestones, 'text_version': text_version}
 
 
 def preprocess(in_dir, out_dir):
