@@ -1,8 +1,4 @@
 
-pre_input/
-pre_output/
-post_input/
-post_output/
 *.pickled
 *.yaml
 # Byte-compiled / optimized / DLL files
