@@ -1,0 +1,233 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྒྲོལ་མ་ ལ་ ཕྱག་ འཚལ་ ཉི་ཤུ་ རྩ་ གཅིག་ གིས་ བསྟོད་པ་ ཕན་ཡོན་ དང་ བཅས་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Praise to Tārā with Twenty-One Verses of Homage</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྗེ་བཙུན་ མ་ འཕགས་མ་ སྒྲོལ་མ་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [42.b] Homage to the honored, noble lady Tārā!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ སྒྲོལ་མ་ མྱུར་མ་ དཔའ་མོ །_། |#| སྤྱན་ ནི་ སྐད་ཅིག་ གློག་ དང་ འདྲ་མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Homage to Tārā, swift and gallant, Whose glance is instantaneous like lightning.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ གསུམ་ མགོན་ ཆུ་སྐྱེས་ ཞལ་ གྱི །_། གེ་སར་ ཕྱེ་བ་ ལས་ ནི་ བྱུང་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You arose from the heart of the blossoming lotus That is the face of the lord of the three worlds.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ སྟོན་ཀ འི་ ཟླ་བ་ ཀུན་ དུ །_། གང་བ་ བརྒྱ་ ནི་ བརྩེགས་པ འི་ ཞལ་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 Homage to you whose face resembles One hundred autumn full moons gathered;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐར་མ་ སྟོང་ཕྲག་ ཚོགས་པ་ རྣམས་ ཀྱིས །_། རབ་ཏུ་ ཕྱེ་བ འི་ འོད་ རབ་ འབར་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Your brilliant radiance blazes,#10 Like a thousand clusters of stars.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ གསེར་ སྔོ་ ཆུ་ ནས་ སྐྱེས་ ཀྱི །_། པདྨ ས་ ཕྱག་ ནི་ རྣམ་པར་ བརྒྱན་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 Homage to you, whose hand is graced By a golden-blue lotus flower.#11</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྦྱིན་པ་ བརྩོན་འགྲུས་ དཀའ་ཐུབ་ ཞི་བ །_། བཟོད་པ་ བསམ་གཏན་ སྤྱོད་ཡུལ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You embody generosity, diligence, endurance, Serenity, patience, and concentration.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ དེ་བཞིན་ གཤེགས་པ འི་ གཙུག་ཏོར །_། མཐའ་ ཡ ས་ རྣམ་པར་ རྒྱལ་བ ར་ སྤྱོད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 Homage to you, whose triumphs are endless, Jewel on the Tathāgata’s crown.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ ལུས་ ཕ་རོལ་ ཕྱིན་པ་ ཐོབ་པ འི །_། རྒྱལ་བ འི་ སྲས་ ཀྱིས་ ཤིན་ཏུ་ བསྟེན་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You are well attended to by the heirs of the victors, Who have mastered all the perfections.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཕྱག་ འཚལ་ ཏུཏྟྭ་ ར་ ཧཱུྃ་ ཡི་གེ །_། འདོད་ དང་ ཕྱོགས་ དང་ ནམ་མཁའ་ གང་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 Homage to Tuttārā,#12 who with hūṁ Fulfills all wishes to the bounds of space.#13</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ བདུན་པོ་ ཞབས་ ཀྱིས་ མནན་ ཏེ |#| ལུས་པ་ མེད་པར་ འགུགས་པ ར་ ནུས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You trample the seven worlds underfoot,#14 And possess the strength to summon all.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ བརྒྱ་བྱིན་ མེ་ལྷ་ ཚངས་པ །_། རླུང་ལྷ་ སྣ་ཚོགས་ དབང་ཕྱུག་ མཆོད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 Homage to you, praised by Śakra, Agni, Brahmā, maruts, and Śiva.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འབྱུང་པོ་ རོ་ལངས་ དྲི་ཟ་ རྣམས་ དང་ །_། གནོད་སྦྱིན་ ཚོགས་ ཀྱིས་ མདུན་ ནས་ བསྟོད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The hosts#15 of bhūtas, vetālas, gandharvas, And yakṣas pay tribute to you.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ཏྲད་ ཅེས་ བྱ་ དང་ [43a]  ཕཊ་ ཀྱིས །_། ཕ་རོལ་ འཁྲུལ་ འཁོར་ རབ་ཏུ་ འཇོམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 Homage to you, who with traṭ#16 and phaṭ [43.a] Crush the magical devices of other traditions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཡས་ བསྐུམ་ གཡོན་ བརྐྱང་ ཞབས་ ཀྱིས་ མནན་ ཏེ |#| མེ་ འབར་ འཁྲུགས་པ་ ཤིན་ཏུ་ འབར་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>With your right leg bent and your left leg extended, You shine amid flames blazing wildly.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ཏུ་རེ་ འཇིགས་པ་ ཆེན་ མོ །_། |#| བདུད་ ཀྱི་ དཔའ་བོ་ རྣམ་པར་ འཇོམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 Homage to Turā, the fearsome lady, Destroyer of the most powerful demons.#17</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆུ་སྐྱེས་ ཞལ་ ནི་ ཁྲོ་ གཉེར་ ལྡན་ མཛད །_། |#| དགྲ་བོ་ ཐམས་ཅད་ མ་ ལུས་ གསོད་མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>With your lotus face and stern frown, You are the slayer of each and every foe!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ དཀོན་མཆོག་ གསུམ་ མཚོན་ ཕྱག་རྒྱ འི །_། སོར་མོས་ ཐུགས་ཀ ར་ རྣམ་པར་ བརྒྱན་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 Homage to you, whose fingers grace your heart, Displaying the mudrā of the Three Jewels.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ ལུས་ ཕྱོགས་ ཀྱི་ འཁོར་ལོ ས་ བརྒྱན་པ འི །_། རང་ གི་ འོད་ ཀྱི་ ཚོགས་ རྣམས་ འཁྲུག་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Graced by wheels in all directions, Your natural radiance overwhelms all.#18</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ རབ་ཏུ་ དགའ་ བ་ བརྗིད་པ འི །_། དབུ་རྒྱན་ འོད་ ཀྱི་ ཕྲེང་བ་ སྤེལ་མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 Homage to you, supremely joyous, Your splendorous crown spreading garlands of light.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཞད་པ་ རབ་ བཞད་ ཏུ་ ཏྟྭ་ ར་ ཡིས །_། བདུད་ དང་ འཇིག་རྟེན་ དབང་ དུ་ མཛད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Tuttārā, smiling and laughing, You bring demons and worlds within your control.#19</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ས་གཞི་ སྐྱོང་བ འི་ ཚོགས་ རྣམས །_། ཐམས་ཅད་ འགུགས་པ ར་ ནུས་ མ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 Homage to you, who can summon The hosts of earthly guardians.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྲོ་གཉེར་ གཡོ་བ འི་ ཡི་གེ་ ཧཱུཾ་ གིས །_། ཕོངས་པ་ ཐམས་ ཅད་ རྣམ་པར་ སྒྲོལ་མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Knitting your quivering brows, with the syllable hūṁ You deliver from every misfortune.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཕྱག་ འཚལ་ ཟླ་བ འི་ རྩེ་མོ ས་ དབུ་ བརྒྱན །_། |#| བརྒྱན་པ་ ཐམས་ཅད་ ཤིན་ཏུ་ འབར་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 Homage to you, so brightly adorned, With a sliver of moon as your crown,#20</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རལ་པ འི་ ཁྲོད་ ན་ འོད་ དཔག་མེད་ ལས །_། རྟག་པ ར་ ཤིན་ཏུ་ འོད་ ནི་ མཛད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Your locks always graced by Amitābha, Whose bright light streams forever forth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ བསྐལ་པ་ ཐ་མ འི་ མེ་ ལྟར །_། འབར་བ འི་ ཕྲེང་བ འི་ དབུས་ ན་ གནས་མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 Homage to you, seated amid blazing flames That resemble the fire that ends an eon.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཡས་ བརྐྱང་ གཡོན་ བསྐུམ་ ཀུན་ ནས་ བསྐོར་ དག ས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Immersed in joy, your right leg extends, and the left is bent.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་ ཡི་ དཔུང་ ནི་ རྣམ་པར་ འཇོམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Thus, you crush legions of foes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ས་གཞི འི་ ངོས་ ལ་ ཕྱག་ གི །_། མཐིལ་ གྱིས་ བསྣུན་ ཅིང་ ཞབས་ ཀྱིས་ བརྡུང་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 Homage to you, who on the earth’s surface Strike your palms and stamp your feet;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྲོ་གཉེར་ ཅན་ མཛད་ ཡི་གེ་ ཧཱུྃ་ གིས །_། རིམ་པ་ བདུན་པོ་ རྣམས་ ནི་ འགེམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The hūṁ that is formed by your frown Smashes the seven netherworlds to nothing but dust.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ བདེ་ མ་ དགེ་མ་ ཞི་ མ །_། མྱ་ངན་ འདས་ ཞི་ སྤྱོད་ཡུལ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 Homage to you, blissful, gracious, and tranquil, Whose domain is the peace of nirvāṇa.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྭཱ་ ཧཱ་ ཨོཾ་ དང་ ཡང་དག་ ལྡན་པ ས །_། སྡིག་པ་ ཆེན་པོ་ འཇོམས་པ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In perfect union with svāhā and oṁ, You lay to waste every terrible evil.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ཀུན་ ནས་ བསྐོར་ རབ་དགའ་བ འི །_། དགྲ་ ཡི་ ལུས་ ནི་ རབ་ཏུ་ འགེམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 Homage to you, who, immersed in rapture, Shatter the bodies of all foes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡི་གེ་ བཅུ་པ འི་ ངག་ ནི་ བཀོད་པ འི །_། རིག་པ་ ཧཱུྃ་ ལས་ སྒྲོན་མ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You shine with the knowledge-syllable hūṁ, As your mantra’s ten syllables are set forth.#21</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ཏུ་རེ འི་ ཞབས་ ནི་ བརྡབས་པ ས །_། ཧཱུྃ་ གི་ རྣམ་པ འི་ ས་བོན་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 Homage to Turā, your feet stomping, Formed from the seed of the syllable hūṁ.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རི་རབ་ མན་ དཱ་ ར་ དང་ འབིགས་བྱེད །_། འཇིག་རྟེན་ གསུམ་ རྣམས་ གཡོ་བ་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The mountains of Meru, Mandara, and Vindhya,#22 And all the three worlds—you cause them to quake.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ལྷ་ ཡི་ མཚོ་ ཡི་ རྣམ་པ འི །_། རི་ དག ས་ རྟགས་ ཅན་ ཕྱག་ ན་ བསྣམས་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 Homage to you, who hold in your hand A deer-marked moon like a divine lake.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཏཱ་ར་ གཉིས་ བརྗོད་ ཕཊ་ ཀྱི་ [43b]  ཡི་གེ ས །_། དུག་ རྣམས་ མ་ལུས་པ ར་ ནི་ སེལ་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>With tāra uttered twice and then with phaṭ, [43.b] You eliminate all poisons.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ལྷ་ ཡི་ ཚོགས་ རྣམས་ རྒྱལ་པོ །_། ལྷ་ དང་ མི འམ་ ཅི་ ཡིས་ བསྟེན་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 Homage to you, sovereign of divine hosts, Served by gods and kiṃnaras.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་ ནས་ གོ་ཆ་ དགའ་བ འི་ བརྗིད་ ཀྱིས །_། རྩོད་ དང་ རྨི་ལམ་ ངན་པ་ སེལ་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Your resplendence, an armor of joy, Pacifies strife and clears away nightmares.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ ཉི་མ་ ཟླ་བ་ རྒྱས་པ འི །_། སྤྱན་ གཉིས་པོ་ ལ་ འོད་ རབ་གསལ་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 Homage to you, whose two eyes shine brightly Like the sun and the moon when it’s full.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཧ་ ར་ གཉིས་ བརྗོད་ ཏུ་ ཏྟྭ་ ར་ ཡིས །_། ཤིན་ཏུ་ དྲག་པོ འི་ རིམས་ ནི་ སེལ་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Tuttārā, with twice-uttered hara, You pacify the most intractable ills.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱག་ འཚལ་ དེ་ཉིད་ གསུམ་ རྣམས་ བཀོད་པ འི །_། ཞི་བ འི་ མཐུ་ དང་ ཡང་དག་ ལྡན་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$22 Homage to you, who have the power to pacify,#23 You display the three true natures.#24</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གདོན་ དང་ རོ་ལངས་ གནོད་སྦྱིན་ ཚོགས་ རྣམས །_། འཇོམས་པ་ ཏུ་རེ་ རབ་མཆོག་ ཉིད་ མ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Turā, supreme lady, you destroy The hordes of grahas, vetālas, and yakṣas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྩ་བ འི་ སྔགས་ ཀྱིས་ བསྟོད་པ་ འདི་ དང་ །_། ཕྱག་ འཚལ་བ་ ནི་ ཉི་ཤུ་ རྩ་ གཅིག _། ལྷ་མོ་ ལ་ གུས་ ཡང་དག་ ལྡན་པ འི །_། བློ་ལྡན་ གང་ གིས་ རབ་ཏུ་ བརྗོད་པ ས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$23 This praise by means of the root mantra— The twenty-one verses of homage Should be recited in earnest by the wise,#25 Who are filled with devotion for the goddess.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲོད་ དང་ ཐོ་རངས་ ལངས་པ ར་ བྱས་ ནས |#| དྲན་པ ས་ མི་ འཇིགས་ ཐམས་ཅད་ རབ་ སྟེར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$24 Recalling it at dusk and also when rising at dawn Will grant them freedom from every fear.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྡིག་པ་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ །_། ངན་འགྲོ་ ཐམས་ཅད་ འཇོམས་པ་ ཉིད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It will pacify all misdeeds, And destroy all evil destinies.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྒྱལ་བ་ བྱེ་བ་ ཕྲག་ བདུན་ རྣམས་ ཀྱིས །_། མྱུར་ དུ་ དབང་ ནི་ བསྐུར་བ ར་ འགྱུར་ ལ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$25 Soon they will receive empowerment From seven million conquerors.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ལས་ ཆེ་བ་ ཉིད་ ནི་ འཐོབ་ ཅིང་ །_། སངས་རྒྱས་ གོ་འཕང་ མཐར་ཐུག་ དེར་ འགྲོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Beyond this, they shall attain greatness, And proceed to the ultimate state of buddhahood.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཡི་ དུག་ ནི་ དྲག་པོ་ ཆེན་པོ །_། བརྟན་ གནས་པ འམ་ གཞན་ ཡང་ འགྲོ་བ །_། ཟོས་པ་ དང་ ནི་ འཐུངས་པ་ ཉིད་ ཀྱང་ །_། དྲན་ པ ས་ རབ་ཏུ་ སེལ་བ་ ཉིད་ ཐོབ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$26 If they recall this praise all dreadful poisons, Whether natural or manufactured, Whether eaten or imbibed, Will be utterly neutralized.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གདོན་ དང་ རིམས་ དང་ དུག་ གིས་ གཟིར་བ འི །_། སྡུག་བསྔལ་ ཚོགས་ ནི་ རྣམ་པར་ སྤོང་ སྟེ །_། |#| སེམས་ཅན་ གཞན་པ་ རྣམས་ ལ་ ཡང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$27 This will dispel the heap of suffering Inflicted by grahas, infectious diseases, and poisons, Even in other beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཉིས་ གསུམ་ བདུན་ དུ་ མངོན་པར་ བརྗོད་ ན །_། |#| བུ་ འདོད་པ ས་ ནི་ བུ་ ཐོབ་ འགྱུར་ ཞིང་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>If chanted twice, thrice, or seven times, |#| $28 Those who want children will come to have them,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནོར་ འདོད་པ ས་ ནི་ ནོར་ རྣམས་ ཉིད་ ཐོབ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who seek wealth will come to have that,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདོད་པ་ ཐམས་ཅད་ ཐོབ་པ ར་ འགྱུར་ ཏེ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Each and every wish will be fulfilled,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བགེགས་ རྣམས་ མེད་ ཅིང་ སོ་སོ ར་ འཇོམས་ འགྱུར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>And obstacles, entirely vanquished, will be no more.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ མ་ སྒྲོལ་མ་ ལ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ ཀྱིས་ བསྟོད་པ་ གསུངས་པ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$29 This completes the praise to the Blessed Tārā as spoken by the completely perfect Buddha.</seg></tuv>
+</tu>
+</body>
+</tmx>

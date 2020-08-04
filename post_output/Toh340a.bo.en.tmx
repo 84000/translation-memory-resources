@@ -1,0 +1,1408 @@
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-073-001" eft:text-version="1.2.2 2020"/>
+<body>
+<tu><prop name="folio">F.1.b</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-39"/>I prostrate to the All-Knowing One.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.1.b</prop>
+	<tuv xml:lang="bo"><seg>གང་ལས་འཇིག་རྟེན་བླ་མ་བདེ་གཤེགས་ཐོས་པའི་སྒོ་ནས་རབ་སྙན་བརྟན་པའི་གསུང་ལྡན་གྱིས། །སེམས་ཅན་རྣམས་ལ་ཕན་པ་འབའ་ཞིག་བཞེད་ཕྱིར་བཤད་པ་རྣམ་པ་སྣ་ཚོགས་རང་ཉིད་ཀྱིས། །ལོག་པར་ལྟ་བའི་མུན་ནག་ཆེན་པོ་ཐིབས་པོར་འཐོམས་ཤིང་འཁྲུགས་པ་རྣམས་ལ་རབ་གསུངས་པ། །དེ་ཡི་མིང་ནི་ལས་རྣམ་བརྒྱ་པ་ཞེས་བྱ་ཡོངས་སུ་ཚང་བ་བདག་གིས་བཤད་ཀྱིས་ཉོན། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-41"/>Listen well, for I have heard Of a doorway whence we may discern The world-guru, Gone to Bliss, Who wishes nothing but our benefit, As he parcels out a full account To those who wandered in, confused, From the vast, bleak wood of wrongful views. His sacred speech, so sound and sweet— This sūtra—is The Hundred Deeds.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.1.b</prop>
+	<tuv xml:lang="bo"><seg>སྤྱི་སྡོམ་ནི། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-42"/>A General Outline of the Text Part One:</seg></tuv>
+</tu>
+<tu><prop name="folio">F.1.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོ་དང་ནི་ཤིང་རྟ་དང་། །ཀ་ཙང་ཀ་ལ་བྱམས་མི་སྡུག །བྱ་དང་འཕྱེ་བོ་གང་པོ་དང་། །བུ་རྣམས་དང་ནི་བརྒྱ་བྱིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“The Dog,” and Other Stories Part Two: “The Chariot,” and Other Stories Part Three: “The Story of Kacaṅkalā,” and Other Stories Part Four: “The Story of Maitrībala,” and Other Stories Part Five: “The Story of Virūpa ,” and Other Stories Part Six: “The Bird,” and Other Stories Part Seven: “The Story of Paṅgu,” and Other Stories Part Eight: “The Story of Pūrṇa,” and Other Stories Part Nine: “The Sons,” and Other Stories Part Ten: “Śakra,” and Other Stories</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོ་མིག་ཆུང་རྫོགས་བྱེད་དང་། །སྒུར་གཉིས་འཆར་ཀ་རྒྱལ་མཚན་དང་། །བདེ་བྱེད་མ་དང་ནོར་བུའི་འོད། །སྣ་མའི་མེ་ཏོག་ང་བྱིན་དང་། །འདུས་མོ་དང་ནི་ཚེམ་བུ་མཁན། །ཁྱི་མོ་ཞེས་བྱ་<tei:ref folio="F.2.a"/>བ་ནི། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-53"/>1. The Dog 2. The Story of Little Eyes 3. The Story of Pūraṇa 4. The Person with a Curving Spine: Two Stories 5. The Story of Udayin 6. Victory Banner 7. The Story of Kṣemā 8. The Story of Maṇiprabha 9. The Story of Sumati 10. Give It to Me! 11. The Story of She Who Gathers 12. The Tailor The Dog</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན། ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ། རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-65"/>When the Blessed One was in Śrāvastī there lived a certain householder, prosperous and wealthy, a person of vast and magnificent means, endowed with the wealth of Vaiśravaṇa—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་ཏེམུ་སྟེགས་ཅན་ལ་དགའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>with wealth to rival Vaiśravaṇa’s—who was fond of philosophical extremists.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མ་བླངས་ནས། དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-66"/>When the time came for him to marry he took a wife, and they enjoyed themselves and coupled.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས་ཕྱིས་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>As they enjoyed themselves and coupled, one day his wife conceived.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་། ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་ན་སྡུག་ལ་མཛེས་པ། མདོག་བཟང་བ་གསེར་གྱི་ཁ་དོག་ཅན། མགོ་བོ་གདུགས་ལྟར་འདུག་པ་ལག་པ་རིང་བ། དཔྲལ་བའི་དབྱེས་ཆེ་བ། སྣ་མཐོ་བ་སྣ་ལེགས་པ་སྨིན་མ་སྟུག་པ་ཞིག་བཙས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>After nine or ten months had passed, she gave birth to a child who was well proportioned, pleasing to the eye, and beautiful, with glowing, golden skin, a well-rounded head, long arms, a broad brow, a fine and prominent nose, and eyebrows that met.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས། རིགས་དང་འཐུན་པར་མིང་བཏགས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>At the elaborate feast celebrating his birth they named him according to their clan.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་བསྐྱེད་བསྲིངས་ཏེ་མཚོའི་ནང་གི་པདྨ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-67"/>They reared him on milk, yogurt, butter, ghee, and milk solids, and he flourished like a lotus in a lake.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེ་གང་གི་ཚེ་འགྲོ་ནུས་པར་གྱུར་པ་དེའི་ཚེ་དེ་རྩེར་གཞུག་པའི་ཕྱིར་ཕས། ཁྱི་གུ་མོ་ཞིག་ཁྱིམ་དུ་བཞག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Once he was able to walk, his father brought home a little puppy for him to play with.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་གུ་མོ་དེ་ཡང་གང་གི་ཚེ། གཞན་མུ་སྟེགས་པ་དག་མཐོང་བ་དེའི་ཚེ་ནི་རྒྱུག་སྟེ་ཟ་བར་བྱེད་ལ་གོས་རྣམས་ཀྱང་འདྲལ་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Any time the puppy saw philosophical extremists, she would run and bite at them, sometimes tearing their robes.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྟེ་དགེ་སློང་དག་མཐོང་ན་ནི་དྲུང་དུ་འཇར་ཞིང་ལྕེས་རྐང་པ་ལ་བལྡགས་ཏེ། མཇུག་མ་དྲིལ་ནས་གཡས་ཕྱོགས་སུ་སྐོར་བ་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>But when she saw Buddhist monastics she would trot up, lick their feet, and circumambulate them clockwise while wagging her tail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.a</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ། རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་། ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ། མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་པ་གསུམ་ལ་མཁས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-68"/>The buddhas, the blessed ones, teachers of the one path to be traversed, with mastery over wisdom and the two types of knowable objects, in command of the three kinds of sterling equanimity,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>མི་འཇིགས་པ་བཞིས་མི་<tei:ref folio="F.2.b"/>འཇིགས་པ་འགྲོ་བ་ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ། སྐྱེ་མཆེད་དྲུག་ལ་མཁས་པ། བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ། རྣམ་པར་ཐར་པ་བརྒྱད་ལ་བསམ་གཏན་པ། མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ། སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>fearless by means of the fourfold fearlessness, freed from migration through the five destinies, keen in the six sense bases, practiced in the seven limbs of enlightenment, focused on the eight liberations, absorbed in the nine successive meditative absorptions, possessing all ten of the ten powers,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ། སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>whose proclamations are the great roaring of a perfect lion, by nature regard the world with their buddha eyes six times throughout the day and night—three times by day and three times by night.
+<tei:milestone xml:id="UT22084-073-001-69"/>These are their thoughts as they look out in wisdom:</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་རྒུད་</seg></tuv>
+	<tuv xml:lang="en"><seg>“Who is in decline?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དར་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who will flourish?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཕོངས་ཤིང་འདུག །</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is destitute?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཉམ་ང་བར་གྱུར་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is in a dreadful state?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་གནོད་པ་དང་ལྡན། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who is being harmed?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་དང་གནོད་པ་དང་ལྡན་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is destitute, in a dreadful state, and being harmed?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་གཞོལ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is veering toward the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་འབབ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is descending through the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་བབ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who has descended to the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངས་ངན་སོང་ནས་ཕྱུང་སྟེམཐོ་རིས་དང་ཐར་པ་དང་འབྲས་བུ་ལ་གཞག་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom shall I pull up from the lower realms, and establish in the resultant state of heaven and liberation?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཉེས་པར་སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ལག་པ་ནས་དྲང་བར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, mired in misdeeds, shall I lift up by the hand? <tei:note xml:id="UT22084-073-001-70"/></seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་འཕགས་པའི་ནོར་བདུན་མེད་པ་ལས་འཕགས་པའི་ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, lacking the seven jewels of the noble ones, shall I lead to command of the seven jewels of the noble ones?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་པ་ལས་བསྐྱེད་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, not having produced roots of virtue, shall I lead to produce them?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་ཟིན་པ་ལས་ཡོངས་སུ་སྨིན་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, having already produced roots of virtue, shall I lead to ripen their roots of virtue?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་པ་ལས་ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, having already ripened their roots of virtue, shall I slice open with the blade of wisdom?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ལ་ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་ཡེ་ཤེས་གཟིགས་པ་འཇུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>For whom shall I cause this world, adorned with a buddha’s presence, to be fruitful?”<tei:note xml:id="UT22084-073-001-71"/></seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །དུས་རླབས་ཡོལ་བར་འགྱུར་ཡང་སྲིད། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-72"/>The ocean, home of creatures fierce, Could fail to send its tides on time.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །</seg></tuv>
+	<tuv xml:lang="en"><seg>But when the time has come to tame Their offspring, buddhas never fail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-73"/>Just as the buddhas, the blessed ones, regard the world with their buddha eyes six times throughout the day and night—three times by day and three times by night—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་དུ། ཉན་ཐོས་ཆེན་པོ་རྣམས་ཀྱང་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་ལྟ་བར་བྱེད་དེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>so too the great disciples of the buddhas regard the world with disciples’ eyes six times throughout the day and night—three times by day and three times by night.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་བལྟས་ན། ཁྱིམ་བདག་འཁོར་དང་བཅས་པ་གདུལ་བའི་དུས་ལ་བབ་པར་མཐོང་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>When Venerable Śāriputra regarded the world with his disciple’s eyes, he knew that the time had come to tame the householder and his retinue.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.2.b</prop>
+	<tuv xml:lang="bo"><seg>སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་བགོས་ཏེ། ལྷུང་བཟེད་ཐོགས་ནས་མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>In the morning he donned his lower garment and Dharma robes, and, carrying his alms bowl, he went for alms in Śrāvastī. </seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg><tei:ref folio="F.3.a"/>དེ་མཐར་གྱིས་བསོད་སྙོམས་རྒྱུ་བ་ལས་ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་དེར་སོང་བ་དང་། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-74"/>As he went for alms, Śāriputra eventually came to the home of that householder.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོ་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཐག་རིང་པོ་ཞིག་ནས་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་ཤིན་ཏུ་རིངས་པར་ལངས་ཏེ། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་ནས། ཇི་ལྟར་དགེ་སློང་གཞན་དག་གི་ཐད་དུ་འགྲོ་བ་དེ་བཞིན་དུ། </seg></tuv>
+	<tuv xml:lang="en"><seg>As soon as the dog saw him from a distance, she jumped up and ran right up to Śāriputra, just as she had with the other monks.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>ཆེས་གུས་པར་ལྕེས་རྐང་པ་ལ་བལྡགས་ཏེ། མཇུག་མ་དྲིལ་ནས་ལན་གསུམ་སྐོར་བ་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>She very respectfully licked his feet and circumambulated him three times while wagging her tail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཡང་ཁྱིམ་བདག་དེས་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་བསམས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-75"/>The householder saw all this and thought,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>མ་ལ་འདི་ལྟར། ཁྱི་མོ་ལོག་པར་ལྟུང་བའི་ལུས་ཅན་འདི་ཡང་</seg></tuv>
+	<tuv xml:lang="en"><seg>“My! This one has fallen so low as to possess the body of a dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལ་དེ་ལྟ་བུའི་བཀུར་སྟི་བྱེད་པར་སེམས་པ་ལས་ན། དགེ་སློང་འདི་ནི་བདག་ཉིད་ཆེན་པོ་ཞིག་ཡིན་གོར་མ་ཆག་སྙམ་དུ་བསམས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>If even she thinks to pay him such esteem, then surely this monk is a great being.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>མ་ལ་བདག་གིས་ཀྱང་དགེ་སློང་འདི་སྤྱན་དྲངས་ལ་བཤོས་གསོལ་ལོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>I should invite this monk and offer him food.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>སྙམ་དུ་བསམས་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པ་ལ་ཕྱག་འཚལ་ཏེའདི་སྐད་ཅེས་སྨྲས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Reflecting in this way he approached Venerable Śāriputra, bowed down at Śāriputra’s feet, and said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་འོ་ན་འདི་ཉིད་དུ་བཤོས་གསོལ་དུ་ཅི་གནང་ཞེས་བྱས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord Śāriputra, whatever food you need, please take it here.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་ཅང་མི་ཟེར་བས་གནང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra assented by his silence.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་ཟེར་བས་གནང་བར་རིག་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་སྟན་བཤམས་ཏེ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-76"/>Understanding that by his silence Venerable Śāriputra had given his assent, the householder then prepared a seat for Venerable Śāriputra and said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་གདན་བཤམས་པ་ལ་བཞུགས་སུ་གསོལ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Venerable Śāriputra, please sit upon the seat that I have prepared,”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སྟན་བཤམས་པ་ལ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>whereupon Venerable Śāriputra sat on the seat prepared for him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས། རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ། ཅི་འདོད་པ་བསྟབས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-77"/>Once the householder knew that Venerable Śāriputra was comfortably seated, by his own hand he contented him with many good, wholesome foods, proffering all that he wished.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་རྣམ་གྲངས་དུ་མས་ཚིམ་པར་བྱས་ཏེ། ཅི་འདོད་པ་བསྟབས་པའི་འོག་ཏུ་སྡེར་ནི་གྱུ། ལྷུང་བཟེད་ནི་བཀྲུས་པར་རིག་ནས། ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>After he had contented him with many different kinds of good, wholesome foods by his own hand, and had proffered all that he wished, once he knew that Venerable Śāriputra had finished eating and that his bowl had been taken away and his hands washed, he sat before him to listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པའི་བསམ་པ་དང་། བག་ལ་ཉལ་དང་ཁམས་དང་རང་བཞིན་རྟོགས་ནས་དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-78"/>Venerable Śāriputra directly apprehended the thoughts, habitual tendencies, temperament, and nature of the householder and his retinue, and taught them the Dharma accordingly.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཐོས་ནས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པས་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་<tei:ref folio="F.3.b"/>ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-79"/>When they heard it, the householder and his retinue destroyed with the thunderbolt of wisdom the twenty high peaks of the mountain of views concerning the transitory collection, and manifested the resultant state of stream entry.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་བདེན་པ་མཐོང་ནས་སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་བླངས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Having seen the truths,<tei:note xml:id="UT22084-073-001-80"/> they went for refuge and took the fundamental precepts.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ཆོས་ཀྱི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན། ཡང་དག་པར་འཛིན་དུ་བཅུག ། ཡང་དག་པར་གཟེངས་བསྟོད། ཡང་དག་པ་དགའ་བར་བྱས་ནས་སྟན་ལས་ལངས་ཏེ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>After Venerable Śāriputra had instructed, encouraged, inspired, and delighted the householder with a discourse on the Dharma, he rose from his seat and departed.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་དེ་ཡང་བདེན་པ་མཐོང་བར་གྱུར་ནས། སྦྱིན་པ་དག་སྦྱིན་ཞིང་བསོད་ནམས་དག་བྱེད་དོ། །དེའི་ཁྱིམ་དེ་སློང་བའི་སྐྱེ་བོ་རྣམས་ཀྱི་ཆུ་དོང་དང་འདྲ་བར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-81"/>Having seen the truths, the householder began to give gifts and make merit such that his home became like an open well for those in need.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་དེས་ཀྱང་། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཡང་དང་ཡང་དུ་ཁྱིམ་གྱི་ནང་དུ་བཤོས་གསོལ་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The householder invited Śāriputra to take food at his home again and again.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་ཁྱིམ་བདག་དེས་ཁྱི་མོ་དེ་ལ་ཁ་ཟས་བྱིན་ནས་ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra and the householder would give food to the dog, and the householder would sit before Venerable Śāriputra to listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོ་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་མདུན་དུ་འདུག་ནས་ཆོས་ཉན་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The dog too would sit down before Venerable Śāriputra and listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས་བསམས་པ་བདག་གིས་ལེགས་པ་འདི་ལྟ་བུ་རྟོགས་པ་ཅི་ཡང་རུང་བ་དེ་དག་ཐམས་ཅད་ནི་ཁྱི་མོ་འདིའི་མཐུ་ལས་བྱུང་བ་ཡིན་ནོ། །སྙམ་དུ་རིག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The householder reflected, “Such good things I have realized, and all on account of this dog!”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>རིག་ནས་ཀྱང་དེ་ལ་ཤིན་ཏུ་སྐྱོང་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Realizing this, he took very good care of her.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱི་ཞིག་ན་ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས། ཤཱ་རིའི་བུས་དེ་ལ་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-82"/>One day the dog fell ill, and Śāriputra said to her,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>བུ་འདི་ལྟར་འདུ་བྱེད་ཐམས་ཅད་ནི་མི་རྟག་པའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“And so it is, child: All conditioned things are impermanent.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>འདུ་བྱེད་ཐམས་ཅད་ནི་སྡུག་བསྔལ་བའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>All conditioned things are suffering.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ཐམས་ཅད་ནི་བདག་མེད་པའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>All phenomena are selfless.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>མྱ་ངན་ལས་འདས་པ་ནི་ཞི་བའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Nirvāṇa is peace.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ང་ལ་སེམས་དགའ་བར་གྱིས་ཤིག་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་འབྲལ་བར་འགྱུར་ཡང་སྲིད་དོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Let your mind be filled with joy at the thought of me, and you may even be released from rebirth in the animal realm.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་སྨྲས་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>With that, Venerable Śāriputra departed.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་སོང་ནས་རིང་པོ་མ་ལོན་པར་ཁྱི་མོ་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བར་གྱུར་ནས་ཤིའོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-83"/>Not long after he had gone, the dog died, filled with joy at the thought of Venerable Śāriputra.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཤི་འཕོས་ཏེ་འདས་ནས་ཁྱིམ་དེ་ཉིད་དུ་ཁྱིམ་བདག་དེའི་ཆུང་མ་ཆེན་མའི་མངལ་དུ་སྐྱེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>After she died, she took rebirth in the same house, in the womb of the householder’s foremost wife.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཤི་བའི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སླར་ཁྱིམ་དེར་འོངས་ནས། ཁྱིམ་བདག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་བསྙད་དེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>When the dog died, Venerable Śāriputra returned to the house, where the householder informed him,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་ཁྱི་མོ་དེ་གུམ་ལགས་སོ་ཞེས་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord Śāriputra, our dog has passed away.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra instructed,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.3.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོ་དེའི་རོ་དེ་ཕྱོགས་དབེན་པ་ཞིག་ཏུ་ཞོག་ཤིག་དང་། རུས་པ་དེ་དག་ཕྱིས་དེ་ཉིད་ལ་ཕན་འདོགས་པར་འགྱུར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-85"/>“Keep the dog’s body in a secluded place,” “for those bones will be of benefit to her later on.” </seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg><tei:ref folio="F.4.a"/>ཁྱིམ་བདག་གིས་སྨྲས་པ། བཙུན་པ་ཤཱ་རིའི་བུས་ཇི་སྐད་བཀའ་སྩལ་པ་བཞིན་དུ་བགྱིའོ་ཞེས་སྨྲས་ནས། ཁྱིམ་བདག་དེས་ཁྱི་རོ་དེ་གང་དུ་སུས་ཀྱང་མི་མཐོང་བར་འགྱུར་བ་དེ་ལྟ་བུའི་ཕྱོགས་ཤིག་ཏུ་བཞག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“As you wish, Lord Śāriputra,” said the householder, and the householder put the dog’s dead body in a place where no one would see it.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་གི་ཆུང་མ་དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་བུ་བྱུང་སྟེ། བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་ན་སྡུག་ལ་མཛེས་པ་མདོག་བཟང་བ་གསེར་གྱི་ཁ་དོག་ཅན་མགོ་བོ་གདུགས་ལྟར་འདུག་པ། ལག་པ་རིང་བ་དཔྲལ་བའི་དབྱེས་ཆེ་བ་སྣ་མཐོ་བ་སྣ་ལེགས་པ་སྨིན་མ་སྟུག་པ་ཞིག་བཙས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-87"/>After nine or ten months had passed, the householder’s wife gave birth to a child who was well proportioned, pleasing to the eye, and beautiful, with glowing, golden skin and a well-rounded head, long arms, a broad brow, a fine and prominent nose, and eyebrows that met.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེའི་བཙས་སྟོན་ཡང་རྒྱས་པར་བྱས་ནས། རིགས་དང་འཐུན་པའི་མིང་བཏགས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>At the elaborate feast celebrating her birth they named her according to their clan.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>འོ་མ་དང་མར་དང་ཞོ་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་བསྐྱེད་བསྲིངས་ཏེ། མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>They reared her on milk, yogurt, butter, ghee, and milk solids, and she flourished like a lotus in a lake.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེ་གང་གི་ཚེ་ཆེན་མོར་གྱུར་པ་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-88"/>When she had grown, Venerable Śāriputra told her,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>བུ་འདུག་ལ་ཆོས་ཉོན་ཅིག་ཅེས་བྱས་ན། དེ་བྱད་གཟུགས་དང་ལང་ཚོའི་རྒྱགས་པས་དྲེགས་ནས་ཕན་ཚུན་དུ་གཡེངས་ཏེ་ཆོས་ཉན་དུ་མི་བཏུབ་བོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Child, sit and listen to the Dharma,” but she had become arrogant on account of her well-proportioned shape and youthfulness, and was so distracted that she was unable to listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེ་ཤེད་བྱེ་བར་རིག་ནས</seg></tuv>
+	<tuv xml:lang="en"><seg>One day Venerable Śāriputra recognized how to uncover her potential.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་མོའི་རུས་བུ་དེ་དེ་ཉིད་ཀྱི་མདུན་དུ་བཞག་སྟེ། ཅི་ནས་ཀྱང་བུ་མོ་དེས་ཚེ་རབས་དྲན་པར་འགྱུར་བ་དེ་ལྟ་བུར་བྱིན་གྱིས་བརླབས་ནས། ཚེ་རབས་དྲན་མ་ཐག་ཏུ་བུ་མོ་དེ་ཤས་ཆེར་སྐྱོ་བ་སྐྱེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He set the bones of the dog in front of her, and blessed the young woman in such a way that she remembered her former lives.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྐྱོ་བ་སྐྱེས་ནས་བསམས་པ། འཕགས་པ་ཤཱ་རིའི་བུ་ནི། བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་པ་ལྟ་ཞིག་སྟེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-89"/>Recalling her former lives, the young woman was overcome with grief and thought, “Look at the difficult task Noble Śāriputra has done for me!</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལས་བརྟེན་ནས། བདག་གིས་དུད་འགྲོའི་སྐྱེ་གནས་སྤངས་སོ་སྙམ་དུ་རིག་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>Thanks to him I have been freed from the realms of animal birth.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དགའ་བ་སྐྱེས་ཏེ་ཆོས་མཉན་པའི་ཕྱིར། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་མདུན་དུ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>At this thought she was filled with happiness, and sat before Venerable Śāriputra to listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་། ཁམས་དང་རང་བཞིན་རྟོགས་ནས་དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-90"/>Then Venerable Śāriputra, directly apprehending her thoughts, habitual tendencies, temperament, and nature, taught her the Dharma accordingly.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཐོས་ནས་བུ་མོ་དེས་སྟན་དེ་ཁོ་ན་ལ་འདུག་བཞིན་དུ་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས། རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Hearing it, the young woman destroyed with the thunderbolt of wisdom the twenty high peaks of the mountain of views concerning the transitory collection, and manifested the resultant state of stream entry right where she sat.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་བདེན་པ་མཐོང་ནས་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་<tei:ref folio="F.4.b"/>བ་བཏུད་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-91"/>Having seen the truths, she rose from her seat, drew down the right shoulder of her upper garment, bowed to Venerable Śāriputra with her palms together, and implored him,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་བ་དང་བསྙེན་པར་རྫོགས་ཤིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord Śāriputra, if permitted, I wish to go forth in the Dharma and Vinaya so well spoken, complete my novitiate, and achieve full ordination.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་མའི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན་བདག་ཀྱང་། བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>I too wish to practice the holy life in the presence of the Blessed One.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེའི་ཕ་མ་ལ་དད་པ་སྨྲས་ནས། སྐྱེ་དགུའི་བདག་མོ་ཆེན་མོ་ལ་གཏད་དེ་སྐྱེ་དགུའི་བདག་མོ་ཆེན་མོས་དེ་རབ་ཏུ་ཕྱུང་ནས་བསྙེན་པར་རྫོགས་པར་བྱས་ཏེ། དེ་ལ་ལུང་ཡང་ཕོག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-92"/>Venerable Śāriputra told her parents of her faith and then presented her to Mahā­prajāpatī, who led her to go forth as a novice, ordained her, and gave her instruction.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Casting away all afflictive emotions through diligence, practice, and effort, she manifested arhatship.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས། གསེར་དང་བོང་རྡོར་མཉམ་པ་ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>As an arhat, free of the attachments of the three realms, her mind regarded gold no differently than filth, and the palms of her hands as like space itself.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>She became cool like wet sandalwood.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>རིག་པས་མ་རིག་པའི་སྒོ་ངའི་སྦུབས་བཅོམ་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Her insight crushed ignorance like an eggshell.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>She achieved the insights, superknowledges, and discriminations.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་</seg></tuv>
+	<tuv xml:lang="en"><seg>She had no regard for worldly profit, passion, or acclaim.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>ཕྱོགས་པ་དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་པ་དང་། གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>She became an object of offering, veneration, and respectful address by Indra, Upendra, and the other gods.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དགྲ་བཅོམ་པར་གྱུར་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་སྔོན་གྱི་དྲིན་དྲན་ཏེ། ཡང་དང་ཡང་དུ་ཐད་དུ་འགྲོ་ཞིང་རྐང་པ་ལ་ཕྱག་འཚལ་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-93"/>Now an arhat, she remembered Venerable Śāriputra’s previous kindness and approached him again and again, prostrating herself at his feet and saying,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་དུ་འཕགས་པ་ཤཱ་རིའི་བུ་ལས་བརྟེན་ཏེ་བདག་གིས་དུད་འགྲོའི་སྐྱེ་གནས་སྤངས་ནས། ཡོན་ཏན་འདི་ལྟ་བུ་དག་ཀྱང་ཐོབ་པར་གྱུར་པས་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Thanks to Noble Śāriputra, I was freed from the realms of animal birth and achieved great virtues.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ནི་བདག་ལ་དཀའ་བ་མཛད་མཛད་པ་ལགས་སོ་ཞེས་ཟེར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>It is all due to the difficult task the noble one has done for me.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཡང་དང་ཡང་དུ་ཟེར་བ་དགེ་སློང་མང་པོས་ཐོས་ནས་ཐོས་མ་ཐག་ཏུ་དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་དྲིས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-94"/>Many monks overheard her saying this over and over again, and immediately asked Venerable Śāriputra,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དགེ་སློང་མ་འདིས་ཅི་ལས་བསམས་ཏེདེ་ཡང་དང་ཡང་དུ་དེ་སྐད་མཆི། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Venerable Śāriputra, what is this nun thinking, saying this over and over again?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra asked.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེད་ཀྱིས་ཁྱིམ་བདག་འདིའི་ཁྱིམ་ན་ཁྱི་མོ་ཞིག་འདུག་པ་མཐོང་ངམ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Did you see the puppy at the householder’s home?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.4.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་གིས་སྨྲས་པ། བཙུན་པ་ཤཱ་རིའི་བུ་མཐོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Yes, Lord Śāriputra, we did,” they replied.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁོ་ནས་བདག་ལ་དགའ་བའི་སེམས་བསྐྱེད་ནས་ཤི་སྟེ་འདས་པ་དང་། ཁྱིམ་བདག་དེ་ཉིད་ཀྱི་ཁྱིམ་<tei:ref folio="F.5.a"/>དུ་སྐྱེས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-97"/>“The very same one died filled with joy at the thought of me and was reborn in the home of that householder. </seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་སྔོན་གྱི་ཚེ་རབས་རྗེས་སུ་དྲན་ནས། སྔོན་གྱི་དྲིན་གཟོ་བའི་ཕྱིར་བདག་ལ་དེ་སྐད་ཅེས་ཟེར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Now that she remembers her former lives, she speaks these words to me to acknowledge that previous kindness.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་རྣམས་ཀྱིས་ཞུས་པ། བཙུན་པ་དགེ་སློང་མ་འདིས་ལས་ཅི་བགྱིས་ན། ལས་དེའི་རྣམ་པར་སྨིན་པས་སྔོན་ཁྱིར་སྐྱེས་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-98"/>The monks inquired of the Blessed One, “Lord, what was the action this nun performed that ripened into her birth as a dog?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>ལས་ཅི་བགྱིས་ན་དེ་ནས་ཤི་འཕོས་ཏེ་མིར་སྐྱེས་ནས། བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ་མི་མཉེས་པར་མ་བགྱིས་ལ། བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>What did she do after she died and took rebirth as a human being that she pleased and did not displease the Blessed One, went forth in the Blessed One’s doctrine, cast away all afflictive emotions, and manifested arhatship?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-99"/>The Blessed One replied,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་ད་ལྟར་བྱུང་བའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Monks, it was partly her past actions, and it is partly her present actions as well.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་འདས་པའི་ལས་ཅི་བགྱིས་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord, what action did she take in the past?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-101"/>“Monks, in times past, in this fortunate eon, when people lived as long as twenty thousand years and</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་འདུལ་བ་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>the tathāgata, the arhat, the totally and completely awakened buddha possessed of insight and perfect conduct, the sugata, the knower of the world, the tamer of persons, the charioteer, the unsurpassed one, the teacher of humans and gods,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེདེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན་ཁྱིམ་བདག་ཅིག་གནས་པ་ལས་</seg></tuv>
+	<tuv xml:lang="en"><seg>the blessed buddha known as Kāśyapa was in the world, there lived a certain householder in the city of Vārāṇasī.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>ཕྱིས་དེ་ལ་བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-102"/>“One day a child was born to him who was well proportioned, pleasing to the eye, and beautiful.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>གང་གི་ཚེ་དེ་ཆེན་མོར་གྱུར་པ་དང་། དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་དད་པ་རྙེད་ནས་ཕ་མ་ལ་གསོལ་ཏེ་རབ་ཏུ་བྱུང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>As she grew up she gained faith in the doctrine of the totally and completely awakened Buddha Kāśyapa and asked her parents if she could go forth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>རབ་ཏུ་བྱུང་ནས་སྡེ་སྣོད་གསུམ་བསླབས་ཏེ། དེ་རིག་པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Once she had gone forth, she studied the Tripiṭaka and became a proponent of the Dharma with all the eloquence of her wisdom and freedom.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>གོས་དང་ཟས་དང་མལ་ཆ་དང་། སྟན་དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས་དེས་བསམས་པ་མ་ལ་བདག་གིས་རྙེད་པ་དང་བཀུར་སྟིའི་སྒོ་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-103"/>“Having acquired provisions of clothing, food, bedding, a seat, and medicines for the sick, she thought, ‘How wonderful!</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>རྙེད་པར་བྱ་བ་རྙེད་པ་གང་ཡིན་པ་དེས། བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཕན་གདགས་པར་བྱ་གོར་མ་ཆག་</seg></tuv>
+	<tuv xml:lang="en"><seg>With all the profit and acclaim I’ve gained, I can see to the welfare of fellow practitioners of the holy life.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.a</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་བཞིན་དུ་གཉི་གའི་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>And she served the twofold saṅgha<tei:note xml:id="UT22084-073-001-104"/> in accordance with the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱིས་དེ་ལ་བྲེལ་བ་ཞིག་བྱུང་སྟེ། དེས་<tei:ref folio="F.5.b"/>སློབ་པ་དང་མི་སློབ་པའི་དགེ་སློང་མ་མང་པོ་ཞིག་ལ་གསོལ་བ་བཏབ་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-105"/>“One day when she was busy, she asked for help from a group of nuns who were on the paths of learning and no more to learn.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ན་རེ་བདག་ཅག་གི་དགེ་བའི་ཕྱོགས་བཏང་སྟེ། ཁྱོད་ཀྱི་དོན་བསྒྲུབ་མི་ནུས་སོ་ཞེས་ཟེར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>They replied, ‘We cannot abandon our virtuous works to accomplish your task.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེ་ཐོས་པའི་མོད་ལ་དགེ་སློང་མ་དེ་ཤིན་ཏུ་ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་པ་སྐྱེས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-106"/>“When she heard this she bristled with fury.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁྲོས་ནས་ དགེ་སློང་མ་དེ་དག་ལ་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Seething, the nun shouted at them,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ང་ནི་ཁྱི་མོ་དང་འདྲ་བ་ཁྱེད་དགང་བ་དང་གསོ་བ་འབའ་ཞིག་བྱེད་ན་ཁྱེད་ནི་སྐད་ཅིག་ཙམ་བདག་གི་དོན་བྱེད་དུ་ཡང་མི་བཏུབ་བམ་ཞེས་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>‘You’re like dogs! All I do is look after you and fill your stomachs—can you not help me for even a moment?’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དགེ་སློང་མ་དེ་རྣམས་ཀྱིས་བསམས་པ། ཉོན་མོངས་མ་འདི་ནི་དམས་ཤིང་ཉམས་པར་གྱུར་ཏེ། འཁོར་བ་ན་འཁོར་ཞིང་སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ན་མི་རུང་ངོ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-107"/>“Thereupon the nuns thought, ‘It’s not right for this emotionally afflicted person, so abased, to circle in saṃsāra and meet with great suffering.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>སྙམ་དུ་བསམས་ནས། འདིའི་ར་མདའ་བྱ་དགོས་སོ་སྙམ་སྟེ་དེ་དག་གིས་སྨྲས་པ། ཁྱོད་ཀྱིས་ངེད་སུ་ཡིན་པ་དང་། ཁྱོད་བདག་སུ་ཡིན་པ་ཤེས་སམ་དེས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Reflecting in this way, they thought, ‘We have to help her,’ and asked, ‘Do you know who we are? And do you know who you yourself are?’
+“</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ངས་ཤེས་ཏེ་ཁྱེད་ཀྱང་རབ་ཏུ་བྱུང་བ་ཡིན་ལ་ང་ཡང་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>‘I know,’ she replied, ‘that you have gone forth, as have I.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་གིས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-109"/>“The nuns responded,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ཆེ་ཞེའུ་བུ་ཅག་རབ་ཏུ་བྱུང་བར་འདྲ་མོད་ཀྱི། ཁྱོད་ནི་བཅིང་བ་ཐམས་ཅད་ཀྱིས་བཅིངས་པའི་སོ་སོའི་སྐྱེ་བོ་ཡིན་ལ་ངེད་ནི་བྱ་བ་བྱས་པ་ཡིན་གྱིས་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Though as your elder sisters we have gone forth as you have, you are an ordinary person, bound by every fetter, whereas we have accomplished our task.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ཉེས་པ་ལ་ཉེས་སོ་ཞེས་བཤགས་པར་གྱིས་ཤིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>So acknowledge your mistake as such.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱོད་འཁོར་བ་ན་འཁོར་ཞིང་སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ཏ་རེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Otherwise you are certain to roam in saṃsāra and meet with great suffering.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྐད་ཐོས་པའི་མོད་ལ་དགེ་སློང་མ་དེ་འགྱོད་པ་ཆེན་པོ་སྐྱེས་ཏེའགྱོད་པ་ཆེན་པོ་སྐྱེས་ནས། ལྷག་པར་ཡང་ཆོས་བཞིན་དུ་གཉི་གའི་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ཏེ་ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Hearing their words, the nun was flooded with regret, and with renewed vigor she offered her respectful service to the twofold saṅgha and practiced pure conduct all her life.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>འཆི་ཀར་སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་བདག་ཀྱང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ། ཆོས་བཞིན་དུ་ཞལ་ཏ་བྱས་པའི་དགེ་བའི་རྩ་བ་འདིས་ནི་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-111"/>“At the time of her death, she prayed, ‘Oh, but by the root of virtue of my having gone forth in the doctrine of the totally and completely awakened Buddha Kāśyapa, my lifetime of practicing pure conduct, and the service I rendered in accord with the Dharma,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཅི་ནས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བ་དང་། </seg></tuv>
+	<tuv xml:lang="en"><seg>wherever I am born, may it be into a family of great means, prosperity, and wealth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་བཟང་ཞིང་བལྟ་ན་སྡུག་ལ་མཛེས་པར་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>May I be well proportioned, pleasing to the eye, and beautiful.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.5.b</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། </seg></tuv>
+	<tuv xml:lang="en"><seg>May I please and not displease Uttara, the young brahmin prophesied by the totally and completely awakened Buddha Kāśyapa to be the next blessed buddha.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg><tei:ref folio="F.6.a"/>དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>Going forth in his doctrine alone, may I cast away all afflictive emotions and manifest arhatship.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>བདག་ཁྲོས་ནས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པ་གང་ཡིན་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག་ཅེས་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>May I not meet with the results of the act of speaking harshly to those fellow practitioners of the holy life.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་ཇི་སྙམ་དུ་སེམས་དེའི་ཚེ་དགེ་སློང་མར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་མ་འདི་ཉིད་ཡིན་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-112"/>“O monks, what do you think? The one who was that nun then is now this nun.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་དེར་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་དེ་དག་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི་ཚེ་རབས་ལྔ་བརྒྱར་ཁྱིར་སྐྱེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The ripening of the act of speaking harshly to those fellow practitioners of the holy life caused her to be reborn as a dog for five hundred lifetimes.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་དེར་འཆི་ཀར་སྨོན་ལམ་བཏབ་སྟེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>At the time of her death she prayed,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Wherever I am born, may it be into a family of great means, prosperity, and wealth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>May I please and not displease Uttara, the young brahmin prophesied by the totally and completely awakened Buddha Kāśyapa to be the next blessed buddha.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Going forth in his doctrine alone, may I cast away all afflictive emotions and manifest arhatship.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>བྱས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི། འདི་ད་ལྟར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>And that action ripened such that she was born into a family of great means, prosperity, and wealth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-113"/>“So it is, monks, now that I myself have become the very equal of the totally and completely awakened Buddha Kāśyapa— equal in strength, equal in deeds, and equal in skillful means—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>འདིས་ང་མཉེས་པར་བྱས་ཏེ། མི་མཉེས་པར་མ་བྱས་ལ་ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>that she has pleased me, not displeased me, go forth in my very doctrine, cast away all afflictive emotions, and manifested arhatship.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>འདི་ནི་འདིས་འདས་པའི་ལས་ཡིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>These were her past actions.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>ད་ལྟར་བྱུང་བའི་ལས་ཅི་ཞིག་བྱས་ཞེ་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-114"/>“You may ask, ‘What are her present actions?’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁྱིར་སྐྱེས་ནས་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བར་གྱུར་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Born as a dog, she was filled with joy at the thought of Śāriputra.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་ནི་མིའི་ནང་དུ་སྐྱེས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Because of this she took birth among humans.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>འདི་ནི་ད་ལྟར་བྱུང་བའི་ལས་ཡིན་ནོ།། །།</seg></tuv>
+	<tuv xml:lang="en"><seg>These are her present actions.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>མིག་ཆུང་ཞེས་བྱ་བ་ནི། </seg></tuv>
+	<tuv xml:lang="en"><seg>The Story of Little Eyes</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.a</prop>
+	<tuv xml:lang="bo"><seg>གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ། དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-115"/>When the Blessed One was in Śrāvastī there lived a certain householder, prosperous and wealthy, a person of vast and magnificent means,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་<tei:ref folio="F.6.b"/>ལྡན་པ། རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་པ་དེས། </seg></tuv>
+	<tuv xml:lang="en"><seg>endowed with the wealth of Vaiśravaṇa—with wealth to rival Vaiśravaṇa’s.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མ་བླངས་ནས། དེ་དེ་དང་ལྷན་ཅིག་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས་ཕྱིས་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>When the time came for him to marry he took a wife, and as they enjoyed themselves and coupled, one day his wife conceived.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཟླ་བ་དགུའམ། བཅུ་ལོན་པ་དང་ཁྱེའུ་གཟུགས་བཟང་ཞིང་། བལྟ་ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>After nine or ten months had passed, she gave birth to a child who was well proportioned, pleasing to the eye, and beautiful.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ཏེ། རིགས་དང་འཐུན་པར་མིང་བཏགས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>At the elaborate feast celebrating his birth they named him according to their clan.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་བསྐྱེད་བསྲིངས་ཏེ་དེ་གང་གི་ཚེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-116"/>They reared him on milk, yogurt, butter, ghee, and milk solids,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>འགྲོ་ནུས་པར་གྱུར་པ་དེའི་ཚེ། དེ་རྩེར་གཞུག་པའི་ཕྱིར་ཕས་ཁྱི་གུ་ཞིག་ཁྱིམ་དུ་བཞག་སྟེ་ཁྱེའུ་ལ་བྱིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>and once he was able to walk, his father brought home a puppy and gave it to the child to play with.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱེའུ་དེས་ཁྱི་གུ་དེ་ཟ་བ་བསླབས་སོ། །དེ་ནས་གང་གི་ཚེ་ཁྱི་གུ་དེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། ལམ་པོ་ཆེར་སོང་ནས་སྐྱེ་བོ་ཕལ་པོ་ཆེ་ལ་ཡང་ཟ་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The child taught the puppy how to eat, and when the puppy had grown, he went out to the road and many others fed him as well.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-117"/>The buddhas, the blessed ones, teachers of the one path to be traversed,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་། ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>with mastery over wisdom and the two types of knowable objects,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་པ་གསུམ་ལ་མཁས་པ་མི་འཇིགས་པ་བཞིས་མི་འཇིགས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>in command of the three kinds of sterling equanimity, fearless by means of the fourfold fearlessness,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>འགྲོ་བ་ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ་སྐྱེ་མཆེད་དྲུག་ལ་མཁས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>freed from migration through the five destinies, keen in the six sense bases,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ། </seg></tuv>
+	<tuv xml:lang="en"><seg>practiced in the seven limbs of enlightenment,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ཐར་པ་བརྒྱད་ལ་བསམ་གཏན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>focused on the eight liberations,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>absorbed in the nine successive meditative absorptions,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ་ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>possessing all ten of the ten powers, whose proclamations are the great roaring of a perfect lion, by nature regard the world with their buddha eyes six times throughout the day and night—three times by day and three times by night.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་རྒུད་སུ་ནི་དར། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Who is in decline? Who will flourish?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཕོངས་ཤིང་འདུག །</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is destitute?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཉམ་ང་བར་གྱུར། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who is in a dreadful state?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་གནོད་པ་དང་ལྡན། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who is being harmed?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་དང་གནོད་པ་དང་ལྡན། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who is destitute, in a dreadful state, and being harmed?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་གཞོལ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Who is veering toward the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་འབབ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who is descending through the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངན་སོང་དུ་བབ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Who has descended to the lower realms?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ངས་ངན་སོང་ལས་ཕྱུང་སྟེ་མཐོ་རིས་དང་ཐར་པ་དང་འབྲས་བུ་ལ་གཞག་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom shall I pull up from the lower realms, and establish in the resultant state of heaven and liberation?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.6.b</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་ཉེས་པར་སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ལག་ནས་དྲང་བར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, mired in misdeeds, shall I lift up by the hand?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་འཕགས་པའི་ནོར་བདུན་མེད་པ་ལས་འཕགས་<tei:ref folio="F.7.a"/>པའི་ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, lacking the seven jewels of the noble ones, shall I lead to command of the seven jewels of the noble ones?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་པ་ལས་བསྐྱེད་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, not having produced roots of virtue, shall I lead to produce them?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་ཟིན་པ་ལས་ཡོངས་སུ་སྨིན་པར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, having already produced roots of virtue, shall I lead to ripen their roots of virtue?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་པ་ལས་ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Whom, having already ripened their roots of virtue, shall I slice open with the blade of wisdom?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སུ་ལ་ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་</seg></tuv>
+	<tuv xml:lang="en"><seg>For whom shall I cause this world, adorned with a buddha’s presence, to be fruitful?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སྙམ་དུ་ཡེ་ཤེས་གཟིགས་པ་འཇུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-118"/>These are their thoughts as they look out in wisdom:</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །དུས་རླབས་ཡོལ་བར་འགྱུར་ཡང་སྲིད། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-119"/>The ocean, home of creatures fierce, Could fail to send its tides on time.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །</seg></tuv>
+	<tuv xml:lang="en"><seg>But when the time has come to tame Their offspring, buddhas never fail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-120"/>Just as the blessed buddhas regard the world with their buddha eyes six times throughout the day and night—three times by day and three times by night—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་དུ་ཉན་ཐོས་ཆེན་པོ་རྣམས་ཀྱང་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་ལྟ་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>so too the great listeners regard the world with their listener’s eyes six times throughout the day and night—three times by day and three times by night.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་བལྟས་ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>When Venerable Śāriputra regarded the world with his listener’s eyes,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་འཁོར་དང་བཅས་པ་གདུལ་བའི་དུས་ལ་བབ་པར་མཐོང་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>he knew that the time had come to tame the householder and his retinue.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>སྔ་དྲོ་ཤམ་ཐབས་དང་། ཆོས་གོས་བགོས་ཏེ་ལྷུང་བཟེད་ཐོགས་ནས་མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-121"/>In the morning he donned his lower garment and Dharma robes, and, carrying his alms bowl, he went for alms in Śrāvastī.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་མཐར་གྱིས་བསོད་སྙོམས་ལ་རྒྱུ་བ་ལས། ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་དེར་སོང་བ་དང་། </seg></tuv>
+	<tuv xml:lang="en"><seg>As he went for alms, Venerable Śāriputra eventually came to the home of that householder.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་ཤུགས་དྲག་པོས་བརྒྱུགས་ཏེ། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཟིན་ཏོ། །དེའི་ཆོས་གོས་རྣམས་དྲལ་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The dog caught sight of Venerable Śāriputra, ran with all his might, bit him, and tore his Dharma robes.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་དེས་ཀྱང་མཐོང་ནས་བཀག་སྟེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>The householder saw this and immediately stopped the dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>དེའི་རྨ་དེ་ཡང་བཀྲུས་ནས། རས་ཀྱིས་དཀྲིས་ཏེ་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>When he had washed Venerable Śāriputra’s wounds and wrapped them with cloth, he bowed down at his feet and implored him,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་འདི་ཉིད་དུ་བཤོས་གསོལ་དུ་ཅི་གནང་ཞེས་བྱས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord Śāriputra, please take your food here.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཁྱིམ་བདག་དེ་ལ་ཅང་མི་སྨྲ་བས་གནང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra assented to the householder by his silence.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་སྨྲ་བས་གནང་བར་རིག་ནས། སྟན་བཤམས་ཏེ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-122"/>Understanding that by his silence Venerable Śāriputra had given his assent, the householder then prepared a seat for him and said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ། གདན་བཤམས་པ་ལ་བཞུགས་སུ་གསོལ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Venerable Śāriputra, please sit upon the seat that I have prepared,”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་<tei:ref folio="F.7.b"/>རིའི་བུ་སྟན་བཤམས་པ་ལ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>and Venerable Śāriputra sat on the seat prepared for him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས། རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ། ཅི་འདོད་པ་བསྟབས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Once the householder knew that Venerable Śāriputra was comfortably seated, by his own hand he contented him with many good, wholesome foods, proffering all that he wished.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་རྣམ་གྲངས་དུ་མས་ཚིམ་པར་བྱས་ཏེ་ཅི་འདོད་པ་བསྟབས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-123"/>After the householder had contented him with many different kinds of good, wholesome foods by his own hand, and had proffered all that he wished,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། དེའི་ཉིན་པར་ཟན་ཟོས་པའི་འོག་ཏུ་ཁྱི་དེ་ལ་ཁྱོས་མ་བྱིན་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Śāriputra partook of the day’s meal and gave his remaining food to the dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་དེས་ཟོས་ནས་དེའི་གདོང་དུ་བལྟས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>When he had finished eating it, the dog looked up at Venerable Śāriputra’s face.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཟན་ཟོས་ཟིན་ཏེ། སྡེར་ནི་གྱུ་ལྷུང་བཟེད་ནི་བཀྲུས་པར་རིག་ནས་ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Once the householder knew that Venerable Śāriputra had finished eating and that his bowl had been taken away and his hands washed, he sat before him to listen to the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་ཁམས་དང་རང་བཞིན་རྟོགས་ནས། དེ་དང་འཐུན་པའི་ཆོས་སྟོན་པར་བྱེད་དེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-124"/>Venerable Śāriputra directly apprehended the thoughts, habitual tendencies, temperament, and nature of the householder and his retinue, and taught them the Dharma accordingly.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཐོས་ནས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པས། སྟན་དེ་ལ་འདུག་བཞིན་དུ་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>After hearing it, the householder and his retinue destroyed with the thunderbolt of wisdom the twenty high peaks of the mountain of views concerning the transitory collection, and manifested the resultant state of stream entry right where they sat.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་བདེན་པ་མཐོང་ནས་སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་བླངས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Having seen the truths, they went for refuge and took the fundamental precepts.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>སྨྲས་པ་བཙུན་པ་ཤཱ་རིའི་བུ་བདག་ཇི་སྲིད་འཚོའི་བར་དུ་བདག་ལས་གོས་དང་ཟས་དང་མལ་ཆ་དང་སྟན་དང་སྙུན་གསོས་དང་སྨན་ཟོང་རྣམས་བཞེས་པར་གསོལ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-125"/>“Lord Śāriputra,” said the householder, “for as long as I live, please accept from me your provisions of clothing, food, bedding, seat, and medicines to cure the sick.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Śāriputra replied,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་གཞན་དག་ལ་ཡང་ཕན་གདགས་དགོས་ཀྱིས་ཐོང་ཤིག་ཅེས་བྱས་ནས་སྟན་ལས་ལངས་ཏེ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“There are other householders I must help as well. Please allow me to go.” At this, he rose from his seat and departed.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>དེར་གང་གི་ཚེ་ཁྱིམ་བདག་དེས་བདེན་པ་རྣམས་མཐོང་ནས་སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་བླངས་པ་དེའི་ཚེ་དེས་སྦྱིན་པ་དག་སྦྱིན་པ་དང་བསོད་ནམས་དག་བྱ་བར་བརྩམས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-127"/>After the householder had seen the truths, gone for refuge, and taken the fundamental precepts, he began to give gifts and make merit.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཡང་དུས་དུས་སུ་སྤྱན་དྲངས་ཏེ། བཤོས་གསོལ་བར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>From time to time he would also extend an invitation to Venerable Śāriputra and make food for him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཀྱང་ཟན་ཟོས་པའི་འོག་ཏུ་ཁྱི་དེ་ལ་ཁྱོས་མ་བྱིན་པར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>After eating, Venerable Śāriputra would give the remaining food to the dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.7.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱི་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་ཤིན་ཏུ་དགའ་བར་གྱུར་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-128"/>The dog was very happy with Venerable Śāriputra.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་དགའ་བར་གྱུར་ནས་གང་གི་ཚེ་ཚེ་དང་ལྡན་<tei:ref folio="F.8.a"/>པ་ཤཱ་རིའི་བུ། ཁྱིམ་དེར་འོང་བ་དེའི་ཚེ། ཁྱི་དེས་བསུ་ནས་རྐང་པ་ལ་བལྡགས་ཏེ་མཇུག་མ་དྲིལ་ནས་ལན་གསུམ་སྐོར་བ་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He was so happy that whenever Venerable Śāriputra came to the house, he greeted him, licked his feet, and circumambulated him three times while wagging his tail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>དེར་གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཆོས་བཤད་ནས་ཕྱིར་འགྲོ་བ་དེའི་ཚེ་ཁྱི་དེས་ཐེ་གི་ཟད་ཙམ་དུ་བསྐྱལ་ནས། ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་ཕྱིར་ལྡོག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Whenever Venerable Śāriputra came to give a Dharma talk and the time came for him to leave, the dog escorted him a little distance, then circumambulated him three times before he went away.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཡང་ཁྱིམ་དེར་ཟན་ཟོས་ཏེ་ཁྱིམ་བདག་དེ་ལ་ཆོས་བཤད་ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-129"/>One day Venerable Śāriputra came to the house again, took his food, and gave a Dharma talk to the householder.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཕྱིར་འགྲོ་བ་ན་ཁྱི་དེ་ཡང་ཕྱི་བཞིན་འབྲང་སྟེ། ཕྱི་རོལ་གྱི་ལམ་པོ་ཆེར་སོང་ནས་ལྕེས་རྐང་པ་ལ་བལྡགས་ཏེ། མཇུག་མ་དྲིལ་ནས་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>As he was departing, the dog followed him outside onto the main road, licked his feet, and circumambulated him three times while wagging his tail.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཕྱིར་ལོག་ནས་ཁྱིམ་དུ་འགྲོ་བ་ན། ཁྱི་དེ་ཁྱི་གཞན་དག་ཅིག་གིས་བཅས་ནས་བསད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>As the dog was returning to the house, some other dogs tore him apart, killing him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེ་གནས་བརྟན་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བཞིན་དུ་ཤི་འཕོས་ཏེ་འདས་ནས་ཁྱིམ་དེ་ཉིད་དུ་ཁྱིམ་བདག་དེའི་ཆུང་མ་ཆེན་མའི་མངལ་དུ་སྐྱེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He died filled with joy at the thought of the elder monk Śāriputra, transmigrated, and took rebirth in the same house, in the womb of the householder’s wife.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཀྱང་ཁྱི་དེ་བདག་གི་ཐད་ནས་ཕྱིར་ལྡོག་པའི་འོག་ཏུ་ཁྱི་གཞན་དག་གིས་ཇི་ལྟར་བསད་པ་ཤེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-130"/>Venerable Śāriputra knew just how the dog had been killed by the other dogs after they had parted.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེས་བསམས་པ་ཁྱི་དེ་གར་སྐྱེས་སྙམ་པ་དང་། ཁྱིམ་བདག་དེ་ཉིད་ཀྱི་ཁྱིམ་དུ་ཁྱིམ་བདག་གི་ཆུང་མའི་མངལ་དུ་སྐྱེས་པར་མཐོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He contemplated where the dog would take rebirth, and saw that it would be in the same house, in the womb of the householder’s wife.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>མཐོང་ནས་ཀྱང་དེ་ཉིད་ལ་སྙིང་བརྩེ་བའི་ཕྱིར་གཡོག་མེད་པར་གཅིག་པུ་ཁྱིམ་བདག་དེའི་ཁྱིམ་དུ་སོང་བ་དང་། </seg></tuv>
+	<tuv xml:lang="en"><seg>Upon seeing this, out of love for the dog he went to the householder’s home alone, without attendants.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཟླ་མེད་པ་དང་། གཡོག་མེད་པར་གཅིག་པུ་འོང་བར་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-131"/>The householder saw that Venerable Śāriputra was alone, without companions or attendants, and he inquired,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ཁྱོད་ཅིའི་སླད་དུ་ཟླ་མ་མཆིས་པ་དང་། ཞམ་རིང་མ་མཆིས་པར་གཅིག་པུ་གཤེགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Noble one, why have you come here alone, without companions or attendants?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པའི་ཞམ་རིང་བགྱིད་པ་འགའ་ཡང་མ་མཆིས་སམ་ཞེས་དྲིས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Noble one, is there no one at all who could attend you?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། ཁྱེད་ཅག་ལྟ་བུ་འབའ་ཞིག་གིས་བྱིན་པ་མ་གཏོགས་པར་བདག་ཅག་ལ་གུད་ན་གཡོག་གི་འབྱུང་ཁུངས་ག་ལ་ཡོད། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Where shall we find attendants, if one such as yourself does not grant them to us?” replied Venerable Śāriputra.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་གིས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-133"/>The householder said to him,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.a</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཤཱ་རིའི་བུ་བདག་གི་མཆིས་བྲང་ལ་བུ་ཆགས་པ་མཆིས་ཀྱིས། དེ་ལས་གལ་ཏེ་ཁྱེའུ་ཞིག་བཙས་པར་གྱུར་ན། དེ་བདག་གིས་འཕགས་པའི་ཞམ་རིང་དུ་དབུལ་ལོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord Śāriputra, my wife has conceived, so if we have a son, noble one, I shall offer him to you as an attendant.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། ཁོང་དགེ་བ་རྣམས་ནི་དམ་བཅས་<tei:ref folio="F.8.b"/>པ་ལ་བརྟན་པ་ཡིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“The virtuous keep their promises,” said Venerable Śāriputra.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྐད་ཅེས་སྨྲས་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Having spoken thus, Venerable Śāriputra departed.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་དེའི་ཆུང་མ་ཡང་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་། ཁྱེའུ་གཟུགས་བཟང་ཞིང་། བལྟ་ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་མོད་ཀྱི་འོན་ཀྱང་མིག་ཆུང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-135"/>After nine or ten months had passed, the householder’s wife gave birth to a child who was well proportioned, pleasing to the eye, and beautiful, though his eyes were small.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས། ཁྱེའུ་འདིའི་མིང་ཇི་སྐད་གདགས་ཞེས་མིང་འདོགས་པར་བྱེད་དེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>At the elaborate feast celebrating his birth they asked, “What name should we give this child?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེའུ་འདི་མིག་ཆུང་བས་ན་མིང་མིག་ཆུང་ཞེས་གདགས་སོ་ཞེས་ཟེར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>And they named him, saying, “Since the child’s eyes are small, his name will be Little Eyes.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཁྱེའུ་མིག་ཆུང་འོ་མ་དང་། ཞོ་དང་མར་དང་ཞུན་མར་དང་། མར་གྱི་ཉིང་གུས་བསྐྱེད་བསྲིངས་ཏེ་མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-136"/>They reared young Little Eyes on milk, yogurt, butter, ghee, and milk solids, and he flourished like a lotus in a lake.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཡི་གེ་དང་ཁོང་རྩིས་དང་། </seg></tuv>
+	<tuv xml:lang="en"><seg>As he grew up he studied letters, tallying, and arithmetic;</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཤོད་དགོད་པ་དང་ལག་རྩིས་དང་དབྱུང་བ་དང་། སྦ་བ་དང་དགྲམ་པ་དང་</seg></tuv>
+	<tuv xml:lang="en"><seg>the study of seals, lending, deposits, and commerce;<tei:note xml:id="UT22084-073-001-137"/></seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>གོས་བརྟག་པ་དང་ནོར་བུ་བརྟག་པ་དང་རིན་པོ་ཆེ་བརྟག་པ་དང་། སྤོས་བརྟག་པ་དང་སྨན་བརྟག་པ་དང་། གླང་པོ་ཆེ་བརྟག་པ་དང་རྟ་བརྟག་པ་དང་གོ་མཚོན་བརྟག་པ་བསླབས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>and the examination of cloth, jewels, gems, incense, medicine, elephants, horses, and arms and armor.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཡི་གེ་མཁས་པ་དང་ཀློག་མཁས་པ་དང་། མཛངས་པ་དང་བྱ་བ་ལ་གསལ་བ་དང་ཡིད་གཞུངས་པ་དང་བརྟག་པ་རྣམ་པ་བརྒྱད་ལ་བྱང་བར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He became skilled in writing, skilled at reading, learned, decisive, industrious, a master of the eight types of examination.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཀྱང་མིག་ཆུང་རབ་ཏུ་དབྱུང་བའི་དུས་ལ་བབ་པར་མཐོང་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-138"/>One day Venerable Śāriputra saw that the time had come for Little Eyes to go forth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་བགོས་ཏེ་ལྷུང་བཟེད་ཐོགས་ནས་མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་སོང་སྟེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>In the morning he donned his lower garment and Dharma robes, and, carrying his alms bowl, he went for alms in Śrāvastī.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་མཐར་གྱིས་བསོད་སྙོམས་རྒྱུ་བ་ལས། ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་སྟན་བཤམས་པ་ལ་འདུག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>As he went for alms, he eventually came to the householder’s home, and there sat on the seat prepared for him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>འདུག་ནས་ཀྱང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ། ཁྱིམ་བདག་ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་སྔ་རོལ་ནས་ཁྱོད་ཀྱིས་བདག་གི་གཡོག་ཏུ་བྱིན་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-139"/>After he had taken his seat, Venerable Śāriputra reminded the householder, “Householder, before this child was born you granted him to me as an attendant.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཁོང་དགེ་བ་རྣམས་ནི་དམ་བཅས་པ་ལ་བརྟན་པ་ཡིན་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg>The virtuous keep their promises, do they not?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁོ་ན་ལྟར་དམ་མ་བཅས་སམ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Didn’t you yourself make such a promise?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱིམ་བདག་གིས་སྨྲས་པ། འཕགས་པ་དེ་ཁོ་ན་ལྟར་དམ་བཅས་ལགས་སོ་ཞེས་བྱས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-140"/>“Yes, noble one, I did make just such a promise,” the householder replied,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.8.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེའུ་དེ་ལག་པ་གཉིས་ཀྱིས་བཟུང་སྟེ། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་ཕུལ་ནས་སྨྲས་པ། བུ་ཁྱོད་མ་བཙས་པའི་སྔ་རོལ་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>and he took the child by his two hands, offered him to Venerable Śāriputra, and told him,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ལ་ངས་ཕུལ་<tei:ref folio="F.9.a"/>གྱིས་སོང་ལ་འཕགས་པའི་ཞམ་རིང་གྱིས་ཤིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Child, before you were born, I offered you to the noble one. Therefore go, and be an attendant of the noble one.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེའུས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>The child said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནི་བདག་ལ་ཕན་བཏགས་པ་ལགས་སོ་ཞེས་བྱས་ནས། ཁྱེའུ་དེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་ཕྱི་བཞིན་འབྲང་སྟེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“This will be of benefit to me,” and with those words he followed Venerable Śāriputra away.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེའུ་དེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། གཙུག་ལག་ཁང་དུ་ཁྲིད་ནས་རབ་ཏུ་ཕྱུང་སྟེ། དེ་ལ་ལུང་ཡང་ཕོག་གོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-142"/>Venerable Śāriputra brought the child to the monastery, where he led him to go forth as a novice and instructed him.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཀྱང་དགེ་ཚུལ་བ་བྱེད་བཞིན་དུ་བརྩོན་པ་དང་བསྒྲུབ་པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Still in his novitiate, the child cast away all afflictive emotions through diligence, practice, and effort, and manifested arhatship.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>As an arhat, free from the attachments of the three realms,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>གསེར་དང་བོང་བར་མཉམ་པ། ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>his mind regarded gold no differently than filth, and the palms of his hands as like space itself.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>He became cool like wet sandalwood.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>His insight crushed ignorance like an eggshell.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>He achieved the insights, superknowledges, and discriminations.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>སྲེད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་</seg></tuv>
+	<tuv xml:lang="en"><seg>He had no regard for worldly profit, passion, or acclaim.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཕྱོགས་པ་དང་དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He became an object of offering, veneration, and respectful address by Indra, Upendra, and the other gods.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-143"/>One time after he had attained arhatship,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པ་གཉིས་སྣུམ་གྱིས་སྐུད་པ་ན། དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པའི་རྨའི་སྒྲོས་མཐོང་ངོ་། །མཐོང་ནས་དྲིས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>he saw scars on Venerable Śāriputra’s feet as he was anointing them and asked,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>མཁན་པོའི་རྨའི་སྒྲོས་འདི་སྔོན་ཅི་ལས་གྱུར་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Preceptor, how did you get these scars?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ། བུ་རྨའི་སྒྲོས་འདི་སྔོན་ཅི་ལས་གྱུར་པ་སོམས་ཤིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Child,” Venerable Śāriputra told him, “think on how I got these scars.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེས་བདག་ཉིད་ཀྱིས་སྔོན་ཁྱིར་གྱུར་པའི་ཚེ་ཟིན་པར་མཐོང་ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-145"/>“I see it was I who bit him in a previous life as a dog,” thought the novice.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་བདག་གང་ནས་ཤི་འཕོས་ཏེ། ཁྱིར་སྐྱེས་པར་གྱུར་ཅེས་བསམས་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg>“And I see the life from which I died, transmigrated, and took rebirth as a dog.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཁྱི་ལས་ཤི་འཕོས་ཏེ་ཁྱི་ཉིད་དུ་སྐྱེས་པར་མཐོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He saw that he had died and taken rebirth as that dog,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་དུ་དེས་ཚེ་རབས་ལྔ་བརྒྱའི་བར་དུ་བལྟས་ན་དེས་ཁྱི་ལས་ཤི་འཕོས་ཏེ། ཁྱི་འབའ་ཞིག་ཏུ་སྐྱེས་པར་མཐོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>and he also saw that for five hundred lifetimes he had died as a dog, transmigrated, and taken rebirth only as a dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཡང་མ་འོངས་པའི་དུས་ལ་བསམས་ཏེ། གལ་ཏེ་བདག་ལ་མཁན་པོས་མ་དགོངས་སུ་ཟིན་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-146"/>He thought, “Had my preceptor not thought of me, where would I have taken rebirth in the future when I died there and transmigrated?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.a</prop>
+	<tuv xml:lang="bo"><seg>བདག་དེ་ནས་ཤི་འཕོས་ན། གང་དུ་སྐྱེ་བར་འགྱུར་སྙམ་དུ་བསམས་ན་དེས་ཁྱི་དེ་ཉིད་དུ་དེའུ་སྐྱེས་པར་མཐོང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Reflecting in this way, he saw himself taking birth again as that very dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་དུ་དེས་མ་འོངས་པའི་དུས་སུ་ཚེ་རབས་ལྔ་བརྒྱའི་བར་ཏུ་བལྟས་ན་དེས་ཁྱི་<tei:ref folio="F.9.b"/>ལས་ཤི་འཕོས་ནས་ཁྱི་འབའ་ཞིག་ཏུ་དེའུ་སྐྱེས་པར་མཐོང་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>In the same way he saw himself for five hundred future lives dying, transmigrating, and taking birth over and over only as a dog.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་བསམས་པ་བདག་འདིས་ལོག་པར་ལྟུང་བ་ལས་རྣམ་པར་གྲོལ་བར་བྱས་ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-147"/>“It was he who saved me from falling so low!” he thought further.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བ་མྱ་ངན་ལས་འདས་པ་ལ་བཞག་པས་མཁན་པོ་ནི་བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་ནོ་སྙམ་ནས</seg></tuv>
+	<tuv xml:lang="en"><seg>“By establishing me in the unsurpassed, supreme welfare of nirvāṇa,<tei:note xml:id="UT22084-073-001-148"/> my preceptor undertook a difficult task for me, over and over again.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>བསྙེན་བཀུར་བྱ་བ་ལས་གུད་ན་མཁན་པོའི་དྲིན་བདག་གིས་བསབ་པའི་ཐབས་གཞན་ཅི་ཡོད་</seg></tuv>
+	<tuv xml:lang="en"><seg>What method is there to repay the kindness of one’s preceptor, other than service and respect?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་བསྙེན་པར་རྫོགས་ནས་ནི་བདག་གིས་བསྙེན་བཀུར་རིམ་གྱིས་བྱར་མི་རུང་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg>When I take full ordination I won’t be able to offer such service—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>མ་ལ་བདག་ཇི་སྲིད་འཚོའི་བར་དུ་དགེ་ཚུལ་བར་འདུག་ལ་འདི་ལ་བསྙེན་བཀུར་བྱའོ་སྙམ་དུ་བསམས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>but oh! By remaining a novice for as long as I live I can continue to serve him respectfully.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-149"/>With this in mind, he said to Venerable Śāriputra,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>མཁན་པོ་བདག་ཇི་སྲིད་འཚོའི་བར་དུ་མཁན་པོའི་བསྙེན་བཀུར་བ་བགྱིད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“Preceptor, for as long as I live I shall serve my preceptor with respect,”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>བུ་ཁྱོད་ཇི་ལྟར་དགའ་བ་བཞིན་གྱིས་ཤིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>and Śāriputra replied, “Do as you wish, my child.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱིས་དེ་ལ་དགེ་སློང་རྣམས་ཀྱིས་སྨྲས་པ། མིག་ཆུང་ཁྱོད་ཅིའི་ཕྱིར་བསྙེན་པར་རྫོགས་པར་མི་བྱེད། </seg></tuv>
+	<tuv xml:lang="en"><seg>One day the monks asked him, “Little Eyes, why don’t you take full ordination?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་སྨྲས་པ། བདག་གིས་མཁན་པོའི་དྲིན་བསབ་དགོས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-151"/>“I must repay the kindness of my preceptor,” he told them.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>བདག་ཇི་སྲིད་འཚོའི་བར་དུ་དགེ་ཚུལ་བར་འདུག་བཞིན་དུ་དེའི་བསྙེན་བཀུར་བྱེད་དོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>“By remaining a novice for as long as I live, I shall be able to serve him respectfully.”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་གིས་སྨྲས་པ། ཁྱོད་ལ་མཁན་པོས་ལྷག་པར་དྲིན་ཅི་ཞིག་བཏགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>“What particular kindness did your preceptor do for you?” they asked.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དེས་དགེ་སློང་དེ་དག་ལ་གཏམ་དེ་རྒྱས་པར་བསྙད་ནས། དགེ་སློང་དེ་དག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-153"/>He told the monks the story in detail, whereupon the monks inquired of the Blessed Buddha,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་མིག་ཆུང་གིས་ལས་ཅི་བགྱིས་ན། ལས་དེའི་རྣམ་པར་སྨིན་པས་ཁྱིར་སྐྱེས་ལ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“Lord, what action did Little Eyes take that ripened into his birth as a dog,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>གལ་ཏེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་མ་བསམས་སུ་ལགས་ན། ཚེ་རབས་ལྔ་བརྒྱར་ཁྱི་འབའ་ཞིག་ཏུ་དེའུ་སྐྱེས་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>such that, if Venerable Śāriputra had not thought of him, he would have taken rebirth only as a dog for five hundred lifetimes,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>ལས་ཅི་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས་ཁྱི་ལས་ཤི་འཕོས་ཏེ། སླར་མིའི་ནང་དུ་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>and what action did he take that once he had died as a dog he transmigrated and took birth once again as a human into a family of great means, prosperity, and wealth?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>འདིས་བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ། མི་མཉེས་པར་མ་བགྱིས་ལ། བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>What action did he take that he pleased the Blessed One, did not displease him, went forth in the doctrine of the Blessed One, cast away all afflictive emotions, and manifested arhatship?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.9.b</prop>
+	<tuv xml:lang="bo"><seg>ལས་ཅི་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས་མིག་ཆུང་ངུར་གྱུར་ལགས། </seg></tuv>
+	<tuv xml:lang="en"><seg>What action did he take that ripened into his having small eyes?”</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་<tei:ref folio="F.10.a"/>འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་མིག་ཆུང་འདི་ཉིད་ཀྱིས་སྔོན་ལས་བྱས་ཤིང་བསགས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-154"/>“Monks,” explained the Blessed One, “Little Eyes committed and accumulated the actions himself at a previous time.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་ལས་བྱས་ཤིང་བསགས་པ་རྣམས་ནི། ཕྱི་རོལ་གྱི་སའི་ཁམས་ལ་རྣམ་པར་སྨིན་པར་མི་འགྱུར། </seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, the actions that he committed and accumulated did not ripen into the external element of earth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>ཆུའི་ཁམས་དང་མེའི་ཁམས་དང་རླུང་གི་ཁམས་ལ་རྣམ་པར་སྨིན་པར་མི་འགྱུར་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>They did not ripen into the element of water, nor the element of fire, nor the element of wind.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>ལས་དགེ་བ་དང་མི་དགེ་བ་བྱས་ཤིང་བསགས་པ་རྣམས་ནི་ཟིན་པའི་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་འབའ་ཞིག་ལ་རྣམ་པར་སྨིན་པར་འགྱུར་རོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The actions he committed and accumulated, both virtuous and nonvirtuous, ripened into nothing but his own aggregates, sense bases, and constituent elements.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>ལུས་ཅན་དག་གི་ལས་རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན། །འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-155"/>“When the time arrives—even if A hundred eons pass— Fruit is born of every act That sentient beings amass.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-156"/>“Monks, in times past, in this fortunate eon, when people lived as long as twenty thousand years and</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་གདུལ་བྱའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ</seg></tuv>
+	<tuv xml:lang="en"><seg>the tathāgata, the arhat, the totally and completely awakened buddha possessed of insight and perfect conduct, the sugata, the knower of the world, the tamer of persons, the charioteer, the unsurpassed one, the teacher of humans and gods, the blessed buddha known as Kāśyapa was in the world,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན་ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ། ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ། རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ། རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>there lived in the city of Vārāṇasī a certain householder, prosperous and wealthy, a person of vast and magnificent means, endowed with the wealth of Vaiśravaṇa—with wealth to rival Vaiśravaṇa’s.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས། དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་ཁྱེའུ་གཟུགས་བཟང་ཞིང་། བལྟ་ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-157"/>“One day his wife conceived, and after nine or ten months had passed, she gave birth to a child who was well proportioned, pleasing to the eye, and beautiful.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་དད་པ་རྙེད་ནས། ཕ་མ་ལ་གསོལ་ཏེ་རབ་ཏུ་བྱུང་ངོ་། །</seg></tuv>
+	<tuv xml:lang="en"><seg>When he grew up he found faith in the doctrine of the totally and completely awakened Buddha Kāśyapa, and after asking for his parents’ permission, went forth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>རབ་ཏུ་བྱུང་ནས་སྡེ་སྣོད་གསུམ་བསླབས་ཏེ། དེ་རིག་པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-158"/>“Once he had gone forth, he studied the Tripiṭaka and became a proponent of the Dharma with all the eloquence of his wisdom and freedom.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.a</prop>
+	<tuv xml:lang="bo"><seg>གོས་དང་ཟས་དང་མལ་ཆ་དང་སྟན་དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས། དེས་བསམས་པ་མ་ལ་བདག་གིས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Having acquired provisions of clothing, food, bedding, a seat, and medicines for the sick, he thought to himself, ‘How wonderful!</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>རྙེད་པ་དང་བཀུར་སྟིའི་སྒོ་ནས། རྙེད་པར་བྱ་བ་རྙེད་པ་གང་ཡིན་པ་དེས། བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཕན་གདགས་<tei:ref folio="F.10.b"/>པར་བྱ་གོར་མ་ཆག་སྙམ་དུ་བསམས་ནས། ཆོས་བཞིན་དུ་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>With all the profit and acclaim I’ve gained, I can see to the welfare of fellow practitioners of the holy life.’ And he served the twofold saṅgha in accordance with the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཕྱི་ཞིག་ན་དགེ་སློང་དགྲ་བཅོམ་པ་ཞིག་ལ་ཕྱི་དྲོའི་གུང་སྐྱེམས་ཀྱི་ཞལ་ཏ་བྱེད་པའི་རེས་བབ་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-159"/>“One evening, one of his duties, that of serving the evening drink, fell instead to an arhat monk.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་དགེ་འདུན་ལ་གུང་སྐྱེམས་བྲིམས་པའི་འོག་ཏུ་ལུས་ངལ་ཏེ་གནས་ཁང་དུ་སོང་ནས་སྐྱིལ་མོ་ཀྲུང་བཅས་ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>After distributing the evening drink to the saṅgha, the arhat was weary, so he went to his quarters, crossed his legs, and sat down.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>འདུག་གོ་དེ་ནས་ཞལ་ཏ་བྱེད་པ་དེའི་སྦྱིན་བདག་རྣམས་ལ་གུང་སྐྱེམས་དགོས་པར་གྱུར་ནསདེས་དགེ་སློང་གཞན་དག་ལ་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg>“The evening drink still needed to be served to the benefactors, who began to ask the other monks,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེང་གུང་སྐྱེམས་ཀྱི་ཞལ་ཏ་བྱེད་པའི་རེས་སུ་ལ་བབ། </seg></tuv>
+	<tuv xml:lang="en"><seg>‘Whose turn is it today to serve the evening drink?’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་གིས་སྨྲས་པ། དགེ་སློང་ཆེ་གེ་མོ་ཞིག་ལ་བབ་བོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-161"/>“They replied that today it was the monk so-and-so’s turn.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ཞལ་ཏ་བྱེད་པ་དེ་ཁྲོས་ནས་མིག་བཙུམས་ཏེ་མིག་འདི་འདྲ་བ་དེ་ཡིན་པ་ལྟ་ཞེས་སྨྲས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>The one who was normally appointed to serve them, seething, closed his eyes as if asleep and said, ‘It’s the one whose eyes are like this—I’ll find him!’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྐད་སྨྲས་ནས། དགྲ་བཅོམ་པ་དེ་ག་ལ་བ་དེར་དོང་སྟེ་ཕྱིན་ནས་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-162"/>“Having said this, he went to the arhat and said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་བདག་ནི་ཁྱེད་ཀྱི་ཕྱིར་སྦྱིན་བདག་དང་སྦྱིན་པ་པོ་རྣམས་དགའ་བར་བྱས་ནས། ཡོ་བྱད་ཐམས་ཅད་ཀྱིས་བསྙེན་བཀུར་བྱེད་ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Lord, for your sake I’ve pleased all our benefactors and patrons, and respectfully served your every need.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེད་ནི་བདག་གི་དད་པས་བྱིན་པ་ལ་ལོངས་སྤྱོད་ནས། ཁྱི་བཞིན་དུ་ཚང་དུ་ཞུགས་ནས་ཉལ་ཞིང་འདུག་གམ་ཞེས་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>Now that you’ve enjoyed all I’ve given you in faith, do you come home to sit and sleep like a dog?’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་དགྲ་བཅོམ་པ་དེས་བསམས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-163"/>“Thereupon the arhat thought,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>ཉོན་མོངས་པ་འདི་ནི་དམས་ཤིང་ཉམས་པར་གྱུར་ཏེ། འཁོར་བ་ན་འཁོར་ཞིང་སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ན་མི་རུང་ངོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘It’s not right for this emotionally afflicted person, who has become so abased, to circle in saṃsāra and meet with great suffering.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>སྙམ་དུ་བསམས་ནས་འདིའི་ར་མདའ་བྱ་དགོས་སོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Reflecting in this way, he thought, ‘I have to help him.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>སྙམ་སྟེ། ཞལ་ཏ་བྱེད་པ་དེ་ལ་སྨྲས་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-164"/>“With this thought he said to the monk,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ཁྱོད་ཀྱིས་ང་སུ་ཡིན་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Lord, do you know who I am?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དང་། ཁྱོད་བདག་སུ་ཡིན་པ་ཤེས་སམ། </seg></tuv>
+	<tuv xml:lang="en"><seg>And do you know who you yourself are?’
+“</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་སྨྲས་པ། ངས་ཤེས་ཏེ། ཁྱོད་ཀྱང་རབ་ཏུ་བྱུང་བ་ཡིན་ལ་ང་ཡང་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>‘I know that you have gone forth,’ he replied, ‘as have I.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པས་སྨྲས་པ། འུ་བུ་ཅག་གཉིས་རབ་ཏུ་བྱུང་བར་འདྲ་མོད་ཀྱི་ཁྱོད་ནི་</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-166"/>“ ‘Though we two are like brothers in having gone forth,’ the arhat said,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>བཅིང་བ་ཐམས་ཅད་ཀྱིས་བཅིངས་པའི་སོ་སོའི་སྐྱེ་བོ་ཡིན་ལ། ང་ནི་བཅིང་བ་ཐམས་ཅད་ལས་ངེས་པར་གྲོལ་བའི་དགྲ་བཅོམ་པ་ཡིན་ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘you are an ordinary person, bound by every fetter, whereas I am an arhat, liberated from every fetter.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱོད་ཀྱིས་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་ཉེས་པ་ལ་ཉེས་སོ་ཞེས་བཤགས་པར་གྱིས་ཤིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>You’ve spoken harshly to me. You must acknowledge your mistake.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.10.b</prop>
+	<tuv xml:lang="bo"><seg>ཁྱོད་འཁོར་བ་ན་འཁོར་ཞིང་སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ཏ་རེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>Otherwise you are certain to roam in saṃsāra and meet with great suffering.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་སྐད་ཐོས་པའི་མོད་ལ་ཞལ་ཏ་བྱེད་པ་དེ་འགྱོད་པ་ཆེན་པོ་སྐྱེས་ཏེའགྱོད་པ་ཆེན་པོ་སྐྱེས་ནས། <tei:ref folio="F.11.a"/></seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-167"/>“Hearing his words, the monk was flooded with great regret.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དེའི་རྐང་པ་ལ་ཕྱག་འཚལ་ཏེ། བཟོད་པ་གསོལ་ནས་ལྷག་པར་ཡང་སངས་རྒྱས་དང་། ཆོས་དང་དགེ་འདུན་ལ་བསྙེན་བཀུར་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>He bowed down at the monk’s feet, asked his forgiveness, and with renewed vigor offered his respectful service to the Buddha, Dharma, and Saṅgha.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ་ཆོས་བཞིན་དུ་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg>All his life, he practiced pure conduct and served the saṅgha in accord with the Dharma.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>འཆི་ཀར་སྨོན་ལམ་བཏབ་པ། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-168"/>“At the time of his death, he prayed,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>ཀྱེ་མ་བདག་གིས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་</seg></tuv>
+	<tuv xml:lang="en"><seg>‘Oh, but by the root of virtue of my having gone forth in the doctrine of the totally and completely awakened Buddha Kāśyapa,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པ་དང་། ཆོས་བཞིན་དུ་ཞལ་ཏ་བྱས་པའི་དགེ་བའི་རྩ་བ་འདིས་ན་བདག་གང་དང་། གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཅི་ནས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་ཤོག་ཤིག །ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>my practice of pure conduct all my life, and the service I rendered in accord with the Dharma, wherever I am born, may it be into a family of great means, prosperity, and wealth!</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། </seg></tuv>
+	<tuv xml:lang="en"><seg>May I please and not displease Uttara, the young brahmin prophesied by the totally and completely awakened Buddha Kāśyapa to be the next blessed buddha.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>Going forth in his doctrine alone, may I cast away all afflictive emotions and manifest arhatship.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་སྡིག་པའི་ལས་དེའི་འབྲས་བུ་བདག་གིས་རྙེད་པར་མ་གྱུར་ཅིག ། ཅེས་བྱས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>May I not meet with the results of the wrongful act of speaking harshly to fellow practitioners of the holy life.’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་ཇི་སྙམ་དུ་སེམས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-169"/>“O monks, what do you think?</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དེའི་ཚེ་དེའི་དུས་ན་ཞལ་ཏ་བྱེད་པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི། དགེ་ཚུལ་པ་མིག་ཆུང་འདི་ཉིད་ཡིན་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>The one who was of service then is now the novice Little Eyes.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>དེས་དེར་དགྲ་བཅོམ་པ་དེ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས། ཚེ་རབས་ལྔ་བརྒྱར་ཁྱིར་སྐྱེས་ཏེ། </seg></tuv>
+	<tuv xml:lang="en"><seg>The act of speaking harshly to the arhat ripened such that for five hundred lifetimes he took rebirth as a dog,</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>གལ་ཏེ་དགེ་སློང་ཤཱ་རིའི་བུས་མ་བསམས་སུ་ཟིན་ན། ཕྱིན་ཅད་ཀྱང་ཚེ་རབས་ལྔ་བརྒྱའི་བར་དུ་ཁྱི་འབའ་ཞིག་ཏུ་དེའུ་སྐྱེས་སོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg>and had the monk Śāriputra not thought of him, he would have taken rebirth only as a dog for five hundred more lifetimes.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.a</prop>
+	<tuv xml:lang="bo"><seg>ཁྲོས་ནས་དེས་དགྲ་བཅོམ་པ་དེ་ཉིད་ཀྱི་མིག་ལྟར་བཅོས་ཏེ། མིག་བཙུམས་ནས་མིག་འདི་འདྲ་བ་དེ་ཡིན་པ་ལྟ་ཞེས་སྨྲས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི། ད་ལྟར་མིར་སྐྱེས་ན་ཡང་མིག་གཉིས་འདི་འདྲ་བར་གྱུར་ཏོ། །</seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-170"/>“The act of becoming angry, closing his eyes in imitation of the arhat, and saying, ‘It’s the one whose eyes are like this—I’ll find him!’ ripened into his birth as a human being whose eyes were just like that.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ། ཀྱེ་མ་དགེ་བའི་རྩ་བ་འདིས་ན་བདག་ཅི་ནས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་ཤོག་ཤིག །ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་<tei:ref folio="F.11.b"/></seg></tuv>
+	<tuv xml:lang="en"><seg>The act of praying at that time, ‘By this root of virtue, wherever I am born, may it be into a family of great means, prosperity, and wealth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །</seg></tuv>
+	<tuv xml:lang="en"><seg>May I please and not displease Uttara, the young brahmin prophesied by the totally and completely awakened Buddha Kāśyapa to be the next blessed buddha.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་བྱས་པའི་ལས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Going forth in his doctrine alone, may I cast away all afflictive emotions and manifest arhatship,’</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>དེའི་རྣམ་པར་སྨིན་པས་ནི། ད་ལྟར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>ripened such that he was born into a family of great means, prosperity, and wealth.</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་དག་ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས། </seg></tuv>
+	<tuv xml:lang="en"><seg><tei:milestone xml:id="UT22084-073-001-171"/>“So it is, monks, now that I myself have become the very equal of the totally and completely awakened Buddha Kāśyapa—equal in strength, equal in deeds, and equal in skillful means—</seg></tuv>
+</tu>
+<tu><prop name="folio">F.11.b</prop>
+	<tuv xml:lang="bo"><seg>འདིས་ང་མཉེས་པར་བྱས་ཏེ། མི་མཉེས་པར་མ་བྱས་ལ། ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ།།</seg></tuv>
+	<tuv xml:lang="en"><seg>that he has pleased me, not displeased me, go forth in my very doctrine, cast away all afflictive emotions, and manifested arhatship.”</seg></tuv>
+</tu>
+</body>
+</tmx>
