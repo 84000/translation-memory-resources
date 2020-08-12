@@ -21,6 +21,9 @@ def plaintext_sent_par(units):
 
 def prepare_source(dump):
     dump = re.sub(r'\[[0-9]+[ab]\.[0-9]\]', '', dump)
+    dump = re.sub(r'\{\{page:\{number:1,folio:(\d+[ab]),volume:(\d+)}}}[\s\S]+?toh:\d+}}', r'[V\2][\1]\n', dump)
+    dump = re.sub(r'\{\{toh[\s\S]+', '', dump)
+    dump = re.sub(r'\{\{page:\{number:\d+,folio:(\d+[ab]),volume:\d+}}}', r'[\1]', dump)
     dump = re.sub(r'{.*?}', '', dump)
     # segment in sentences
     text = Text(dump)
