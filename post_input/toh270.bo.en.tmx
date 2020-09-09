@@ -1,0 +1,577 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ སངས་རྒྱས་ བདུན་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra |#| The Seven Buddhas</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [13.b] Homage to all buddhas and bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཏི་སེ འི་ རི འི་ རྩེ་མོ་ ལྷ འི་ གནས་ ན་ དྲང་སྲོང་ གི་ སྤྱོད་པ་ དང་ ཧ་ཅང་ ཡང་ མི་ རིང་བ་ ཞིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One was dwelling on the summit of Kailāsa in the abode of the gods close to where the sages live.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ ལྔ་ བརྒྱ་ ཙམ་ གྱི་ དགེ་སློང་ གི་ དགེ་འདུན་ ཆེན་པོ་ དང་ བྱང་ཆུབ་ སེམས་དཔའ་ ལྔ་ བརྒྱ་ལ་ འདི་ལྟ་སྟེ །_ |#| བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ་ དང་ །_ ཀུན་ ཏུ་ བཟང་པོ་ དང་ །_ མཐའ་ ཡ ས་ མེ་ཏོག་ དང་ །_ ཀུན་ ནས་ མེ་ཏོག་ དང་ །_ དེ་དག་ ལ་སོགས་པ་ བྱང་ཆུབ་ སེམས་དཔའ་ སྐྱེ་བ་ གཅིག་ གིས་ ཐོགས་པ་ ཤ་སྟག་ དང་ ཐབས་ཅིག་ ཏུ་ བཞུགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>He was accompanied by a great monastic saṅgha of around five hundred monks and five hundred bodhisattvas, including the bodhisattva great being Maitreya, the bodhisattva great being Ākāśagarbha, Samantabhadra, Infinite Flowers, Samantakusuma, and others, all of whom were bodhisattvas who were just one birth away from awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ རི འི་ རྩེ་མོ འི་ ནགས་ཁྲོད་ དེ་ཉིད་ ན་ དགེ་སློང་ ཞིག་ འབྱུང་པོ ས་ ཟིན་ ནས་ བརྡོལ་ ཅིང་ གཅེར་བུ་ གོས་ མེད་ ལ་ ལག་པ་ བསྒྲེང་ སྟེ་ ངུ་ ཞིང་ འདུག་པ་ གཟིགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 The Blessed One saw that a monk in that alpine forest had been possessed by a spirit, had collapsed, and was lying there naked and wailing with his arms raised up.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་ དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ ས་ བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །_ |#| པུས་མོ་ གཡས་པ འི་ ལྷ་ང་ ས་ ལ་ བཙུགས་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 The bodhisattva great being Ākāśagarbha draped his upper robe over one shoulder, knelt on his right knee,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ དེ་ བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>bowed to the Blessed One with his hands joined, and addressed him.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!བཅོམ་ལྡན་འདས་ ནམ་ མཁ འི་ དཀྱིལ་ ན་ ཀྱི་ཧུད་ ཅེས་ སྒྲ་ འབྱིན་པ་ འདི་ དང་ །_ དགེ་སློང་ གཅེར་བུ་ གོས་ མ་ མཆིས་པ །_ ལག་པ་ སྟོང་པ་ ཅིག་ཤོས་ འདི་ ཡང་ སུ་ཞིག་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, what is this great lamenting that fills the sky, and who is this naked monk raising his arms in distress?”#18</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 The Blessed One told the bodhisattva great being Ākāśagarbha,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ འདི་ ནི་ ནད་ ཀྱིས་ བཏབ་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ākāśagarbha, this monk is ill.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅིག་ཤོས་ འདི་ ཡང་ ནད་ ཀྱིས་ བཏབ་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>He has contracted an illness.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ལ་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ ས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 The bodhisattva great being Ākāśagarbha then asked the Blessed One, [14.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནད་ ཐམས་ [14a]  ཅད་ རབ་ཏུ་ ཞི་བ ར་ བགྱིད་པ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ རིག་ སྔགས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བསྟན་ དུ་ གསོལ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Will the Blessed One please teach a vidyāmantra that can pacify all manner of diseases and exorcise all manner of spirits?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ སངས་རྒྱས་ སྤྲུལ་པ་ མཛད་ དེ །_ |#| དེ་ནས་ ནམ་མཁའ་ ལ་ དེ་བཞིན་ གཤེགས་པ་ དྲུག་ བྱུང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 The Blessed One emanated the seven buddhas: six tathāgatas appeared in the sky,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདུན་པ་ ནི་ བཅོམ་ལྡན་འདས་ དེ་བཞིན་ གཤེགས་པ་ ཤཱཀྱ་ ཐུབ་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>with the seventh being the Blessed One himself, the Tathāgata Śākyamuni.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ རྣམ་པར་ གཟིགས་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 The tathāgata Vipaśyin hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke these root verses of the secret mantra in order to benefit all beings, pacify all manner of illnesses, and exorcise all manner of spirits:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུདྡྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ཏདྱ་ ཐཱ །_ ཨོཾ་ ཧུ་ ལུ་ ཧུ་ ལུ །_ ཧི་ ལ་ ཧི་ ལི་ ཡ །_ ན་མོ་ ཛ་ ཀ །_ ན་མ་ ཤྩནཱ་ ཡ །_ ན་མོ་ ན་ མཿ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | tadyathā | oṃ hala hala |#19 hili hilāya |#20 namo jaga | namaśca nāya | namo namaḥ svāhā |#21</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་ པ་ རྣམ་པར་ གཟིགས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 The tathāgata Vipaśyin addressed the bodhisattva great being Ākāśagarbha, saying,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ གང་ལ་ལ་ ཞིག་ རིག་ སྔགས་ འདི་ འཆང་ ངམ །_ ཀློག་ གམ །_ ཀུན་ ཆུབ་པ ར་ བྱེད་ ན །_ |#| དེ འི་ ལུས་ ལ་ མཚོན་ གྱིས་ མི་ ཚུགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ākāśagarbha, whoever bears this vidyāmantra in mind, recites it, or masters it will not be slain by a weapon,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆུ་ དང་ །_ སྡུག་བསྔལ་བ འི་ ནད་ ཀྱིས་ འཆི་བ འི་ དུས་ བྱེད་པ ར་ མི་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>nor will they die from drowning, fire,#22 or a painful illness.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ མ་ཡིན་པ ར་ འཆི་བ ས་ འཆི་བ འི་ དུས་ བྱེད་པ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will not suffer an unnatural death.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ དུག་ ཟོས་ ཀྱང་ ཟས་ བཞིན་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Even poison they have eaten will become like food.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཟས་ དང་ སྐོམ་ ལ་ ལན་ བདུན་ བཟླས་བརྗོད་ བྱས་ ཏེ་ ཟོས་ ན་ ཕ་རོལ་ གྱི་ གནོད་པ་ མི་ འབྱུང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 “If you recite the vidyāmantra seven times over your food and drink before consuming it, no one else can harm you,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནད་ ཐམས་ཅད་ ཀྱིས་ བཏབ་པ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you will not contract any illnesses, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིང་ དུ་ འཚོ་བར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you will live for a long time,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐོས་པ་ འཛིན་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>understand what you have studied, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ་ བདུན་ གྱི་ གཟུགས་ མཐོང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>have a vision of the seven tathāgatas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཚོན་ བཏབ་པ འི་ རྣ་བ ར་ བཟླས་བརྗོད་ བྱས་ ལ་ སྣ་མ འི་ མར་ སྦྱིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 “Recite this vidyāmantra in the ear of someone who has been wounded with a weapon and anoint them with jasmine oil incanted with the vidyāmantra.#23</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཛེ་ དང་ སྐྲངས་ ནད་ ཀྱིས་ བཏབ་པ་ རྣམས་ ལ་ སྣ་མ འི་ མར་ དང་ །_ ཨུད་པ་ ལ་ སྔོན་པོ་ དང་ །_ ཤུ་ཏི་ དང་ །_ ཉེའུ་ ཤིང་ རྣམས་ བསྲེས་པ འི་ མར་ བྱིན་ ན་ |#| ནད་ ཐམས་ཅད་ སོས་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>If you anoint those who are afflicted with diseases such as leprosy or tumors with incanted oil that contains a mixture of jasmine, blue lotus, dill, and wild asparagus, they will recover from all their illnesses.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལས་ ཐམས་ཅད་ ལ་ ཡང་ སྦྱར་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This mantra can be used for all rites.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ གཙུག་ཏོར་ཅན་ སྟེང་ གི་ ནམ་ [14b]  མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 Then the tathāgata Śikhin hovered in the sky above them [14.b] and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke these root verses of the secret mantra in order to benefit all beings, pacify all manner of illnesses, and exorcise all manner of spirits:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ཨོཾ་ པ་ ཙ་པ་ ཙ་ པཱ་ ཙ་ ཡ་ པཱ་ ཙ་ ཡ་ སརྦ་ བྷཱུ་ ཏཱ་ ནཱཾ །_ ཙྪིན་ དྷ་ ཡ་ ཀཱི་ ལ་ ཡ་པ་ ར་ བིདྱཱ་ ནཱཾ་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | oṃ paca paca pācaya pācaya sarva­bhūtānām | chindaya#24 kīlaya paravidyānāṃ#25 svāhā |#26</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ བསྒོམ་ ཉེས་པ་ དང་ །_ རྨི་ལམ་ ངན་པ་ ཐམས་ཅད་ བཟློག་པ་ དང་ །_ དུས་ མ་ ཡིན་པ ར་ འཆི་བ་ དགག་པ འི་ ཕྱིར་ སངས་རྒྱས་ བྱེ་བ་ ཁྲག་ཁྲིག་ བརྒྱ་ སྟོང་ཕྲག་ དུ་མ ས་ གསུངས་ ཤིང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 “Ākāśagarbha, I and millions of Buddhas have taught this secret mantra in order to benefit all beings, to completely pacify all manner of illnesses, to ward off spirits that harm one’s meditation and cause nightmares, and to prevent untimely death.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ངས་ ཀྱང་ ད་ལྟ ར་ བཤད་པ འི་ སྙིང་པོ་ འདི་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Now you must uphold it.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ གང་ལ་ལ་ ཞིག་ ང འི་ སྙིང་པོ་ འདི་ ཉིན་ ལན་ གསུམ་ ཡིད་ ལ་ བྱེད་ ན |#| དེ་ ལ་ ཕ་རོལ་ གྱི་ གནོད་པ་ འབྱུང་བ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 “Ākāśagarbha, if someone focuses on my heart mantra three times a day, they will not be harmed by others,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཉིད་ ཀྱིས་ ལོག་པ འི་ རྨི་ལམ་ ན་ དེ་བཞིན་ གཤེགས་པ འི་ གཟུགས་ མཐོང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>they will meet the Tathāgata in their dreams, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཤིས་ ངན་ དུ་ འཆི་བ ར་ མི་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>they will not suffer a horrible death.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ནས་ ཤི་འཕོས་ ནས་ དེ་བཞིན་ གཤེགས་པ་ དང་ ཕྲད་པ ར་ འགྱུར་ ཞིང་ མཉེས་པ ར་ བྱེད་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When they die, they will meet with the tathāgatas and serve them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ འདི འི་ ཆོ་ག་ གཞན་ ནི་ ནད་ ཐམས་ཅད་ ལ་ སྐུད་པ ས་ བཅིང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 “You can also use the rite to bind the patient with a protection cord against all manner of illnesses.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་པ་ ལས་ གྱུར་པ་ ལ་ ནི་ སྣ་མ འི་ མར་ ལ་ བཟླས་བརྗོད་ བྱས་ ཏེ་ སྦྱིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In cases where an illness is the result of a humoral imbalance, you can incant jasmine oil with the mantra and give it to the patient.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆུས་ ཕྱོགས་ བཅིང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can perform the rite of sealing off the directions with water incanted with the mantra, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐུད་པ ས་ བདག་ ལ་ བསྲུང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you can use an incanted cord to protect yourself.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱིས་པ་ རྣམས་ ཀྱི་ གདོན་ དག་ ལ་ སྐུད་པ་ སྔོན་པོ་ གདགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can tie a blue protection cord incanted with the mantra on a child to guard against seizers that possess children.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཚོན་ བཏབ་པ འི་ རྣ་བ ར་ ལན་ བདུན་ བཟླས་བརྗོད་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can whisper the mantra seven times in the ear of someone who has been struck down with a weapon, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཞན་དག་ ལ་ ཡང་ རང་ གི་ བློས་ སྦྱར་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you can use it to control others with your mind.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ ཐམས་ཅད་ སྐྱོབ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 Then the tathāgata Viśvabhū hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke these root verses of the secret mantra in order to benefit all beings, pacify all manner of illnesses, and exorcise all manner of spirits:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ཨོཾ་ ཀ་ལ་ ཀ་ལ །_ ཀི་ ལི་ ཀི་ ལི །_ ཀུ་ ལུ་ ཀུ་ ལུ །_ ཀུ་ ལ་ ཨུད་ ས་ དྷ་ ནཾ་ སཱ་ དྷ་ ནཱཾ་ ཀུ་རུ །_ སརྦ་ [15a]  གྲ་ ཧཱ་ ཎཱཾ་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | oṃ kala kala | kili kili | kulu kulu | kulotsādanaṃ#27 kuru | sarva grahāṇāṃ svāhā |#28 [15.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ ནི་ བསྐལ་པ་ བཟང་པོ འི་ དེ་བཞིན་ གཤེགས་པ་ འདས་པ་ དང་ །_ མ་ བྱོན་པ་ དང་ །_ ད་ལྟ ར་ བྱུང་བ་ ཐམས་ཅད་ ཀྱིས་ གསུངས་ ཤིང་ །_ ངས་ ཀྱང་ ད་ལྟ ར་ བཤད་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 “Ākāśagarbha, these root verses of the secret mantra are taught by all the past, future, and present tathāgatas of the fortunate eon, and now I have spoken them as well.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ ཁྱོད་ ཀྱིས་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Ākāśagarbha, you must uphold these root verses of the secret mantra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ལ་ལ་ ཞིག་ འཛིན་ ཏམ །_ ཀློག་ གམ །_ ཀུན་ ཆུབ་པ ར་ བྱེད་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 “If someone bears in mind, recites, or masters them,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ལུས་ ལ་ མཚོན་ གྱིས་ མི་ ཚུགས །_ |#| དུག་ གིས་ མི་ ཚུགས །_ |#| དབྱིག་དུག་ གིས་ མི་ ཚུགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>they will not be harmed by a weapon, affected by poison, or affected by poisonous brews,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིམས་ནད་ ཀྱིས་ མི་ འདེབས་ ཤིང་ ཆུ་ དང་ །_ དུས་ མ་ཡིན་པ ར་ འཆི་བ་ དང་ །_ གཤིས་ ངན་ དུ་ འཆི་བ ར་ མི་ འགྱུར་ ཏེ །_ |#| སྔོན་ གྱི་ ལས་ ཀྱི་ སྒྲིབ་པ་ ནི་ མ་གཏོགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>nor will they become infected with plague. |#| They will not drown, die of unnatural causes, or die from a weak constitution, unless these are karmic obscurations that result from a previous lifetime.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ ངམ །_ དགེ་སློང་ མ འམ །_ དགེ་བསྙེན་ ནམ །_ དགེ་བསྙེན་མ་ གང་ལ་ལ་ ཞིག་ ནང་པ ར་ ལངས་ ནས་ མགོ་ བཀྲུས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Any monk, nun, or layperson who rises in the morning, washes their head, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ འི་ སྤྱན་སྔ ར་ ལན་ བརྒྱ་རྩ་ བརྒྱད་ བརྗོད་ ན་ དེ འི་ ལས་ ཀྱི་ སྒྲིབ་པ་ ཐམས་ཅད་ བྱང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>recites this secret mantra one hundred and eight times before an image of the Tathāgata will be able to purify all their karmic obscurations.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ སེམས་ཅན་ སྡང་བ་ གང་དག་ དང་ །_ རྒྱལ་པོ་ རྣམས་ ཐོག་མ ར་ སྨྲ་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 “Once the dhāraṇī has been spoken to any hostile beings or kings,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ དེ འི་ དབང་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you will have power over all of them.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིགས་པ་ ཐམས་ ཅད་ ཀྱི་ ནང་ དུ་ ཡིད་ ལ་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You will master all fears.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཐབ་པ་ དང་ །_ འཐབ་མོ་ དང་ །_ རྩོད་པ་ དང་ །_ འགྱེད་པ་ ཐམས་ཅད་ ལ་ སྐུད་པ་ དཀར་པོ་ གདགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Wearing a white protection cord incanted with the mantra will guard against all manner of quarrelsome men and women, as well as any argument or dispute.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མིག་ནད་ ལ་ ཤིང་ འོ་མ་ ཅན་ ལས་ སྐུད་པ་ བྱས་ ཏེ་ རྣ་བ་ ལ་ གདགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>An incanted protection cord made with fiber from a date tree can be used against diseases of the eye and hung on one’s ear.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དམག་ རེངས་པ ར་ བྱེད་པ ར་ འདོད་པ ས་ ཞོ་ དང་ སྦྲང་རྩི་ ལ་ སྦགས་པ འི་ འབྲས་ཡོས་ ལ་ ལན་ བརྒྱ་རྩ་ བརྒྱད་ སྦྱིན་སྲེག་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>To paralyze an army, perform a fire offering one hundred and eight times with incanted popped rice that has been soaked in yogurt and honey while reciting the following mantra each time:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!རཱ་ ཛ་ ནཱཾ་ རཱ་ ཛ་ མཱ་ ཏྲཾ་ བཱ་བ་ ཤཱི་ ཀ་ རོ་ ཏུ་ ཀཱ་ མེ་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>rājanāṃ#29 rājāmātraṃ vā vaśī karotu#30 kāmena |#31</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ དང་སེམས་ ཅན་ ཐམས་ཅད་ ཀྱི་ སྒྲིབ་ པ་ ཐམས་ཅད་ དང་ །_ སྡིག་པ་ བྱང་ ཞིང་ །_ དཔལ་ ཆེན་པོ་ དང་ །_ ནོར་ གྱི་ ཕུང་པོ་ ཆེན་པོ་ སྒྲུབ་པ ར་ འདོད་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 “To purify all your own and all beings’ obscurations and misdeeds and to obtain great prosperity and wealth,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོ་མ་ ཅན་ གྱི་ ཤིང་ གི་ སྦར་ ཤིང་ གིས་ མེ་ བུས་ ལ་ བསྲེག་བྱ་ ཏིལ་ དག་ ལན་ སྟོང་ སྦྱིན་སྲེག་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>recite the dhāraṇī while offering sesame seeds one thousand times into a fire altar#32 that has been kindled with date palm branches.#33</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྡིག་པ་ ཇི་སྙེད་པ་ ཐམས་ཅད་ སྦྱང་བ ར་ འདོད་པ་ དང་ །_ རིག་ [15b]  སྔགས་ ཐམས་ཅད་ གྲུབ་པ ར་ འདོད་པ་ དང་ །_ བདག་ བཀྲུ་བ ར་ འདོད་པ ས །_ ཤུ་ཏི་ དང་ །_ ན་ ལ་ད་ དང་ །_ ཁྲེ་ དང་ །_ ཤི་ རི་ ཤ་ དང་ །_ རྒྱ་སྤོས་ དང་ །_ གུར་གུམ་ དང་ །_ གླ་སྒང་ དང་ །_ ཨིན་ དྲ་བ་ རུ་ ན་ དང་ །_ བྱང་ཆུབ་ ཀྱི་ ཤིང་ དང་ །_ ཨ་མྲ འི་ མགོ་ལྕོགས་ དང་ །_ འདི་ རྣམས་ ཀྱིས་ བཀྲུ་བ ར་ བྱ་ སྟེ</seg></tuv>
+	<tuv xml:lang="en"><seg>To purify all your misdeeds, [15.b] master all vidyāmantras, or to ritually cleanse yourself you should wash with dill, spikenard,#34 foxtail millet, sirisa, valerian, saffron, nut grass, bitter gourd, bodhi tree, and mango flowers.#35</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ ཀྱི་ སྤྱན་སྔ ར་ ཉིན་ཞག་ གཅིག་ སྨྱུང་བ ར་ བྱ་ ཞིང་ བུམ་པ་ སར་པ་ བཞག་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Next, fast for an entire day in front of a buddha image, and then place these ingredients in a fresh vase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཟླ་བ་ ཉ་བ་ ལ་ སངས་རྒྱས་ ཀྱི་ གཟུགས་ ཀྱི་ སྤྱན་སྔ ར་ སྙིང་པོ་ ལན་ སྟོང་ རྩ་ བརྒྱད་ སྔགས་ ལ་ ཁྲུས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the full moon, bathe in front of an image of the Buddha while reciting the heart mantra one thousand and eight times.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ མི་ གདུག་པ ར་ བྱེད་པ ར་ འདོད་པ ས་ སངས་ རྒྱས་ ཀྱི་ སྤྱན་སྔ ར་ སེང་ལྡེང་ གི་ ཐུར་མ་བ འི་ ལྕི་བ ར་ སྨྱུགས་པ་ བརྒྱ་རྩ་ བརྒྱད་ མིང་ ནས་ སྨོས་ ཏེ་ |#| སྦྱིན་སྲེག་ བྱས་ ན་ |#| དུག་ མི་ གདུག་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 “To neutralize poison sit before an image of the Buddha and use a ladle made of teak to offer cow dung#36 onto a ritual fire while reciting the victim’s name one hundred and eight times. |#| The poison will then be neutralized.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གདོན་ བསྲུང་བ་ དང་ །_ འབྱུང་པོ་ ལ་སོགས་པ འི་ ལས་ ཐམས་ཅད་ ལ་ ཡང་ སྦྱར་བ ར་ བྱས་ ན་ བདེ་བ ར་ གནས་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This mantra protects one from seizers#37 and works for any rite associated with the spirits and the like. |#| It will pacify them.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ ལོག་པ ར་ དད་ སེལ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$22 “Then the blessed tathāgata Krakucchanda hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ འི་ ཕྱིར་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke the following root verses of the secret mantra in order to benefit all beings, pacify all manner of illnesses, and exorcise all manner of spirits:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མོཿ སཾ་ གྷཱ་ ཡ །_ ན་ མཿ ཀྲ་ ཀུ་ ཙྪན་ དཱ་ ཡ །_ ཏ་ ཐཱ་ ག་ ཏཱ་ ཡ །_ ཨ ར་ ཧ་ ཏེ་ སཾ་ མྱཀ་ སཾ་ བུད་ དྷཱ་ ཡ །_ ཨོཾ་ ཀ་ ཊ་ ཀ་ ཊ །_ ཀ་ ཋ་ ཀ་ ཋ །_ ཀི་ ཊི་ ཀི་ ཊི །_ ཀི་ ཋི་ ཀི་ ཋི །།_ ཀི་ ཏཱ་པ་ ཡ་ ན་ མཿ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | namaḥ krakucchandāya | tathāgatāya | arhate samyak­saṃbuddhāya | oṃ kaṭa kaṭa | kaṭha kaṭha | kiṭi kiṭi | kiṭhi kiṭhi | kiṭāpaya#38 namaḥ svāhā |#39</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་ པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ ལོག་པ ར་ དད་ སེལ་ ཅེས་བྱ་བ་ གང་ གཱའི་ ཀླུང་ གི་ བྱེ་མ་ སྙེད་ དག་ གིས་ གསུངས་ ཤིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>$23 “Ākāśagarbha, this has been taught by tathāgata, arhat, perfect complete buddhas bearing the name Krakucchanda in numbers equal to the grains of sand in the Ganges river, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྗེས་སུ་ ཡི་ རངས་པ འི་ སྙིང་པོ་ འདི་ ཁྱོད་ ཀྱིས་ ཟུང་ ཤིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>now you must maintain this joyous root mantra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བླངས་ ཤིང་ བཟུང་ སྟེ་ ཀུན་ ཆུབ་པ ར་ བྱས་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>$24 “If this is received, born in mind, and mastered,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕྱི་མ འི་ ཚེ་ དགེ་སློང་ དང་ །_ དགེ་སློང་ མ་ དང་ །_ དགེ་བསྙེན་ དང་ །_ དགེ་བསྙེན་མ་ དག་ དེ |#| འི་ ཚེ་ དཀོན་མཆོག་ གསུམ་ ལ་ དད་པ་ རྙེད་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>then in the future, when monks, nuns, and laypeople gain faith in the Three Jewels,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྲུས་ བྱས་ ཏེ |#| བཅོམ་ལྡན་འདས་ ལ་ མེ་ཏོག་ དང་ །_ བདུག་པ་ དང་ །_ སྤོས་ དག་ གིས་ མཆོད་པ་ བྱས་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>perform the bathing rite, and make offerings of flowers, incense, and perfume to the Buddha</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསང་སྔགས་ འདི་ ལན་ བརྒྱ་རྩ་ བརྒྱད་ བརྗོད་པ ར་ གྱུར་ ན །_ |#| ཚེ་རབས་ བདུན་ [16a]  དུ་ ཚེ་རབས་ དྲན་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>while reciting#40 this sacred mantra one hundred and eight times, [16.a] they will be able to recall their past lives for seven lifetimes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྷ་ རྣམས་ ཀྱི་ ནང་ དུ་ ལྷ འི་ ཆེ་བ་ ཉིད་ ཐོབ་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will become the greatest among gods or</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ མི་ རྣམས་ ཀྱི་ ནང་ དུ་ འཁོར་ལོ ས་ སྒྱུར་བ འི་ རྒྱལ་པོ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will become [the greatest among gods or] wheel-turning kings among humans.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ན་ ཆོ་ག་ བཞིན་ དུ་ བསྒྲུབས་ ན་ དེ་ མིར་ སྐྱེ་བ་ ཐ་མ་ ཐོབ་པ ར་ འགྱུར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>If they perform this rite correctly, this will be their final human birth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ནས་ ཤི་འཕོས་ ནས་ འཇིག་རྟེན་ གྱི་ ཁམས་ བདེ་བ་ ཅན་ དུ་ སྐྱེ་བ ར་ འགྱུར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>After they die, they will be born in Sukhāvatī.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ འདི་ ལ་ ཡང་ རྟག་ ཏུ་ བརྗོད་ ན་ ནད་ ཐམས་ཅད་ ལས་ ཐར་བ ར་ འགྱུར་ རོ །_། |#| ཐོས་པ་ འཛིན་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$25 “If they constantly recite the mantra, they will be free from all manner of illnesses in this lifetime and understand what they study.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཟས་ དང་ སྐོམ་ གྱི་ རྣམ་པ་ ལ་ ལན་ བདུན་ བསྔགས་ ཏེ །_ |#| ཟོས་ འཐུངས་ ན་ ནད་ ཐམས་ཅད་ ལས་ ཐར་ བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>If they recite the mantra seven times over their food and drink and then consume it, they will be cured of any illness.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་སྟེ་ སྐོམ་ ཞི་བ ར་ འདོད་ ན་བཟའ་བ་ ཐམས་ཅད་ ལ་ ལན་ སྟོང་ རྩ་ བརྒྱད་ ཀྱིས་ བཀྲུ་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Or, if they wish to quench their thirst, they should wash their food while reciting the mantra one thousand and eight times.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལྷོག་ རྒལ་ གཅོད་ ན་ ཟངས་ ཁབ་ ཀྱིས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$26 “A copper needle incanted with the mantra can be used to remove a tumor.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཐབ་པ་ དང་ །_ རྩོད་པ་ དང་ །_ འཆིང་བ་ ཐམས་ཅད་ ལས་ ཐར་བ ར་ བྱ་ན་ ལན་ བདུན་ བཟླས་བརྗོད་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>If recited seven times, the mantra will free you from all manner of quarrels, disputes, and bondage.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ ནོར་ ཡང་ འཕེལ་བ ར་ འགྱུར །_ |#| བགེགས་ དང་ ལོག་འདྲེན་ ཐམས་ཅད་ ལས་ ཀྱང་ ཐར་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Your wealth will also continually increase, and you will be free from all manner of obstructing beings and corrupting beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་སྟེ་ དེ་བཞིན་ གཤེགས་པ་ མཐོང་བ ར་ འདོད་ ན་ དེས་ ཕྱོགས་གཙང་ མར་ མཆོད་རྟེན་ གྱི་ འཁོར་ས ར་ དཀྱིལ་འཁོར་ བསྐུས་ ལ །_ ཨ་ ག་ རུས་ བདུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$27 “Or, if you wish to have a vision of the Tathāgata, draw a maṇḍala on a clean spot in the vicinity of a stūpa,#41 fumigate it with aloeswood,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལན་ སྟོང་ རྩ་ བརྒྱད་ བཟླས་བརྗོད་ བྱས་ ན །_ |#| དེ འི་ དྲུང་ དུ་ སྔས་ ཤར་ཕྱོགས་ སུ་ བསྟན་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>recite the mantra one thousand and eight times, and then lie on a cushion in front of the maṇḍala’s eastern side.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཉལ་ ན་ དེ་བཞིན་ གཤེགས་པ་ མཐོང་བ ར་ འགྱུར་ རོ །_། |#| </seg></tuv>
+	<tuv xml:lang="en"><seg>When you fall asleep you will have a vision of the Tathāgata.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཡིད་ ལ་ ཅི་ སྨོན་པ་ དེ་ ཐམས་ཅད་ སྟོན་ ཏོ །_། |#| ཚེ འམ་ སྟོབས་ སམ་ ཕམ་རྒྱལ་ ཐམས་ཅད་ ཀྱང་ སྟོན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>He will teach you whatever you ask#42 and can tell you anything you wish such as your lifespan, your strength, and whether you will be defeated or victorious in battle.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ གསེར་ཐུབ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$28 Then the tathāgata Kanakamuni hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke these root verses of the secret mantra to benefit all beings, pacify all manner of illnesses, and exorcise all manner of spirits:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ན་ མཿ ཀ་ ན་ ཀ་ མུ་ ན་ ཡེ །_ ཏ་ ཐཱ་ ག་ ཏཱ་ ཡ །_ ཨརྷ་ ཏེ་ སཾ་ མྱཀ་ སཾ་ བུད་ དྷཱ་ ཡ །_ ཏདྱ་ ཐཱ །_ ཨོཾ་ ས་ར་ ས་ར་ ས་ར་ ས་ར །_ སི་ རི་ སི་ རི་ སི་ རི་ སི་ རི །_ སཱི་ རཱ་ ཡ །_ དྷ་ མ་ དྷ་ མ་ དྷ་ མ་ དྷ་ མ །_ དྷུ་ མ་ དྷུ་ མ་ དྷུ་ མ་ དྷུ་ མ །_ དྷུ་ མཱ་ ཡ །_ ན་མོ་ ན་ མཿ ཀ་ ན་ ཀ་ མུ་ ན་ ཡེ །_ ཏ་ ཐཱ་ ག་ ཏཱ་ ཡ་ ཨརྷ་ ཏེ་ སཾ་ མྱཀ་ [16b]  སཾ་ བུད་ དྷཱ་ ཡ་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | namaḥ kanaka­munaye | tathāgatāya | arhate samyak sambuddhāya | tadyathā | oṃ sara sara sara sara | siri siri siri siri | sirāya |#43 dhama dhama dhama dhama | dhuma dhuma dhuma dhuma |#44 dhumāya | namo namaḥ | kanakamunaye | tathāgatāya arhate samyak­sambuddhāya svāhā |#45 [16.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ གསེར་ཐུབ་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ ནམ་མཁ འི་ སྙིང་པོ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$29 The tathāgata Kanakamuni addressed the bodhisattva great being Ākāśagarbha, saying,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ གང་ལ་ལ་ ཞིག་ སྙིང་པོ་ འདི་ འཛིན་ ཅིང་ རྟག་ ཏུ་ བཟླས་བརྗོད་ བྱེད་པ་ དེ་ ལ་ མཚོན་ གྱི་ འཇིགས་པ་ མི་ འབྱུང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ākāśagarbha, whoever upholds this heart mantra and continuously recites it will not fear any weapon,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མེ་ དང་ །_ ཆུ་ དང་ །_ ལྕེ་འབབ་ པས་ འཆི་བ འི་ དུས་ བྱེད་པ ར་ མི་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>nor will they die from fire, drowning, or lightning.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ ཐམས་ཅད་ ཀྱང་ ཟས་ དང་ འདྲ་བ ར་ ཐུབ་པ ར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will be able to consume poisons as easily as food.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་ མ་ཡིན་པ ར་ འཆི་བ ས་ འཆི་བ འི་ དུས་ བྱེད་པ ར་ མི་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will not suffer an unnatural death or</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཤིས་ ངན་ དུ་ འཆི་བ ར་ མི་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will not [suffer an unnatural death or] die due to a weak constitution.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་རིང་བ ར་ འགྱུར །_ |#| ལོངས་ སྤྱོད་ ཆེ་བ ར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will have a long life and be extremely prosperous.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ དེ་བཞིན་ གཤེགས་པ་ དང་ ལྡན་པ ར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They will always be in the company of the Tathāgata</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ ས་ བྱིན་ གྱིས་ བརླབ་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They will [always be in the company of the Tathāgata and] be blessed by him.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུས་གསུམ་ དུ་ བཟླས་བརྗོད་ བྱས་ ན །_ |#| སྔོན་ གྱི་ ལས་ ཀྱི་ སྒྲིབ་པ ར་ གྱུར་པ་ ཐམས་ཅད་ བྱང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>If they recite the mantra at the three times of the day, they will purify all their karmic obscurations from previous lifetimes.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་སྟེ་ ཕ་རོལ་ ནད་ ལས་ ཐར་བ ར་ བྱེད་པ ར་ འདོད་ ན་ |#| ཅི་ ནུས་ སུ་ གཏོར་མ་ གཏོང་ ཞིང་ པོག་ གམ །_ ཨ་ ག་ རུའི་ བདུག་ པས་ བདུགས་ ལ་ གཟའ་ ཐམས་ཅད་ ལ་ ཁྲུས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$30 “If you want to cure another person’s illness, perform a cast offering according to your means, fumigate the room with incense or aloeswood, and wash all the food.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཛེ་ དང་ སྐྲངས་ ནད་ དང་ མཆིན་སྐྲན་ ལ་ ཤུ་དག་ འཇམ་པོ་ བཏགས་པ་ སྦྲང་རྩི་ དང་ བསྲེས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>For leprosy, tumors, and a swollen liver, pick some fresh sweet flag, mix it with honey,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ཀྱི་ སྤྱན་སྔ ར་ ལན་ སྟོང་ རྩ་ བརྒྱད་ བསྔགས་ ཏེ་ བསྐུས་ ན་ མཛེ་ནད་ ཐམས་ཅད་ སོས་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>incant it with the mantra one thousand and eight times before an image of the Blessed Buddha, and rub the mixture on the affected area. |#| The leprosy will fully heal.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞག་ བཞི་པ་ ལ་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ཀྱི་ སྤྱན་སྔ ར་ སྣ་མ འི་ མེ་ཏོག་ གི་ ཕྲེང་བ་ ལ་ ལན་ སྟོང་ རྩ་ བརྒྱད་ བསྔགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$31 “For a fever that returns every four days, recite the mantra one thousand and eight times over a garland of jasmine flowers before an image of the Blessed Buddha.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི འི་ མགོ་ ལ་ བཅིངས་ ན་ ཞག་ བཞི་པ འི་ རིམས་ སོས་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Tie it around the patient’s head, and they will recover from the four-day fever.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཚོན་ བཏབ་པ འི་ རྣ་བ ར་ བཟླས་བརྗོད་ བྱས་ ན་ བརྗེད་བྱེད་ ལས་ ཐར་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“If you recite the mantra in the ear of someone who has been struck with a weapon, they will be cured of their amnesia.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལུས་ སྲུལ་པོ ས་ ཟིན་པ་ རྣམས་ ལ་ སངས་རྒྱས་ ལ་ ཕུལ་བ འི་ མེ་ཏོག་ གིས་ བདུག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$32 “For those who have been possessed by a kaṭapūtana , fumigate the patient with flowers that have been offered to the Buddha.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་སོགས་པ འི་ ལས་ རྣམས་ བྱེད་ དེ །_ |#| ལས་ ཐམས་ཅད་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That and all other such rituals may be performed with this heart mantra, thus it is acceptable for any rite.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ འོད་སྲུང་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$33 Then the tathāgata Kāśyapa hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ ལ་ ཕན་པ འི་ དོན་ དང་ །_ ནད་ ཐམས་ཅད་ རབ་ཏུ་ ཞི་བ ར་ བྱ་བ་ དང་ །_ འབྱུང་པོ་ ཐམས་ཅད་ བཟློག་པ འི་ ཕྱིར་ གསང་སྔགས་ ཀྱི་ གཞི་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>proclaimed these root verses of the secret mantra in order to benefit all beings, to pacify all manner of illnesses, and exorcise all manner of spirits: [17.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་ [17a]  མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ཨོཾ་ ཧ་ ར་ ཧ་ ར་ ཧ་ ར །_ ཧ་ ཧ་ ཧ །_ ན་ མཿ ཀཱ་ ཤྱ་ པཱ་ ཡ །_ ཏ་ ཐཱ་ ག་ ཏཱ་ ཡ །_ ཨརྷ་ ཏེ་ སཾ་ མྱཀ་ སཾ་ བུད་ དྷཱ་ ཡ །_ སིདྷྱན་ ཏུ་ མན་ ཏྲ་པ་ དཻཿ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | oṃ hara hara hara hara | ha ha ha | namaḥ kāśyaspāya | tathāgatāya | arhate samyaksambuddhāya | sidhyantu mantrapada#46 svāhā |#47</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ འོད་སྲུང་ གིས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་ མཁ འི་ སྙིང་པོ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$34 The tathāgata Kāśyapa addressed the bodhisattva great being Ākāśagarbha, saying,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ སྙིང་པོ་ འདི་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ གང་ གཱའི་ ཀླུང་ སུམ་ཅུ་རྩ་གཉིས་ ཀྱི་ བྱེ་མ་ སྙེད་ དག་ གིས་ གསུངས་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ākāśagarbha, blessed buddhas equal in number to the grains of sand in thirty-two Ganges rivers have taught this heart mantra in the past.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ སྙིང་པོ་ འདི་ ཁྱོད་ ཀྱིས་ ཟུང་ ཤིག _། |#| ཀུན་ ཆུབ་པ ར་ གྱིས་ ཤིག _།_</seg></tuv>
+	<tuv xml:lang="en"><seg>Now, Ākāśagarbha, you must preserve this heart mantra. |#| You must master it.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ལ་ལ་ ཞིག་ འཛིན་ ཏམ །_ ཀློག་ གམ །_ ཀུན་ ཆུབ་པ ར་ བྱེད་ དམ །_ ཉིན་ མོ འམ །_ མཚན་མོ་ ལན་ གསུམ་ གསུམ་ བཟླས་ རྗོད་ བྱེད་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>$35 “If someone who has received, recited, and mastered it recites it three times per day and three times per night, then,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མདོར་ན་ རྨི་ལམ་ ན་ དེ་བཞིན་ གཤེགས་པ་ མཐོང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>in brief, they will have a vision of the Tathāgata in their dreams and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ལས་ ཀྱི་ སྒྲིབ་པ་ ཐམས་ཅད་ ཀྱང་ བྱང་བ ར་ འགྱུར་ ཏེ །_ |#| སྔོན་ གྱི་ ལས་ ནི་ མ་གཏོགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>purify all their karmic obscurations except for any karma from their past lives.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལས་ ཐམས་ཅད་ ལ་ ཡང་ སྦྱར་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This mantra can be used for any rite.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཛེ་ དང་ ཤ་བཀྲ་ ལ་སོགས་པ་ ལ་ སངས་རྒྱས་ ལ་ ཕུལ་བ འི་ མེ་ཏོག་ ལ་ སངས་རྒྱས་ ཀྱི་ སྤྱན་སྔ ར་ ལན་ སྟོང་ རྩ་ བརྒྱད་ བསྔགས་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>$36 “For illnesses such as leprosy and vitiligo,#48 offer flowers to the Buddha and recite the mantra one thousand and eight times over them before an image of the Buddha.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཀླགས་ ཤིང་ བཀྲུས་ ན་སོ ས་ པར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>After the patient has recited the mantra and bathed, they will recover.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀླད་པ་ ན་བ་ ལ་ སངས་རྒྱས་ ལ་ ཕུལ་ བ འི་ མེ་ཏོག་ སངས་རྒྱས་ ཀྱི་ སྤྱན་སྔ ར་ བཞག་ སྟེ །_ |#| སངས་རྒྱས་ ཀྱི་ སྤྱན་སྔ ར་ ལན་ སྟོང་ རྩ་ བརྒྱད་ བཟླས་བརྗོད་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>For a headache, one should place a flower offered to the Buddha before an image of the Buddha and |#| recite the mantra before the image one thousand and eight times.#49</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ དུ་ ཡང་ སྦྱར་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This mantra can be used in any ritual.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ དེ་བཞིན་ གཤེགས་པ་ ཤཱཀྱ་ ཐུབ་པ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$37 Then the Blessed One, the Tathāgata Śākyamuni, hovered in the sky above them and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ ཅད་ ལ་ ཕན་པ འི་ དོན་ གྱི་ ཕྱིར་ རིག་ སྔགས་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>spoke this vidyāmantra for the benefit of all beings:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ན་མོ་ བུད་ དྷཱ་ ཡ །_ ན་མོ་ དྷརྨཱ་ ཡ །_ ན་ མཿ སཾ་ གྷཱ་ ཡ །_ ཏདྱ་ ཐཱ །_ གྷུ་ མེ་ གྷུ་ མེ་ མ་ ཧཱ་ གྷུ་ མེ །_ ཏ་ལེ་ ཏ་ལེ་ མ་ ཧཱ་ ཏ་ལེ །_ ཙ་ ལེ་ ཙ་ ལེ་ མ་ ཧཱ་ ཙ་ ལེ །_ དྷུ་ རེ་ དྷུ་ རེ་ མ་ ཧཱ་ དྷུ་ རེ །_ ཏི་ རི་ ཏི་ རི་ མ་ ཧཱ་ ཏི་ རི །_ ཀི་ ལི་ ཀི་ ལི་ མ་ ཧཱ་ ཀི་ ལི །_ ཙུ་ རུ་ ཙུ་ རུ་མ་ ཧཱ་ ཙུ་ རུ །_ མི་ ལི་ མི་ ལི་མ་ ཧཱ་ མི་ ལི །_ ཏི་ ལི་ ཏི་ ལི་མ་ ཧཱ་ ཏི་ ལི །_ དྷུ་ མེ་ དྷུ་ མེ་ མ་ ཧཱ་ དྷུ་ མེ །_ ཙ་ ལེ་ ཙ་ ལེ་ མ་ ཧཱ་ ཙ་ ལེ །_ ཁི་ རི་ ཁི་ རི་ མ་ ཧཱ་ ཁི་ རི །_ ཙི་ ལི་ ཙི་ ལི་མ་ ཧཱ་ ཙི་ ལི་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>namo buddhāya | namo dharmāya | namaḥ saṅghāya | tadyathā | ghume ghume mahāghume | tale tale mahātale | cale cale mahācale | dhure dhure mahādhure | tiri tiri mahātiri | kili kili mahākili | curu curu mahācuru | mili mili mahāmili | tili tili mahātili | dhume dhume mahādhume | cale cale mahācale | khiri khiri mahakhiri | cili cili mahācili svāhā |</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དེ་བཞིན་ གཤེགས་པ་ ཤཱཀྱ་ ཐུབ་པ ས་ བྱང་ཆུབ་ སེམས་ [17b] |#| དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$38 The Tathāgata Śākyamuni addressed the bodhisattva [17.b] great being Ākāśagarbha, saying,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་མཁ འི་ སྙིང་པོ་ ཀླད་པ འི་ ནད་ བསལ་ ན་ མཚོན་ དང་ ལག་མཐིལ་ གྱིས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Ākāśagarbha, to treat a headache, you should recite the mantra using your forefinger and the palm of your hand.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྤྲིན་ བཟློག་ ན་ ཤིང་ ཀ་ར་ བཱི་ ར འི་ ལྕུག་མ ས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can disperse clouds using an incanted wand made of oleander wood.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ སྤོ་ ན་ ཆུས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can use incanted water to overcome poisoning.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལས་ གཞན་ རྣམས་ ཀྱང་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>You can also perform any other rituals using the mantra, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྲུས་ ཀྱི་ ཆོ་ག ས་ སྦྱར་ བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you can include a bathing rite.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོ་ག་ ཐམས་ཅད་ ཀྱིས་ དུས་ ཐམས་ཅད་ དུ་ སྦྱར་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It can be used for any rite in any context.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$39 After the Blessed One had said this,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ ནམ་མཁ འི་ སྙིང་པོ་ ཡི་ རངས་ ཏེ །_ |#| བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>the bodhisattva great being Ākāśagarbha was delighted and praised the Blessed One’s words.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ སངས་རྒྱས་ བདུན་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$40 This concludes the noble Mahāyāna sūtra “ The Seven Buddhas .”</seg></tuv>
+</tu>
+</body>
+</tmx>
