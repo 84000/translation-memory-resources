@@ -1,0 +1,566 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>[V72][271a] ༄༅།_། འཕགས་པ་ འཁར་གསིལ་ གྱི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Sūtra
+The Ringing Staff</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [271.a] Homage to all buddhas and bodhisattvas!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགེ་སློང་ རྣམས་ ལ་ བཀའ་ སྩལ་པ །_ ཁྱོད་ ཀྱིས་</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Once, the Blessed One said to the monks,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ འདི་ ཡོངས་སུ་ བཅང་བ ར་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“You shall carry this ringing staff.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདས་པ འི་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ ཀྱང་ འཁར་གསིལ་ འདི་ བསྣམས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because past buddhas have carried this ringing staff and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བྱོན་པ འི་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ ཀྱང་ འཁར་གསིལ་ འདི་ བསྣམས་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>future buddhas will carry this ringing staff.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ད་ལྟ ར་ གྱི་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ ཀྱང་ འཁར་གསིལ་ འདི་ བསྣམས་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Present buddhas also carry this ringing staff;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ང་ ད་ལྟ ར་ མངོན་པར་ སངས་རྒྱས་ ནས་ འཁར་གསིལ་ བསྣམས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>having now attained awakening, I carry the ringing staff. [271.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ དུ་ འདས་པ་ དང་ །_ མ་ [271b] བྱོན་པ་ དང་ །_ ད་ལྟ ར་ བཞུགས་པ འི་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ ཀྱང་ ཉན་ཐོས་ རྣམས་ ལ་ འཁར་གསིལ་ བཅང་བ ར་ བྱ འོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>In a similar manner, past, future, and present buddhas instruct the listeners, ‘You shall carry the ringing staff.’</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ སྟོན་པ ར་ མཛད་པ ས་ དེང་ ང་ མངོན་པར་ རྫོགས་པ ར་ སངས་རྒྱས་ ནས་ ཀྱང་ སངས་རྒྱས་ རྣམས་ ཀྱི་ ཆོས་ ཇི་ལྟ་བ་ བཞིན་ དུ་ ཁྱེད་ ལ་ བསྟན་པ་ ཡིན་ གྱིས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>So now, having attained awakening, I also teach you in accordance with the Dharma of the buddhas, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེད་ ཀྱིས་ ཀྱང་ འཁར་གསིལ་ བཅང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>you too shall carry the ringing staff.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཡེ་ཤེས་ ཀྱི་ འཁར་བ་ ཞེས་ ཀྱང་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 “The ringing staff is also called the staff of gnosis .</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོན་ཏན་ གྱི་ འཁར་བ་ ཞེས་ ཀྱང་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>It is also called the staff of excellent qualities .</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ འི་ ཡེ་ཤེས་ རབ་ཏུ་ སྟོན་པ འི་ ཕྱིར་ ཡེ་ཤེས་ ཀྱི་ འཁར་བ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because it signifies the gnosis of noble beings, it is called the staff of gnosis.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོན་ཏན་ གྱི་ གཞི་ སྒྲུབ་པ འི་ ཕྱིར་ ཡོན་ཏན་ གྱི་ འཁར་བ་ ཞེས་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because it builds the foundation of excellent qualities, it is called the staff of excellent qualities.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ འདི་ ནི་ འཕགས་པ འི་ གང་ཟག་ གི་ རིགས་ཅན་ སྐྱེས་བུ་ དམ་པར་ མཚོན་པ འི་ ལམ་ གྱི་ ཆོས་ ལ་ ཕྱོགས་པ འི་ རྒྱལ་མཚན་ རྗེས་སུ་ དྲན་པ་ རྣམ་པར་ གཞག་པ འི་ དོན་ གྱི་ སྤྱོད་པ་ ཡིན་པ ས་</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 “This ringing staff signifies that the holder is a sublime being belonging to the lineage of noble beings, it is an emblem that points to the Dharma of the path, and it is a practice that facilitates recollection.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཕྱིར་ ཁྱོད་ ཀྱིས་ ཆོས་བཞིན་ དུ་ བཅང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, you should carry it according to the Dharma.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ འོད་སྲུང་ ཆེན་པོ་ སྟན་ ལས་ ལངས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 Then Venerable Mahākāśyapa rose from his seat,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གོས་ཚགས་ བཅོས་ ནས་ བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ་ ཐལ་མོ་ སྦྱར་ ནས་ པུས་མོ་ ས་ ལ་ བཙུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>adjusted his robes, draped his upper robe over one shoulder, joined his palms, and knelt on the ground.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>He inquired of the Blessed One,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཅིའི་སླད་དུ་ འཁར་གསིལ་ ཞེས་ བགྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, why is it called a ‘ringing staff’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ ན་ བཅང་བ ར་ བགྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>How should it be carried?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཤད་ དུ་ གསོལ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>May the Blessed One explain.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ཅག་ རྣམས་ ཀྱིས་ ཀྱང་ བཀའ་ བཞིན་ དུ་ སྤྱོད་པ ར་ འཚལ་ ལོ་ ཞེས་ གསོལ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>We will practice as instructed.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ འོད་སྲུང་ ལ་ བཀའ་ སྩལ་པ །_ ལེགས་པ ར་ ཉོན་ ལ་ ཡིད་ ལ་ ཟུང་ ཤིག་ དང་ ངས་ བཤད་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One said to Kāśyapa, “Listen well, keep it in mind, and I shall explain.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ལ་ འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཡང་བ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 “The ringing staff brings relief.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ འཁར་བ་ འདི་ ལ་ བརྟེན་པ་ འདི་དག་ ཉོན་མོངས་པ་ བསལ་ ནས་ ཁམས་ གསུམ་ ལས་ ངེས་པ ར་ འབྱུང་བ འི་ ཕྱིར་ཡང་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who rely upon this ringing staff will eliminate afflictions and emerge from the three realms. Therefore, it is said to bring relief.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ སྣང་བར་ བྱེད་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 “The ringing staff causes illumination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ འཛིན་པ འི་ གང་ཟག་ གང་ཡིན་པ་ དེ་དག་ ཤེས་རབ་ ཀྱི་ སྣང་བ་ ཐོབ་པ ར་ འགྱུར་བ འི་ ཕྱིར་ སྣང་བར་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who hold the ringing staff will attain the illumination of wisdom. Therefore, it is said to cause illumination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཕྱིར་ མི་ ལྡོག་པ ར་ བྱེད་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 “The ringing staff brings about irreversibility. [272.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ [272a] འཛིན་པ འི་ གང་ཟག་ གང་ཡིན་པ་ དེ་དག་ སྲིད་པ་ གསུམ་ ལས་ ངེས་པ ར་ འབྱུང་ ཞིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who hold the ringing staff will emerge from the three realms of existence and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ མངོན་པར་ ཞེན་པ་ ཉིད་ དུ་ མི་འགྱུར་བ འི་ ཕྱིར་ ཕྱིར་ མི་ ལྡོག་པ ར་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>also be unattached. Therefore, it is said to bring about irreversibility of spiritual progress.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཁོང་ དུ་ ཆུད་པ ར་ བྱེད་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 “The ringing staff causes understanding.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འཁར་གསིལ་ འཛིན་པ ར་ བྱེད་པ་ ཡིན་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>What does the ringing staff cause one to comprehend?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྡུག་བསྔལ་ དང་ །_ སྟོང་པ་ དང་ །_ ཁམས་ གསུམ་ གྱི་ ཉོན་མོངས་པ འི་ ཀུན་ ནས་ དཀྲིས་ པར་ ཁོང་ དུ་ ཆུད་པ་ དང་ །_ བདེན་པ་ བཞི་ དང་ །_ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ བཅུ་གཉིས་པོ་ འདི་དག་ གསལ་བ ར་ རྟོགས་པ ར་ འགྱུར་བ འི་ ཕྱིར་</seg></tuv>
+	<tuv xml:lang="en"><seg>One will understand suffering, emptiness, and the fetters that are afflictions of the three realms, and one will clearly realize the four truths and the twelve links of dependent origination.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁོང་ དུ་ ཆུད་པ ར་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, it is said to cause understanding.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ང་རྒྱལ་ མེད་པར་ བྱེད་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 “The ringing staff eliminates pride.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འཁར་གསིལ་ འཛིན་པ་ དེ་དག་ ང་རྒྱལ་ གྱི་ ལས་ རབ་ཏུ་ སྤོང་བ ར་ འགྱུར་བ འི་ ཕྱིར་ ང་རྒྱལ་ མེད་པར་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who hold the ringing staff will give up acting pridefully. Therefore, it is said to eliminate pride.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ རྒྱང་ བསྲིངས་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 “The ringing staff keeps others at a distance.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འཁར་གསིལ་ འདི་ འཛིན་པ འི་ གང་ཟག་ གང་ཡིན་པ་ དེ་དག་ འདོད་པ་ ལྔ་ ཐག་ རིང་ དུ་ བྱེད་པ ས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who hold this ringing staff will distance themselves from the five sensual objects.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ འདོད་པ ས་ སྲེད་པ འི་ ཀུན་ ནས་ དཀྲིས་པ་ སྤོང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, they will give up the fetters of craving for sensual objects,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕུང་པོ་ ལྔ་པོ་ རྣམས་ རྣམ་པར་ འཐོར་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>discard the five aggregates,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲིད་པ་ ལྔ་པོ་ དག་ ཡོངས་སུ་ སྤོང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>give up the five states of existence,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མྱ་ངན་ ལས་ འདས་པ་ ལ་ ཕྱོགས་ ཤིང་ འདུ་བྱེད་ ཀྱི་ ལས་ ཀྱང་ ཐག་ རིང་ དུ་ སྤོང་བ འི་ ཕྱིར་ རྒྱང་ བསྲིངས་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>approach nirvāṇa, and also expel conditioning karma far away. Therefore, it is said to keep others at a distance.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ལེན་པ ར་ བྱེད་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 “The ringing staff adopts.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འཁར་གསིལ་ འཛིན་པ ར་ བྱེད་པ་ དེ་དག་ སངས་རྒྱས་ རྣམས་ ཀྱི་ ཚུལ་ཁྲིམས་ དང་ །_ ཏིང་ངེ་འཛིན་ དང་ །_ ཤེས་རབ་ རིན་པོ་ཆེ་ བླངས་པ ས་ རྣམ་པར་ གྲོལ་བ་ ཐོབ་པ ར་ འགྱུར་བ འི་ ཕྱིར་ལེན་ པར་ བྱེད་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>By adopting the precious discipline, meditative stabilization, and wisdom of the buddhas, those who hold the ringing staff will attain freedom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཡོངས་སུ་ གྲུབ་པ ར་ འགྱུར་བ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, it is said to adopt. $13 “The ringing staff brings accomplishment.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!གང་ འཁར་གསིལ་ འཛིན་པ་ དག་ སངས་རྒྱས་ ཀྱི་ ཆོས་ ཀྱི་ སྡེ་སྣོད་ མངོན་པར་ གྲུབ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>By becoming accomplished in the collections of the Buddha’s teachings and practicing them as taught,#12</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཇི་ལྟ ར་ བསྟེན་པ་ བཞིན་ དུ་ བསྒྲུབས་པ ས་ མ་ ཉམས་པ ར་ ཕུན་སུམ་ ཚོགས་པ ར་ འགྱུར་བ འི་ ཕྱིར་ མངོན་པར་ འགྲུབ་པ ར་ འགྱུར་བ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>those who hold the ringing staff will not fall back but become excellent. Therefore, it is said that it brings accomplishment.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོད་སྲུང་ འཁར་གསིལ་ ཞེས་ བྱ་བ འི་ ཡི་གེ འི་ དོན་ རྒྱ་ ཆེ་ ཞིང་ མང་བ ས་ ཡོངས་སུ་ རྫོགས་ [272b] པར་ རྗོད་ མི་ ནུས་ ཀྱང་ ཁྱེད་ ཀྱིས་ རེ་ཞིག་ དེ་བཞིན་ དུ་ ཡོངས་སུ་ གཟུང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 “Kāśyapa,” the Blessed One concluded, “since the meanings of the term ringing staff are vast and multifarious, they cannot be described fully, but for the time being you should comprehend them in that way.” [272.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ལ་ འོད་སྲུང་ གིས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 Kāśyapa then asked the Blessed One,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ འཁར་གསིལ་ ཞེས་ བྱ་བ འི་ དོན་ ནི་ དེ་ལྟ་ བུ་ ལགས་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, if the meanings of the ringing staff are so,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཅིའི་སླད་དུ་ ཡེ་ཤེས་ ཀྱི་ འཁར་བ་ ཞེས་ བགྱི་བ་ ནས་ དྲན་པ་ ཉེ་བ ར་ གཞག་པ འི་ དོན་ གྱི་ སྤྱོད་པ་ ཞེས་ བགྱི་བ འི་ བར་ གྱི་ དོན་ གང་ ལགས་པ་</seg></tuv>
+	<tuv xml:lang="en"><seg>what are the reasons for this whole range of meanings, from ‘ staff of gnosis’ to ‘it is a practice aimed at the application of recollection’?#13</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀས་ བཤད་ དུ་ གསོལ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Could the Blessed One explain?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ ཞེས་ བྱ་བ་ ནི་ ཡེ་ཤེས་ ཀྱི་ སྤྱོད་པ་ སྒྲུབ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 The Blessed One replied, “The ringing staff causes the accomplishment of the practice of gnosis;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མང་ དུ་ ཐོས་པ་ རྒྱ་ ཆེ ར་ སྒྲུབ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>causes the accomplishment of vast learning;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇིག་རྟེན་ དང་ འཇིག་རྟེན་ ལས་ འདས་པ འི་ ཤེས་རབ་ དང་ །_ དགེ་བ་ དང་ །_ མི་དགེ་བ་ དང་ །_ འདུས་བྱས་ དང་ །_ འདུས་མ་བྱས་ དང་ །_ ཟག་པ་ དང་ བཅས་པ་ དང་ །_ ཟག་པ་ མེད་པ་ རྣམ་པར་ ཐོགས་པ་ མེད་པར་ ཁོང་ དུ་ ཆུད་ ཅིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>engenders an unhindered understanding of worldly and transcendent wisdom, virtue and nonvirtue, the conditioned and unconditioned, and the contaminated and uncontaminated;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤེས་རབ་ མངོན་པར་ འགྲུབ་པ ར་ བྱེད་པ འི་ ཕྱིར་</seg></tuv>
+	<tuv xml:lang="en"><seg>and it causes the accomplishment of wisdom.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཀྱི་ འཁར་བ་ ཞེས་ ཀྱང་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, it is called the staff of gnosis.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ དམ་པོ ར་ སྲུང་བ་ དང་ །_ བཟོད་པ་ དང་ །_ བསམ་གཏན་ ལ་ སེམས་ རྩེ་གཅིག་ ཏུ་ གཡེང་བ་ མེད་པར་ སྒོམ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 “Practicing the strict observance of discipline, patience, the cultivation of meditative concentration with a single-pointed mind devoid of distraction,#14</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟག་ ཏུ་ བསོད་ནམས་ ཀྱི་ ལས་ བསྒྲུབས་པ ས་ མགོ འམ་ ཐོད་ ལ་ མེ་ འབར་བ་ བཞིན་ དུ་ སྐད་ཅིག་ ཙམ་ དུ་ ཡང་ མི་ གཏོང་བ འི་ ཕྱིར་</seg></tuv>
+	<tuv xml:lang="en"><seg>and constant meritorious actions, as if their head or turban had caught fire, those who hold the ringing staff do not forsake these practices even for an instant.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོན་ཏན་ གྱི་ འཁར་བ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, it is called the staff of excellent qualities.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ འདི་ ཡོངས་སུ་ འདི་ འཛིན་པ་ གང་ཡིན་པ་ དེ་དག་ ནི་ གང་ གི་ སྤྱོད་པ་ རྣམ་པ་ བཅུ་དྲུག་པོ་ འདི་ལྟ་སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 “Those who hold this ringing staff will become perfect in the sixteen kinds of practice:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེན་པ་ བཞི་པོ་ སྡུག་བསྔལ་ དང་ །_ ཀུན་འབྱུང་བ་ དང་ །_ འགོག་པ་ དང་ །_ ལམ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>(1–4) the four truths of suffering, origin, cessation, and the path;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚད་ མེད་པ་ བཞི་པོ་ བྱམས་པ་ དང་ །_ སྙིང་རྗེ་ དང་ །_ དགའ་བ་ དང་ །_ བཏང་སྙོམས་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>(5–8) the four immeasurable states of love, compassion, joy, and equanimity;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསམ་གཏན་ བཞི་པོ་ བསམ་གཏན་ དང་པོ་ དང་ །_ བསམ་གཏན་ གཉིས་པ་ དང་ །_ བསམ་གཏན་ གསུམ་པ་ དང་ །_ བསམ་གཏན་ བཞི་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>(9–12) the four meditative concentrations: the first meditative concentration, second meditative concentration, third meditative concentration, and fourth meditative concentration;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ མེད་པ འི་ སྙོམས་པ ར་ འཇུག་པ་ བཞི་པོ་ ནམ་མཁའ་ མཐའ་ ཡ ས་ སྐྱེ་མཆེད་ དང་ །_ རྣམ་ཤེས་ མཐའ་ ཡ ས་ སྐྱེ་མཆེད་ དང་ །_ ཅི་ཡང་ མེད་པ འི་ སྐྱེ་མཆེད་ དང་ །_ འདུ་ཤེས་ མེད་ འདུ་ཤེས་ མེད་ མིན་ གྱི་ སྐྱེ་མཆེད་ ཀྱི་ ཕུན་སུམ་ ཚོགས་པ་ [273a] དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>and (13–16) the four formless states of meditative attainment: the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither perception nor absence of perception. [273.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཞན་ ཡང་ སྤྱོད་པ་ སུམ་ཅུ་རྩ་བདུན་པོ་ འདི་ལྟ་སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>In addition, they will become perfect in the thirty-seven practices—namely,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ ཀྱི་ ཆོས་ སུམ་ཅུ་རྩ་བདུན་ ཕུན་སུམ་ ཚོགས་ ཤིང་ ཆོས་ དེ་དག་ གསལ་བ ར་ རྣམ་པར་ བྱེད་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>the thirty-seven aids to awakening—and they will discern these dharmas with clarity.#15</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ཉིད་ ཀྱི་ ལུས་ ཀྱིས་ མངོན་སུམ་ དུ་ བྱས་པ ས་ སྒྲ འི་ རྗེས་སུ་ མི་ འབྲང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because they actualize them physically, they do not pursue words.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཆོས་ དེ་དག་ ལ་ བདག་ཉིད་ རྣམ་པར་ རྩེན་པ་ དང་ །_ སྟོང་པ་ཉིད་ དང་ །_ མཚན་མ་ མེད་པ་ དང་ །_ སྨོན་པ་ མེད་པ འི་ རྣམ་པར་ ཐར་པ འི་ སྒོ ར་ འཇུག་པ་ ལ་ རང་དབང་ དུ་ གྱུར་ ཅིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>They frolic in these dharmas and are free to enter the gateways to liberation of emptiness, signlessness, and wishlessness at will and without difficulty.#16</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགའ་བ་ མེད་པ་ གང་ཡིན་པ་ དེ་ ནི་ འཕགས་པ་ ཞེས་ བྱ་ སྟེ</seg></tuv>
+	<tuv xml:lang="en"><seg>Such persons are called noble beings. $19</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནང་ ཡོན་ཏན་ དེ་ལྟ་ བུ་ དང་ ལྡན་པ ས་ ཕྱི་རོལ་ འཁར་གསིལ་ འཛིན་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Possessing such qualities internally, they hold the ringing staff externally.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི ས་ ནི་ གང་ཟག་ གདོན་ མི་ ཟ་བ ར་ འཕགས་པ འི་ ཡོན་ཏན་ ཚུལ་ཁྲིམས་ དང་ །_ བཟོད་པ་ དང་ །_ བསམ་གཏན་ དང་ །_ ཤེས་རབ་ དང་ །_ རིག་པ་ གསུམ་ དང་ །_ མངོན་པར་ ཤེས་པ་ དྲུག་ དང་ །_ རྣམ་པར་ ཐར་པ་ བརྒྱད་པོ་ རྣམས་ ཕུན་སུམ་ ཚོགས་པ་ ཡིན་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>Because of this, it is beyond doubt that such persons are perfect in the excellent qualities of noble beings: discipline, patience, meditative concentration, wisdom, the threefold knowledge, the six types of supernatural knowledge, and the eight kinds of liberation .</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ཟག་ དེ་ འཕགས་པ་ ཡིན་པ ར་ མཚོན་པ་ ཉིད་ ཀྱིས་ གུས་པ་ སྐྱེད་པ ར་ འགྱུར་བ འི་ ཕྱིར་ འཕགས་པ འི་ གང་ཟག་ གི་ རྟགས་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because the ringing staff engenders respect by signifying that such persons are noble beings, it is called the sign of a noble being.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེས་བུ་ དམ་པར་ མཚོན་པ་ ཞེས་ བྱ་བ་ ནི་ ནང་ ན་ ཡེ་ཤེས་ ཀྱི་ ངོ་བོ་ ཉིད་ དང་ ལྡན་པ ས་ དམ་པ་ ཞེས་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 “As for the expression ‘that which signifies that the holder is a sublime being,’ because of possessing the nature of gnosis within, a person is said to be ‘sublime.’</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ཟག་ དེ་ འཕགས་པ་ ཡིན་པ ར་ མཚོན་པ་ ཉིད་ ཀྱིས་ གུས་པ་ སྐྱེད་པ ར་ འགྱུར་བ འི་ ཕྱིར་</seg></tuv>
+	<tuv xml:lang="en"><seg>The ringing staff engenders respect by signifying that the person is a noble being.#17</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ འི་ ནང་ ན་ ཡེ་ཤེས་ ཀྱི་ ངོ་བོ་ ཉིད་ དང་ ལྡན་པ ས་ ཡོན་ཏན་ གྱི་ གཞི་ སྒྲུབ་པ་ དང་ །_ ཆོས་ གོང་ ནས་ གོང་ དུ་ རྩོལ་ ཞིང་ ལེགས་པ ར་ སྒྲུབ་པ ར་ བྱེད་ དོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>It thereby shows that, because of possessing the nature of gnosis that is present within a noble being, the holder accomplishes the foundation of excellent qualities, strives for increasingly higher qualities, and accomplishes them well.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ སྟོན་པ ར་ བྱེད་པ འི་ ཕྱིར་ སྐྱེས་བུ་ དམ་པར་ མཚོན་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, it is called that which signifies that the holder is a sublime being.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ཟག་ གསལ་བ་ དེ་རིང་པོ ར་ མི་ ཐོགས་པ ར་ ཤེས་རབ་ ཀྱིས་ མངོན་པར་ གྲུབ་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 “It makes known that ‘this clear-minded person, having practiced by means of wisdom,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་མ་བྱས་ ཀྱི་ གནས་ རབ་ཏུ་ ཞི་ ཞིང་ དབེན་པ་ མྱ་ངན་ ལས་ འདས་པ འི་ བདེ་བ་ དོན་དམ་པ འི་ གནས་ ཀྱི་ ལམ་ དུ་ འཇུག་པ ར་ འགྱུར་ རོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>will enter before long the path leading to a peaceful and secluded state beyond conditioning, namely the bliss of nirvāṇa, the ultimate place.’</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ ཤེས་པ ར་ བྱེད་པ འི་ ཕྱིར་ ལམ་ གྱི་ ཆོས་ ལ་ ཕྱོགས་པ འི་ རྒྱལ་མཚན་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, the ringing staff is called the emblem that points to the Dharma of the path.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྗེས་སུ་ དྲན་པ འི་ རྣམ་པར་ གཞག་པ འི་ དོན་ གྱི་ སྤྱོད་པ་ ཞེས་ བྱ་བ་ ནི་</seg></tuv>
+	<tuv xml:lang="en"><seg>$22 “As for the expression ‘it is a practice that facilitates recollection,’</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་བ་ འདི་ རིམ་པ་ གསུམ་ དང་ ལྡན་པ ར་</seg></tuv>
+	<tuv xml:lang="en"><seg>this ringing staff has three levels.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུམ་བུ་ གསུམ་ གྱི་ རིམ་པ་ མཐོང་བ་ ཉིད་ ཀྱིས་ ངན་སོང་ གསུམ་ གྱི་ སྡུག་བསྔལ་ [273b] རྗེས་སུ་ དྲན་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Just by seeing the structure of the three segments, having recollected the suffering of the three lower states of existence, [273.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་ཁྲིམས་ དང་ །_ ཏིང་ངེ་འཛིན་ དང་ །_ ཤེས་རབ་ སྒོམ་པ ར་ བྱེད་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>one will cultivate discipline, meditative stabilization, and wisdom;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གནོད་པ་ གསུམ་པོ་ རྒ་བ་ དང་ །_ ན་བ་ དང་ །_ འཆི་བ་ རྗེས་སུ་ དྲན་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>having recollected the three misfortunes—aging, sickness, and death—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུག་ གསུམ་པོ་ འདོད་ཆགས་ དང་ །_ ཞེ་སྡང་ དང་ །_ གཏི་མུག་ ཡོངས་སུ་ སེལ་བར་ བྱེད་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>one will dispel the three poisons: attachment, hatred, and ignorance; and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁམས་ གསུམ་པོ་ དག་ མི་ རྟགས་པ་ ཡིན་པ་ ཉིད་ དུ་ རྗེས་སུ་ དྲན་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>having recollected the three realms as impermanent,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དཀོན་མཆོག་ གསུམ་ ལ་ མངོན་པར་ ཡིད་ཆེས་ ཤིང་ གུས་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>one will generate belief in and respect for the Three Jewels,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྲིད་པ་ གསུམ་ བསལ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>eliminate the three realms of existence ,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!དག་པ་ གཙང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>discard the three contaminations,#18</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལས་ རྣམ་ གསུམ་ རྣམ་པར་ སྦྱང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>purify the three kinds of karma,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིག་པ་ གསུམ་ དང་ ལྡན་པ ར་ འདོད་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>wish to possess the threefold knowledge,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཐར་པ་ གསུམ་ ལ་ འཇུག་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>enter the three liberations,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྗེས་སུ་ དྲན་པ་ དྲུག་ གི་ གནས་ གསུམ་ ཐོབ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>obtain the three states of the six recollections,#19 and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཐག་ རིང་ དུ་ བྱེད་པ་ གསུམ་ རྟོགས་པ ར་ འགྱུར་བ འི་ ཕྱིར་</seg></tuv>
+	<tuv xml:lang="en"><seg>realize the three gnoses that take one far.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དུམ་བུ་ གསུམ་ རིམ་པ ར་ རྣམ་པར་ གཞག་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Hence, it is presented in its structure of three segments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཞན་ ཡང་ བཞི་ སྒྲིལ་ དུ་ བྱས་པ་ ནི་</seg></tuv>
+	<tuv xml:lang="en"><seg>$23 “Furthermore, it is made with four prongs.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་བ་ རྣམ་པ་ བཞི་ ཡོངས་སུ་ བཅད་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>For the purpose of severing the four types of birth ,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེན་པ་ བཞི་ རྗེས་སུ་ དྲན་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>recollecting the four truths ,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚད་ མེད་པ་ བཞི་ སྒོམ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>cultivating the four immeasurable states,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསམ་གཏན་ བཞི་ ལ་ འཇུག་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>entering the four meditative concentrations,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྙོམས་པ ར་ འཇུག་པ་ བཞི་ ཡོངས་སུ་ དག་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>purifying the four states of meditative attainment,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དྲན་པ་ ཉེ་བ ར་ གཞག་པ་ བཞི་ རབ་ཏུ་ བསྟན་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>revealing the four applications of mindfulness,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཡང་དག་པ འི་ སྤོང་བ་ བཞི་ བསྟན་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>teaching the four kinds of exertion,#20 and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྫུ་འཕྲུལ་ གྱི་ རྐང་པ་ བཞི་ ཐོབ་པ ར་ བྱ་བ འི་ ཕྱིར་ བཞི་ སྒྲིལ་ དུ་ རྣམ་པར་ གཞག་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>obtaining the four bases of supernatural power, it is made with four prongs.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དབུས་ ཀྱི་ ཤིང་ གཏོགས་པ ར་ རྣམ་པ་ ལྔ ར་ གཞག་པ་ ནི་ ལྟ་བ་ ལྔ་པོ་ དག་ སྤང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$24 “With the central wooden shaft included, it is shown to have five aspects. For the purpose of forsaking the five views,#21</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འགྲོ་བ་ ལྔ་པོ་ དག་ གི་ འཁོར་བ འི་ སྡུག་བསྔལ་ གྱི་ འཁྲུག་པ་ ཡོངས་སུ་ སྤོང་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>discarding the disturbances of the suffering of saṃsāra of the five states of existence,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དབང་པོ་ ལྔ་ སྒོམ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>cultivating the five faculties ,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོབས་ ལྔ་ དང་ ལྡན་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>possessing the five powers ,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྒྲིབ་པ་ ལྔ་པོ་ དག་ བསལ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>eliminating the five hindrances,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕུང་པོ་ ལྔ་པོ་ དག་ རྣམ་པར་ བཤིག་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>dismantling the five aggregates, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆ་ ལྔ་ དང་ ལྡན་པ འི་ ཆོས་ ཀྱི་ སྐུ་ ཐོབ་པ ར་ བྱ་བ འི་ ཕྱིར་ རྣམ་པ་ ལྔ ར་ གཞག་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>attaining the Dharma body having five parts, it is shown to have five aspects.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སིལ་ སྒྲིལ་ བཅུ་གཉིས་ སུ་ བསྟན་པ་ ནི་ རྟེན་ ཅིང་ འབྲེལ་ པར་ འབྱུང་བ་ ཡན་ལག་ བཅུ་གཉིས་ སུ་ དྲན་པ ར་ བྱ་ ཞིང་ ཐོགས་པ་ མེད་པར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$25 “It is taught that there are twelve rings so that one will recall the twelve links of dependent origination and will do so without being impeded,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྒོ་ བཅུ་གཉིས་པ འི་ བསམ་གཏན་ བསྒོམ་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>one will cultivate the meditative concentrations of the twelve doors, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ ལ་ སྐྱོན་མེད་ པར་ རྗེས་སུ་ དྲན་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>one will recollect with a flawless mind. [274.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིམ་པ་ གསུམ་ དང་ [274a] བཞི་ སྒྲིལ་ དུ་ བསྡུས་ ཏེ །_ གྲངས་ བདུན་ དུ་ བསྟན་པ་ ནི་</seg></tuv>
+	<tuv xml:lang="en"><seg>$26 “It is taught to have seven parts—the combination of the three levels and the four prongs—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ འི་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ བདུན་ གྱི་ ཆོས་རྗེས་ སུ་ དྲན་པ ར་ བྱ་བ་ དང་ །_ འཕགས་པ འི་ ནོར་ བདུན་ མངོན་པར་ བསྒྲུབ་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>so that one will recollect the Dharma of the seven branches of the awakening of the Tathāgata and accomplish the seven treasures of noble beings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མར་ རྩེ་ གཏོགས་པ ར་ བརྒྱད་ དུ་ བསྟན་པ་ ནི་ ལམ་ ཡན་ལག་ བརྒྱད་པ་ རྗེས་སུ་ བསྟན་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$27 “With the lower tip included, it is shown to have eight parts. It is for the purpose of teaching the eight branches of the path,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཐར་པ་ བརྒྱད་ ཐོབ་པ ར་ བྱ་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>attaining the eight kinds of liberation , and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ཁོམ་པ་ བརྒྱད་ ཡོངས་སུ་ བསལ་བ འི་ ཕྱིར་ རྣམ་པ་ བརྒྱད་ བསྟན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>dispelling the eight inopportune states that the eight parts are shown.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཁར་གསིལ་ གྱི་ དོན་ མདོ ར་ བསྟན་པ་ དེ་ལྟ་ བུ་ ཡིན་པ ས་</seg></tuv>
+	<tuv xml:lang="en"><seg>$28 “That is the brief meaning of the ringing staff.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁྱེད་ ཀྱིས་ ལེགས་པ ར་ ཡོངས་སུ་ གཟུང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, you should retain it well.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ལ་ འོད་སྲུང་ གིས་ གསོལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Kāśyapa promised the Blessed One,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ འཕགས་པ འི་ གསུང་རབ་ ལ་ ཇི་སྐད་ བསྟན་པ་ བཞིན་ དུ་ འཚལ་ ལོ་ ཞེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, it shall be done just as it has been taught in the noble statements.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ འོད་སྲུང་ ཆེན་པོ ས་ ཡང་ བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$29 Mahākāśyapa then inquired again of the Blessed One,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ དུས་གསུམ་ གྱི་ དེ་བཞིན་ གཤེགས་པ་ རྣམས་ ཀྱི་ ཆོས་ ཀུན་ མཚུངས་པ་ ཞིག་ ལགས་ སམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, are all the teachings of the tathāgatas of the three times the same?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁ་ཅིག་ འཁར་བ་ མཚུངས་ ཀྱང་ སྤྱོད་པ་ མི་ མཚུངས་པ ས་</seg></tuv>
+	<tuv xml:lang="en"><seg>$30 The Blessed One replied, “For some, the staff is the same but the usage is different.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁ་ཅིག་ གི་ ཚེ་ ན་ ནི་ བཞི་ སྒྲིལ་ དུ་ བྱས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>On account of that, during the time of some, it is made with four prongs, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཁ་ཅིག་ གི་ ཚེ་ ན་ ནི་ གཉིས་ སྒྲིལ་ དུ་ བྱས་པ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>during the time of others, it is made with two prongs.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སིལ་ སྒྲིལ་ གྱི་ གྲངས་ ལ་ ནི་ བྱེ་བྲག་ ཏུ་ གྱུར་པ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The number of rings does not vary.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ང་ ནི་ དེང་ འདིར་ བཞི་ སྒྲིལ་ སིལ་ སྒྲིལ་ བཅུ་གཉིས་ སུ་ བྱས་པ འི་ བསྟན་པ་ དེ་ སྤྱོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>As for me, I have taught that it should be made with four prongs and twelve rings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཉིས་ སྒྲིལ་ དུ་ བྱས་པ་ ནི་ དེ་བཞིན་ གཤེགས་པ་ འོད་སྲུང་ གིས་ རྣམ་པར་ གཞག་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$31 “The two-prong design was established by the Tathāgata Kāśyapa.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ རྣམས་ བདེན་པ་ གཉིས་པོ་ ཀུན་རྫོབ་ ཀྱི་ བདེན་པ་ དང་ །_ དོན་དམ་པ འི་ བདེན་པ་ རྗེས་སུ་ དྲན་པ ར་ བྱ་བ འི་ ཆེད་ དུ་ དོན་ འདི་ རྣམ་པར་ གཞག་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>This meaning was established for the sake of sentient beings recollecting the two truths : conventional truth and ultimate truth .”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཚེ་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$32 At that time, after the Blessed One had spoken these words,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ དང་ ལྡན་པ་ འོད་སྲུང་ ཆེན་པོ་ འཁོར་ སྟོང་ ཉིས་ བརྒྱ་ དང་ །_ འཁོར་ འདུས་པ་ ཆེན་པོ་ རྣམས་ ཤིན་ཏུ་ དགའ་ ཞིང་ གུས་པ ས་ མངོན་པར་ བསྟོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Mahākāśyapa, the entourage of 1,200 followers, and the large congregation were delighted and gave praise respectfully.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ འཁར་གསིལ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$33 This concludes The Noble Mahāyāna Sūtra on the Ringing Staff.</seg></tuv>
+</tu>
+</body>
+</tmx>

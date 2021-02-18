@@ -1,0 +1,1013 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ འཇམ་དཔལ་ གནས་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra The Dwelling Place of Mañjuśrī</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [266.b] Homage to all buddhas and bodhisattvas!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ རྒྱལ་པོ འི་ ཁབ་ ན་ བྱ་རྒོད་ ཀྱི་ ཕུང་པོ འི་ རི་ ལ་ དགེ་སློང་ ལྔ་ བརྒྱ་ ཙམ་ གྱི་ དགེ་སློང་ གི་ དགེ་འདུན་ ཆེན་པོ་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔ འི་ དགེ་འདུན་ ཆེན་པོ་ དང་ ཡང་ ཐབས་ཅིག་ ཏུ་ བཞུགས་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>The Bhagavān was staying at Rājagṛha, on Gṛdhrakūṭa Mountain, together with a large community of a full five hundred monks and a great congregation of bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཕྱེམ་རེད་ ཀྱི་ དུས་ ཀྱི་ ཚེ་ ནང་ དུ་ ཡང་དག་ འཇོག་ ལས་ བཞེངས་ ནས་ འཁོར་ མང་པོ ས་ ཡོངས་སུ་ བསྐོར་ ཅིང་ མདུན་ གྱིས་ བལྟས་ ནས་ ཆོས་སྟོན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>At that time, the Bhagavān, after emerging in the late afternoon from secluded meditation,#27 surrounded and honored by a great assembly, taught the Dharma.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ འཆག་ ཅིང་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ ཐམས་ཅད་ ཀྱི་ གནས་ཁང་ ནས་ གནས་ཁང་ དུ་ བྱུང་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Subsequently, the youthful Mañjuśrī was walking about, going from residence to residence among all five hundred monks.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གནས་བརྟན་ ཤཱ་རི འི་ བུ འི་ གནས་ཁང་ ག་ལ་བ་ དེར་ སོང་ སྟེ་ ཕྱིན་ ནས །_ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ ས་ གནས་བརྟན་ ཤཱ་རི འི་ བུ་ གཅིག་པུ་ དབེན་པ ར་ འདུག་ སྟེ་ ནང་ དུ་ ཡང་དག་ བཞག་ ནས་ བསམ་གཏན་ བྱེད་པ ར་ མཐོང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When he went to the residence where the elder Śāriputra lived, Mañjuśrī saw him sitting alone in solitude, practicing concentration while in meditative seclusion.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཐོང་ ནས་ ཀྱང་ གནས་བརྟན་ ཤཱ་རི འི་ བུ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 When he saw him, he said the following words to the elder Śāriputra:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ བསམ་གཏན་ བྱེད་ དམ །_ སྨྲས་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Honorable Śāriputra, are you practicing concentration?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ དེ་བཞིན་ ནོ །_། འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Yes,” replied Śāriputra, “it is so, Mañjuśrī.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ ཉོན་མོངས་པ་ སྤངས་པ་ རྣམས་ སྤང་བ འི་ ཕྱིར་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 “Honorable Śāriputra,” said Mañjuśrī, “are you concentrating in order to abandon afflictions that have already been abandoned?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ མ་ སྤངས་པ་ རྣམས་ སྤང་བ འི་ ཕྱིར་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating in order to abandon those that have not yet been abandoned?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ འདས་པ་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 “Honorable Śāriputra, are you concentrating while dwelling on the past?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ མ་འོངས་པ་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Are you concentrating while dwelling on the future?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ ད་ལྟ ར་ བྱུང་བ་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the present?#28</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ གཟུགས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, are you concentrating while dwelling on bodily form?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ ཚོར་བ་ དང་ །_ འདུ་ཤེས་ དང་ །_ འདུ་བྱེད་ རྣམས་ དང་ །_ རྣམ་པར་ ཤེས་པ་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Are you concentrating while dwelling on feelings, perceptions, volitional formations, or consciousness?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ མིག་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, are you concentrating while dwelling on the eye?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ རྣ་བ་ དང་ །_ སྣ་ དང་ །_ ལྕེ་ དང་ །_ ལུས་ དང་ །_ ཡིད་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the nose, ear, tongue, body, or mind?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ [267a] བུ་ ཁྱོད་ གཟུགས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, [267.a] are you concentrating while dwelling on visible form?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ སྒྲ་ དང་ །_ དྲི་ དང་ །_ རོ་ དང་ །_ རེག་བྱ་ དང་ །_ ཆོས་ རྣམས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on sound, smell, taste, touch, or other phenomena?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ འདོད་པ འི་ ཁམས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 “Honorable Śāriputra, are you concentrating while dwelling on the desire realm?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ གཟུགས་ ཀྱི་ ཁམས་ དང་ །_ གཟུགས་ མེད་པ འི་ ཁམས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the form realm or the formless realm?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ ནང་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 “Honorable Śāriputra, are you concentrating while dwelling on the internal?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ ཕྱི་རོལ་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the external?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ ཕྱི་ ནང་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the internal and external?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཅི་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ ཁྱོད་ ལུས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད་ དམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, are you concentrating while dwelling on the body?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཏེ་ སེམས་ ལ་ གནས་ ཏེ་ བསམ་གཏན་ བྱེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Or are you concentrating while dwelling on the mind?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ འདི་ལྟར་ ཚེ་ འདི་ ལ་ བདེ་བ ར་ གནས་པ ར་ བྱ་བ་ དང་ །_ བརྗེད་པ་ མེད་པར་ གནས་པ ར་ བྱ་བ འི་ ཕྱིར་ ཏེ་ དེ་ལྟ་ བུ འི་ ཕྱིར་ བསམ་གཏན་ བྱེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 “Mañjuśrī,” replied Śāriputra, “I am practicing concentration in order to dwell in bliss for this life and to dwell in nonforgetfulness.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ཆོས་ གང་དག་ ཚེ་ འདི་ ལ་ བདེ་བ ར་ གནས་པ འམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 Mañjuśrī then asked, “Honorable Śāriputra, do you apprehend any dharmas that dwell in bliss in this life, or</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ འདི་ མ་ཡིན་པ་ ལ་ བདེ་བ ར་ གནས་པ འམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>that dwell in bliss in what is not this life, or</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བརྗེད་པ་ མེད་པ འི་ ཆོས་ དེ་དག་ དམིགས་ སམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>that are without forgetfulness?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ བདག་ གིས་ ཆོས་ གང་དག་ ཚེ་ འདི་ ལ་ བདེ་བ ར་ གནས་པ འམ །_ ཚེ་ འདི་ མ་ཡིན་པ་ ལ་ བདེ་བ ར་ གནས་པ འི་ ཆོས་ དེ་དག་ ཡང་དག་ པར་ རྗེས་སུ་ མི་ མཐོང་ ཞིང་ མི་ དམིགས་ མོད་ ཀྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Mañjuśrī,” Śāriputra replied, “I truly do not observe or apprehend any dharmas that dwell in bliss in this life or that dwell in bliss in what is not this life.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཀྱང་ འཇམ་དཔལ་ དེ་བཞིན་ གཤེགས་པ ས་ ཉན་ཐོས་ རྣམས་ ལ་ རབ་ཏུ་ དབེན་པ འི་ ཆོས་ སུ་ གསུངས་པ་ གང་ཡིན་པ་ དེ་ ལ་ བདག་ རྟེན་ ཅིང་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>However, Mañjuśrī, I rely and dwell on what the Tathāgata taught to śrāvakas as the doctrine of disengagement.”#29</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་དེ་ བཞིན་ གཤེགས་པ ས་ ཉན་ཐོས་ རྣམས་ ལ་ རབ་ཏུ་ དབེན་པ འི་ ཆོས་ སུ་ གསུངས་པ་ གང་ཡིན །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ ལ་ རྟེན་ ཅིང་ གནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 Mañjuśrī then asked, “Honorable Śāriputra, what is it that the Tathāgata taught to śrāvakas as the doctrine of disengagement and that you, honorable Śāriputra, rely and dwell on?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ འདི་ ལ་ དགེ་སློང་ ནི་ འདས་པ་ ལ་ རྟེན་ ཅིང་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Śāriputra replied, “In this regard, Mañjuśrī, a monk relies and dwells on the past,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་འོངས་པ་ ལ་ རྟེན་ ཅིང་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>relies and dwells on the future, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ད་ལྟ ར་ བྱུང་བ་ ལ་ རྟེན་ ཅིང་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>relies and dwells on the present.#30</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ དུ་ སྦྱར་ ཏེ །_ སེམས་ ཀྱི་ བར་ ལ་ རྟེན་ ཅིང་ གནས་པ ར་ ཁོང་ དུ་ ཆུད་པ ར་ བྱ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>In brief, as mentioned before, one should understand that he relies and dwells as mentioned before all the way up to the mind.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ ཆོས་ དེ་དག་ ནི་ དེ་བཞིན་ གཤེགས་པ ས་ ཉན་ཐོས་ རྣམས་ ལ་ རབ་ཏུ་ དབེན་པ ར་ གསུངས་པ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī, the Tathāgata taught these śrāvakas that these dharmas are disengaged, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ [267b] ཆོས་ དེ་དག་ ལ་ རྟེན་ ཅིང་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>I [267.b] rely and dwell on these dharmas.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ གི་ ཕྱིར་ འདི་སྐད་ ཅེས་ འདས་པ་ ལ་ རྟེན་ ཅིང་ གནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 Mañjuśrī then asked, “Honorable Śāriputra, why do you say, ‘I rely and dwell on the past,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་འོངས་པ་ ལ་ རྟེན་ ཅིང་ གནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>rely and dwell on the future,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ད་ལྟ ར་ བྱུང་བ་ ལ་ རྟེན་ ཅིང་ རབ་ཏུ་ དབེན་པ་ ལ་ གནས་པ་ ནས་ དེ་བཞིན་ དུ་ སྦྱར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>rely on the present, dwell in disengagement, and,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ ཀྱི་ བར་ ལ་ རྟེན་ ཅིང་ རབ་ཏུ་ དབེན་པ་ ལ་ གནས་ ཞེས་ སྨྲ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>in brief, rely on and dwell in disengagement as mentioned before all the way up to the mind’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ ཤཱ་རི འི་ བུ་ འདི་ལྟ་སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>It is like this, honorable Śāriputra:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འདས་པ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ ཡོད་པ་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>a true nature#31 of the past does not exist.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ མ་འོངས་པ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ ཡོད་པ་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>A true nature of the future does not exist.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ད་ལྟ ར་ བྱུང་བ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ ཡོད་པ་ མ་ ཡིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>A true nature of the present does not exist.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ལྟ ར་ ཆོས་ དེ་དག་ ནི་ ཡོད་པ་ མ་ ཡིན་ ན །_ ཇི་ལྟ ར་ གནས་བརྟན་ ཤཱ་རི འི་ བུ་ དེ་ འདི་སྐད་ ཅེས་ འདས་པ་ ལ་ རྟེན་ ཅིང་ གནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>In this way, if these dharmas do not exist, then how can the elder Śāriputra say, ‘I rely and dwell on the past,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་འོངས་པ་ ལ་ རྟེན་ ཅིང་ གནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>rely and dwell on the future,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ད་ལྟ ར་ བྱུང་བ་ ལ་ རྟེན་ ཅིང་ གནས་ ཞེས་ སྨྲ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>and rely and dwell on the present’?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོད་པ་ མ་ཡིན་པ འི་ ཆོས་ ལ་ ནི་ གནས་པ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Dharmas that do not exist have no basis.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ འདས་པ འི་ དེ་བཞིན་ཉིད་ དང་ །_ མ་འོངས་པ་ དང་ །_ ད་ལྟ ར་ བྱུང་བ འི་ དེ་བཞིན་ཉིད་ གང་ཡིན་པ་ དེ་ ནི་ ཅི་ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$12 “Further, honorable Śāriputra, there is nothing that is a true nature#32 of the past and a true nature of the future and the present.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ ཀྱང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Nor are phenomena caused by anything.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གི་ ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Nor do they belong to anything.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ལ་ ཡང་ མི་ གནས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are not based anywhere.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ མི་ གནས་པ་ དེ འི་ གནས་ དམིགས་ སུ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>There is nothing apprehended as a basis of what is not based anywhere.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ འདས་པ་ དང་ །_ མ་འོངས་པ་ དང་ །_ ད་ལྟ ར་ བྱུང་བ འི་ དེ་བཞིན་ཉིད་ ཅེས་ བརྗོད་ ཅིང་ ཀུན་ ཏུ་ གནས་ ནས་ སྨྲ་བ་ དེ་དག་ ནི་ དེ་བཞིན་ གཤེགས་པ་ ལ་ སྐུར་བ་ འདེབས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$13 “Further, honorable Śāriputra, those who speak of a ‘true nature#33 of the past, the future, and the present’ and who thus propound stability deprecate the Tathāgata.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དེ་བཞིན་ཉིད་ ནི་ གཡོ་བ་ མེད་པ་ རློམ་སེམས་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is because a true nature is immovable and without vain imaginings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དེ་བཞིན་ཉིད་ ནི་ ཉམས་པ་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is because a true nature is uncorrupted.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དེ་བཞིན་ཉིད་ ནི་ སྟོང་པ འོ །_། མཚན་མ་ མེད་པ འོ །_། སྨོན་པ་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is because true nature is#34 empty, without signs, and wishless.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ འདས་པ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ དམིགས་ སུ་ མེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$14 “Further, honorable Śāriputra, a true nature of the past cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ མ་འོངས་པ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ དམིགས་ སུ་ མེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>A true nature of the future cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ད་ལྟ ར་ བྱུང་བ འི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ དམིགས་ སུ་ མེད་པ་ ནས་ དེ་བཞིན་ དུ་ སྦྱར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>A true nature of the present cannot be apprehended. And,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ ཀྱི་ བར་ གྱི་ དེ་བཞིན་ཉིད་ དེ་ཡང་ དམིགས་ སུ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>in brief, the true nature of everything up to mind cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འོན་ཀྱང་ བཙུན་པ་ ཤཱ་རི འི་ བུ་ དེ་བཞིན་ཉིད་ མ་གཏོགས་ པར་ གང་ བསྟན་པ འམ །_ རབ་ཏུ་ བཤད་པ ར་ ནུས་པ འི་ ཆོས་ གཞན་ གང་ཡང་ མི་ དམིགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>However, honorable Śāriputra, besides the true nature, one does not apprehend any other dharma capable of being shown or explained.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་ [268a] པ །_ འཇམ་དཔལ་ དེ་བཞིན་ གཤེགས་པ་ དེ་བཞིན་ཉིད་ ལ་ བཞུགས་ ནས་ ཆོས་སྟོན་ ཏམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$15 Śāriputra then asked, [268.a] “Mañjuśrī, does the Tathāgata teach the Dharma while residing in the true nature?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ དེ་བཞིན་ཉིད་ ཡོད་པ་ མ་ ཡིན་ ན །_ ཇི་ལྟ ར་ དེ་བཞིན་ གཤེགས་པ་ དེ་བཞིན་ཉིད་ ལ་ བཞུགས་ ཏེ་ ཆོས་སྟོན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Honorable Śāriputra,” Mañjuśrī replied, “if a true nature does not exist, then how can the Tathāgata reside in the true nature and teach the Dharma?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ ཤཱ་རི འི་ བུ་ཆོས་ ཀྱང་ ཡོད་པ་ མ་ ཡིན་ ན །_ ཇི་ལྟ ར་ དེ་བཞིན་ གཤེགས་པ་ དེ་བཞིན་ཉིད་ ལ་ བཞུགས་ ཏེ་ ཆོས་སྟོན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, if the Dharma also does not exist, then how can the Tathāgata reside in the true nature and teach the Dharma?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ་ ཡང་ ཡོད་པ་ མ་ ཡིན་ ན །_ ཇི་ལྟ ར་ དེ་བཞིན་ གཤེགས་པ་ དེ་བཞིན་ཉིད་ ལ་ བཞུགས་ ཏེ་ ཆོས་སྟོན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>If the Tathāgata also does not exist, then how can the Tathāgata reside in the true nature and teach the Dharma?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཐམས་ཅད་ ཀྱང་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད །_</seg></tuv>
+	<tuv xml:lang="en"><seg>All dharmas do not exist and cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ་ ཡང་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Tathāgata also does not exist and cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཆོས་ བསྟན་པ་ ན་ འདི་འདྲ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>When his Dharma is taught, it is like this:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ལ་ དམིགས་པ འམ་ མི་ དམིགས་པ་ གཉིས་ ཀྱིས་ རབ་ཏུ་ ཕྱེ་བ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>it is without distinction between either apprehending or not apprehending.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ་ ནི་ བརྗོད་པ འམ་ མི་ བརྗོད་པ ས་ རབ་ཏུ་ ཕྱེ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Tathāgata himself is not distinguished by the expressible or the inexpressible.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ ཤཱ་རི འི་ བུ་ འདི་ལྟར་ དེ་བཞིན་ གཤེགས་པ་ ནི་ བརྗོད་པ་ ཡང་དག་ པར་ ཆད་པ །_ བཏགས་པ་ མེད་པ །_ གདགས་པ ར་ བྱ་བ་ མ་ཡིན་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because, honorable Śāriputra, the Tathāgata is completely cut off from expression, involves no designation, and is not something that can be designated.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ སུ་ཞིག་ ཆོས་ བསྟན་པ་ འདི་ ལྟ་བུ་ འདི འི་ སྣོད་ དུ་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$16 Śāriputra then asked, “Mañjuśrī, who will become a recipient for a Dharma teaching such as this?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ འདུས་བྱས་ ཀྱི་ ཁམས་ རྣམ་པར་ འཁྲུགས་པ ར་ མི་ འགྱུར་ ཞིང་ ཡོངས་སུ་ མྱ་ངན་ ལས་ འདའ་བ ར་ འདོད་པ ར་ ཡང་ མི་འགྱུར་བ་ དེ་ ནི་ ཆོས་ བསྟན་པ་ འདི་ ལྟ་བུ་ འདི འི་ སྣོད་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī said, “Honorable Śāriputra, one who is not disturbed in the conditioned realm and who does not desire complete nirvāṇa will be a recipient for a Dharma teaching like this.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འདས་པ འི་ ཆོས་ རྣམས་ མི་ དམིགས་ ཤིང་ འདས་པ འི་ ཆོས་ རྣམས་ ཀུན་ཤེས་ པར་ མི་འགྱུར་བ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>One who does not apprehend dharmas of the past, does not comprehend dharmas of the past,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འདས་པ་ དང་ །_ མ་འོངས་པ་ དང་ །_ ད་ལྟ ར་ བྱུང་བ འི་ ཆོས་ རྣམས་ མི་ དམིགས་ ཤིང་</seg></tuv>
+	<tuv xml:lang="en"><seg>does not apprehend dharmas of the past, present, or future, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདས་པ་ དང་ །_ མ་འོངས་པ་ དང་ །_ ད་ལྟ ར་ བྱུང་བ འི་ ཆོས་ རྣམས་ ཀུན་ཤེས་ པར་ མི་འགྱུར་བ་ དེ་ ཆོས་ བསྟན་པ་ འདི་ ལྟ་བུ་ འདི འི་ སྣོད་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>does not comprehend dharmas of the past, present, or future will be a recipient for a Dharma teaching such as this.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ཀུན་ ནས་ ཉོན་མོངས་པ་ དང་ །_ རྣམ་པར་ བྱང་བ་ མི་ མཐོང་ ཞིང་ དེ་ ཉེ་བ ར་ ལེན་པ ར་ ཡང་ མི་འགྱུར་བ་ དེ་ ཆོས་ བསྟན་པ་ འདི་ ལྟ་བུ་ འདི འི་ སྣོད་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>One who neither sees nor appropriates defilements and purifications will be a recipient for a Dharma teaching such as this.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ བདག་ དང་ བདག་མེད་ པར་ ཡང་ སྤྱོད་པ ར་ མི་འགྱུར་བ་ དང་ །_ གང་ ལེན་པ་ དང་ །_ འདོར་བ ར་ ཡང་ སྤྱོད་པ ར་ ཡང་ མི་འགྱུར་བ་ དེ་ ཆོས་ [268b] བསྟན་པ་ འདི་ ལྟ་བུ་ འདི འི་ སྣོད་ དུ་ འགྱུར་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>One who does not pursue either self or nonself and who does not pursue acquiring and relinquishing is a recipient for a [268.b] Dharma teaching such as this.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ བཤད་པ་ འདི འི་ དོན་ ཀུན་ཤེས་ པར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That one will comprehend the meaning of this exposition.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ འདི་ ལ་ ཅི་ཞིག་ ཀུན་ཤེས་ པར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$17 “Mañjuśrī, in this regard, what is comprehended?” asked Śāriputra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ བཤད་པ་ འདི འི་ དོན་ ཤེས་པ ར་ འགྱུར་བ་ ཅི་ཞིག་ ཡོད་ ན །_ འདི་ ལ་ ཅི་ཞིག་ ཀུན་ཤེས་ པར་ འགྱུར་ ཞེས་ དེ་སྐད་ འདྲི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī then asked, “Honorable Śāriputra, if there were to be something that constitutes the meaning of this exposition, then ask, ‘In this regard, what is comprehended?’ ”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ འཇམ་དཔལ་ ཆོས་ ཟབ་མོ་ བསྟན་པ་ འདི་ མངོན་སུམ་ དུ་ འགྱུར་བ་ ཉུང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$18 “Mañjuśrī, this profound Dharma teaching is rarely directly perceived,” said Śāriputra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ ནི་ ཡོངས་སུ་ འཛིན་པ ར་ འགྱུར་བ་ ཉུང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“It is rarely fully apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!འཇམ་དཔལ་ དགྲ་བཅོམ་པ་ དང་ །_ སློབ་པ་ དང་ །_ མི་སློབ་པ་ རྣམས་ ཀྱང་ ས་ཕྱོགས་ འདི་ ལ་ སྒྱིད་ལུག་ པར་ འགྱུར་ ན་ བྱིས་པ་ སོ་སོ འི་ སྐྱེ་བོ་ རྣམས་ ལྟ་ཅི་ སྨོས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī, if even arhats, those in training, and those beyond training#35 grow discouraged regarding this location, how much more so are childish ordinary beings.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ དགྲ་བཅོམ་པ་ རྣམས་ ལ་ ནི་ ས་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Honorable Śāriputra,” said Mañjuśrī, “arhats do not have a dwelling place.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དགྲ་བཅོམ་པ་ ཡང་ མེད་ ན་ ས་ གང་ ལ་ དགྲ་བཅོམ་པ་ གནས་པ ར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because if even arhats do not exist, in what place would an arhat dwell?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པ་ དག་ ནི་ གནས་ མེད་པ ས་ རབ་ཏུ་ ཕྱེ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Arhats are thus distinguished by being without dwelling place.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པ་ དག་ ནི་ དམིགས་ སུ་ མེད་པ ས་ རབ་ཏུ་ ཕྱེ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Arhats are distinguished by being without apprehension.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པ་ དག་ ནི་ བརྗོད་པ་ དང་ །_ མི་ བརྗོད་པ་ ཤིན་ཏུ་ ཆད་པ ས་ རབ་ཏུ་ ཕྱེ་བ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Arhats are distinguished by having fully cut off the expressible and inexpressible.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དགྲ་བཅོམ་པ་ དག་ ནི་ བརྗོད་པ་ དང་ །_ མི་ བརྗོད་པ་ ཡང་དག་ པར་ ཆད་པ་ སྟེ་ བཏགས་པ་ མེད་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because as arhats have fully cut off the expressible and inexpressible, they are free from designation.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པ་ དག་ ནི་ ས ར་ དབྱེ་བ་ དག་ དང་ བྲལ་བ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Arhats are free from distinctions concerning places.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་མ་བྱས་ ཀྱིས་ རབ་ཏུ་ ཕྱེ་བ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$19 “They are distinguished by the unconditioned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇུག་པ་ མེད་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are without engagement.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདུས་མ་བྱས་ ཀྱིས་ རབ་ཏུ་ ཕྱེ་བ་ སྟེ །_ དགྲ་བཅོམ་པ་ དག་ ནི་ འདུས་མ་བྱས་པ་ གནས་པ་ མེད་པ་ ཡིན་ ན་ ཅི་ཞིག་ དགྲ་བཅོམ་པ་ དག་ གི་ ས ར་ འགྱུར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are distinguished by the unconditioned because if arhats are unconditioned and without dwelling place, what would be the dwelling place of arhats?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགྲ་བཅོམ་པ་ དག་ ནི་ མིང་ དང་ གཟུགས་ ཀྱིས་ རབ་ཏུ་ ཕྱེ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Arhats are not distinguished by name and form.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱིས་པ་ སོ་སོ འི་ སྐྱེ་བོ་ རྣམས་ ནི་ མིང་ དང་ གཟུགས་ ལ་ རྣམ་པར་ རྟོག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Childish ordinary beings conceptualize name and form.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མིང་ དང་ གཟུགས་ དེ་ཡང་ རྟོག་པ་ མེད་ ཅིང་ རྣམ་པར་ རྟོག་པ་ མེད་པར་ དགྲ་བཅོམ་པ་ རྣམས་ ཀྱིས་ ཤེས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Name and form are understood by arhats to be without conceptions and without conceptualizing.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཕྱིར་ དགྲ་བཅོམ་པ་ དག་ ནི་ མིང་ དང་ གཟུགས་ ཀྱིས་ རབ་ཏུ་ ཕྱེ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, arhats are not distinguished by name and form.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱིས་པ་ རྣམས་ ཀྱང་ མི་ དམིགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Even childish beings are not apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱིས་པ འི་ ཆོས་ དང་ །_ དགྲ་བཅོམ་པ་ དང་ །_ དགྲ་བཅོམ་པ འི་ ཆོས་ རྣམས་ ཀྱང་ མི་ དམིགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The qualities of childish beings, arhats, and arhat qualities are also not apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་ མི་ དམིགས་པ་ དེ འི་ ཚེ་ ན་ མི་ རྟོག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>At the time they are not apprehended, they are not conceived.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་ ཏུ་ མི་ སྤྱོད་ [269a] དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are not dealt with. [269.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ སྤྱོད་པ་ མེད །_ སྤྲོས་པ་ མེད་ ཅིང་ ཉེ་བ ར་ ཞི་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Without being dealt with, they are unelaborated and peaceful.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོད་ དོ་ ཞེས་ ཁ ས་ མི་ ལེན །_ མེད་ དོ་ ཞེས་ ཁ ས་ མི་ ལེན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$20 “One does not accept their ‘existence,’ nor does one accept their ‘nonexistence.’</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡོད་ ཀྱང་ ཡོད་ ལ་ མེད་ ཀྱང་ མེད་ དོ་ ཞེས་ ཁ ས་ མི་ ལེན །_ ཡོད་པ་ ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>One also does not accept that they are both existent while existing and nonexistent while not existing.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མེད་པ་ ཡང་ མ་ ཡིན་ ཞེས་ དེ་སྐད་ ཀྱང་ ཁ ས་ མི་ ལེན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Nor does one accept that they are neither existent nor nonexistent.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ནམ་ ཁ ས་ མི་ ལེན་པ་ དེ་ ན་ དམིགས་པ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When one does not accept any of these, there is no apprehension.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ དམིགས་པ་ ཐམས་ཅད་ དང་ བྲལ་བ ས་ སེམས་ མེད་ ཅིང་ སེམས་ དང་ བྲལ་ ཏེ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Being free from all apprehensions—without thought and free from thought—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གནས་ མེད་པ འི་ ཚུལ་ གྱིས་ དགེ་སྦྱོང་ གི་ ཆོས་ ལ་ གནས་པ་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>we speak of one who dwells in the quality of spiritual practice#36 by way of being without dwelling place.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ ས་ བསྟན་པ་ འདི་ བཤད་པ་ ན་ འཁོར་ དེ འི་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ སྟན་ ལས་ ལངས་ ནས་ འདི་སྐད་ ཅེས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ མི་ བལྟ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$21 Once#37 this teaching had been explained by the youthful Mañjuśrī, the five hundred monks of the retinue got up from their seats saying, “We do not see the youthful Mañjuśrī.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ མི་ མཉན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>We do not hear the youthful Mañjuśrī.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ཕྱོགས་ གང་ ན་ གནས་པ འི་ ཕྱོགས་ དེ་ཡང་ སྤང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Any location where the youthful Mañjuśrī could dwell should be abandoned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ནི་ སྟོན་པ་ མངོན་སུམ་ དུ་ གྱུར་ བཞིན་ དུ་ ཀུན་ ནས་ ཉོན་མོངས་པ་ དང་ །_ རྣམ་པར་ བྱང་བ་ མཚན་ཉིད་ གཅིག་ ཏུ་ སྟོན་པ ས་ ཆོས་མ་ ཡིན་པ་ སྨྲ འོ་ ཞེས་ བརྗོད་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>The youthful Mañjuśrī has shown in a blatant manner that the defilements and purifications have a single characteristic.” They thought that he had thereby said something that was not Dharma, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ཡང་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །_ བདག་ཅག་ ཇི་ལྟ ར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ལེགས་པ ར་ གསུངས་པ འི་ ཆོས་ འདུལ་བ་ ལ་ ཚངས་པ ར་ སྤྱོད་པ་ སྤྱད་ སྙམ་ ནས་ དོང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>thinking, “How can we thus train in the doctrine that is well spoken by the Bhagavān and practice pure moral conduct?” they departed.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ གནས་བརྟན་ ཤཱ་རི འི་ བུས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$22 The elder Śāriputra then asked the youthful Mañjuśrī,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ ཁྱོད་ འདི་ལྟར་ སེམས་ཅན་ རྣམས་ ཀྱིས་ ཆོས་ ཀུན་ཤེས་ པར་ འགྱུར་བ ར་ བྱ་བ འི་ ཕྱིར་ ཆོས་ མི་ སྟོན་ ཏམ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Mañjuśrī, do you not teach the Dharma so that sentient beings may comprehend the Dharma?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ དེ་བཞིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī replied, “Yes, Honorable Śāriputra.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུས་ སྨྲས་པ །_ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ སྟན་ ལས་ ལངས་ ཏེ་ འཕྱ་སྨོད །_ མི་ སྙན་པ ར་ ཟེར་ ཞིང་ དོང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$23 Śāriputra said, “Having arisen from their seats, those five hundred monks have spoken disparagingly and unpleasantly, and they have departed.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ གི་ ཕྱིར་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ འདི་སྐད་ ཅེས །_ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ མི་ བལྟ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Honorable Śāriputra, [it is good,]” said Mañjuśrī, “[it is good] that those five hundred monks said, ‘We do not see the youthful Mañjuśrī.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ མི་ མཉན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>We do not hear the youthful Mañjuśrī.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ གང་ ན་ གནས་པ འི་ ས་ཕྱོགས་ དེ་ཡང་ སྤང་བ ར་ བྱ འོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>Any location where youthful Mañjuśrī could dwell should be abandoned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ ཟེར་བ་ དེ་ ནི་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>[“Honorable Śāriputra,] it is good,” [said Mañjuśrī,] “it is good</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ དགེ་ [269b] སློང་ དེ་དག་ གི་ ཚིག་ དེ་ ནི་ ལེགས་པ ར་ སྨྲས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Śāriputra, [269.b] the words of these monks are well spoken.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ནི་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because the youthful Mañjuśrī does not exist and cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་པ་ དེ་ ལ་ བལྟ་བ་ དང་ མཉན་པ ར་ མི་ ནུས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That which does not exist and cannot be apprehended cannot be seen and cannot be heard.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ཕྱོགས་ གང་ ན་ གནས་པ འི་ ཕྱོགས་ དེ་ཡང་ སྤང་བ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Any location where the youthful Mañjuśrī could dwell should be abandoned.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་པ ས་ གང་དེ འི་ གནས་ ཀྱང་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because, since the youthful Mañjuśrī does not exist and cannot be apprehended, any place he could dwell also does not exist and cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་པ་ དེ་ ནི་ བསྟེན་པ ར་ བྱ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>And one should not try to rely on what does not exist and cannot be apprehended.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ ས་ བསྟན་པ་ འདི་ ཐོས་པ་ དང་ །_ སླར་ ས་ཕྱོགས་ དེར་ ལོག་ ནས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$24 When those five hundred monks had heard this teaching by the youthful Mañjuśrī, they again returned to their places and said the following words to the youthful Mañjuśrī:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ བདག་ཅག་ ནི་ ཇི་ལྟ ར་ ཁྱོད་ ཀྱིས་ བསྟན་པ་ དེ་ལྟ ར་ མི་ ཤེས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Mañjuśrī, why do we not understand what you just taught?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ དགེ་སློང་ དག་ ལེགས་ སོ་ ལེགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Mañjuśrī replied, “This is good, monks, this is good.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ལྟ་ བུ་ ནི་ སྟོན་པ འི་ ཉན་ཐོས་ རྣམས་ ཀྱི་ བྱ་བ་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Such are the activities of the Teacher’s hearers.#38</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ འདི་ ལ་ ནི་ ཀུན་ཤེས་ པར་ བྱ་བ་ མེད །_ རྣམ་པར་ ཤེས་པ ར་ བྱ་བ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>In this regard, monks, there is nothing to comprehend and there is nothing to cognize.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?#39</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ ཆོས་ ཀྱི་ དབྱིངས་ འདི་ ནི་ གནས་ མེད་པ འི་ ཚུལ་ གྱིས་ གནས་པ་ ཉིད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Because this realm of reality is the very state of dwelling in the manner of being without dwelling place.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ དབྱིངས་ གང་ཡིན་པ་ དེ་ དབྱིངས་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That which is the realm of reality is not a realm.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཡོད་པ་ མ་ ཡིན་ ཏེ་ དམིགས་ སུ་ མེད་ ཅིང་ གཡོ་བ་ མེད་ ལ་ འཆི་ འཕོ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That which does not exist and cannot be apprehended is also immovable and without death and rebirth.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གཡོ་བ་ མེད་ ཅིང་ འཆི་ འཕོ་ མེད་པ་ དེ་ ཀུན་ཤེས་ པར་ བྱ་བ་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>That which is immovable and without death and rebirth is not something comprehensible.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྣམ་པར་ ཤེས་པ ར་ བྱ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is not something cognizable.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ཀུན་ཤེས་ པར་ བྱ་བ་ དང་ །_ རྣམ་པར་ ཤེས་པ ར་ བྱ་བ འི་ རློམ་སེམས་ མེད་པ་ དེ་ ནི་ སྟོན་པ འི་ ཉན་ཐོས་ ཞེས་ བྱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who are without the vain imaginings of comprehension and cognition are called hearers of the Teacher.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཆོག་ཐོབ་པ་ ཞེས་ བྱ །_ གཙོ་བོ་ ཞེས་ བྱ །_ སྦྱིན་གནས་ ཞེས་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are called those who have attained the supreme, leaders, and those worthy of offerings.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྟན་པ་ འདི་ བཤད་པ་ ན་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ ལས་ དགེ་སློང་ བཞི་ བརྒྱ་ ནི་ ལེན་པ་ མེད་པར་ ཟག་པ་ རྣམས་ ལས་ སེམས་ རྣམ་པར་ གྲོལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$25 Upon explaining this teaching, among the five hundred monks the minds of four hundred monks were liberated from the pollutions without any further clinging.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ བརྒྱ་ ནི་ སེམས་ ཆེ ར་ འཁྲུགས་ ནས་ ལུས་ དེ་ཉིད་ དང་སེམས་ ཅན་ དམྱལ་བ་ ཆེན་པོ་ ངུ་འབོད་ དུ་ ལྷུང་ ངོ་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The minds of one hundred monks grew increasingly disturbed, and their bodily existences and mental states were plunged into the great hell of Howling.#40</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི འི་ བུས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$26 Venerable Śāriputra then said to the youthful Mañjuśrī,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་ [270a] དཔལ་ ཁྱོད་ སེམས་ཅན་ རྗེས་སུ་ བསྲུང་བ འི་ ཆོས་ མི་ སྟོན་པ ས་ དགེ་སློང་ བརྒྱ་པོ་ དེ་དག་ ཆུད་ ཟོས་ ཏེ་ ངོ་མཚར་ བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Mañjuśrī, [270.a] I am shocked that one hundred monks have all gone to ruin#41 because you did not teach a Dharma that protects sentient beings.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ གནས་བརྟན་ ཤཱ་རི འི་ བུ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Thereupon the Bhagavān replied to the elder Śāriputra,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ ཁྱོད་ དེ་སྐད་ མ་ ཟེར་ ཅིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Śāriputra, do not say such things.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ དགེ་སློང་ བརྒྱ་པོ་ དེ་དག་ སེམས་ཅན་ དམྱལ་བ་ ཆེན་པོ་ ངུ་འབོད་ དུ་ རེག་པ་ ཐང་ ཅིག་ རེག་ ནས་ དགའ་ལྡན་ གྱི་ ལྷ་ རྣམས་ དང་ སྐལ་བ་ མཉམ་པ ར་ སྐྱེ་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Śāriputra, those one hundred monks will come into contact with the great hell of Howling for only a moment, and they will then take rebirth together among the gods of Tuṣita heaven.#42</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ གལ་ཏེ་ དགེ་སློང་ དེ་དག་ གིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ མ་ ཐོས་ སུ་ ཟིན་ ན་ དེ་དག་ གདོན་ མི་ ཟ་བ ར་ སེམས་ཅན་ དམྱལ་བ ར་ འགྲོ་བ ར་ འགྱུར་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Śāriputra, if these monks had not heard this Dharma discourse, they would undoubtedly have gone to hell, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ལས་ དེ་ ཟད་ ནས་ མིར་ སྐྱེ་བ ར་ འགྱུར་བ་ ཞིག་ ན་</seg></tuv>
+	<tuv xml:lang="en"><seg>having exhausted their karma,#43 some would have taken rebirth as humans.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ གིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ལ་ བརྟེན་པ ས་ བསྐལ་པ ར་ སེམས་ཅན་ དམྱལ་བ་ མྱོང་བ ར་ འགྱུར་བ འི་ ལས་ དེ་ཡང་ ཅུང་ཟད་ ཅིག་ མྱོང་བ ར་ བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>But since they have relied upon this Dharma discourse, even those deeds that would cause other beings to experience hell for an eon will, for them, cause that experience for only a short while.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ དེ འི་ ཕྱིར་ དགེ་སློང་ བརྒྱ་པོ་ དེ་དག་ དེ་བཞིན་ གཤེགས་པ་ བྱམས་པ འི་ ཉན་ཐོས་ ཐོག་མ་ འདུས་པ ར་ དགྲ་བཅོམ་པ་ ཟག་པ་ ཟད་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Therefore, Śāriputra, those one hundred monks will be included among the initial hearers of the tathāgata Maitreya and become arhats who have exhausted their pollutions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ དེ་ལྟ་བས་ན་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ སོམ་ཉི་ དང་ བཅས་པ ས་ ཐོས་པ་ ནི་ དམ་པ་ ཡིན་ གྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Since that is so, Śāriputra, for this Dharma discourse to be heard by those who have doubt is excellent indeed,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསམ་གཏན་ བཞི་ ལ་ སྙོམས་པ ར་ ཞུགས་ པས་ ནི་ དེ་ལྟ་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>in a way that is not the case for the attainment of the four meditative concentrations,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚད་ མེད་པ་ བཞི ས་ ནི་ དེ་ལྟ་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>in a way that is not the case for the four immeasurables, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ མེད་པ འི་ སྙོམས་པ ར་ འཇུག་པ་ བཞི་ བསྒོམས་པ ས་ ནི་ དེ་ལྟ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>in a way that is not the case for the cultivation of the four formless attainments.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ལྟ་བུ་ དེ་ མ་ ཐོས་པ ར་ འཁོར་བ་ ལས་ ཡོངས་སུ་ མ་ གྲོལ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because without hearing such a Dharma discourse, one will not be liberated from cyclic existence,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྐྱེ་བ་ དང་ །_ རྒ་བ་ དང་ །_ ན་བ་ དང་ །_ འཆི་བ་ དང་ །_ མྱ་ངན་ དང་ །_ སྨྲེ་སྔགས་ འདོན་པ་ དང་ །_ སྡུག་བསྔལ་བ་ དང་ །_ ཡིད་ མི་ བདེ་བ་ དང་ །_ འཁྲུགས་པ་ རྣམས་ ལས་ ཡོངས་སུ་ མ་ གྲོལ་ ཞེས་ བཤད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>nor will one be liberated from birth, ageing, sickness, death, sorrow, lamentation, suffering, sadness, and agitation.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི འི་ བུས་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$27 The venerable Śāriputra then said to the youthful Mañjuśrī,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ འདི་ལྟར་ སེམས་ཅན་ ཡོངས་སུ་ སྨིན་པ ར་ བྱ་བ འི་ ཕྱིར་ ཁྱོད་ ཀྱིས་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ ལེགས་པ ར་ བཤད་པ་ ངོ་མཚར་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Mañjuśrī, it is amazing how you have matured sentient beings through your eloquent explanation of this Dharma discourse.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གྱིས་ སྨྲས་པ །_ བཙུན་པ་ ཤཱ་རི འི་ བུ་ དེ་བཞིན་ཉིད་ ནི་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Honorable Śāriputra,” replied Mañjuśrī, “the true nature does not diminish, nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ དབྱིངས་ ཀྱང་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་ [270b] བ་ ཡང་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The realm of reality does not diminish [270.b], nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ གྱི་ ཁམས་ ཀྱང་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The realm of sentient beings does not diminish, nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་ ནས་ ཉོན་མོངས་པ་ མ་ ཡིན །_ རྣམ་པར་ བྱང་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are not defiled, nor are they purified.#44</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དེ་དག་ ནི་ ཡོད་པ་ མ་ ཡིན་ ཞིང་ དམིགས་ སུ་ མེད་ དེ་ ཐ་སྙད་ ཙམ་ དུ་ ཟད་པ ས་ ཅི་ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because these things do not exist and cannot be apprehended.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ ཀྱང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are nothing at all, as they amount to nothing but mere conventions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གི་ ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are not caused by anything at all.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ལ་ ཡང་ མི་ གནས་ ཏེ་ གནས་པ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They do not dwell anywhere at all and are without dwelling place.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཙུན་པ་ ཤཱ་རི འི་ བུ་ གང་ འདི་ ལྟ་བུ འི་ མི་ འགག་པ་ དེ་ ནི་ བྱང་ཆུབ་པོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Honorable Śāriputra, that which is uncurtailed in this way is awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ གང་ཡིན་པ་ དེ་ ནི་ ཐར་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Awakening is liberation.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐར་པ་ གང་ཡིན་པ་ དེ་ ནི་ རྣམ་པར་ མི་ རྟོག་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Liberation is nonconceptual.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ རྣམ་པར་ མི་ རྟོག་པ་ དེ་ ནི་ མི་ བྱེད་ ཅིང་ འགྱུར་བ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The nonconceptual is unfabricated and immutable.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ མི་ བྱེད་ ཅིང་ འགྱུར་བ་ མེད་པ་ དེ་ ནི་ ཡོངས་སུ་ མྱ་ངན་ ལས་ འདས་པ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The unfabricated and immutable is wholly beyond suffering.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ གནས་བརྟན་ ཤཱ་རི འི་ བུ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$28 Thereupon, the Bhagavān said to the elder Śāriputra,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤཱ་རི འི་ བུ་ འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ ས་ ཇི་སྐད་ བསྟན་པ་ དེ་བཞིན་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Śāriputra, it is just as the youthful Mañjuśrī has taught.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ཉིད་ ནི་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>True nature does not diminish, nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ དབྱིངས་ ཀྱང་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The realm of reality also does not diminish, nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ གྱི་ ཁམས་ ཀྱང་ འབྲི་བ་ མ་ ཡིན །_ འཕེལ་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The realm of sentient beings does not diminish, nor does it increase.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཀུན་ ནས་ ཉོན་མོངས་པ་ མ་ ཡིན །_ རྣམ་པར་ བྱང་བ་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>It is not defiled, nor is it purified.#45</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is this?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་ལྟར་ དེ་དག་ ཡོད་པ་ མ་ ཡིན་ ཞིང་ དམིགས་ སུ་ མེད་ དེ་ ཐ་སྙད་ ཙམ་ དུ་ ཟད་པ ས་ ཅི་ཡང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Because these things do not exist and cannot be apprehended. They are nothing at all, as they amount to nothing more than mere conventions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ ཀྱང་ མ་ ཡིན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>They are not caused by anything at all.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ ལ འང་ མི་ གནས་ ཏེ་ གནས་པ་ མེད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They do not dwell anywhere at all and are without dwelling place.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ འི་ ཚེ་ ཚིགས་ སུ་ བཅད་པ་ འདི་དག་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$29 At that time, the Bhagavān uttered these verses:#46</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདས་པ་ དག་ དང་ མ་འོངས་ དང་ །_། ད་ལྟ ར་ བྱུང་ ཆོས་ བརྗོད་པ་ ནི །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“We#47 speak of dharmas Of the past, present, and future.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དོན་ གྱིས་ མ་ ཡིན་ ཐ་སྙད་ ཙམ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are actually not so, for these are mere conventions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཅིག་ དང་ སྣ་ཚོགས་ མཚན་ཉིད་ མིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They do not have the characteristics of being one or many. {1}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཚན་ཉིད་ མེད་པར་ གང་ རྟོག་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$30 “What is conceptualized as being without characteristics</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ཉིད་ ནི་ མཚན་ཉིད་ འགྱུར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Will itself become a characteristic.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཚན་ཉིད་ མེད་ ལ་ རྟོག་པ་ མེད །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>What is without characteristics is nonconceptual;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟོག་པ་ ཉིད་ ཀྱང་ མཚན་ཉིད་ མིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Conceptuality is not a characteristic either. {2}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!འདུས་མ་བྱས་ ལ་ གང་ རྟོག་ དང་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$31 “That which is conceptualized as conditioned#48</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མྱ་ངན་ འདས་ ལ་ གང་ རྟོག་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>And that which is conceptualized as nirvāṇa</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཉི་ག་ བདུད་ ཀྱི་ ལས་ ཡིན་ ཞེས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>As the workings of Māra. {3}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ མཁས་པ་ རྣམས་ ཀྱིས་ བཤད །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Are both explained by the wise</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕུང་པོ་ སྐྱེ་མཆེད་ ཁམས་ ཀྱི་ རྣམས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$32 “All of the aggregates, sensory media, and elements</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ མིང་ གིས་ བརྗོད་པ་ སྟེ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Are formulated by name.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!མིང་ དང་ སྐྱེ་མཆེད་ གང་ཡིན་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The names and the unproduced#49</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ གཉིས་ མཚན་ཉིད་ གཅིག་ [271a] པ་ ཡིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Are both of a single characteristic. {4} [271.a]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚུལ་བཞིན་ ལ་ ནི་ གང་ རྟོག་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$33 “What is properly conceptualized</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཉིད་ ཚུལ་བཞིན་ མ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Is itself not proper.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མཁས་པ་ ཅུང་ཟད་ མི་ རྟོག་ སྟེ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The wise do not conceptualize even a little bit—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོང་པ་ ཇི་བཞིན་ སྤྱོད་ཡུལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Their sphere of activity is actually empty. {5}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་དག་ རྟོག་པ་ དེ་དག་ གཡོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$34 “Those who conceptualize waver about;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟོག་པ་ མེད་པ་ གཡོ་བ་ མེད །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who do not conceptualize are unwavering.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟོག་པ་ རྣམས་ ནི་ གཡོ་ བར་ འགྱུར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Concepts produce wavering;</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྟོག་པ་ མེད་པ་ མྱ་ངན་ འདའ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Being without concepts is nirvāṇa. {6}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ རང་བཞིན་ འདི་ ཤེས་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$35 “Those who understand this nature</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཡེ་ཤེས་ ལྡན་ ཞེས་ བྱ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Are known as wisdom bearers.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཕྱིར་ ཟག་པ་ རྗེས་སུ་ ཐོབ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>On that account they have attained cessation.#50</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ རྟོག་ མེད་ ཡེ་ཤེས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>That is nonconceptual wisdom. {7}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ ཀྱིས་ ནི་ ཡེ་ཤེས་ བརྗོད །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$36 “With wisdom is wisdom proclaimed.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ བརྗོད་པ་ རྣམས་ ཀྱང་ གསོག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Even proclamations of wisdom are vain.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡེ་ཤེས་ འདི་ལྟར་ གང་ བཟོད་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Those who have acceptance via such wisdom</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ནི་ ཡེ་ཤེས་ ལྡན་ ཞེས་ བྱ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Are known as wisdom bearers. {8}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ སྟོང་གསུམ་ འདི་དག་ རྣམས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Of filling the trichiliocosms with jewels as offerings. {9}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིན་ཆེན་ བཀང་ སྟེ་ བྱིན་པ་ བས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Superior to the generosity</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ དམ་ཆོས་ འདི་འདྲ་ ལ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$37 “The acceptance by which one accepts a holy Dharma of this sort</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཟོད་པ་ དེ་ ནི་ བཟོད་པ་ མཆོག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>Is the supreme acceptance</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བསྐལ་པ་ བྱེ་བ་ བསམ་ཡས་ སུ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$38 “Practicing, for incalculable millions of eons,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྦྱིན་ དང་ ཚུལ་ཁྲིམས་ བཟོད་པ་ དང་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Giving, morality, forbearance,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བརྩོན་འགྲུས་ བསམ་གཏན་ བསྙེན་པ ས་ ནི །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Diligent effort, and concentration</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མདོ་སྡེ་ འདི་ དང་ མཚུངས་ མ་ ཡིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Is not equal to this sūtra. {10}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ འདི་ དང་ ནི་ ཐེག་པ་ འདི །_། ཡང་དག་ རྫོགས་པ འི་ སངས་རྒྱས་ གསུངས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$39 “This Dharma and this vehicle Were taught by the perfectly complete Buddha.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མདོ་སྡེ་ འདི་ ལ་ བརྟེན་ བྱས་ ན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>When relying on this sūtra</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཐམས་ཅད་ དེ་བཞིན་ གཤེགས་པ ར་ འགྱུར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>All will become tathāgatas.” {11}</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཆོས་ ཀྱི་ རྣམ་ གྲངས་ འདི་ བཤད་པ་ ན་ སྲོག་ཆགས་ འབུམ་ ནི་ ཆོས་ རྣམས་ ལ་ ཆོས་ ཀྱི་ མིག་ རྡུལ་ དང་ བྲལ་ ཞིང་ དྲི་མ་ མེད་པར་ རྣམ་པར་ དག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$40 When this Dharma discourse had been explained, one hundred thousand#51 living beings purified the Dharma eye with regard to dharmas so that it was dustless and stainless.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ ལྔ་ བརྒྱ་ ནི་ ལེན་པ་ མེད་པར་ ཟག་པ་ རྣམས་ ལས་ སེམས་ རྣམ་པར་ གྲོལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The minds of five hundred monks were liberated from the pollutions without any further clinging.#52</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཟུགས་ ན་ སྤྱོད་པ འི་ ལྷ འི་ བུ་ བརྒྱད་ ཁྲི་ ནི་ བླ་ ན་ མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ ཏུ་ སེམས་བསྐྱེད་ ནས་</seg></tuv>
+	<tuv xml:lang="en"><seg>Eighty thousand gods belonging to the form realm generated the mind set on unexcelled, perfectly complete awakening.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ཐམས་ཅད་ བསྐལ་པ་ སྐར་མ་ ལྟ་བུ་ ཞེས་ བྱ་བ་ ལ་ བླ་ ན་ མེད་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ ར་ འཚང་རྒྱ་བ ར་ འགྱུར་ ཏེ</seg></tuv>
+	<tuv xml:lang="en"><seg>[The Bhagavān predicted] that they would all realize unexcelled, perfectly complete awakening in the eon called Star-like and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་དག་ ཐམས་ཅད་ ཀྱང་ འདི་ལྟར་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ མེ་ཏོག་ ཅེས་བྱ་བར་ མིང་ འཐུན་ པར་ འགྱུར་ རོ་</seg></tuv>
+	<tuv xml:lang="en"><seg>that all of them would then bear the same name: the tathāgata, arhat, perfectly complete buddha Flower.#53</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཞེས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ལུང་བསྟན་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Bhagavān predicted</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>When the Bhagavān had said this,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཇམ་དཔལ་ གཞོན་ནུ ར་ གྱུར་པ་ དང་ །_ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི འི་ བུ་ དང་ །_ ལྷ་ དང་ །_ མི་ དང་ །_ ལྷ་མ་ ཡིན་ དང་ །_ དྲི་ཟ ར་ བཅས་པ འི་ འཇིག་ [271b] རྟེན་ ཡི་ རངས་ ཏེ །_ བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>the youthful Mañjuśrī, the venerable Śāriputra, and the world with its gods, humans, asuras, and gandharvas [271.b] rejoiced and praised the proclamation of the Bhagavān.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ འཇམ་དཔལ་ གནས་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$41 This concludes The Noble Mahāyāna Sūtra “The Dwelling Place of Mañjuśrī.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྒྱ་གར་ གྱི་ མཁན་པོ་ སུ་ རེན་ དྲ་བོ་ དྷི་ དང་ །_ ཞུ་ཆེན་ གྱི་ ལོཙྪ་བ་ བན་དེ་ ཡེ་ཤེས་ སྡེས་ བསྒྱུར་ ཅིང་ ཞུས་ ཏེ་ གཏན་ ལ་ ཕབ་པ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$42 It was translated, edited, and finalized by the Indian master Surendrabodhi and the editor-translator Bandé Yeshé Dé.</seg></tuv>
+</tu>
+</body>
+</tmx>

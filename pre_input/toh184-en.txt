@@ -1,0 +1,367 @@
+{{version:v 1.0.10 2020}}
+The Noble Great Vehicle Sūtra
+Teaching the Practice of a Bodhisattva
+The Translation
+{{milestone:{label:1.1,id:UT22084-061-004-16}}} {{page:{number:1,id:UT22084-061-004-272,folio:F.96.b}}} Homage to all buddhas and bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-061-004-17}}} Thus did I hear at one time. The Blessed One was dwelling at the Kūṭāgāraśālā in the forest outside of Vaiśālī {{page:{number:2,id:UT22084-061-004-273,folio:F.97.a}}} together with a great assembly of one thousand monks. All of them were worthy ones whose defilements were exhausted. They were without afflictions and in control. Their minds were perfectly free, and their insight was perfectly liberated. They were of noble birth. They were great elephants who had completed their objectives and done what must be done. They had laid down their burdens and fulfilled their aims. They had eliminated that which binds to existence. Their minds had been perfectly liberated by correct knowledge. They had obtained supreme perfection in mastering all mental states. Their behavior was peaceful, disciplined, free, and natural. The only exception was Venerable Ānanda, but the Blessed One had instructed him in the practice as well, and he had been prophesied to become a worthy one in this life. 
+{{milestone:{label:1.3,id:UT22084-061-004-18}}} Also present were one thousand bodhisattvas. All of them had attained the stage free from regression. All of them had obtained retention. All of them possessed the patience of equanimity. All of them had reached the stage where one practices exactly what has been proclaimed. They were wise, honest, and faithful. They were extremely confident and exceedingly graceful. They always smiled and never frowned angrily. They were steadfast and successful. They had realized the nature of phenomena and never tired of teaching the Dharma. They had encountered the wisdom of a buddha and were bringing it to full maturity. They possessed unerring patience regarding allusive speech. They had attained the stage of being unmistaken regarding all objects. They knew the right time, season, occasion, and moment. They were free from agitation and arrogance. Their behavior was natural and perfect. They were skilled in the meditative absorption on emptiness. They had relinquished arising and disintegration. They possessed the meditative absorption on wishlessness. They had practiced bodhisattva conduct in cyclic existence for a long time. They possessed the meditative absorption on signlessness. They correctly understood the characteristics of all the content of mental constructs. {{page:{number:3,id:UT22084-061-004-274,folio:F.97.b}}} They were skilled in maturing beings. They were free from ideation. They were skilled in the presentation of the Hearer Vehicle. They engaged in properly distinguishing the teachings of the Dharma. They taught the Solitary Buddha Vehicle. They praised tranquility. They inspired beings to become bodhisattvas. They behaved appropriately, teaching the Dharma without hatred or animosity. 
+{{milestone:{label:1.4,id:UT22084-061-004-19}}} Among them were the bodhisattva great being Maitreya, Mañjuśrī­kumāra­bhūta, Pratibhānakūṭa, Ratnapāṇi, Gandhaprabha, Ananta­prabhāsamati, Apāyajaha, Siddhārtha­cintin, Guṇa­rāja­prabhāsa, Sarva­śokāndha­kārāpoha­mati, Sarva­viṣamadarśin, Tat­svabhāvā­pratiṣṭhita, Anantamati, Vīrya, Vikrama­saṃdarśa­kacintin, Ratnākara, Vyūharāja, Vikurvāṇarāja, Avyabhicāra­prabhāva, Viśeṣamati, Samanta­prāsādika, Anāvaraṇa­darśin, Vikrīḍamāna, Suvarṇottama­prabhā­śrī, Sarva­dharma­nityadarśana­dhīmat, Āśugandhadāna­kusumita, Jyeṣṭhakūṭa, Aśokaśrī, Merudāra, Avalokiteśvara, Gandheśvara­rāja, Prāmodyarāja, Ananta­mati­pratipatti, Sarvasa­ddharmā­vismaraṇasthita,{{note:{index:7,id:UT22084-061-004-20}}} and the bodhisattva great being Siṃha­nādābhinādin. Also dwelling with them were many thousands of other bodhisattvas.
+{{milestone:{label:1.5,id:UT22084-061-004-21}}} One morning the Blessed One donned his lower and upper robes, took up his alms bowl, {{page:{number:4,id:UT22084-061-004-275,folio:F.98.a}}} and went to collect alms in the city of Vaiśālī accompanied and attended by two thousand monks. As soon as the Blessed One placed his foot at the threshold of the city gates, the following wondrous miracles occurred, miracles that occur whenever the blessed buddhas enter a city: blind people gained sight, deaf people gained hearing, and the insane regained their senses. A rain of divine flowers fell, a bright light shone, and the roads became free of filth. The enchanting musical instruments of the gods resounded even without being played. All beings, from the Hell of Uninterrupted Torment up to the Highest Heaven, became completely happy. 
+{{milestone:{label:1.6,id:UT22084-061-004-22}}} At that time in the city of Vaiśālī there was a boy named Ratnadatta who had been born as the son of a Licchavi man named Siṃha. The three-year-old was sitting on his mother’s lap on the top floor of their house, and when he witnessed these miraculous signs, the boy Ratnadatta spoke the following verses to his mother: 
+{{milestone:{label:1.7,id:UT22084-061-004-23}}} “Mother, whose magical power
+Has manifested these extraordinary miracles?
+This light outshines the radiance
+Of millions of suns. Whose is it?
+{{milestone:{label:1.8,id:UT22084-061-004-24}}} “It pervades the ground of the three-thousand-fold world
+And dries up the lower realms.
+What is this magical light?
+Quick, Mother, please tell me!
+{{milestone:{label:1.9,id:UT22084-061-004-25}}} “A rain of unseasonable flowers 
+Continually beautifies this buddha realm,
+And everywhere flocks of birds
+Fill the air with song.
+{{milestone:{label:1.10,id:UT22084-061-004-26}}} “The roads are covered with flowers,
+The flower parasols unfurled,
+And both sides are adorned 
+With happy men and women.
+{{milestone:{label:1.11,id:UT22084-061-004-27}}} “Blind people have gained sight,
+Deaf people can hear sounds,
+Those who were ugly are now handsome,
+Those of poor complexion now have perfect skin, {{page:{number:5,id:UT22084-061-004-276,folio:F.98.b}}}
+{{milestone:{label:1.12,id:UT22084-061-004-28}}} “The bewildered have regained their senses,
+The mute can speak clearly,
+And beings who had no love in their hearts
+Are now filled with love.
+{{milestone:{label:1.13,id:UT22084-061-004-29}}} “Quick, Mother, tell me,
+Who is this extraordinary being
+Who moves throughout the worlds 
+With the power to perform such miracles?”
+{{milestone:{label:1.14,id:UT22084-061-004-30}}} Ratnadatta’s mother answered him in the following verses:
+{{milestone:{label:1.15,id:UT22084-061-004-31}}} “He is a pure being with supreme conduct,
+A stainless victor without harmful intent
+Who is beyond thought and utterly pure.
+He is powerful, exalted in precious virtues.
+{{milestone:{label:1.16,id:UT22084-061-004-32}}} “He is the world’s protector, refuge, and guide. 
+This is our kinsman, the Thus-Gone One,
+A wise man come to beg alms
+Who does not adhere to worldly duty.
+{{milestone:{label:1.17,id:UT22084-061-004-33}}} “He does not entertain mundane thoughts
+Such as pleasant or unpleasant. 
+The lord engages in conduct without being stained, 
+Like a lotus born from the water.
+{{milestone:{label:1.18,id:UT22084-061-004-34}}} “This intelligent one eliminates doubt.
+He benefits beings and is compassionate.
+Now this leader has come here 
+To dispel the suffering of beings.
+{{milestone:{label:1.19,id:UT22084-061-004-35}}} “Praise does not delight him,
+And blame does not upset him.
+He has abandoned anger and attachment
+And moves freely, like the wind. 
+{{milestone:{label:1.20,id:UT22084-061-004-36}}} “He is a sublime dharma king
+Who has mastered profound wisdom 
+And is learned in the ultimate meaning—
+The teacher of beings has come.
+{{milestone:{label:1.21,id:UT22084-061-004-37}}} “He teaches the middle way
+That is free from grasping at existence or nonexistence.
+He possesses the path of Dharma and is peaceful.
+He has abandoned all types of dependence.
+{{milestone:{label:1.22,id:UT22084-061-004-38}}} “The one for whom wisdom is the aggregates’ lack of self,
+Who has gathered the accumulation of merit,
+The blissful one, the guide of the world
+Whose form is boundless, has come today!
+{{milestone:{label:1.23,id:UT22084-061-004-39}}} “His hair is coiled to the right
+And is soft, shiny, and curly.
+It is black, not matted,
+And perfectly adorns his head.
+{{milestone:{label:1.24,id:UT22084-061-004-40}}} “His crown protuberance circles to the right,
+Its hair is coiled, and it is perfectly placed.
+It resembles the peak of Mt. Meru—
+So beautiful is its shape. {{page:{number:6,id:UT22084-061-004-277,folio:F.99.a}}}
+{{milestone:{label:1.25,id:UT22084-061-004-41}}} “The middle of his brow is adorned with a curled hair
+That is smooth and turns to the right.
+Its radiance is far brighter than a lattice
+Of pure crystal lunar rays.{{note:{index:8,id:UT22084-061-004-42}}}
+{{milestone:{label:1.26,id:UT22084-061-004-43}}} “His eyes are beautiful
+Like blue lotus flowers.
+He has perfect eyelashes like a cow.
+He has a peaceful gaze without redness or agitation.
+{{milestone:{label:1.27,id:UT22084-061-004-44}}} “He has a jaw like a glorious lion,
+And he always has a smile on his face.
+His lips are red like a bimba fruit,
+His beautiful face attracts all embodied beings.
+{{milestone:{label:1.28,id:UT22084-061-004-46}}} “He has an abundance of great power and strength,
+The strength of hundreds of merits.
+The rows of his teeth have a beautiful shine,
+And they are even and perfectly spaced. 
+{{milestone:{label:1.29,id:UT22084-061-004-47}}} “His teeth are pure white.
+His tongue is very long and thin,
+And with it he can completely cover
+The surface of his own face.
+{{milestone:{label:1.30,id:UT22084-061-004-48}}} “The head of the glorious one is like a parasol.
+Likewise, his nose is prominent,
+His complexion is like refined gold, 
+And he has a beautiful forehead.
+{{milestone:{label:1.31,id:UT22084-061-004-49}}} “His eyebrows are very pleasant
+And the color of blue sapphire.
+His peaceful eyes are beautiful
+And extend toward his ears.
+{{milestone:{label:1.32,id:UT22084-061-004-50}}} “His earlobes are long and dangling.
+His face is more beautiful than an autumn moon 
+And resembles a perfectly pure lotus.
+It is radiant, pure, and clear. 
+{{milestone:{label:1.33,id:UT22084-061-004-51}}} “His speech is steady and eloquent,
+And his voice is kind, pleasing, 
+And soft; it satisfies beings
+Like the call of a sparrow.
+{{milestone:{label:1.34,id:UT22084-061-004-52}}} “The sound of a peacock,
+A swan, a kinnara,
+A parrot, a myna, and a cuckoo,
+Of thunder, a crane,
+{{milestone:{label:1.35,id:UT22084-061-004-53}}} “A pheasant, a flute, the beat
+Of a clay drum; and anything else,
+However pleasant, does not match a sixteenth 
+Of the voice of the Thus-Gone One. 
+{{milestone:{label:1.36,id:UT22084-061-004-54}}} “It is inspiring, yet soft.
+It is sweet and gentle,
+Endearing, pleasing, and clear.
+It is flawless and fearless.
+{{milestone:{label:1.37,id:UT22084-061-004-55}}} “Like a steady rain for the hopeful,
+It satisfies and pacifies the mind.
+It is uncorrupted, unmistaken, perfectly peaceful,
+Pure, and also easy to comprehend. {{page:{number:7,id:UT22084-061-004-278,folio:F.99.b}}}
+{{milestone:{label:1.38,id:UT22084-061-004-56}}} “It is auspicious, sweet,
+Meaningful, and possesses all good qualities.
+His poetic embellishments are perfect.
+His speech inspires virtue.
+{{milestone:{label:1.39,id:UT22084-061-004-57}}} “Beings with different inclinations
+And different interpretations
+Have faith in what he says
+And become exceedingly happy.
+{{milestone:{label:1.40,id:UT22084-061-004-58}}} “His voice reaches all beings who abide
+In the world systems of the ten directions,
+And the words of the protector
+Are rendered meaningful to all those beings. 
+{{milestone:{label:1.41,id:UT22084-061-004-59}}} “That sage, supreme among beings,
+Has a neck like a conch and round shoulders.
+He is broad chested,
+And the seven parts{{note:{index:9,id:UT22084-061-004-60}}} of his body are prominent.
+{{milestone:{label:1.42,id:UT22084-061-004-61}}} “His arms are very long, 
+His skin the color of gold.
+He is as tall as the wish-fulfilling tree, 
+His girth like a banyan.
+{{milestone:{label:1.43,id:UT22084-061-004-62}}} “His chest is adorned with the endless knot.
+His lotus hands bear the imprints of a wheel.
+They are soft to the touch like cotton or flower petals,
+And their fingers are long.
+{{milestone:{label:1.44,id:UT22084-061-004-63}}} “Each body hair is present, upright, thick, and soft.
+His torso is broad and his navel is deep.
+His belly is the shape of a bow, and his genitals are retracted in a sheath like an elephant.
+He has calves like an antelope and with a white hue like the inside of a reed.
+{{milestone:{label:1.45,id:UT22084-061-004-64}}} “His ankle bones do not protrude, and his heels are well shaped.
+The sage’s fingers are long and his nails are red.
+The soles of the Blissful One’s feet are not arched,
+And they are adorned with wheels, hooks, svastikas, and conches.
+{{milestone:{label:1.46,id:UT22084-061-004-65}}} “The Lord’s feet are of equal proportion and steady.
+They are soft and pleasing to the touch like cotton.
+Their color is like a blooming red lotus, 
+And with them he traverses the worlds.
+{{milestone:{label:1.47,id:UT22084-061-004-66}}} “The lion’s roar of the Thus-Gone One bestows happiness.
+This chief among beings has now arrived here, 
+And when he comes, he teaches the Dharma of nonduality
+And the lack of mental constructs with the fearless roar of a lion.”
+{{milestone:{label:1.48,id:UT22084-061-004-67}}} Then the boy Ratnadatta said to his mother, {{page:{number:8,id:UT22084-061-004-279,folio:F.100.a}}} “Mother, put me in the window so I can see the Thus-Gone One,” so his mother sat him in the window. The Blessed One knew what Ratnadatta was thinking, so he walked right down his street. When the boy saw the Blessed One walking he thought, “Whoever sees the Thus-Gone One, who possesses all good qualities, and does not generate the mind of awakening is indeed unfortunate.” The Blessed One proceeded right up to Ratnadatta’s door and the boy thought, “Since it is difficult to meet such an extraordinary being even in a trillion eons, I should jump down from this house.” 
+{{milestone:{label:1.49,id:UT22084-061-004-68}}} With that thought, Ratnadatta placed his toy, a golden lotus with a hundred thousand petals, in the palm of his hand and jumped off the house. However, due to the Buddha’s power, he remained floating in midair. Ratnadatta then offered the golden lotus with a hundred thousand petals to the Blessed One. As soon as Ratnadatta let go of the lotus, the Blessed One transformed it into a lotus parasol adorned with a net of jewels, and it hovered in the sky directly above the Blessed One’s head. When that happened, the boy Ratnadatta recited the following verses:
+{{milestone:{label:1.50,id:UT22084-061-004-69}}} “I offer this lotus to the Buddha
+Seeking nothing in return— 
+I seek supreme awakening 
+To eliminate all goals.
+{{milestone:{label:1.51,id:UT22084-061-004-70}}} “Since in unborn awakening
+There is nothing to gain or lose 
+And nothing to accept or reject,
+I offer this flower. 
+{{milestone:{label:1.52,id:UT22084-061-004-71}}} “The conception of value 
+That childish beings construct is pointless. {{page:{number:9,id:UT22084-061-004-280,folio:F.100.b}}}
+I make this offering to the supreme human being
+So that I may eliminate all conceptual thought.
+{{milestone:{label:1.53,id:UT22084-061-004-72}}} “I do not offer this flower 
+So that a result will ripen for me.
+I offer this lotus blossom 
+To eliminate all existent things.
+{{milestone:{label:1.54,id:UT22084-061-004-73}}} “In my buddha realm
+One will follow only the vehicle of the supreme victor—
+May even the names hearer or solitary buddha
+Not arise there.”
+{{milestone:{label:1.55,id:UT22084-061-004-74}}} Then, Venerable Mahā­maudgalyā­yana recited the following verse to the boy Ratnadatta: 
+{{milestone:{label:1.56,id:UT22084-061-004-75}}} “Although you make this offering
+Out of faith in such a teacher,
+Your understanding is mistaken.
+How, then, will you become a buddha?”
+{{milestone:{label:1.57,id:UT22084-061-004-76}}} Ratnadatta replied to Venerable Mahā­maudgalyā­yana with the following verses:
+{{milestone:{label:1.58,id:UT22084-061-004-77}}} “All these entities are unborn. 
+Conditioned things are hollow and void.
+How could such phenomena 
+Have any substance?
+{{milestone:{label:1.59,id:UT22084-061-004-78}}} “You wear saffron monastic robes
+And grasp at the state of a worthy one, 
+But aren’t consciousness and{{note:{index:10,id:UT22084-061-004-79}}} its domain 
+Simply empty?
+{{milestone:{label:1.60,id:UT22084-061-004-80}}} “The millions of buddhas are not pleased
+By having recourse to apprehension. 
+Those millions perceive only quiescence, 
+And there is not one of them who does not find joy in that.
+{{milestone:{label:1.61,id:UT22084-061-004-81}}} “Maudgalyā­yana, do you still 
+Engage in apprehension?
+Can someone who thinks as you do
+Even purify a gift?”{{note:{index:11,id:UT22084-061-004-82}}}
+{{milestone:{label:1.62,id:UT22084-061-004-83}}} Venerable Mahā­maudgalyā­yana replied to Ratnadatta, saying, “Child, tell me, has the Thus-Gone One not become a complete buddha who has manifested unsurpassed and perfect awakening? Furthermore, has he not taught the Dharma?” 
+{{milestone:{label:1.63,id:UT22084-061-004-84}}} “Maudgalyā­yana,” Ratnadatta replied, “a wise person should not conceptualize awakening or formulate opinions about the Thus-Gone One. They should not impute concepts such as the thought that phenomena do not arise, the thought that all phenomena are conditioned, or the thought that all phenomena are unconditioned. They should not impute concepts such as ‘all phenomena arise, do not arise, {{page:{number:10,id:UT22084-061-004-281,folio:F.101.a}}} are existent, or are nonexistent,’ ‘grasping and letting go,’ ‘meeting and separating,’ ‘going, coming, remaining, transmigrating, phenomena associated with attachment, hatred, and delusion, and right and wrong.’{{note:{index:12,id:UT22084-061-004-85}}} They should not impute the concept that ‘ignorance and the like{{note:{index:13,id:UT22084-061-004-86}}} up to and including the qualities of hearers, the qualities of solitary buddhas, the qualities of the buddhas, the factors of pollution, the factors of purification, the physical and nonphysical, perception and lack of perception, marks and lack of marks, pure conduct, sameness, difference, body, mind, and all correct and incorrect qualities arise.’ So you tell me, Maudgalyā­yana—do you think the thus-gone ones are complete buddhas who manifest unsurpassed and perfect awakening?”
+Maudgalyā­yana replied, “That is not the case.”
+{{milestone:{label:1.64,id:UT22084-061-004-88}}} The boy said, “Do you assert that the thus-gone ones are not included in suchness, that awakening is not included in suchness, or that ordinary beings are not included in suchness?”
+Maudgalyā­yana said, “That is not the case.” 
+{{milestone:{label:1.65,id:UT22084-061-004-90}}} “Maudgalyā­yana,” the boy responded, “do you conceptualize the lack of conceptualization?” 
+“I teach by means of the conventions of the world,” Maudgalyā­yana replied.
+{{milestone:{label:1.66,id:UT22084-061-004-92}}} The boy continued, “Maudgalyā­yana, the world is a fake, deceptive, and illusory appearance that tricks childish beings.” 
+{{milestone:{label:1.67,id:UT22084-061-004-93}}} “If the world is a fake and deceptive phenomenon,” said Maudgalyā­yana, “then this teaching is also a fake and deceptive phenomenon. Why, then, do you teach it?” 
+“Maudgalyā­yana,” answered the boy, “phenomena cannot be demonstrated. {{page:{number:11,id:UT22084-061-004-282,folio:F.101.b}}} They cannot be demonstrated, attained, actualized, abandoned, understood, or meditated upon.”
+{{milestone:{label:1.68,id:UT22084-061-004-95}}} Maudgalyā­yana replied, “If that is the case, what is the point of you making an offering to the Thus-Gone One?” 
+“Maudgalyā­yana,” the boy asked, “do you apprehend a Thus-Gone One, someone who gives a gift, or an act of giving?” 
+{{milestone:{label:1.69,id:UT22084-061-004-97}}} Venerable Maudgalyā­yana remained silent, so the boy Ratnadatta continued, “Maudgalyā­yana, with this in mind, I have given up becoming a thus-gone one and say those who form the resolve set on the vehicle of the hearers ‘are indeed unfortunate.’ ” 
+{{milestone:{label:1.70,id:UT22084-061-004-98}}} Maudgalyā­yana replied, 
+{{milestone:{label:1.71,id:UT22084-061-004-99}}} “You are very young,
+Yet your insight is vast as the ocean.
+How long have you been
+Trained in these teachings?” 
+{{milestone:{label:1.72,id:UT22084-061-004-100}}} Ratnadatta replied with the following verses:
+{{milestone:{label:1.73,id:UT22084-061-004-101}}} “All training perishes.
+Training is not training.
+The training of the wise ones
+Consists in being one who lacks training.
+{{milestone:{label:1.74,id:UT22084-061-004-102}}} “The question ‘what is the point?’ that you asked me
+Is based upon the perceptions of beings,
+And to this I say one does not find 
+Any phenomena arising anywhere. 
+{{milestone:{label:1.75,id:UT22084-061-004-103}}} “Childish beings conceptualize 
+Both awakening and cyclic existence. 
+So do you, Venerable One,
+Still follow the way of childish beings?
+{{milestone:{label:1.76,id:UT22084-061-004-104}}} “Since they understand
+That all phenomena lack essence,
+The wise do not generate
+Concepts such as ‘near’ and ‘far.’
+{{milestone:{label:1.77,id:UT22084-061-004-105}}} “Intelligent ones do not differentiate 
+Between childish beings and their qualities,
+Or the buddhas’ qualities and the victors,
+So you too should see these as merely empty.
+{{milestone:{label:1.78,id:UT22084-061-004-106}}} “That the great sage attained awakening
+Is an illogical imputation.
+If the phenomenon of awakening does not arise,
+How can one attain nirvāṇa?
+{{milestone:{label:1.79,id:UT22084-061-004-107}}} “An infinite number of teachings are proclaimed, 
+Yet there is no such thing as the liberation of beings. 
+Understand this: there is no distinction {{page:{number:12,id:UT22084-061-004-283,folio:F.102.a}}}
+Between nirvāṇa and saṃsāra. 
+{{milestone:{label:1.80,id:UT22084-061-004-108}}} “Thus, in all cases,
+There is never any increase or decrease.
+The wise harbor no delusions 
+About the fact that phenomena are indistinct.
+{{milestone:{label:1.81,id:UT22084-061-004-109}}} “Childish beings obtain and attain.
+A childish being who attains nirvāṇa
+Is thoroughly attached to saṃsāra.
+Such conceited thinking is Māra’s trap. 
+{{milestone:{label:1.82,id:UT22084-061-004-110}}} “Someone who thinks ‘I have attained’
+Has not attained anything at all. 
+They will proceed to their next birth 
+And start all over again in ignorance.
+{{milestone:{label:1.83,id:UT22084-061-004-111}}} “Abiding at the seat of awakening,
+There is nothing to see and nothing to abandon.
+The awakening of all the buddhas
+Is a conventional term but nothing in actuality.
+{{milestone:{label:1.84,id:UT22084-061-004-112}}} “Awakening and nirvāṇa 
+Cannot be expressed by conventional terms.
+Those who see correctly in that way
+Fully understand the nature of reality.
+{{milestone:{label:1.85,id:UT22084-061-004-113}}} Venerable Śāriputra then asked the Blessed One, “Blessed One, how long has this boy Ratnadatta practiced this teaching?” 
+{{milestone:{label:1.86,id:UT22084-061-004-114}}} The Blessed One replied, “When the thus-gone one Dīpaṁkara gave his prophecy that I would attain acceptance of the nonarising of phenomena, at that point he was foremost among those bodhisattvas who abided in emptiness according to Dīpaṁkara’s teachings. At the moment when I first generated the mind set on unsurpassed and perfect awakening, three hundred thousand eons had passed since he attained acceptance.” 
+{{milestone:{label:1.87,id:UT22084-061-004-115}}} “Blessed One,” asked Śāriputra, “what cause and what conditions are responsible for the boy Ratnadatta not becoming a complete buddha who has manifested unsurpassed and perfect awakening?” 
+{{milestone:{label:1.88,id:UT22084-061-004-116}}} “You should ask Ratnadatta himself this question. He will tell you,” the Blessed One responded. 
+{{milestone:{label:1.89,id:UT22084-061-004-117}}} So Venerable Śāriputra asked the boy Ratnadatta, “Why have you not become a complete buddha who has manifested unsurpassed and perfect awakening?” {{page:{number:13,id:UT22084-061-004-284,folio:F.102.b}}}
+{{milestone:{label:1.90,id:UT22084-061-004-118}}} “The reason I do not become a complete manifest buddha,” Ratnadatta replied, “is that I do not apprehend unsurpassed and perfect awakening.”
+{{milestone:{label:1.91,id:UT22084-061-004-119}}} “If that is so,” Śāriputra asked, “since this thus-gone one is a complete manifest buddha, do you apprehend him?”
+{{milestone:{label:1.92,id:UT22084-061-004-120}}} Ratnadatta replied, “If someone grasps at the Thus-Gone One as a complete manifest buddha, and if he becomes the referent object of that grasping, then the Dharma he teaches will not cause that person to become a complete manifest buddha, and it will not even bring about renunciation.” 
+{{milestone:{label:1.93,id:UT22084-061-004-121}}} “Since you equate complete maturation with accomplishing the four factors,{{note:{index:14,id:UT22084-061-004-122}}} what is your acceptance based on?” Śāriputra asked.
+{{milestone:{label:1.94,id:UT22084-061-004-123}}} The boy Ratnadatta replied, “I do not perceive even a single phenomenon that is truly established, much less four. What is there truly established in them? ‘Knowing the Dharma’ is apprehension. ‘Awakening’ is apprehension. ‘The Thus-Gone One’ is grasping. ‘Liberation’ is a mental construct.”
+{{milestone:{label:1.95,id:UT22084-061-004-124}}} “Son of the lineage,” Śāriputra replied, “what a wonder that you experience things in this way and that you have attained such a miraculous birth whereby you were born in the presence of the buddhas and will always go forth!”
+{{milestone:{label:1.96,id:UT22084-061-004-125}}} Ratnadatta then replied with the following verses: 
+{{milestone:{label:1.97,id:UT22084-061-004-126}}} “Born and not born are both mental constructs. 
+They are the level of conceptual imputation and the domain of Māra. 
+Desire realm beings such as the gods and asuras who grasp at
+And harbor conceit about phenomena such as the body are destroyed in this domain. 
+{{milestone:{label:1.98,id:UT22084-061-004-127}}} “Thinking, ‘The Victor attained the unconditioned, deathless state,’ 
+Some set out with the same intention 
+And insult the buddhas.
+Though they attain it, there is nothing in it that the guides attain.
+{{milestone:{label:1.99,id:UT22084-061-004-128}}} “There are many people who,
+Having gone forth for this, presume they have gone forth. 
+They are confused by mental apprehension
+And they corrupt the teachings. 
+{{milestone:{label:1.100,id:UT22084-061-004-129}}} “Those who are proud of their attainment say,
+‘I have attained deathlessness.’ 
+But the teaching of the protector, the lion of the Śākya clan,
+Lacks mental constructs. {{page:{number:14,id:UT22084-061-004-285,folio:F.103.a}}}
+{{milestone:{label:1.101,id:UT22084-061-004-130}}} “Among all mental content
+One does not find the nature of mind. 
+Thus, the view taught by the guide
+Has no inherent nature.
+{{milestone:{label:1.102,id:UT22084-061-004-131}}} “In the view taught by the Victor with pure vision
+There is no viewing.
+That is why those who have insight 
+Do not grasp at the thought, ‘I am free.’ 
+{{milestone:{label:1.103,id:UT22084-061-004-132}}} “Those accustomed to apprehending marks 
+Apprehend a self and are deluded.
+Such unwise people 
+Reject emptiness as incorrect. 
+{{milestone:{label:1.104,id:UT22084-061-004-133}}} “The unwise impute things 
+With their own minds,
+Like a dream and an illusion.
+Then, when things cease, they call it nirvāṇa.
+{{milestone:{label:1.105,id:UT22084-061-004-134}}} “They take the body as a support
+And do away with the notion of discipline.
+They take mental apprehention as a support
+And do away with the notion of meditative absorption.
+{{milestone:{label:1.106,id:UT22084-061-004-135}}} “Likewise, they apprehend insight
+And have a deluded notion of it as a seed. 
+The wise people of the world
+Proclaim them thieves of the Dharma. 
+{{milestone:{label:1.107,id:UT22084-061-004-136}}} “The luminous expanse of phenomena,
+Free of afflictions, is in all such phenomena.
+So, will you please tell me
+The point of going forth?
+{{milestone:{label:1.108,id:UT22084-061-004-137}}} “All phenomena are indistinct.
+They are like an echo.
+The wise never conceptualize
+The sphere of the noble ones.
+{{milestone:{label:1.109,id:UT22084-061-004-138}}} “Their characteristic is suchness and nothing else.
+They never transform into other things. 
+Since phenomena are unchanging,
+What use is the concept of going forth?”
+{{milestone:{label:1.110,id:UT22084-061-004-139}}} Then Mañjuśrī­kumāra­bhūta asked Ratnadatta, “Child, what is ‘awakening’ a verbal designation for?” 
+“Mañjuśrī,” Ratnadatta replied, “awakening is devoid of verbal designations.” 
+{{milestone:{label:1.111,id:UT22084-061-004-141}}} “How do you consider and verbally express it?” Mañjuśrī asked.
+Ratnadatta replied, “Mañjuśrī, since reality is inconceivable, I consider it as such and then express it.” 
+{{milestone:{label:1.112,id:UT22084-061-004-143}}} Mañjuśrī asked, “How should beginner bodhisattvas be given instructions on this? How should they be taught about it?” {{page:{number:15,id:UT22084-061-004-286,folio:F.103.b}}}
+{{milestone:{label:1.113,id:UT22084-061-004-144}}} Ratnadatta replied, “One should say the following: ‘Do not abandon desire. Do not get rid of anger. Do not clear away delusion. Do not rise above the body. Practice nonvirtue. Do not vanquish views. Do not remove{{note:{index:15,id:UT22084-061-004-145}}} fetters. Grasp at the aggregates. Make the elements into a single mass. Engage the sense spheres. Do not go beyond the level of childish beings. Realize nonvirtue. Abandon virtue. Do not contemplate the Buddha. Do not think about the Dharma. Do not make offerings to the Saṅgha. Do not take up the trainings. Do not strive to pacify existence. Do not cross over the river.’
+{{milestone:{label:1.114,id:UT22084-061-004-146}}} “It is with such instructions that one should instruct and teach beginner bodhisattvas. Why is that? Because only this state is the state of phenomena. Childish beings declare that phenomena arise and declare that phenomena cease. The realm of phenomena is discerned through nonconceptuality. If someone receives the instruction that understanding the nature of phenomena in this way is awakening, and if they are not afraid, scared, or frightened by it, then that person is a bodhisattva who will truly never regress. That bodhisattva who has reached the stage free from regression should be considered a fortunate one. Through these instructions, one should give rise to true joy again and again.”
+{{milestone:{label:1.115,id:UT22084-061-004-147}}} At that point, eight monks who maintained the view of apprehension refused to follow this Dharma teaching, rejected it, and left the assembly. They all vomited warm blood and died, and after they died they were reborn in the Great Wailing Hell. At that point Mañjuśrī­kumāra­bhūta alerted the Blessed One saying, “Blessed One, see how those monks have suffered such great harm by listening to this Dharma teaching!” {{page:{number:16,id:UT22084-061-004-287,folio:F.104.a}}}
+{{milestone:{label:1.116,id:UT22084-061-004-148}}} “Do not say such things, Mañjuśrī,” the Blessed One replied. “If these monks had not heard this Dharma teaching, they would not have secured higher births for millions of eons, let alone meeting and serving any buddhas. Since they just listened to this Dharma teaching with doubt, they are right now dying and transmigrating from the Great Wailing Hell and being reborn among the gods in the Heaven of Joy. For sixty-eight eons, they will serve billions of thus-gone ones. In all these lives they will only take miraculous birth and become universal monarchs. In a later eon they will become thus-gone ones, worthy ones, perfect complete buddhas known as Vimalaprabhāsa.”
+{{milestone:{label:1.117,id:UT22084-061-004-149}}} Then, having heard the prophecy{{note:{index:16,id:UT22084-061-004-150}}} with their divine hearing, those gods, together with eighty thousand gods, traveled to where the Blessed One was. When they arrived, they scattered divine flowers all over Vaiśālī. They rejoiced in this Dharma teaching, saying, “Blessed One, we rejoice! Please cause the system of the awakening of the thus-gone ones to flourish!” The moment that they rejoiced in this way, they became irreversible from unsurpassed and perfect awakening. Eighty-four thousand beings of the great city of Vaiśālī also became irreversible from unsurpassed and perfect awakening. Twelve thousand beings removed the dust from the Dharma eye that sees all phenomena, rendering it stainless and pure.” 
+{{milestone:{label:1.118,id:UT22084-061-004-151}}} The Blessed One continued to address Mañjuśrī­kumāra­bhūta, saying, “Mañjuśrī, since someone who listens to this Dharma teaching with doubt generates far greater merit than a bodhisattva who practices the six perfections without skillful means for one hundred thousand eons {{page:{number:17,id:UT22084-061-004-288,folio:F.104.b}}}, why mention someone who has no doubt when they hear it? And why mention those who write it down, explain it, hold it, and teach it extensively to others? Therefore, Mañjuśrī, those who want to attain the state of a worthy one should train in this teaching, those who want to attain the state of a solitary buddha should train in this teaching, and those who want to become a complete buddha who manifests unsurpassed and perfect awakening should train in this teaching.”
+{{milestone:{label:1.119,id:UT22084-061-004-152}}} The boy Ratnadatta then said to his mother, “Mother, please give me some food, and I will offer it to the Blessed One.” Ratnadatta’s mother filled a metal bowl with delicious food and gave it to the child. Ratnadatta then addressed the Blessed One, saying, “Blessed One, since it is true that all phenomena are inexhaustible, may the food in this metal bowl not diminish until the entire saṅgha of monks has been satisfied.” Ratnadatta filled the Blessed One’s alms bowl first and then addressed the saṅgha of monks, saying, “Venerable Ones, may these alms be accepted out of compassion for me by someone who can ensure that I obtain a great result. May these alms be accepted by someone who does not purify the gift with the body, who does not purify it with the mind; someone who will not generate merit or ripen karma when it is offered to them; someone who has no physical, verbal, or mental karma; someone who abides neither in the conditioned nor in the unconditioned; someone who is not stained by the qualities of ordinary beings; {{page:{number:18,id:UT22084-061-004-289,folio:F.105.a}}} someone who does not rely upon the teachings of the hearers; someone who is not skilled in the vehicle of the buddhas; and someone who has no wish to be skilled in it!” 
+{{milestone:{label:1.120,id:UT22084-061-004-153}}} No one in the saṅgha of monks took up the bowl, so the child Ratnadatta continued, “Venerable Ones, I wish to make a gift, and you also wish to eat. I do not expect anything in return from you venerable ones, so please eat! If it is true that my buddha realm will have a display of qualities that is a billion times greater than the display of qualities present in the buddha realms of billions of bodhisattvas who are of the same stature as Mañjuśrī, and if it is true that what I have spoken is the truth, then by these true statements may all your bowls be filled from this metal bowl, and may this bowl never be emptied!” All the alms bowls of the saṅgha of monks were then filled. The child Ratnadatta fed the entire population of Vaiśālī with delicious food, and even then the alms did not run out.
+{{milestone:{label:1.121,id:UT22084-061-004-154}}} Then the Blessed One addressed the child Ratnadatta, saying, “Ratnadatta, these five are a bodhisattva’s purification of a gift: not apprehending a body, not apprehending a mind, having no attachment to the gift, not desiring any ripening, and no ripening for the recipients. Moreover, Ratnadatta, a bodhisattva should always manifest the following four things: the meditative concentration of emptiness, recollecting the Buddha, great compassion, and the ripening of one’s own karma.”
+{{milestone:{label:1.122,id:UT22084-061-004-155}}} The Blessed One addressed {{page:{number:19,id:UT22084-061-004-290,folio:F.105.b}}} Mañjuśrī­kumāra­bhūta, saying, “Mañjuśrī, in thirty eons, this child Ratnadatta will become a complete buddha who has manifested unsurpassed and perfect awakening. He will appear in the world as a thus-gone one, a worthy one, a perfect buddha, learned and virtuous, a blissful one, a knower of the world, an unsurpassed charioteer who tames beings, a teacher of gods and humans, a blessed buddha called Amogha­bala­kīrti.{{note:{index:17,id:UT22084-061-004-156}}} Those who gather in his retinue will be infinite in number, and all of them will be bodhisattvas who do not regress. They will be infinitely radiant and have immeasurable lifespans.” 
+{{milestone:{label:1.123,id:UT22084-061-004-157}}} Mañjuśrī then asked the Blessed One, “Blessed One, what is the name of this Dharma teaching? How should it be remembered?” 
+{{milestone:{label:1.124,id:UT22084-061-004-158}}} The Blessed One replied, “You should remember it as Teaching the Practice of a Bodhisattva, or you can also remember it as A Being Born from Reality.” 
+{{milestone:{label:1.125,id:UT22084-061-004-159}}} After the Blessed One and the saṅgha of monks had eaten their alms they went on their way, and after the Blessed One had said this, the bodhisattva Ratnadatta, the entire retinue, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised the Blessed One’s words.
+This concludes the noble Great Vehicle sūtra “Teaching the Practice of a Bodhisattva.”
+Colophon
+{{milestone:{label:c.1,id:UT22084-061-004-160}}} It was translated, edited, and finalized by the Indian scholars Jinamitra and Prajñāvarman and the chief editor-translator Bandé Yeshé Dé and others.
