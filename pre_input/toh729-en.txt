@@ -1,0 +1,8 @@
+{{version:v 1.1.4 2021}}
+The Noble
+Dhāraṇī of Tārā
+The Translation
+{{milestone:{label:1.1,id:UT22084-094-006-19}}}{{page:{number:1,id:UT22084-094-006-20,folio:F.222.a}}}{{page:{number:1,id:UT22084-094-006-21,folio:F.160.a}}} Homage to the Three Jewels!
+{{milestone:{label:1.2,id:UT22084-094-006-22}}}namo ratna­trayāya | nama āryāvalokiteśvarāya bodhisattvāya mahā­sattvāya mahā­kāruṇikāya |{{note:{index:12,id:UT22084-094-006-23}}}
+{{milestone:{label:1.3,id:UT22084-094-006-24}}}tad yathā | oṁ tāre tuttāre{{note:{index:13,id:UT22084-094-006-25}}} ture sarva­duṣṭa­praduṣṭān mama kṛte jambhaya stambhaya mohaya bandhaya hūṁ hūṁ hūṁ phaṭ phaṭ phaṭ sarva­duṣṭa­stambhani tāre svāhā |{{note:{index:14,id:UT22084-094-006-26}}}
+{{milestone:{label:1.4,id:UT22084-094-006-27}}}This concludes “The Noble Dhāraṇī of Tārā.”

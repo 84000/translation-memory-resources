@@ -1,0 +1,17 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>[V94][222a]  དཀོན་མཆོག་ གསུམ་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [222.a][160.a] Homage to the Three Jewels!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ན་མོ་ རཏྣ་ ཏྲ་ ཡཱ་ ཡ །_ ན་མ་ ཨཱརྱཱ་ ཝ་ ལོ་ ཀི་ ཏེ་ ཤྭ་ རཱ་ ཡ །_ བོ་ དྷི་ སཏྭཱ་ ཡ །_ མ་ ཧཱ་ སཏྭཱ་ ཡ །_ མ་ ཧཱ་ ཀཱ་ རུ་ ཎི་ ཀཱ་ ཡ །_ ཏདྱ་ ཐཱ །_ ཨོཾ་ ཏཱ་ རེ་ ཏུཏྟ་ རེ་ ཏུ་རེ་ སརྦ་ དུཥྚ་ པྲ་ དུཥྚཾ་ མ་མ་ ཀྲྀ་ ཏེ་ ཛཾ་ བྷ་ ཡ་ སྟཾ་ བྷ་ ཡ །_ མོ་ ཧ་ ཡ །_ བནྡྷ་ ཡ །_ ཧཱུྃ་ ཧཱུྃ་ ཧཱུྃ །_ ཕཊ་ ཕཊ་ ཕཊ །_ སརྦ་ དུཥྚ་ སྟཾ་ བྷ་ ནི་ ཏཱ་ རེ་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 namo ratna­trayāya | nama āryāvalokiteśvarāya bodhisattvāya mahā­sattvāya mahā­kāruṇikāya |#12 |#| $3 tad yathā | oṁ tāre tuttāre#13 ture sarva­duṣṭa­praduṣṭān mama kṛte jambhaya stambhaya mohaya bandhaya hūṁ hūṁ hūṁ phaṭ phaṭ phaṭ sarva­duṣṭa­stambhani tāre svāhā |#14</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་མ་ སྒྲོལ་མ འི་ གཟུངས་ རྫོགས་ སོ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 This concludes “The Noble Dhāraṇī of Tārā.”</seg></tuv>
+</tu>
+</body>
+</tmx>
