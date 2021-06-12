@@ -2,11 +2,55 @@
 	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
 <body>
 <tu><prop type="x-sentbreak">|#|</prop>
-	<tuv xml:lang="bo"><seg>!ན་མོ་ རཏྣ་ ཏྲ་ ཡཱ་ ཡ །_ ན་མ་ ཨཱརྱཱ་ ཝ་ ལོ་ ཀི་ ཏེ་ ཤྭ་ རཱ་ ཡ །_ བོ་ དྷི་ སཏྭཱ་ ཡ །_ མ་ ཧཱ་ སཏྭཱ་ ཡ །_ མ་ ཧཱ་ ཀཱ་ རུ་ ཎི་ ཀཱ་ ཡ །_ ཏདྱ་ ཐཱ །_ ཨོཾ་ ཏཱ་ རེ་ ཏུཏྟ་ རེ་ ཏུ་རེ་ སརྦ་ དུཥྚ་ པྲ་ དུཥྚཾ་ མ་མ་ ཀྲྀ་ ཏེ་ ཛཾ་ བྷ་ ཡ་ སྟཾ་ བྷ་ ཡ །_ མོ་ ཧ་ ཡ །_ བནྡྷ་ ཡ །_ ཧཱུྃ་ ཧཱུྃ་ ཧཱུྃ །_ ཕཊ་ ཕཊ་ ཕཊ །_ སརྦ་ དུཥྚ་ སྟཾ་ བྷ་ ནི་ ཏཱ་ རེ་ སྭཱ་ ཧཱ །_</seg></tuv>
+	<tuv xml:lang="bo"><seg>འཕགས་མ་ སྒྲོལ་མ་ རང་ གིས་ དམ་བཅས་བ་ ཅེས་བྱ་བ འི་ གཟུངས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Dhāraṇī |#| Tārā’s Own Promise</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>[222b] འཕགས་མ་ སྒྲོལ་མ་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [222.a][160.a][222.b] Homage to Noble Tārā!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ སྒྲོལ་མ་ རང་ གིས་ དམ་བཅས་པ འི་ གཟུངས་ སྨྲས་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Tārā proclaimed The Dhāraṇī “Tārā’s Own Promise”:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>!ཏདྱ་ ཐཱ །_ ཨོཾ་ ཏཱ་ རེ་ ཏཱ་ རཱ་ ཡཻ །_ ཧཱུྃ་ ཧཱུྃ་ ཧཱུྃ །_ ས་ མ་ ཡསྠི་ ཏེ །_ |#| བྷ་ ར་ བྷ་ ར །_ སརྦཱ་ བྷ་ ར་ ཎ །_ བི་ བྷཱུ་ ཥི་ ཏེ །_ |#| པདྨ་ ནི་ པདྨ །_ མ་ ཧཱ་ པདྨ །_ ཨཱ་ ས་ ན་ སྠི་ ཏེ །_ |#| ཧ་ས་ ཧ་ས །_ ཏྲཻ་ ལོ་ ཀྱ་ བ་ར་ དེ །_ |#| སརྦ་ དེ་བ་ དཱ་ ན་པ །_ བཱུ་ ཛི་ ཏེ་ སྨ་ དཱ་ ཧི །_ བྷ་ ག་བ་ ཏི་ ཏཱ་ རེ །_ སྨ་ རཱ་ ཧཱི །_ བྷ་ ག་ བཱཾ་ ཏ །_ ཏ་ ཐཱ་ ག་ ཏ་ སྱ །_ པུ་ ར་ ཏཿ ས་ མ་ ཡཾ །_ དྷ་ ར་ དྷ་ ར །_ མ་ ཧཱ་ སཏྭ་ ཨ་བ་ ལོ་ ཀི་ ཏེ །_ |#| མ་ཎི་ ཀ་ནི་ཀ །_ བི་ ཙི་ ཏྲཱ་ བྷ་ ར་ ཎེ །_ ཨོཾ་ བི་ ལོ་ ཀཱ་ ཡ །_ ཆེ་གེ་མོ །_ བྷ་ ག་བ་ ཏེ་ ཏཱ་ རེ །_ ཧྲཱིཾ་ ཧྲཱིཾ་ ཧྲཱིཾ་ ཕཊ་ སྲཱ་ ཧཱ །_</seg></tuv>
 	<tuv xml:lang="en"><seg>tad yathā | oṁ tāre tārāyai hūṁ hūṁ hūṁ samaya­sthite bhara bhara sarvābharaṇa­vibhūṣite padme padme#10 mahā­padmāsana­sthite hasa hasa trailokyavarade sarva­deva­dānava­pūjite smarāhi bhagavati tāre smarāhi bhagavatas#11 tathāgatasya purataḥ samayaṃ dhara dhara mahā­sattvāvalokite maṇi­kanaka­vicitrābharaṇe | oṁ vilokāya (insert name)#12bhagavati#13 tāre hrīṁ hrīṁ hrīṁ phaṭ svāhā |#14</seg></tuv>
 </tu>
 <tu><prop type="x-sentbreak">|#|</prop>
-	<tuv xml:lang="bo"><seg>འཕགས་མ་ སྒྲོལ་མ འི་ གཟུངས་ རྫོགས་ སོ །།</seg></tuv>
+	<tuv xml:lang="bo"><seg>གཟུངས་སྔགས་ འདི་ ཡིད་ ཀྱིས་ དྲན་པ་ ཙམ་ གྱིས་ འཇིགས་པ་ ཐམས་ཅད་ སེལ་བར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 By merely recalling this dhāraṇī all dangers will be eliminated,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དངོས་གྲུབ་ ཐམས་ཅད་ ཐོབ་པ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>all accomplishments will be attained,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སེམས་ཅན་ ཐམས་ཅད་ དབང་ དུ་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>and all sentient beings will be brought under control. [160.b]</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དཀར་པོ འི་ ཚེས་ བརྒྱད་ དམ་ བཅྭ་ ལྔ་ ལ་ འཕགས་མ་ སྒྲོལ་མ་ ལ་ མཆོད་པ་ ཆེན་པོ་ བྱས་ ཏེ །_ |#| སྒྲོལ་མ་ མངོན་སུམ་ དུ་ མཐོང་ གི་ བར་ དེ་ཙམ་ དུ་ བཟླས་པ ར་ བྱ འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>On the eighth or fifteenth day of the moon, make vast offerings to Noble Tārā and then recite this dhāraṇī until you perceive Tārā directly.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ འདོད་པ་ དེ་ སྦྱིན་ ནོ །_། |#| མཆོག་ ཐམས་ཅད་ སྟེར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Whatever you desire will be given, and all boons will be granted.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མ་ བྱིན་ ན་ བདག་ གིས་ མཚམས་མེད་པ་ ལྔ་ བྱས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>If this does not happen, it means that you had committed the five acts with immediate retribution.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གཞན་ ཡང་ ཕན་ཡོན་ དཔག་ ཏུ་ མེད་པ་ འབྱུང་བ ར་ འགྱུར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Indeed, immeasurable benefits will come.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རྡོ་རྗེ་ མཆོག་ གི་ རྒྱུད་ ལས་ བཏུས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 This was extracted from The Supreme Vajra Tantra.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་མ་ སྒྲོལ་མ་ རང་ གིས་ དམ་བཅས་པ འི་ གཟུངས་ རྫོགས་ སོ །།</seg></tuv>
 	<tuv xml:lang="en"><seg>$5 This concludes the noble dhāraṇī “Tārā’s Own Promise.”</seg></tuv>
 </tu>
 </body>
