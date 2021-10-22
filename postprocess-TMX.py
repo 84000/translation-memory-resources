@@ -93,9 +93,9 @@ def remove_folio_refs_en(tm):
 
 
 # Generate <prop> folio references for each TM unit
-def create_folio_props(tm):
+def create_folio_props(tm, meta_data):
     tm_units = re.split('(<tu>)', tm)
-    folio_count = 'INPUT_STARTING_FOLIO'
+    folio_count = meta_data["first_page"]["first_page"]
     for num, s in enumerate(tm_units):
         if re.search(r'folio=', s):
             folio_count = re.findall(r'folio="(F\.\d+\.[ab])', s)[0]
@@ -137,7 +137,7 @@ def postprocess(in_dir, out_dir):
         tm = create_flags(tm)
         tm = normalize_tibetan(tm)
         tm = remove_folio_refs_en(tm)
-        tm = create_folio_props(tm)
+        tm = create_folio_props(tm, meta_data)
         to_file = out_dir / file.name
         to_file.write_text(tm, encoding='utf-8')
 

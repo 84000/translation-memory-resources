@@ -44,13 +44,15 @@ def prepare_target(dump):
     # miscommunications on my part. The following substitutions will correct these tags
     # as is needed. In the future if this script is used as a template for similar projects,
     # this odd markup should be dispensed with, as standard valid XML tags would be preffered. (CW)
-    dump = re.sub(r'\{\{milestone:UT22084-(\d\d\d-\d\d\d-\d+)}}', r'<milestone UT22084-\1>', dump)
-    dump = re.sub(r'\{\{page:\{number:\d+,folio:(F\.\d+\.[ab])}}}', r'<ref \1>', dump)
+    dump = re.sub(r'\{\{milestone:\{label:\d+\.\d+,id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<milestone UT22084-\1>', dump)
+    dump = re.sub(r'\{\{page:\{number:1,id:[UT0-9\-]+,folio:(F\.\d+\.[ab])}}}', r'<ref \1><first_page \1>', dump)
+    dump = re.sub(r'\{\{page:\{number:\d+,id:[UT0-9\-]+,folio:(F\.\d+\.[ab])}}}', r'<ref \1>', dump)
     dump = re.sub(r'[ ]?\{\{note:\{index:(\d+),id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<note #\1 UT22084-\2>', dump)
     sentences = dump.split('\n')
     milestones = {}
     notes = {}
     text_version = {}
+    first_page = {}
     mstone = 1
     for num, s in enumerate(sentences):
         if '<milestone' in s:
@@ -62,6 +64,7 @@ def prepare_target(dump):
                     milestones[id] = m_id[0]
                     mstone += 1
                     new += id
+                    new += ' '
                 else:
                     new += chunk
             sentences[num] = new
@@ -87,8 +90,13 @@ def prepare_target(dump):
                     new += chunk
 
             sentences[num] = new
+
+        if '<first_page' in s:
+            f_page = re.findall(r'<first_page (F\.\d+\.[ab])', s)
+            first_page['first_page'] = f_page[0]
+            sentences[num] = re.sub(r'<first_page F\.\d+\.[ab]>', r'', sentences[num])
     sentences = '\n'.join(sentences)
-    return sentences, {'notes': notes, 'milestones': milestones, 'text_version': text_version}
+    return sentences, {'notes': notes, 'milestones': milestones, 'text_version': text_version, 'first_page': first_page}
 
 
 def preprocess(in_dir, out_dir):
