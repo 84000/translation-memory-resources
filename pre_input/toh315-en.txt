@@ -1,0 +1,25 @@
+{{version:v 1.0.2 2021}}
+The Father and Mother Sūtra
+The Translation
+{{milestone:{label:1.1,id:UT22084-072-015-14}}}{{page:{number:1,id:UT22084-072-015-46,folio:F.169.a}}} Homage to all buddhas and bodhisattvas!
+Thus did I hear at one time. The Blessed One was dwelling with a saṅgha of hearers in Śrāvastī, in the Jetavana, in the park of Anāthapiṇḍada. At that time, the Blessed One proclaimed:
+{{milestone:{label:1.2,id:UT22084-072-015-17}}}“Monks, those householders who properly venerate and attend to both their father and mother dwell with Brahmā. Why is that? Monks, from the perspective of the family, the father and mother of a child of noble family are like Brahmā. 
+{{milestone:{label:1.3,id:UT22084-072-015-18}}}“Monks, those householders who properly venerate, honor, and attend to both their father and mother {{page:{number:2,id:UT22084-072-015-47,folio:F.169.b}}} dwell with teachers. Why is that? Monks, from the perspective of the family, the father and mother of a child of noble family are like teachers.
+{{milestone:{label:1.4,id:UT22084-072-015-19}}}“Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with those worthy of receiving offerings. Why is that? Monks, from the perspective of the family, the father and mother of a child of noble family are those worthy of receiving offerings.
+{{milestone:{label:1.5,id:UT22084-072-015-20}}}“Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with humans. Why is that? Monks, from the perspective of the family, the father and mother of a child of noble family are like humans.
+{{milestone:{label:1.6,id:UT22084-072-015-21}}}“Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with gods. Monks, from the perspective of the family, the father and mother of a child of noble family are like gods.”
+{{milestone:{label:1.7,id:UT22084-072-015-22}}}That is what the Blessed One proclaimed. The Well-Gone One having said that, the Teacher proclaimed this, too: 
+“Father and mother—both are Brahmā
+And, likewise, one’s first teachers.
+Worthy of their children’s every gift,
+They are humans and they are gods.
+{{milestone:{label:1.8,id:UT22084-072-015-24}}}“Therefore, they are worthy of prostration.
+They are to be massaged{{note:{index:4,id:UT22084-072-015-25}}} and bathed, their feet anointed. 
+The wise should also serve them with food and drink, 
+With clothing, bedding, and cushions.
+{{milestone:{label:1.9,id:UT22084-072-015-26}}}“Those who serve their father and mother
+Are, for that reason, wise.
+In this life they will not be disparaged,
+And at death they will go to the higher realms.”
+{{milestone:{label:1.10,id:UT22084-072-015-27}}}The Blessed One having proclaimed thus, the monks rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.11,id:UT22084-072-015-28}}}This completes “The Father and Mother Sūtra.”

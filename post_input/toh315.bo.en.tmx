@@ -1,0 +1,133 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་མ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Father and Mother Sūtra</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [169.a] Homage to all buddhas and bodhisattvas!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཉན་ཐོས་ ཀྱི་ དགེ་འདུན་ དང་ བཅས་པ་ མཉན་ དུ་ཡོད་པ་ ན་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ ཁྱིམ་བདག་ མགོན་མེད་ ཟས་ སྦྱིན་ གྱི་ ཀུན་དགའ་ར་བ་ ན་ བཞུགས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One was dwelling with a saṅgha of hearers in Śrāvastī, in the Jetavana, in the park of Anāthapiṇḍada.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>At that time, the Blessed One proclaimed:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱིམ་ གང་དག་ ན །_ |#| ཕ་མ་ གཉིས་ ལ་ ལེགས་པ ར་ རི་མོ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ གཡོག་ བྱེད་པ འི་ ཁྱིམ་ དེ་དག་ ནི་ ཚངས་པ་ དང་ ལྡན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 “Monks, those householders who properly venerate and attend to both their father and mother dwell with Brahmā.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ རིགས་ ཀྱི་ བུ འི་ ཕ་མ་ གཉིས་ ནི་ རིགས་པ འི་ སྒོ་ ནས་ ཚངས་པ་ དང་ འདྲ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, from the perspective of the family, the father and mother of a child of noble family are like Brahmā.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱིམ་ གང་དག་ ན་ ཕ་མ་ གཉིས་ ལ་ ལེགས་པ ར་ རི་མོ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ མཆོད་པ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ གཡོག་ བྱེད་པ འི་ ཁྱིམ་ དེ་དག་ ནི་ སློབ་ [169b] དཔོན་ དང་ ལྡན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 “Monks, those householders who properly venerate, honor, and attend to both their father and mother [169.b] dwell with teachers.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ རིགས་ ཀྱི་ བུ འི་ ཕ་མ་ གཉིས་ ནི་ རིགས་པ འི་ སྒོ་ ནས་ སློབ་དཔོན་ དང་ འདྲ་བ་ ཡིན་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, from the perspective of the family, the father and mother of a child of noble family are like teachers.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱིམ་ གང་དག་ ན་ ཕ་མ་ གཉིས་ ལ་ ལེགས་པ ར་ རི་མོ ར་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ མཆོད་པ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ གཡོག་ བྱེད་པ འི་ ཁྱིམ་ དེ་དག་ ནི་ ཀུན་ ཏུ་ སྦྱིན་པ འི་ འོས་ སུ་ གྱུར་པ་ དང་ ལྡན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 “Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with those worthy of receiving offerings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ རིགས་ ཀྱི་ བུ འི་ ཕ་མ་ གཉིས་ ནི་ རིགས་པ འི་ སྒོ་ ནས་ ཀུན་ ཏུ་ སྦྱིན་པ འི་ འོས་ སུ་ གྱུར་པ་ ཡིན་པ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, from the perspective of the family, the father and mother of a child of noble family are those worthy of receiving offerings.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱིམ་ གང་དག་ ན་ ཕ་མ་ གཉིས་ ལ་ ལེགས་པ ར་ རི་མོ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ མཆོད་པ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ གཡོག་ བྱེད་པ འི་ ཁྱིམ་ དེ་དག་ ནི་ མི་ དང་ ལྡན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 “Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with humans.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ ཅིའི་ཕྱིར་ ཞེ་ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Why is that?</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ རིགས་ ཀྱི་ བུ འི་ ཕ་མ་ གཉིས་ ནི་ རིགས་པ འི་ སྒོ་ ནས་ མི་དང་འདྲ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, from the perspective of the family, the father and mother of a child of noble family are like humans.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ ཁྱིམ་ གང་དག་ ན་ ཕ་མ་ གཉིས་ ལ་ ལེགས་པ ར་ རི་མོ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ མཆོད་པ་ བྱེད་པ་ དང་ །_ ལེགས་པ ར་ གཡོག་ བྱེད་པ འི་ ཁྱིམ་ དེ་དག་ ནི་ ལྷ་ དང་ ལྡན་པ་ ཡིན་ ནོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 “Monks, those householders who properly venerate, honor, and attend to both their father and mother dwell with gods.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དག་ རིགས་ ཀྱི་ བུ འི་ ཕ་མ་ གཉིས་ ནི་ རིགས་པ འི་ སྒོ་ ནས་ ལྷ་ དང་ འདྲ་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Monks, from the perspective of the family, the father and mother of a child of noble family are like gods.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 That is what the Blessed One proclaimed.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེ་བ ར་ གཤེགས་པ ས་ དེ་སྐད་ གསུངས་ ནས་ སྟོན་པ ས་ གཞན་ ཡང་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Well-Gone One having said that, the Teacher proclaimed this, too:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་མ་ གཉིས་ ནི་ ཚངས་པ་ སྟེ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Father and mother—both are Brahmā</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ དང་པོ་ སློབ་དཔོན་ ཡིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>And, likewise, one’s first teachers.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བུ་ ཡི་ ཀུན་ སྦྱིན་ འོས་ གྱུར་པ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Worthy of their children’s every gift,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མི་ ཡང་ ཡིན་ ལ་ ལྷ་ ཡང་ ཡིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are humans and they are gods.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ཕྱིར་ དེ་ གཉིས་ ཕྱག་ གི་ གནས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$8 “Therefore, they are worthy of prostration.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དྲིལ་བ་ དང་ ནི་ ཁྲུས་ རྣམས་ དང་ །_། རྐང་པ་ དག་ ཀྱང་ བསྐུ་བ་ དང་ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>They are to be massaged#4 and bathed, their feet anointed.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཡང་ན་ ཟས་ དང་ སྐོམ་ རྣམས་ དང་ །_། གོས་ དང་ མལ་སྟན་ རྣམས་ ཀྱིས །_། མཁས་པ་ དག་ གིས་ བཀུར་སྟི་ བྱ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The wise should also serve them with food and drink, |#| With clothing, bedding, and cushions.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་མ་ དག་ ལ་ བཀུར་ བྱས་པ །_། དེས་ན་ མཁས་པ་ དེ་དག་ ནི །_། འདིར་ ཡང་ སྨད་པ་ མེད་ འགྱུར་ ལ །_། ཤི་ ན འང་ མཐོ་རིས་ འགྲོ་བ ར་ འགྱུར །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$9 “Those who serve their father and mother |#| Are, for that reason, wise. |#| In this life they will not be disparaged, |#| And at death they will go to the higher realms.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$10 The Blessed One having proclaimed thus,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགེ་སློང་ དེ་དག་ ཡི་ རངས་ ཏེ །_ |#| བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>the monks rejoiced and praised what the Blessed One had said.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཕ་མ འི་ མདོ་ རྫོགས་ སོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>$11 This completes “The Father and Mother Sūtra.”</seg></tuv>
+</tu>
+</body>
+</tmx>

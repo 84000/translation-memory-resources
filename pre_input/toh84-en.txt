@@ -1,0 +1,437 @@
+{{version:v 1.0.3 2021}}
+The Noble Mahāyāna Sūtra
+The Questions of the Girl Vimalaśraddhā
+The Translation
+{{milestone:{label:1.1,id:UT22084-044-004-22}}}{{page:{number:1,id:UT22084-044-004-362,folio:F.95.a}}} Homage to all the buddhas and bodhisattvas!
+{{milestone:{label:1.2,id:UT22084-044-004-23}}}Thus did I hear at one time. The Blessed One was residing at Jetavana, Anātha­piṇḍada’s park in Śrāvastī, together with a large assembly of five hundred bhikṣus and eight thousand bodhisattva mahāsattvas who were well versed in all fields of knowledge, had obtained retention and unimpeded eloquence, were fully accomplished in patience, were completely victorious over the hordes of Māra, and had obtained the Dharmas attained by the thus-gone ones. There was the bodhisattva Lokadhara, the bodhisattva Mārgadhara, the bodhisattva Dharaṇīdhara, the bodhisattva Mahādharaṇīdhara, the bodhisattva Dhṛtimati, the bodhisattva Adhimuktika, the bodhisattva Surūpavyūha, the bodhisattva Ratnaketu, the bodhisattva Ratnadhvaja, the bodhisattva Ratnacinta, the bodhisattva Ratnākara, the bodhisattva Ratnamati, the bodhisattva Ratnaguṇa, and the bodhisattva Ratnaprabha, and there were also the bodhisattvas of this fortunate eon headed by Maitreya. There was also a group of sixty bodhisattvas with incomparable motivation, headed by Mañjuśrī, {{page:{number:2,id:UT22084-044-004-341,folio:F.95.b}}} and a group of sixteen great men led by the bodhisattva Bhadrapāla. Also gathered there was an assembly of twenty thousand gods from the Tuṣita heaven.
+{{milestone:{label:1.3,id:UT22084-044-004-24}}}Then the Blessed One, who was sitting there on the lion throne called Treasury of Great Arrangements, surrounded by an immeasurable assembly of hundreds of thousands, shone forth everywhere with rays of light like those of the sun and the moon. Like the kings of the gods, Śakra and Brahmā, his brilliance was outstanding. Like Mount Meru, the king of mountains,{{note:{index:10,id:UT22084-044-004-25}}} he was extremely tall and rose high above the common. Like a great torch, the light that he radiated was utterly resplendent. Like an elephant king, he beheld each one and everyone.{{note:{index:11,id:UT22084-044-004-26}}} Like a lion roaring, he taught the Dharma fearlessly. Like the king of the asuras, Rāhula, he eclipsed all those who surrounded him.{{note:{index:12,id:UT22084-044-004-27}}} His body was adorned with all the major and minor marks of a buddha. His splendor and power blazed forth.{{note:{index:13,id:UT22084-044-004-28}}} In order to establish all sentient beings in the supreme definitive meaning and make them understand it,{{note:{index:14,id:UT22084-044-004-29}}} he was teaching the Dharma in the midst of this large audience with a voice like Brahmā’s, which resounded in all the universes of the entire trichiliocosm.
+{{milestone:{label:1.4,id:UT22084-044-004-30}}}Then King Prasenajit’s young daughter,{{note:{index:15,id:UT22084-044-004-31}}} Vimalaśraddhā—a pretty and beautiful{{note:{index:16,id:UT22084-044-004-32}}} girl whom everyone liked to see, and who had produced roots of virtue in the past and practiced in the Mahāyāna—came to Jetavana from the town of Śrāvastī, accompanied by five hundred girls, each of whom wore golden jewelry. Having prostrated herself, bowing her head to the feet of the Blessed One,{{note:{index:17,id:UT22084-044-004-33}}} she circumambulated him three times. Then, after sitting down to one side before the Blessed One, she praised him with these verses: {{page:{number:3,id:UT22084-044-004-342,folio:F.96.a}}}
+{{milestone:{label:1.5,id:UT22084-044-004-34}}}“For long you accumulated meritorious and pure deeds,
+And completed an infinite ocean of qualities,
+Causing many to rejoice with faith and devotion—
+For this, I pay homage to you, supreme sage.{{note:{index:18,id:UT22084-044-004-35}}}
+{{milestone:{label:1.6,id:UT22084-044-004-36}}}“Displaying a wonderful, luminous resplendence,{{note:{index:19,id:UT22084-044-004-37}}}
+Like a mine of jewels, you reveal the doorways to the Dharma,
+As a full fathom of light always radiates from your body—
+For this, I pay homage to you, cool lake of great intelligence.
+{{milestone:{label:1.7,id:UT22084-044-004-38}}}“Fruit tree of qualities, inconceivable in virtues,
+The entire world praises you, supreme among humans;{{note:{index:20,id:UT22084-044-004-39}}}
+You have perfected discipline and accomplished great aspirations—
+For this, I pay homage to you, foremost among those worthy of offerings.
+{{milestone:{label:1.8,id:UT22084-044-004-40}}}“You abide in the supreme Dharma, always calm and unattached.
+You regard every being in the universe with equanimity, as if they were your only child.
+Since with your dual knowledge you know all actions,{{note:{index:21,id:UT22084-044-004-41}}}
+Like a skillful guide, you point out the smooth path. 
+{{milestone:{label:1.9,id:UT22084-044-004-42}}}“The conduct of bodhisattvas—
+Those who, once they have acquired steadfast perseverance,
+Act to benefit all sentient beings with love and compassion—
+I request that the Thus-Gone One teach and explain.{{note:{index:22,id:UT22084-044-004-43}}}
+{{milestone:{label:1.10,id:UT22084-044-004-44}}}“How, having obtained steadfast strength,
+Do bodhisattvas defeat the hordes of Māra, yet remain within saṃsāra?
+How, having obtained the Dharma of equanimity,
+Do they bring sentient beings to maturity?{{note:{index:23,id:UT22084-044-004-45}}}
+{{milestone:{label:1.11,id:UT22084-044-004-46}}}“How are they like the earth and the sky,
+Like the wind, like water, and like fire?
+How, having obtained trust in it, do they abide in the Dharma,
+Becoming like Mount Meru or a lion king?
+{{milestone:{label:1.12,id:UT22084-044-004-47}}}“How, having abandoned a mind of love and hate,
+Do their minds become pure, honest, and nondeceptive?
+How do they cultivate generosity, discipline, patience,
+Perseverance, concentration, and liberation?
+{{milestone:{label:1.13,id:UT22084-044-004-48}}}“How do they vanquish the darkness of the afflictions with their insight,
+And how, constantly applying great means,
+Do they abide in unimpeded retention and concentration,
+The four immeasurables, and the five kinds of supernormal powers?{{note:{index:24,id:UT22084-044-004-49}}}
+{{milestone:{label:1.14,id:UT22084-044-004-50}}}“How, having come into the presence of the buddhas,
+Do they always take miraculous {{page:{number:4,id:UT22084-044-004-343,folio:F.96.b}}} births, remembering their previous lives?
+Practicing austerities,{{note:{index:25,id:UT22084-044-004-51}}} they dwell in hermitages without strife,
+Taming their minds and pacifying the afflictions.
+{{milestone:{label:1.15,id:UT22084-044-004-52}}}“Following discipline, they cultivate the path of awakening.
+And, having obtained the nectar of cessation, they defeat the armies of Māra,
+And turn the Wheel of Dharma that confers bliss—
+I beseech you to explain in words such a perfect path!”
+{{milestone:{label:1.16,id:UT22084-044-004-53}}}Then the Blessed One replied to the girl Vimalaśraddhā, “Girl, if bodhisattvas are endowed with eight strengths, although dwelling within saṃsāra, they have steadfast courage and are completely indefatigable. And what are these eight strengths? The first is the strength of mental motivation, because they are without deceit. The second is the strength of determination, because they abandon all faults. The third is the strength of application, because they continually practice virtue. The fourth is the strength of real trust, because they have strong trust in the maturation of karma. The fifth is the strength of the mind set on awakening, because they do not seek out inferior vehicles. The sixth is the strength of great love, because they do not harm sentient beings. The seventh is the strength of great compassion, because they take all injury upon themselves. The eighth is the strength of a spiritual friend, because from time to time they need to be examined.{{note:{index:26,id:UT22084-044-004-54}}} Girl, these are called the eight kinds of strength. When bodhisattvas are endowed with these eight strengths,{{note:{index:27,id:UT22084-044-004-55}}} they have steadfast courage, and although they dwell within saṃsāra, they have no clinging or attachment.”
+{{milestone:{label:1.17,id:UT22084-044-004-56}}}Then the Blessed One spoke again in verse:{{note:{index:28,id:UT22084-044-004-57}}}
+“Heroic ones with motivated minds
+Abandon any deceit,
+And, always behaving in a straightforward manner,
+Apply themselves diligently to genuine awakening.
+{{milestone:{label:1.18,id:UT22084-044-004-59}}}“One who has the strength of determination
+Abandons the various faults,
+And, practicing virtue exclusively, {{page:{number:5,id:UT22084-044-004-344,folio:F.97.a}}}
+Maintains genuine diligence.
+{{milestone:{label:1.19,id:UT22084-044-004-60}}}“One who is endowed with application
+Is always excellently stable,{{note:{index:29,id:UT22084-044-004-61}}}
+And, having steadfast perseverance,
+Brings happiness to sentient beings.
+{{milestone:{label:1.20,id:UT22084-044-004-62}}}“Through the power of real trust,
+If one is aware of the full maturation of karma,
+One has confidence in the Buddha’s wisdom
+And brings the entire universe under one’s care.
+{{milestone:{label:1.21,id:UT22084-044-004-63}}}“One who has the strength of the mind set on awakening
+Abandons the inferior vehicles,
+And, not interrupting the lineage of the buddhas,
+Abides in the true nature of things.
+{{milestone:{label:1.22,id:UT22084-044-004-64}}}“Through the power of great loving-kindness,
+One looks with equality at all sentient beings
+And, being beyond love and hate,
+Does not give rise to anger or ill will.
+{{milestone:{label:1.23,id:UT22084-044-004-65}}}“Through the strength of great compassion,
+One takes responsibility for sentient beings
+And, not clinging to saṃsāra,{{note:{index:30,id:UT22084-044-004-66}}}
+Does not feel disenchanted or weary.
+{{milestone:{label:1.24,id:UT22084-044-004-67}}}“Through the strength of the spiritual friend,
+There is continuous examination of each other.{{note:{index:31,id:UT22084-044-004-68}}}
+One will not lose heart,
+And so will abide in awakening.
+{{milestone:{label:1.25,id:UT22084-044-004-69}}}“When those who are heroes
+Have obtained these eight strengths,
+They will reside in the heart of awakening
+And defeat the many armies of Māra.
+{{milestone:{label:1.26,id:UT22084-044-004-70}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities,{{note:{index:32,id:UT22084-044-004-71}}} they abide in sameness. What are these eight qualities? The first is the sameness of all sentient beings, because they are intrinsically without a self. The second is the sameness of all phenomena, because they are utterly void. The third is the sameness of all buddhafields, because they all occur within the sphere of emptiness. The fourth is the sameness of all thus-gone ones, because they all teach in equanimity. The fifth is the sameness of all actions, because causes and conditions are without intrinsic nature. The sixth is the sameness of all vehicles, because they are all similar in being noncomposite. {{page:{number:6,id:UT22084-044-004-345,folio:F.97.b}}} The seventh is the sameness of minds, because mind is similar to an illusion. The eighth is the sameness of all māras, because one cannot observe a beginning of the afflictions. This is what is called abiding in sameness through the eight qualities.”
+{{milestone:{label:1.27,id:UT22084-044-004-72}}}Then the Blessed One spoke again in verse:
+“Because sentient beings are intrinsically without a self,
+They cannot be observed even for a moment.
+One who abides in sameness
+Should see in this way.
+{{milestone:{label:1.28,id:UT22084-044-004-74}}}“Because all phenomena are the same,
+They are always intrinsically empty and void.
+Differentiated only through words,
+Phenomena are intrinsically without particularity.
+{{milestone:{label:1.29,id:UT22084-044-004-75}}}“As one cannot observe any boundaries
+Of all the buddhafields in the ten directions,
+Their nature is similar to space—
+All the buddhafields are always the same.
+{{milestone:{label:1.30,id:UT22084-044-004-76}}}“As all thus-gone ones of the three times
+Are the same in their abiding in the expanse of reality,
+They are completely free through their unending wisdom—
+All buddhas are such.
+{{milestone:{label:1.31,id:UT22084-044-004-77}}}“The causes and conditions of sentient beings
+In their nature are all the same.
+By knowing their actions,
+One understands them accordingly.
+{{milestone:{label:1.32,id:UT22084-044-004-78}}}“All the different sentient beings
+Are understood to be like an illusory display.
+Not grasping at either the inner or the outer,
+Their nature is always pure.
+{{milestone:{label:1.33,id:UT22084-044-004-79}}}“Although various vehicles were taught,
+They are the same in being noncomposite.
+In full knowledge of means, the Guide
+Made distinctions by teaching three vehicles.
+{{milestone:{label:1.34,id:UT22084-044-004-80}}}“Even when the māra of afflictions is at hand,
+The afflictions are not at all existing things.
+Similarly, the domains of the māra of the gods,
+The māra of the aggregates, and the māra of the Lord of Death are empty.
+{{milestone:{label:1.35,id:UT22084-044-004-81}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities,{{note:{index:33,id:UT22084-044-004-82}}} they abandon love and hate. What are these eight qualities?{{note:{index:34,id:UT22084-044-004-83}}} Being endowed with love; being endowed with compassion; always being willing to benefit others; not being attached to worldly things; {{page:{number:7,id:UT22084-044-004-346,folio:F.98.a}}} not being attached to one’s body; always cultivating a concentrated mind; giving away one’s body and life; and discerning the afflictions. When bodhisattvas can accomplish these eight qualities, they will abandon love and hate.”
+{{milestone:{label:1.36,id:UT22084-044-004-84}}}Then the Blessed One spoke again in verse:
+“Bearing the armor of a loving mind,
+One has affectionate concern for everyone,
+And, maintaining equality,
+Love and hate do not arise.
+{{milestone:{label:1.37,id:UT22084-044-004-86}}}“Because wise people always act to be of benefit,
+They constantly give happiness to others;
+Although they acquire something, they do not see it as their own,{{note:{index:35,id:UT22084-044-004-87}}}
+And they hold no resentment despite being blamed or disparaged.
+{{milestone:{label:1.38,id:UT22084-044-004-88}}}“Since they are unshaken by the eight worldly concerns,
+Love and hate do not arise.{{note:{index:36,id:UT22084-044-004-89}}}
+Whether it concerns themselves or others,
+Conceptions of love and hate do not arise.
+{{milestone:{label:1.39,id:UT22084-044-004-90}}}“Having abandoned all conceptions,
+Such people do not cling to any objects of experience.
+Always understanding the nature of the body,
+They have no distress about their bodies or lives.
+{{milestone:{label:1.40,id:UT22084-044-004-91}}}“Sagacious beings, like the sky,
+Are unmoved by joys and sorrows,{{note:{index:37,id:UT22084-044-004-92}}}
+And, properly understanding the afflictions,
+Avoid both me and mine.
+{{milestone:{label:1.41,id:UT22084-044-004-93}}}“Being like the earth in always accepting all activity,{{note:{index:38,id:UT22084-044-004-94}}}
+Love and hate do not arise.{{note:{index:39,id:UT22084-044-004-95}}}
+{{milestone:{label:1.42,id:UT22084-044-004-96}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities,{{note:{index:40,id:UT22084-044-004-97}}} they do not become exhausted by saṃsāra.{{note:{index:41,id:UT22084-044-004-98}}} What are these eight qualities?{{note:{index:42,id:UT22084-044-004-99}}} Bodhisattvas do not become exhausted by saṃsāra because their roots of virtue are immensely vast; because they discern sentient beings; because they always see and make offerings to the thus-gone ones; because they see innumerable buddhafields; because they always strive for the knowledge of a buddha; because they understand that saṃsāra is like a dream; because they are not intimidated by the excellent Dharma; and because they have distinct comprehension of the beginning, the end, and the real endpoint.” {{page:{number:8,id:UT22084-044-004-347,folio:F.98.b}}}
+{{milestone:{label:1.43,id:UT22084-044-004-100}}}Then the Blessed One spoke again in verse:
+“Meditators on the yogin’s path
+Eradicate their faults and become unstained,
+Like the pure moon in the sky;
+They liberate sentient beings from their suffering.
+Because they gather qualities,
+They do not become exhausted by saṃsāra.
+{{milestone:{label:1.44,id:UT22084-044-004-102}}}“They consider the nature of all sentient beings,
+And they act with steadfast perseverance.
+Devotedly making offerings
+To buddhas in immeasurable buddhafields,
+They thereby become endowed with the ten strengths,
+And they do not become exhausted by saṃsāra.
+{{milestone:{label:1.45,id:UT22084-044-004-103}}}“Teaching the inconceivable Dharma,
+In innumerable, infinite worlds,
+They maintain uninterrupted the lineage of the Three Jewels
+And become fully awakened as Dharma Kings.{{note:{index:43,id:UT22084-044-004-104}}}
+Those who preserve excellent discipline
+Do not become exhausted by saṃsāra, 
+{{milestone:{label:1.46,id:UT22084-044-004-105}}}“And they recognize that the nature of saṃsāra
+Is like a dream, a cloud, or a flash of lightning.
+Those who find liberation through the Dharma
+Do not become exhausted by saṃsāra.
+{{milestone:{label:1.47,id:UT22084-044-004-106}}}“Remaining in an awakened state,
+With their joyful minds,{{note:{index:44,id:UT22084-044-004-107}}} they are always happy.
+Those who have become accomplished through skillful means{{note:{index:45,id:UT22084-044-004-108}}}
+Do not become exhausted by saṃsāra. 
+{{milestone:{label:1.48,id:UT22084-044-004-109}}}“Constantly practicing the excellent Dharma,
+Their realization increases, like the waxing moon in the sky.
+Those who aspire to the Buddha’s qualities{{note:{index:46,id:UT22084-044-004-110}}}
+Do not become exhausted by saṃsāra.
+{{milestone:{label:1.49,id:UT22084-044-004-111}}}“And, although saṃsāra is endless,
+They always dwell in the real endpoint.
+Those who are attuned to insight, even for just a moment,
+Do not become exhausted by saṃsāra.
+{{milestone:{label:1.50,id:UT22084-044-004-112}}}“Furthermore, girl, when it is endowed with eight qualities,{{note:{index:47,id:UT22084-044-004-113}}} the mind’s constitution will be balanced.{{note:{index:48,id:UT22084-044-004-361}}} What are these eight qualities? The mind will be of balanced constitution because the mind has become similar to earth;{{note:{index:49,id:UT22084-044-004-114}}} because the mind has become similar to water; because the mind has become similar to fire; because the mind has become similar to air; because the mind has become similar to space; because the mind has become similar to the expanse of reality; {{page:{number:9,id:UT22084-044-004-348,folio:F.99.a}}} because the mind has become similar to liberation; and because the mind has become similar to nirvāṇa. These are called the eight kinds of balanced constitution of the mind.”
+{{milestone:{label:1.51,id:UT22084-044-004-115}}}Then the Blessed One spoke again in verse:
+“Because the mind is similar to earth,{{note:{index:50,id:UT22084-044-004-117}}}
+It can carry any load,
+And, whether there is virtue or nonvirtue,
+It never increases or diminishes.
+{{milestone:{label:1.52,id:UT22084-044-004-118}}}“Because the mind is similar to water,
+It washes away all stains and impurities
+And, nourishing all worlds,
+Dispels the distress of the afflictions.{{note:{index:51,id:UT22084-044-004-119}}}
+{{milestone:{label:1.53,id:UT22084-044-004-120}}}“Because the mind is similar to fire,
+It burns away all the afflictions,
+And, like the light of a huge torch,
+There is nothing it does not illuminate.
+{{milestone:{label:1.54,id:UT22084-044-004-121}}}“Because the mind is similar to wind,
+It neither dwells anywhere nor depends on anything,
+And the fragrance of discipline and learning
+Pervades everywhere throughout the three times.
+{{milestone:{label:1.55,id:UT22084-044-004-122}}}“Because the mind is similar to space,
+It is free from views and completely pure,
+And, although it interacts with everything,
+It does not follow after Māra.
+{{milestone:{label:1.56,id:UT22084-044-004-123}}}“Because the mind is similar to the expanse of reality,
+It is established in the very essence of bliss
+And, without ever increasing or diminishing,
+Always dwells in equanimity.
+{{milestone:{label:1.57,id:UT22084-044-004-124}}}“Even when liberation is attained
+By hearers and the solitary realizers,{{note:{index:52,id:UT22084-044-004-125}}}
+There is neither bondage,
+Nor is there liberation.
+{{milestone:{label:1.58,id:UT22084-044-004-126}}}“Saṃsāra and nirvāṇa
+Are said to be beyond coming and going,
+So, peacefully maintaining disengagement,
+One acts everywhere throughout the three times.
+{{milestone:{label:1.59,id:UT22084-044-004-127}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities, they become sources of awakening.{{note:{index:53,id:UT22084-044-004-128}}} What are these eight qualities? First,{{note:{index:54,id:UT22084-044-004-129}}} they have become sources of generosity, because they give away everything they own. Second, they have become sources of discipline, because they are free of transgressions. Third, {{page:{number:10,id:UT22084-044-004-349,folio:F.99.b}}} they have become sources of patience, because they are free of aggression. Fourth, they have become sources of perseverance, because they are free of laziness and doubt. Fifth, they have become sources of concentration, because they are skillful in means. Sixth, they have become sources of insight, because they maintain discipline and have vast learning. Seventh, they have become sources of the abodes of Brahmā, because they are fully at peace through complete liberation.{{note:{index:55,id:UT22084-044-004-130}}} Eighth, they have become sources of supernormal powers, because they constantly maintain concentration.”
+{{milestone:{label:1.60,id:UT22084-044-004-131}}}Then the Blessed One spoke again in verse:
+“Since those who constantly practice generosity
+Abandon the agony of desire,
+They do not seek the maturation of karmic fruit,
+And dedicate all their merit to the awakening of a buddha.
+{{milestone:{label:1.61,id:UT22084-044-004-133}}}“Because practitioners of the Great Vehicle have discipline,
+They are without anger, even when cut and torn apart.
+Striving one-pointedly for great bliss, and abandoning all habitual patterns,
+They never meet any real obstacle.{{note:{index:56,id:UT22084-044-004-134}}}
+{{milestone:{label:1.62,id:UT22084-044-004-135}}}“Bodhisattvas endowed with perseverance,
+For the sake of sentient beings and for many eons,
+Bear suffering and wander through countless worlds,
+Increasing the strength of their perseverance.
+{{milestone:{label:1.63,id:UT22084-044-004-136}}}“Those who cultivate concentration
+Abandon all kinds of elaboration,
+And, although they have perfected concentration,
+They do not get caught up in concentration.
+{{milestone:{label:1.64,id:UT22084-044-004-137}}}“Through incomparable great insight,
+They abandon extreme views
+And, with knowledge that the world is empty,{{note:{index:57,id:UT22084-044-004-138}}}
+Dispel all the darkness of delusion.
+{{milestone:{label:1.65,id:UT22084-044-004-139}}}“Those who cultivate the peaceful abodes of Brahmā
+Abandon unfortunate destinies
+And, always obtaining the states of Śakra and Brahmā,
+Meditate assiduously on the ultimate benefit.{{note:{index:58,id:UT22084-044-004-140}}}
+{{milestone:{label:1.66,id:UT22084-044-004-141}}}“With supernormal powers, bodhisattvas travel through all buddhafields,
+Respectfully honoring the buddhas and listening to the Dharma
+And, knowing well the natures of aspirations of all,
+Teach the Dharma, repeating it to sentient beings.{{note:{index:59,id:UT22084-044-004-142}}}
+{{milestone:{label:1.67,id:UT22084-044-004-143}}}“Furthermore, girl, because bodhisattvas are endowed with eight qualities,{{note:{index:60,id:UT22084-044-004-144}}}{{page:{number:11,id:UT22084-044-004-350,folio:F.100.a}}} they obtain perfect retention and unimpeded eloquence. What are these eight qualities? They revere the Dharma.{{note:{index:61,id:UT22084-044-004-145}}} They show respect for their preceptors and masters. They are never disheartened with seeking the Dharma. They teach it correctly, in the same way that they were taught. They are not miserly with the Dharma. They do not make public the faults of others. They devotedly pay respect to those who are expounding the Dharma, as if they were their own preceptors. And, without being fixated on the faults of others, they exhort others to abandon their faults. Because bodhisattvas are endowed with these eight qualities, they obtain perfect retention and unimpeded eloquence.”
+{{milestone:{label:1.68,id:UT22084-044-004-146}}}Then the Blessed One spoke again in verse:
+“Those who always one-pointedly seek the Dharma
+Show respect for their preceptors and spiritual friends.
+Since they abandon bad companions,
+They obtain an inexhaustible treasure.
+{{milestone:{label:1.69,id:UT22084-044-004-148}}}“Never being disheartened by learning,
+They zealously seek the Dharma.
+Because they teach it in the same way that they were taught,{{note:{index:62,id:UT22084-044-004-149}}}
+They do not look for any gain.
+{{milestone:{label:1.70,id:UT22084-044-004-150}}}“Since those who obtain perfect eloquence
+Gladden numerous assemblies,
+They are fully dedicated to giving the Dharma,
+And abandon miserliness and jealousy.
+{{milestone:{label:1.71,id:UT22084-044-004-151}}}“They practice the Dharma without attachment,
+And are ones who obtain retention.
+Because they preserve discipline by watching their own physical behavior,
+They never look for the faults of others.
+{{milestone:{label:1.72,id:UT22084-044-004-152}}}“They sustain their love and compassion,{{note:{index:63,id:UT22084-044-004-153}}}
+And since they do not speak untimely words,
+They obtain unimpeded eloquence,
+And show mastery of inspirational speech.
+{{milestone:{label:1.73,id:UT22084-044-004-154}}}“Those who honor capable Dharma teachers,
+As if they were preceptors,
+And exhort others to abandon their faults, while keeping them to themselves
+Obtain an ocean of inexhaustible treasures.
+{{milestone:{label:1.74,id:UT22084-044-004-155}}}“Furthermore, girl, because bodhisattvas are endowed with eight qualities,{{note:{index:64,id:UT22084-044-004-156}}}{{page:{number:12,id:UT22084-044-004-351,folio:F.100.b}}} they take miraculous rebirths from lotus buds in the presence of the buddhas. What are these eight qualities? Not speaking of the faults of others, even at the risk of their own lives;{{note:{index:65,id:UT22084-044-004-157}}} exhorting sentient beings to take refuge in the Three Jewels; establishing everyone in the mind set on awakening; having immaculate sublime conduct; making statues of the Thus-Gone One and putting them on lotus seats; dispelling the suffering of sentient beings entangled in sorrow; always humbling themselves in front of the arrogant and proud; and never causing any harm whatsoever to others.”
+{{milestone:{label:1.75,id:UT22084-044-004-158}}}Then the Blessed One spoke again in verse:
+“Those who, even if pain is inflicted,
+Never speak of the defects of others,
+And always praise the Three Jewels,
+Will be miraculously born in the presence of the buddhas.
+{{milestone:{label:1.76,id:UT22084-044-004-160}}}“Those who cultivate the mind set on awakening
+And exhort others to strive for omniscience,
+And who always maintain sublime conduct,
+Will be miraculously born in the presence of the buddhas.
+{{milestone:{label:1.77,id:UT22084-044-004-161}}}“Those who cover a buddha statue with gold
+And place it on a precious lotus seat,
+And who dispel the sorrow of beings,
+Will be miraculously born in the presence of the buddhas.
+{{milestone:{label:1.78,id:UT22084-044-004-162}}}“Those who, in front of the arrogant,
+Humble themselves as if they were their disciples,
+And who never harm others,
+Will be miraculously born in the presence of the buddhas.
+{{milestone:{label:1.79,id:UT22084-044-004-163}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities, they are consummate in ascetic virtue and always aspire to dwell in seclusion.{{note:{index:66,id:UT22084-044-004-164}}} What are these eight qualities? Having few wants;{{note:{index:67,id:UT22084-044-004-165}}} being content; being fully satisfied with the virtuous Dharma; nourishing themselves with virtue; always maintaining the tradition of the noble ones; always being disenchanted because of seeing the faults of saṃsāra; always contemplating impermanence, suffering, {{page:{number:13,id:UT22084-044-004-352,folio:F.101.a}}} emptiness, and selflessness; and being steadfast in faith, and not following other teachings.”
+{{milestone:{label:1.80,id:UT22084-044-004-166}}}Then the Blessed One spoke again in verse:
+“Since bodhisattvas have few wants and are content,{{note:{index:68,id:UT22084-044-004-168}}}
+They delight in the Dharma and nourish themselves with many virtues.
+Always aspiring to follow the manners of the noble ones,
+They see the defects of saṃsāra and dread it.
+{{milestone:{label:1.81,id:UT22084-044-004-169}}}“Since they are always dedicated to ascetic virtue,
+Like the solitary rhinoceros, they stay without companions.
+Contemplating that all compounded things are suffering and without self,
+They have minds of complete faith and full of energy.
+{{milestone:{label:1.82,id:UT22084-044-004-170}}}“Having seen the Dharma and not following other teachings,
+But always dwelling in solitude and praising the Buddha,{{note:{index:69,id:UT22084-044-004-171}}}
+With ascetic virtue, they keep a distance and suffer no anguish,
+Being free from the many troubles of strife.
+{{milestone:{label:1.83,id:UT22084-044-004-172}}}“Having abandoned relatives and friends and refused praise,{{note:{index:70,id:UT22084-044-004-173}}}
+They are fully committed to dwelling in seclusion.
+{{milestone:{label:1.84,id:UT22084-044-004-174}}}“Furthermore, girl, because bodhisattvas are endowed with eight qualities,{{note:{index:71,id:UT22084-044-004-175}}} they defeat the armies of Māra. What are these eight qualities? Penetrating emptiness as the very essence of things;{{note:{index:72,id:UT22084-044-004-176}}} having a real trust in signlessness; having a real trust in wishlessness; fully discerning the uncompounded; not being doubtful or skeptical about it; accepting{{note:{index:73,id:UT22084-044-004-177}}} non-arising; understanding essencelessness; and, by being skillful in means, individually discriminating all phenomena, while knowing unending suchness.”
+{{milestone:{label:1.85,id:UT22084-044-004-178}}}Then the Blessed One spoke again in verse:
+“Those who realize the three doors of complete liberation—
+Emptiness, signlessness, and wishlessness—defeat the armies of Māra.
+As there is no duality between the compounded and uncompounded,
+They realize non-arising{{note:{index:74,id:UT22084-044-004-180}}} and are completely liberated.
+{{milestone:{label:1.86,id:UT22084-044-004-182}}}“They will defeat the armies of Māra
+When they accept the non-arising of all phenomena thus:
+‘These are without arising and without cessation;
+The aggregates and the elements are without self and like illusions.’ {{page:{number:14,id:UT22084-044-004-353,folio:F.101.b}}}
+{{milestone:{label:1.87,id:UT22084-044-004-183}}}“They recognize that phenomena have no essence,
+While, by being skillful in means, they do not do away with suchness.
+The discrimination of phenomena is known to be the work of Māra.
+Having abandoned discrimination, Māra is defeated.
+{{milestone:{label:1.88,id:UT22084-044-004-184}}}“Employing both insight and means,
+And not being fixed on existence or emptiness,
+Those who thus meditate on the supreme Dharma,
+Being skillful in means, will obtain beautiful bodily forms.
+{{milestone:{label:1.89,id:UT22084-044-004-185}}}“Furthermore, girl, when bodhisattvas are endowed with eight qualities,{{note:{index:75,id:UT22084-044-004-186}}} they will never be separated from awakening. What are these eight qualities? With right view, they ripen sentient beings who have wrong views.{{note:{index:76,id:UT22084-044-004-187}}} With right mindfulness, they act compassionately toward sentient beings who have wrong intention. With right speech, they act compassionately toward those who speak wrongly. With right action, they draw in those engaged in wrongdoings. With right effort, they stop those engaged in wrong pursuits. With right livelihood, they do not abandon sentient beings engaged in wrong livelihoods. With right thought, they make them abandon wrong thinking. With right absorption, they wake those who are stuck in wrong absorption, and make them strive higher.”
+{{milestone:{label:1.90,id:UT22084-044-004-188}}}Then the Blessed One spoke again in verse:
+“Those who are endowed with right view
+Bring those with wrong views to maturity.{{note:{index:77,id:UT22084-044-004-190}}}
+Constantly cultivating right mindfulness,
+They act compassionately toward those with wrong intention.
+{{milestone:{label:1.91,id:UT22084-044-004-191}}}“Those who have right speech{{note:{index:78,id:UT22084-044-004-192}}}
+Act compassionately toward those who speak wrongly.
+Being established in right action,
+They draw in those who act wrongly.
+{{milestone:{label:1.92,id:UT22084-044-004-193}}}“Continuously cultivating right effort,
+They do not abandon those with wrong effort.{{note:{index:79,id:UT22084-044-004-194}}}
+Pursuing right livelihood,
+They draw in those engaged in wrong livelihoods.
+{{milestone:{label:1.93,id:UT22084-044-004-195}}}“The wise ones who have right thought {{page:{number:15,id:UT22084-044-004-354,folio:F.102.a}}}
+Think compassionately toward those who think wrongly.
+Always absorbed in right absorption,
+They draw in those caught up in wrong absorption.
+{{milestone:{label:1.94,id:UT22084-044-004-196}}}“With this unsurpassed perfect eightfold path,
+They liberate those who are caught in the river of saṃsāra.
+By rescuing those who are carried away by the stream,
+They are on the great path to awakening.
+{{milestone:{label:1.95,id:UT22084-044-004-197}}}“Hearers and solitary realizers
+Transport only themselves, like on a raft made of grass.
+A bodhisattva leads everyone across,
+Like the captain of a great boat.
+{{milestone:{label:1.96,id:UT22084-044-004-198}}}“Furthermore, girl, because bodhisattvas are endowed with eight qualities,{{note:{index:80,id:UT22084-044-004-199}}} they have direct experience of the deathless path. What are these eight qualities? Abiding in the strifeless Dharma;{{note:{index:81,id:UT22084-044-004-200}}} guarding themselves well against thoughts of hostility; constantly contemplating the meaning of suchness; sustaining the mind set on awakening, and meditating on the six recollections; meditating on the transcendental perfections with meticulous perseverance; collecting roots of virtue, and ripening sentient beings; sustaining great compassion, and drawing beings to the perfect Dharma; and attaining the acceptance that phenomena do not arise, and remaining in the irreversible condition.”
+{{milestone:{label:1.97,id:UT22084-044-004-201}}}Then the Blessed One spoke again in verse:
+“Always achieving conduct that is without strife,
+They abide in the Dharma of the Great Ascetic.
+Abandoning the shortcoming of hatred,
+They gather roots of virtue.
+{{milestone:{label:1.98,id:UT22084-044-004-203}}}“By contemplating the right meaning,
+They obtain inexhaustible eloquence;
+And, sustaining in the mind set on awakening,
+They always remember the six recollections.{{note:{index:82,id:UT22084-044-004-204}}}
+{{milestone:{label:1.99,id:UT22084-044-004-205}}}“Accomplishing all the perfections
+With absolute perseverance, they become irreversible on the path, 
+And, since they obtain the powers of skill in means,
+They liberate sentient beings.
+{{milestone:{label:1.100,id:UT22084-044-004-206}}}“With riches as lords of Dharma,
+They draw everyone in with their loving minds,{{note:{index:83,id:UT22084-044-004-207}}}
+Quickly attain acceptance of non-arising, {{page:{number:16,id:UT22084-044-004-355,folio:F.102.b}}}
+And become irreversible from awakening.
+{{milestone:{label:1.101,id:UT22084-044-004-208}}}“If they are able to act in this way,
+It will not be difficult for them to obtain the Buddhadharma,
+And before long, they will tame the māras
+And attain supreme awakening.”
+{{milestone:{label:1.102,id:UT22084-044-004-210}}}Then the girl Vimalaśraddhā, having thus heard the Dharma, greatly rejoiced, and she asked the Blessed One, “Blessed One, how many qualities must one possess to avert female existence?”{{note:{index:84,id:UT22084-044-004-211}}}
+{{milestone:{label:1.103,id:UT22084-044-004-212}}}The Blessed One answered, “Girl, when a woman is endowed with eight qualities, she will avert female existence.{{note:{index:85,id:UT22084-044-004-213}}} What are these eight qualities? Not being jealous;{{note:{index:86,id:UT22084-044-004-214}}} not being miserly; not being sly; not being angry; speaking the truth; not uttering harsh words; abandoning lust; and abandoning wrong views. Girl, when one realizes these eight qualities, one will quickly avert female existence.”
+{{milestone:{label:1.104,id:UT22084-044-004-215}}}Then the Blessed One spoke again in verse:
+“One who is weary of having a female body,
+Is not jealous of others,
+Abandons miserliness, and
+Is committed to the Dharma does not act deceitfully.
+{{milestone:{label:1.105,id:UT22084-044-004-217}}}“Avoiding hatred, with a mind of loving-kindness,
+One always speaks words of truth.
+Dispelling lust and avoiding harsh words,
+One should maintain right view.
+{{milestone:{label:1.106,id:UT22084-044-004-218}}}“When, weary of having a female body,
+One brings about such qualities,
+One will quickly avert female existence,
+And acquire the favorable body of a man.
+{{milestone:{label:1.107,id:UT22084-044-004-219}}}“Furthermore, girl, when a woman is endowed with eight qualities, she will avert female existence.{{note:{index:87,id:UT22084-044-004-220}}} What are these eight qualities? Venerating the Buddha and being dedicated to the Dharma;{{note:{index:88,id:UT22084-044-004-221}}} respectfully honoring and venerating ascetics and brahmins endowed with discipline, patience, and great learning; not being attached or clinging to any man, woman, or household matters; {{page:{number:17,id:UT22084-044-004-356,folio:F.103.a}}} not breaking the training precepts{{note:{index:89,id:UT22084-044-004-222}}} to which one has committed; not bringing forth negative intentions toward any living being; with superior intent, being completely weary of female existence; with the mind set on awakening, being set on the qualities of a great man; and viewing worldly household affairs as illusions or dreams.”
+{{milestone:{label:1.108,id:UT22084-044-004-223}}}Then the Blessed One spoke again in verse:
+“When one is devoted to the Buddha and dedicated to the Dharma,{{note:{index:90,id:UT22084-044-004-225}}}
+Venerates those with discipline and great learning,{{note:{index:91,id:UT22084-044-004-226}}}
+And does not bring forth thoughts of desire and craving,
+One will quickly avert female existence.
+{{milestone:{label:1.109,id:UT22084-044-004-227}}}“When one keeps discipline with modesty and bashfulness,
+Does not think wrongly of others,
+And maintains the mind set on awakening,
+One is not inclined to other vehicles,
+{{milestone:{label:1.110,id:UT22084-044-004-228}}}“Then very soon one will surely avert
+Impure existence as a woman.{{note:{index:92,id:UT22084-044-004-229}}}
+When, with supreme intent, one develops weariness,
+Seeing everything as an illusion,
+{{milestone:{label:1.111,id:UT22084-044-004-230}}}“And when one persistently meditates on the true Dharma
+That phenomena are intrinsically unmoving,
+And that causes and conditions are intrinsically empty and void,
+One will quickly obtain the body of a man.”{{note:{index:93,id:UT22084-044-004-231}}}
+{{milestone:{label:1.112,id:UT22084-044-004-232}}}Then the girl Vimalaśraddhā tossed the golden necklaces she was wearing toward the Blessed One.{{note:{index:94,id:UT22084-044-004-233}}} Rising into the sky, these jewels became perfectly golden celestial palaces and multi-storied mansions,{{note:{index:95,id:UT22084-044-004-234}}} inside of which, seated on golden thrones, there appeared emanations of the Thus-Gone One. Then each one of the five hundred girls likewise untied the jewelry they were wearing and tossed them toward the Blessed One.{{note:{index:96,id:UT22084-044-004-235}}} The jewelry also rose into the sky and became golden celestial palaces with jeweled pavilions, jeweled parasols, and all kinds of arrays of jewels.{{note:{index:97,id:UT22084-044-004-236}}}
+{{milestone:{label:1.113,id:UT22084-044-004-237}}}Thereupon the five hundred girls, having seen this great miracle, {{page:{number:18,id:UT22084-044-004-357,folio:F.103.b}}} uttered these verses in unison:
+{{milestone:{label:1.114,id:UT22084-044-004-238}}}“The Blessed One, supreme and foremost among men,
+Through his compassion acts as healer{{note:{index:98,id:UT22084-044-004-239}}} for all sentient beings.
+We too now give rise to the mind set on awakening,
+And remain properly committed to this resolve.
+{{milestone:{label:1.115,id:UT22084-044-004-240}}}“Blessed One, guide, bestower of happiness,
+To you, supreme among men, we make offerings.{{note:{index:99,id:UT22084-044-004-241}}}
+By force of hearing the Dharma, we have discarded all passions,
+And we no longer have any doubts or hesitation.
+{{milestone:{label:1.116,id:UT22084-044-004-242}}}“Thus leaving behind the many afflictions of women,
+We will continually overcome the afflictions and defeat Māra,{{note:{index:100,id:UT22084-044-004-243}}}
+And we will joyously make continuous offerings
+To the countless buddhas in the ten directions.
+{{milestone:{label:1.117,id:UT22084-044-004-244}}}“Maintaining generosity, discipline, and perseverance,
+We will train our minds with patience and concentration.
+And, gathering all sentient beings{{note:{index:101,id:UT22084-044-004-245}}} through insight and skillful means,
+We will realize all the aspects of the path of supreme awakening.
+{{milestone:{label:1.118,id:UT22084-044-004-246}}}“Conferring remedies to countless assemblies of gods and men,{{note:{index:102,id:UT22084-044-004-247}}}
+We will exhort all to give rise to the spirit of the Great Vehicle;
+We will roar the lion’s roar,{{note:{index:103,id:UT22084-044-004-248}}}
+And become the teachers of gods and men.”
+{{milestone:{label:1.119,id:UT22084-044-004-249}}}At that moment the Blessed One smiled.
+It is in the nature of the buddhas that when they smile, they emit light rays of various kinds of colors. There were blue, yellow, red, white, orange, violet, and crystalline rays that emanated from the Thus-Gone One’s mouth, which pervaded and illuminated countless and innumerable world systems up to their Brahmā’s realms, then returned and circled the Thus-Gone One three times, and finally dissolved into the Thus-Gone One’s crown protuberance. 
+{{milestone:{label:1.120,id:UT22084-044-004-251}}}Then the venerable Ānanda arose from his seat and asked the Blessed One, “Blessed One, what is the reason that you display such a smile?”
+{{milestone:{label:1.121,id:UT22084-044-004-252}}}The Blessed One {{page:{number:19,id:UT22084-044-004-358,folio:F.104.a}}} answered,{{note:{index:104,id:UT22084-044-004-253}}} “Ānanda, do you see this girl Vimalaśraddhā?” “Yes, I see her,” Ānanda replied.
+{{milestone:{label:1.122,id:UT22084-044-004-254}}}The Blessed One continued,{{note:{index:105,id:UT22084-044-004-255}}} “Ānanda, when the present lives of this girl Vimalaśraddhā and the other five hundred girls are exhausted, they will abandon these female bodies and be reborn among the gods of Tuṣita.{{note:{index:106,id:UT22084-044-004-256}}} There they will respectfully honor, venerate, and make offerings to the Blessed One Maitreya and to all the other thus-gone ones of this fortunate eon. In this way, after eighty-four thousand trillion eons, this girl Vimalaśraddhā will obtain perfect and complete awakening{{note:{index:107,id:UT22084-044-004-257}}} in a universe known as Vidyutprabha and will be known as the Thus-Gone One Raśmivyūha. The name of that eon will be Nityāvabhāsa. The life span of that thus-gone one will be the same as that of the gods of Tuṣita, that is, twelve thousand years. In that universe, he will be surrounded by limitless and immeasurable retinues exclusively{{note:{index:108,id:UT22084-044-004-258}}} consisting of bodhisattva mahāsattvas. These five hundred girls will be at the head of those retinues, in the same way as now, during my lifetime, these sixty bodhisattvas—Mañjuśrī and so on{{note:{index:109,id:UT22084-044-004-259}}}—are at the head.
+{{milestone:{label:1.123,id:UT22084-044-004-260}}}Ānanda, if any woman who, having listened to this Dharma discourse, retains it, reads it, or recites it aloud after having had a female body, she will not take such a rebirth again in the future, and will quickly obtain supreme, perfect, and complete awakening.”
+{{milestone:{label:1.124,id:UT22084-044-004-261}}}After the Blessed One spoke thus, the girl Vimalaśraddhā and the other five hundred girls, as well as the entire world with its gods, men, and asuras, rejoiced in the words of the Blessed One and praised them greatly. {{page:{number:20,id:UT22084-044-004-359,folio:F.104.b}}}
+{{milestone:{label:1.125,id:UT22084-044-004-262}}}This completes the fortieth chapter, called The Questions of the Girl Vimalaśraddhā, from the one hundred thousand chapters of Dharma discourses in The Noble Great Heap of Jewels.{{note:{index:110,id:UT22084-044-004-263}}}
