@@ -44,15 +44,15 @@ def prepare_target(dump):
     # miscommunications on my part. The following substitutions will correct these tags
     # as is needed. In the future if this script is used as a template for similar projects,
     # this odd markup should be dispensed with, as standard valid XML tags would be preffered. (CW)
-    dump = re.sub(r'\{\{milestone:\{label:\d+\.\d+,id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<milestone UT22084-\1>', dump)
+    dump = re.sub(r'\{\{milestone:\{label:[\d\.A-Z]+,id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<milestone UT22084-\1>', dump)
     dump = re.sub(r'\{\{page:\{number:1,id:[UT0-9\-]+,folio:(F\.\d+\.[ab])}}}', r'<ref \1><first_page \1>', dump)
     dump = re.sub(r'\{\{page:\{number:\d+,id:[UT0-9\-]+,folio:(F\.\d+\.[ab])}}}', r'<ref \1>', dump)
     dump = re.sub(r'[ ]?\{\{note:\{index:(\d+),id:UT22084-(\d\d\d-\d\d\d-\d+)}}}', r'<note #\1 UT22084-\2>', dump)
     sentences = dump.split('\n')
     milestones = {}
     notes = {}
-    text_version = {}
-    first_page = {}
+    text_version = {"text_version": "NO_VERSION"}
+    first_page = {"first_page": "INPUT_PAGE"}
     mstone = 1
     for num, s in enumerate(sentences):
         if '<milestone' in s:
