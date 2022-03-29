@@ -26,16 +26,8 @@ def prepare_source(dump):
     dump = re.sub(r'\{\{page:\{number:\d+,folio:(\d+[ab]),volume:\d+}}}', r'[\1]', dump)
     dump = re.sub(r'{.*?}', '', dump)
     # segment in sentences
-    text = Text(dump)
-    config = {"profile": "GMD"}
-    sentences = text.custom_pipeline(
-        "basic_cleanup",
-        "sentence_tok",
-        "dummy",
-        plaintext_sent_par,
-        tok_params=config,
-    )
-    return '\n'.join(sentences)
+    sentences = Text(dump).tokenize_sentences_plaintext
+    return sentences
 
 
 def prepare_target(dump):
