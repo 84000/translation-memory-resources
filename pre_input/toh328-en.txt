@@ -1,0 +1,134 @@
+{{version:v 1.0.7 2022}}
+The Sūtra
+Nanda’s Going Forth
+The Sūtra of Nanda’s Going Forth
+{{milestone:{label:1.1,id:UT22084-072-028-33}}}{{page:{number:1,id:UT22084-072-028-135,folio:F.254.b}}} Homage to the Omniscient One.
+{{milestone:{label:1.2,id:UT22084-072-028-35}}}Thus did I hear at one time. The Blessed One was staying in Banyan Grove near Kapilavastu. One morning he put on his upper and lower robes, took his alms bowl, and went to Kapilavastu for alms, attended by the śramaṇa Venerable Ānanda. The Blessed One approached the house of the noble son, Nanda. Nanda saw from afar that the Blessed One was coming. Having seen this, he quickly arranged a seat for him and said, “Do come inside, Blessed One! Welcome, Blessed One! Please take a seat, Blessed One!”
+{{milestone:{label:1.3,id:UT22084-072-028-36}}}The Blessed One took a seat. Then Nanda, the noble son, prostrated at the Blessed One’s feet and sat down in front of him.
+{{milestone:{label:1.4,id:UT22084-072-028-37}}}The Blessed One asked Nanda, the noble son, {{page:{number:2,id:UT22084-072-028-136,folio:F.255.a}}} “Nanda, why do you not go forth?”
+Nanda responded, “Blessed One, please explain what is meant by the words going forth.” 
+{{milestone:{label:1.5,id:UT22084-072-028-39}}}The Blessed One replied as follows:
+{{milestone:{label:1.6,id:UT22084-072-028-40}}}“It is the complete avoidance of all sinful deeds.
+It is the perfect elimination of desire, anger, and ignorance.
+It is the cleansing of all defilements that gather in the darkness of fighting, battle, blaming, quarreling, disputation, deception, and dishonesty.
+It is the basis of all virtues, just as fertile soil is the basis of all grains.
+It is the source of all precious things.
+It is the wish-fulfilling gem of all happiness.
+It is the exalted abode of all virtues.
+It is what gives relief to all sentient beings.
+It is the confidence of all beings.
+It is what grants fearlessness to all living creatures.
+It is the excellent vase for all beings who are poor.
+It is the defense for those who are defenseless.
+It is the resting place for those exhausted by aimless longing and tormented by suffering. 
+It is the distinctive feature of all buddhas.
+It is the object of worship of all sentient beings.
+It is what the wise ones praise. 
+It is the path for those proceeding toward liberation.
+It is what pure sentient beings revere.
+It is what is adhered to by those sentient beings who are suitable vessels.{{note:{index:19,id:UT22084-072-028-42}}}
+It is what closes the gate to rebirth in lower states of existence. 
+It is what opens the gate to higher states of existence and liberation. 
+It is what fills up the realm of divine beings.
+It is the dispeller of all sufferings.
+It is the liberator of those bound by the fetters of craving.
+Nanda, this is what we call going forth.
+{{milestone:{label:1.7,id:UT22084-072-028-43}}}“It is the house of those with right view. 
+It is the true commitment to liberation. 
+It is what leads to nirvāṇa.
+It is the complete termination of the continuum. {{page:{number:3,id:UT22084-072-028-137,folio:F.255.b}}}
+It is what burns away the afflictions.
+It is what uproots the latent propensities.
+It is what destroys the web of perverted views.
+It is what topples the victory banner of Māra.
+It is what raises the victory banner of the teacher of forbearance. 
+It is what reverses the wheel of saṃsāra.
+It is what turns the wheel of Dharma.
+It is what dries up the ocean of milk.
+It is what destroys the mountain of bones.
+It is the end of birth, aging, illness, and death.
+It is what unloads the burden of aggregates.
+It is what extricates those mired in the swamp of afflictions.
+It is what liberates those in the cage of the household. 
+It is what dispels harmful feelings. 
+It is what destroys doubts and the entrenched defilements of the afflictions.
+It is what gives relief from the fears of aging and death. 
+It is what terminates suffering due to separation from what we love.
+It is the riverbank of happiness and fearlessness for those tormented by the suffering of saṃsāra.
+It is what helps us transcend the desire realm.
+It is what helps us completely transcend the form realm. 
+It is what helps us entirely transcend the formless realm. 
+Ultimately, it makes us attain{{note:{index:20,id:UT22084-072-028-46}}} the supreme nirvāṇa.
+Nanda, this is what we call going forth.
+{{milestone:{label:1.8,id:UT22084-072-028-47}}}“It is like the eye of all worlds.
+It is the lamp in the darkness of ignorance.
+It is the purifier of the mental continuum. 
+It is the pacifier of all the diseases linked to the afflictions. 
+It is what reveals the path to those who have lost their way.
+It is what shows the essential nature of all phenomena. 
+It is what liberates us from all bonds.
+It is what dispels all the darkness of ignorance.
+It is what dissolves the obscuring darkness of the visual defects of unknowing.
+It is what encourages the lazy to make efforts.
+It is what disenchants those who violate ethical behavior. {{page:{number:4,id:UT22084-072-028-138,folio:F.256.a}}}
+It is what delights those with perfect ethical behavior. 
+It is what supremely delights the diligent.
+It is what delights those who take pleasure in seclusion. 
+It is what deeply satisfies meditators.
+It is the weapon for those engaged in subduing the enemy, the afflictions.
+It is what grants victory to non-returners.
+It is the abode for the homeless.
+It is the protector for those without protection.
+It is what grants fearlessness to those gripped by fear.
+It is the refuge for those without refuge.
+It is the means of attaining happiness for suffering ones.
+It is what liberates those bound by the fetters of saṃsāra.
+Nanda, this is what we call going forth.
+{{milestone:{label:1.9,id:UT22084-072-028-48}}}“It is honored by gods and humans.
+It is worshiped by kings. 
+It is what is intended by all buddhas.
+It is the complete renunciation of one’s dwelling place.
+It is the guide on the path to nirvāṇa. 
+It is the shaving of the burden of hair. 
+It is the saffron robe, the sign of being free from desires.
+It is the field of appropriate endeavor. 
+It is the victory banner of the sages.
+It is what vanquishes the arrogance{{note:{index:21,id:UT22084-072-028-49}}} of evildoing demons.
+It is what fully delights gods and humans. 
+Therefore, Nanda, if going forth is like this, why would you not go forth?
+{{milestone:{label:1.10,id:UT22084-072-028-50}}}“Nanda, the happiness of going forth is far superior even to the happiness of the dominion of a universal monarch. What’s more, Nanda, favorable circumstances are exceedingly difficult to find, even in one billion eons,{{note:{index:22,id:UT22084-072-028-51}}} yet for a buddha to have come is far more difficult to find than even that. Nanda, royal sages wishing for liberation, as well as universal monarchs endowed with the seven royal treasures, {{page:{number:5,id:UT22084-072-028-139,folio:F.256.b}}} together with their retinues of queens, have abandoned their lands{{note:{index:23,id:UT22084-072-028-52}}} and gone forth. Similarly, householders and congregations of brahmins have also abandoned their homes and gone forth.” 
+{{milestone:{label:1.11,id:UT22084-072-028-53}}}Thereupon the noble son Nanda replied to the Blessed One, “O Honorable One! I will remain a householder and give donations, make merit, and venerate the Blessed One and the community of śrāvakas. I will also supply them with monastic robes, alms, bedding, medicine for healing illnesses, and other necessities, too.”
+{{milestone:{label:1.12,id:UT22084-072-028-54}}}The Blessed One replied as follows: “If for one hundred years faithful noble sons and noble daughters were to make offerings of monastic robes, alms, cushions, medicine for healing illnesses, and other necessities to as many thus-gone, worthy, complete, and perfect buddhas as would fill the whole universe and its three realms, Nanda, it would not compare to as much as a sixteenth fraction of the intention to go forth and renounce the world.
+{{milestone:{label:1.13,id:UT22084-072-028-55}}}“Nanda, it is very difficult for you to find 
+Such favorable conditions for going forth.
+Nanda, the teacher has appeared before you; 
+So, do not disappoint me!
+{{milestone:{label:1.14,id:UT22084-072-028-56}}}“Suppose, Nanda, that this whole wide world comprised the waters of one great ocean in which there dwelled a single, blind turtle, and that there was also a single yoke with a hole, tossing about. Considering this,{{note:{index:24,id:UT22084-072-028-57}}} that blind turtle entertains the thought that it must put its neck through the hole of this yoke, but the yoke with its hole is buffeted by the wind and tossed about in all directions. In that case, Nanda, what are the chances that the blind turtle’s neck would ever accidentally enter the hole of that yoke, even in a hundred years?{{note:{index:25,id:UT22084-072-028-58}}} In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. 
+{{milestone:{label:1.15,id:UT22084-072-028-59}}}“Nanda, it is very difficult for you to find this human birth; and thus, if you have found perfect favorable conditions, {{page:{number:6,id:UT22084-072-028-140,folio:F.257.a}}}
+{{milestone:{label:1.16,id:UT22084-072-028-60}}}“Nanda, you have found the very difficult to find
+Favorable conditions for going forth.
+Nanda, the teacher has appeared before you; 
+So, do not disappoint me!
+{{milestone:{label:1.17,id:UT22084-072-028-61}}}“Suppose, Nanda, someone tosses some white mustard seeds at the eye of an upright-standing needle. In that case, Nanda, what are the chances that any single white mustard seed would pass through the eye, even in a hundred years?{{note:{index:26,id:UT22084-072-028-62}}} In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance. 
+{{milestone:{label:1.18,id:UT22084-072-028-63}}}“Nanda, it is very difficult to find this human birth; and thus, if you have found perfect favorable conditions, 
+{{milestone:{label:1.19,id:UT22084-072-028-64}}}“Nanda, you have found the very difficult to find
+Favorable conditions for going forth.
+Nanda, the teacher has appeared before you;
+So, do not disappoint me!
+{{milestone:{label:1.20,id:UT22084-072-028-65}}}“Why is that so?
+{{milestone:{label:1.21,id:UT22084-072-028-66}}}“If the word buddha was not heard
+Even in ten billion eons,
+And even in ten trillion eons,
+How would it be possible to see a buddha?
+{{milestone:{label:1.22,id:UT22084-072-028-67}}}“As the uḍumbara flower 
+Is extremely rare to find among trees,
+A buddha is similarly difficult to find.
+Yet, now you have found me!
+{{milestone:{label:1.23,id:UT22084-072-028-68}}}“Nanda, it is very difficult for you to find 
+Such favorable conditions for going forth. 
+Nanda, the teacher has appeared before you; 
+So, do not disappoint me!”
+{{milestone:{label:1.24,id:UT22084-072-028-69}}}Thereupon, Nanda, the noble son, shaved off his hair and beard, donned saffron robes, and, with deep faith in the teachings of the Victorious One, went forth from home into homelessness.
+{{milestone:{label:1.25,id:UT22084-072-028-70}}}After the Blessed One had thus spoken, Venerable Ānanda and Nanda, the noble son, praised the speech of the Blessed One.
+Colophon
+{{milestone:{label:c.1,id:UT22084-072-028-71}}}Thus concludes The Sūtra of Nanda’s Going Forth. This was edited by Tsang Devendrarakṣita.{{note:{index:27,id:UT22084-072-028-72}}}
