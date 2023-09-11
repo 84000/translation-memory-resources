@@ -1,0 +1,51 @@
+{{version:v 1.0.3 2021}}
+The Sūtra on Having Moral Discipline
+The Sūtra on Having Moral Discipline
+{{milestone:{label:1.1,id:UT22084-072-003-17}}}{{page:{number:1,id:UT22084-072-003-86,folio:F.127.a}}} Homage to the Omniscient One!
+{{milestone:{label:1.2,id:UT22084-072-003-18}}}Thus did I hear at one time. The Blessed One was dwelling in Anāthapiṇḍada’s park, Prince Jeta’s Grove in Śrāvastī, together with a great saṅgha of 1,250 monks.
+{{milestone:{label:1.3,id:UT22084-072-003-19}}}At that time, the Blessed One said to the monks, “Monks,{{note:{index:6,id:UT22084-072-003-20}}} since your consciousness will fade, your life force will cease, and the formations of life are certain to be destroyed, should you not practice with diligence and steadfast determination?
+{{milestone:{label:1.4,id:UT22084-072-003-21}}}“This human life is extremely difficult to find. Thus, having obtained it, and having used it to find the Victor’s teachings and to go forth in them, if you are deceived by those who are opposed to the meaning of liberation, it is sure that you will suffer. 
+{{milestone:{label:1.5,id:UT22084-072-003-22}}}“Monks, it is easy to be separated from the life force and succumb to death, but the degeneration of moral discipline is not the same. Why is that?{{note:{index:7,id:UT22084-072-003-23}}} When you are separated from the life force, that particular lifetime comes to an end. But with the degeneration and destruction of moral discipline, for ten million lives you will be separated from your kin, abandon well-being, and experience downfalls.{{note:{index:8,id:UT22084-072-003-24}}}
+{{milestone:{label:1.6,id:UT22084-072-003-25}}}“Therefore, the Teacher has praised moral discipline.{{note:{index:9,id:UT22084-072-003-26}}}
+By having moral discipline one will encounter the presence of buddhas.
+{{milestone:{label:1.7,id:UT22084-072-003-27}}}“Having moral discipline is the best of all ornaments.
+To acquire moral discipline is to be anointed with fragrance.
+Having moral discipline is the source of all joy.
+Having moral discipline is the water that clears away distress.{{note:{index:10,id:UT22084-072-003-28}}}{{page:{number:2,id:UT22084-072-003-87,folio:F.127.b}}}
+{{milestone:{label:1.8,id:UT22084-072-003-29}}}“Having moral discipline is praised by the whole world.{{note:{index:11,id:UT22084-072-003-30}}}
+Through pure moral discipline one will find the highest states of existence.{{note:{index:12,id:UT22084-072-003-31}}}
+Even beings like huge black poisonous nāga serpents, not to mention other kinds,
+Will do no harm to one with moral discipline. 
+{{milestone:{label:1.9,id:UT22084-072-003-32}}}“The monk with moral discipline is radiant.
+Those with moral discipline become renowned and obtain happiness.{{note:{index:13,id:UT22084-072-003-33}}}
+Having moral discipline is the cause for going to higher realms.{{note:{index:14,id:UT22084-072-003-34}}}
+Those who maintain moral discipline attain nirvāṇa.{{note:{index:15,id:UT22084-072-003-35}}}
+{{milestone:{label:1.10,id:UT22084-072-003-36}}}“Just as without eyes one cannot see forms,
+Without moral discipline one cannot see the Dharma.{{note:{index:16,id:UT22084-072-003-37}}}
+Just as without legs there is no way to embark on a path,
+Without moral discipline there is no liberation. 
+{{milestone:{label:1.11,id:UT22084-072-003-38}}}“In the same way, just as a good vase{{note:{index:17,id:UT22084-072-003-39}}} is a vessel for riches,
+Moral discipline{{note:{index:18,id:UT22084-072-003-40}}} is the foundation for generating good qualities.
+Just as a broken vase is not a suitable vessel for riches,
+If moral discipline is shattered,{{note:{index:19,id:UT22084-072-003-41}}} all good qualities are lost.{{note:{index:20,id:UT22084-072-003-42}}}
+{{milestone:{label:1.12,id:UT22084-072-003-43}}}“Do you think those who have lost moral discipline from the start 
+Will obtain nirvāṇa later?
+For those whose nose and ear are cut off, and so forth,
+There is no need for mirrors.{{note:{index:21,id:UT22084-072-003-44}}}
+{{milestone:{label:1.13,id:UT22084-072-003-45}}}“Neither hearing with the ears nor seeing with the eyes,{{note:{index:22,id:UT22084-072-003-46}}}
+The person who guards the teachings will travel to the higher realms.
+Those who are well learned and have protected their learning also reach the higher realms.{{note:{index:23,id:UT22084-072-003-47}}}
+{{milestone:{label:1.14,id:UT22084-072-003-48}}}“How can it be appropriate to resort to women?
+How can one delight in the palace of a king?
+How can a bubble have an essence?
+How can enjoyments endure eternally?{{note:{index:24,id:UT22084-072-003-88}}}
+{{milestone:{label:1.15,id:UT22084-072-003-49}}}“It is not appropriate to resort to women.
+Kingdoms are joyless.
+Bubbles are without an essence.
+Enjoyments are impermanent.
+{{milestone:{label:1.16,id:UT22084-072-003-50}}}“Enjoyments are like swift-running water. 
+Like a boat, such is a household.
+Like a flower, such is a body.
+Life is like froth on water.”{{note:{index:25,id:UT22084-072-003-51}}}
+{{milestone:{label:1.17,id:UT22084-072-003-52}}}When the Blessed One had spoken, the monks rejoiced and praised the words of the Blessed One.
+{{milestone:{label:1.18,id:UT22084-072-003-53}}}This concludes “The Sūtra on Having Moral Discipline.”

@@ -1,0 +1,19 @@
+{{version:v 1.0.8 2021}}
+The Noble Mahāyāna Sūtra
+The Question of Maitreya
+The Question of Maitreya (3)
+{{milestone:{label:1.1,id:UT22084-057-008-24}}}{{page:{number:1,id:UT22084-057-008-65,folio:F.330.b}}} Homage to all buddhas and bodhisattvas!
+Thus did I hear at one time. The Blessed One was dwelling in Rājagṛha, on Vulture Peak Mountain, together with a great saṅgha of monks and a great saṅgha of bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-057-008-27}}}On that occasion the bodhisattva mahāsattva Maitreya{{note:{index:10,id:UT22084-057-008-28}}} rose from his seat, draped his shawl over one shoulder, and knelt on his right knee. Joining his palms and bowing to the Blessed One, he spoke these words: “Blessed One, what are the karmic results of bestowing the Dharma?”
+{{milestone:{label:1.3,id:UT22084-057-008-29}}}The Blessed One replied to the bodhisattva mahāsattva Maitreya, “Maitreya, suppose one person filled as many great trichiliocosms as there are grains of sand in the river Ganges with the seven precious substances and offered them to the tathāgata, arhat, truly perfect buddhas, and another person, out of compassion, established a single verse of the Dharma in the mindstream of another. Maitreya, the former mass of merit would not even come close to a hundredth of this latter mass of merit. Nor could it be compared to even a thousandth, a hundred-thousandth, a ten-millionth, a hundred-sextillionth,{{note:{index:11,id:UT22084-057-008-30}}} or any other portion, fraction, enumeration, or example.”
+{{milestone:{label:1.4,id:UT22084-057-008-31}}}After the Sugata had said this, the Teacher furthermore declared:
+“Consider one who has caused as many world realms as there are sand grains in the Ganges
+To be filled to the brim with an abundance of riches{{note:{index:12,id:UT22084-057-008-33}}}
+And offered these to the victors with a joyful mind,
+And another who has bestowed a single verse to a sentient being— 
+{{milestone:{label:1.5,id:UT22084-057-008-34}}}“If that exceedingly vast gift of riches
+Does not equal any fraction or portion{{note:{index:13,id:UT22084-057-008-35}}}
+Of cultivating compassion and then bestowing a single verse, {{page:{number:2,id:UT22084-057-008-66,folio:F.331.a}}}
+How could one fathom the ripening of giving a verse twice, or three times?”
+{{milestone:{label:1.6,id:UT22084-057-008-37}}}When the Blessed One had spoken, the bodhisattva mahāsattva Maitreya, the other bodhisattvas and the monks,{{note:{index:14,id:UT22084-057-008-38}}} and the world with its gods, humans, asuras, and gandharvas rejoiced and praised the words of the Blessed One.
+{{milestone:{label:1.7,id:UT22084-057-008-39}}}This completes the noble Mahāyāna sūtra “The Question of Maitreya.”

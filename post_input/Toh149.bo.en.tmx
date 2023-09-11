@@ -1,0 +1,73 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ བྱམས་པ ས་ ཞུས་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra |#| The Question of Maitreya (3)</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [330.b] Homage to all buddhas and bodhisattvas!</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ རྒྱལ་པོ འི་ ཁབ་ ན་ བྱ་རྒོད་ ཀྱི་ ཕུང་པོ འི་ རི་ ལ་ དགེ་སློང་ གི་ དགེ་འདུན་ ཆེན་པོ་ དང་ ཐབས་ཅིག་ ཏུ་ བཞུགས་ ཏེ །_ |#| བྱང་ཆུབ་ སེམས་དཔ འི་ དགེ་འདུན་ ཆེན་པོ་ དང་ ཡང་ ཐབས་ཅིག་ གོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One was dwelling in Rājagṛha, on Vulture Peak Mountain, together with a great saṅgha of monks and a great saṅgha of bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ སྟན་ ལས་ ལངས་ ཏེ །_ |#| བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས །_ |#| པུས་མོ་ གཡས་པ འི་ ལྷ་ང་ ས་ ལ་ བཙུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 On that occasion the bodhisattva mahāsattva Maitreya#10 rose from his seat, draped his shawl over one shoulder, and knelt on his right knee.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས །_ |#| བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Joining his palms and bowing to the Blessed One, he spoke these words:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ འདི་ ལ་ ཆོས་སྦྱིན་པ འི་ རྣམ་པར་ སྨིན་པ་ གང་ ལགས །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, what are the karmic results of bestowing the Dharma?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ ལ་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 The Blessed One replied to the bodhisattva mahāsattva Maitreya,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱམས་པ་ སུ ས་ སྟོང་གསུམ་ གྱི་ སྟོང་ ཆེན་པོ འི་ འཇིག་རྟེན་ གྱི་ ཁམས་ གང་ གཱའི་ ཀླུང་ གི་ བྱེ་མ་ སྙེད་ རིན་པོ་ཆེ་ སྣ་ བདུན་ གྱིས་ ཡོངས་སུ་ བཀང་ སྟེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Maitreya, suppose one person filled as many great trichiliocosms as there are grains of sand in the river Ganges with the seven precious substances and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་ པར་ རྫོགས་པ འི་ སངས་རྒྱས་ རྣམས་ ལ་ དབུལ་བ་ ཕུལ་བ་ བས །_ གང་ གིས་ སྙིང་རྗེ་ བས་ ཚིགས་ སུ་ བཅད་པ་ གཅིག་ གཞན་ གྱི་ རྒྱུད་ ལ་ བཞག་ ན་ |#| བྱམས་པ་ བསོད་ནམས་ ཀྱི་ ཕུང་པོ་ འདི་ ལ་ བསོད་ནམས་ ཀྱི་ ཕུང་པོ་ སྔ་མ་ དེས་ བརྒྱ འི་ ཆར་ ཡང་ ཉེ་བ ར་ མི་ འགྲོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>offered them to the tathāgata, arhat, truly perfect buddhas, and another person, out of compassion, established a single verse of the Dharma in the mindstream of another. |#| Maitreya, the former mass of merit would not even come close to a hundredth of this latter mass of merit.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སྟོང་ གི་ ཆ་ དང་ །_ བརྒྱ་ སྟོང་ གི་ ཆ་ དང་ །_ བྱེ་བ འི་ ཆ་ དང་ །_ བྱེ་བ་ ཁྲག་ཁྲིག་ བརྒྱ་ སྟོང་ གི་ ཆ་ དང་ །_ གྲངས་ དང་ །_ ཆ་ དང་ །_ བགྲང་བ་ དང་ །_ དཔེ་ དང་ རྒྱུ ར་ ཡང་ མི་ བཟོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Nor could it be compared to even a thousandth, a hundred-thousandth, a ten-millionth, a hundred-sextillionth,#11 or any other portion, fraction, enumeration, or example.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདེ་བ ར་ གཤེགས་པ ས་ དེ་སྐད་ གསུངས་ ནས །_ |#| སྟོན་པ ས་ གཞན་ ཡང་ འདི་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 After the Sugata had said this, the Teacher furthermore declared:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གང་ གིས་ གང་ གཱའི་ བྱེ་ སྙེད་ འཇིག་རྟེན་ ཁམས །_། དེ་དག་ རིན་ཆེན་ བྱུར་བུ ར་ བཀང་ བྱས་ ཏེ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Consider one who has caused as many world realms as there are sand grains in the Ganges |#| To be filled to the brim with an abundance of riches#12</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དགའ་རབ་ སེམས་ ཀྱིས་ རྒྱལ་ ལ་ ཕུལ་བ་ བས །_། གང་ གིས་ ཚིགས་བཅད་ གཅིག་ཅིག་ སེམས་ཅན་ བྱིན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>And offered these to the victors with a joyful mind, |#| And another who has bestowed a single verse to a sentient being—</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>རིན་ཆེན་ སྦྱིན་པ་ ཤིན་ཏུ་ རྒྱ་ ཆེན་ དེ །_། |#| སྙིང་རྗེ་ བསྐྱེད་ ནས་ ཚིགས་བཅད་ སྦྱིན་པ་ ལ །_། གང་ གཱའི་ ཆ་ དང་ གྲངས་ སུ འང་ མི་ ཕོད་ [331a] ན །_། |#| ལན་ གཉིས་ ལན་ གསུམ་ སེམས་ ལ་ག་ ལ་ ཞིག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 “If that exceedingly vast gift of riches |#| Does not equal any fraction or portion#13 |#| Of cultivating compassion and then bestowing a single verse, [331.a] |#| How could one fathom the ripening of giving a verse twice, or three times?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །_ |#| བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བྱམས་པ་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ དེ་དག་ དང་ །_ དགེ་སློང་ དེ་དག་ དང་ །_ ལྷ་ དང་ །_ མི་ དང་ །_ ལྷ་མ་ ཡིན་ དང་ །_ དྲི་ཟ ར་ བཅས་པ འི་ འཇིག་རྟེན་ ཡི་ རངས་ ཏེ །_ |#| བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 When the Blessed One had spoken, the bodhisattva mahāsattva Maitreya, the other bodhisattvas and the monks,#14 and the world with its gods, humans, asuras, and gandharvas rejoiced and praised the words of the Blessed One.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ བྱམས་པ ས་ ཞུས་པ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སོ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$7 This completes the noble Mahāyāna sūtra “The Question of Maitreya.”</seg></tuv>
+</tu>
+</body>
+</tmx>

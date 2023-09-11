@@ -1,0 +1,17 @@
+{{version:v 1.0.4 2021}}
+The Noble Great Vehicle Sūtra
+Mañjuśrī’s Teaching
+Mañjuśrī’s Teaching
+{{milestone:{label:1.1,id:UT22084-060-006-20}}}{{page:{number:1,id:UT22084-060-006-79,folio:F.240.a}}} Homage to all buddhas and bodhisattvas!{{note:{index:9,id:UT22084-060-006-21}}}
+Thus did I hear at one time. The Blessed One was dwelling in Anāthapiṇḍada’s Park, the Jeta Grove in Śrāvastī, together with a great congregation of 1,250 monks and five thousand bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-060-006-24}}}At that time, the Blessed One was teaching the Dharma surrounded and venerated by an audience of many hundreds of thousands. Youthful Mañjuśrī then hoisted a jeweled parasol measuring ten yojanas in circumference and held it directly over the Blessed One’s head.
+{{milestone:{label:1.3,id:UT22084-060-006-25}}}Present in the retinue, along with his entourage, was a god from the house of Santuṣita called Susīma,{{note:{index:10,id:UT22084-060-006-26}}} whose progress toward unsurpassed and perfect awakening had become irreversible. He now rose from his seat, approached the place where Youthful Mañjuśrī was, and addressed him: “Mañjuśrī, aren’t you satisfied with your offering to the Blessed One?”
+{{milestone:{label:1.4,id:UT22084-060-006-27}}}Mañjuśrī asked in return, “Divine being, tell me, is the great ocean ever satisfied by having water poured into it?”
+“Mañjuśrī, no, it is not,” replied the god.
+{{milestone:{label:1.5,id:UT22084-060-006-80}}}Mañjuśrī said, “Divine being, likewise, the wisdom of omniscience is as profound, immeasurable, and boundless{{note:{index:11,id:UT22084-060-006-81}}} as the great ocean. Those bodhisattva mahāsattvas who wish to search for that wisdom should never{{note:{index:12,id:UT22084-060-006-82}}} be content in their desire to make offerings to the Tathāgata.”
+{{milestone:{label:1.6,id:UT22084-060-006-83}}}The god then asked, “Mañjuśrī, with what purpose in mind should offerings be made to the Tathāgata?” {{page:{number:2,id:UT22084-060-006-135,folio:F.240.b}}}
+Mañjuśrī replied, “Divine being, offerings should be made to the Tathāgata with four purposes in mind. What are those four? They are (1) the purpose of the mind of awakening,{{note:{index:13,id:UT22084-060-006-85}}} (2) the purpose of liberating all sentient beings, (3) the purpose that the lineage of the Three Jewels will continue uninterrupted, and (4) the purpose of purifying all buddha realms.{{note:{index:14,id:UT22084-060-006-137}}} Divine being, it is with these four purposes in mind that offerings should be made to the Tathāgata.”
+{{milestone:{label:1.7,id:UT22084-060-006-89}}}When Mañjuśrī had spoken, the god Susīma, the monks, nuns,{{note:{index:15,id:UT22084-060-006-90}}} bodhisattvas, and the entire retinue, along with the world with its gods, humans, asuras, and gandharvas, rejoiced and praised the words of Youthful Mañjuśrī.{{note:{index:16,id:UT22084-060-006-91}}}
+{{milestone:{label:1.8,id:UT22084-060-006-92}}}This concludes the noble Great Vehicle sūtra, “Mañjuśrī’s Teaching.”
+Colophon
+{{milestone:{label:c.1,id:UT22084-060-006-93}}}This was translated, edited, and finalized by the Indian preceptor Surendrabodhi and the chief editor and translator Bandé Yeshé Dé.

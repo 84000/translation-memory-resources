@@ -1,0 +1,16 @@
+{{version:v 1.1.5 2022}}
+The Chapter on the Scale of Life
+The Chapter on the Scale of Life
+{{milestone:{label:1.1,id:UT22084-036-008-19}}}{{page:{number:1,id:UT22084-036-008-71,folio:F.393.b}}}
+It was then that the bodhisattva King of Mind addressed those bodhisattvas: “O children of the Victorious One, the extent of an eon in this Sahā world, the buddhafield of the blessed Thus-Gone One Śākyamuni, is but a single day in Sukhāvatī, the buddhafield of the Thus-Gone One Amitāyus. {{page:{number:2,id:UT22084-036-008-20,folio:F.394.a}}}
+{{milestone:{label:1.2,id:UT22084-036-008-21}}}“O children of the Victorious One, the extent of an eon in Sukhāvatī is but a single day in the realm of Kaṣāyadhvajā, the buddhafield of the Thus-Gone One Vajrapramardin.
+{{milestone:{label:1.3,id:UT22084-036-008-22}}}“O children of the Victorious One, the extent of an eon in the realm of Kaṣāyadhvajā is but a single day in the realm of Avaivartika­cakra­nirghoṣā, the buddhafield of the Thus-Gone One Padma­phullitagātra. 
+{{milestone:{label:1.4,id:UT22084-036-008-23}}}“O children of the Victorious One, the extent of an eon in the realm of Avaivartika­cakra­nirghoṣā is but a single day in the realm of Virajā, the buddhafield of the blessed Thus-Gone One Dharmadhvaja. 
+{{milestone:{label:1.5,id:UT22084-036-008-24}}}“O children of the Victorious One, the extent of an eon in the realm of Virajā is but a single day in the realm of Excellent Lamp, the buddhafield of the blessed Thus-Gone One Siṃha.
+{{milestone:{label:1.6,id:UT22084-036-008-25}}}“O children of the Victorious One, the extent of an eon in the realm of Excellent Lamp is but a single day in the realm of Suprabhā, the buddhafield of the blessed Thus-Gone One Vairocana­garbha. 
+{{milestone:{label:1.7,id:UT22084-036-008-26}}}“O children of the Victorious One, the extent of an eon in the realm of Suprabhā is but a single day in the realm of Duratikramā, the buddhafield of the blessed Thus-Gone One Lotus Body Blooming from the Light of the Dharma.
+{{milestone:{label:1.8,id:UT22084-036-008-27}}}“O children of the Victorious One, the extent of an eon in the realm of Duratikramā is {{page:{number:3,id:UT22084-036-008-28,folio:F.394.b}}} but a single day in the realm of Vyūhā, the buddhafield of the blessed Thus-Gone One Light of All Supernatural Abilities.
+{{milestone:{label:1.9,id:UT22084-036-008-29}}}“O children of the Victorious One, the extent of an eon in the realm of Vyūhā is but a single day in the realm of Color of the Mirror Disk, the buddhafield of the blessed Thus-Gone One Candrabuddhi. 
+{{milestone:{label:1.10,id:UT22084-036-008-30}}}“O children of the Victorious One, continuing with this system for calculating eons and traversing tens of thousands of countless realms, we arrive at the equivalent of a single day in the realm of Padmaśrī, the buddhafield where the blessed Thus-Gone One Bhadraśrī resides.
+{{milestone:{label:1.11,id:UT22084-036-008-31}}}“According to this system of calculation, all realms are brimming with bodhisattvas who follow the conduct of Samantabhadra.”
+{{milestone:{label:1.12,id:UT22084-036-008-32}}}This was “The Scale of Life,” the thirty-seventh chapter of the extensive sūtra, the Ornaments of the Buddhas.

@@ -1,0 +1,285 @@
+{{version:v 1.0.9 2021}}
+The Sūtra on the Limits of Life
+The Limits of Life
+{{milestone:{label:1.1,id:UT22084-072-007-42}}}{{page:{number:1,id:UT22084-072-007-480,folio:F.139.a}}}{S74} Homage to the Three Jewels!
+Thus did I hear at one time.{{note:{index:22,id:UT22084-072-007-47}}}{S75} The Bhagavān was staying in Śrāvastī, in Prince Jeta’s grove, the cloistered garden donated by Anāthapiṇḍada. There the Bhagavān addressed the monks: “Monks, do you wish to learn about the lifespans of beings?” 
+{{milestone:{label:1.2,id:UT22084-072-007-49}}}“Yes, Bhagavān, this is the right time for it! Sugata, the time is right for the Bhagavān to teach the monks the lifespans of living beings. Bhagavān, having heard the teaching from the Bhagavān, the monks will retain it.” 
+“Monks, listen carefully and concentrate! I will teach.{{note:{index:23,id:UT22084-072-007-50}}}
+{{milestone:{label:1.3,id:UT22084-072-007-51}}}“Monks, the maximum lifespan in the hell realms is one eon. Premature death does occur.
+{{milestone:{label:1.4,id:UT22084-072-007-511}}}“Monks, the maximum lifespan in the animal realm {{page:{number:2,id:UT22084-072-007-481,folio:F.139.b}}} is one eon. Premature death does occur.
+{{milestone:{label:1.5,id:UT22084-072-007-53}}}“Monks, one day for the pretas corresponds to thirty days for humans. Since thirty such days constitute one month, and twelve months constitute one year, pretas have a lifespan of five hundred years by this way of calculating.{{note:{index:24,id:UT22084-072-007-54}}} According to human years, this is fifteen thousand years. Premature death does occur.”
+{{milestone:{label:1.6,id:UT22084-072-007-55}}}Then, at this time, the Bhagavān spoke these verses:
+“With their mouths and throats parched, they suffer intensely.
+Their bodies rise high like mountains tall.{{note:{index:25,id:UT22084-072-007-57}}}
+They are all coated in hair,{{note:{index:26,id:UT22084-072-007-58}}} their mouths are fretfully agape,{{note:{index:27,id:UT22084-072-007-59}}}
+Their noses extremely thin like needles. {S76}
+{{milestone:{label:1.7,id:UT22084-072-007-60}}}“Their skeleton-like, naked bodies are clad only in their own hair—
+Deformed figures with hands like cups,{{note:{index:28,id:UT22084-072-007-61}}}
+They suffer intensely from hunger, thirst, and fatigue.{{note:{index:29,id:UT22084-072-007-62}}}
+They howl, and their aching bodies writhe. 
+{{milestone:{label:1.8,id:UT22084-072-007-63}}}“Constantly experiencing painful sensations, they cry out in agony.
+Those who resort to jealousy and spite for others in this world,
+Having committed negative actions,
+Will be born in the realm of the pretas.{{note:{index:30,id:UT22084-072-007-64}}}
+{{milestone:{label:1.9,id:UT22084-072-007-65}}}“Monks, the lifespan of human beings inhabiting the eastern continent Pūrvavideha{{note:{index:31,id:UT22084-072-007-66}}} is two hundred fifty years. Premature death does occur. 
+{{milestone:{label:1.10,id:UT22084-072-007-67}}}“Monks, the lifespan of human beings inhabiting the western continent Avaragodānīya{{note:{index:32,id:UT22084-072-007-68}}} is five hundred years. Premature death does occur. 
+{{milestone:{label:1.11,id:UT22084-072-007-69}}}“Monks, the lifespan of human beings inhabiting the northern continent Uttarakuru{{note:{index:33,id:UT22084-072-007-70}}} is one thousand years. Premature death does not occur.
+{{milestone:{label:1.12,id:UT22084-072-007-71}}}“Why do the human beings who inhabit the continent Uttarakuru have a lifespan of one thousand years and not experience premature death?
+“Monks, the human beings inhabiting the continent Uttarakuru have no sense of mine and no notion of ownership, and their lifespan is predetermined. When they die and pass from there, they progress higher and higher,{{note:{index:34,id:UT22084-072-007-73}}} and in the future they go to heaven. Monks, this is why the human beings inhabiting the continent Uttarakuru have a lifespan of one thousand years and do not experience premature death.”
+{{milestone:{label:1.13,id:UT22084-072-007-74}}}Then, at that time, the Bhagavān spoke the following verses: 
+“Beings who are stricken by poverty {{page:{number:3,id:UT22084-072-007-482,folio:F.140.a}}}
+Hope for the riches of others.{{note:{index:35,id:UT22084-072-007-76}}}
+Because they have not served and relied on noble beings,{{note:{index:36,id:UT22084-072-007-77}}}
+They will become the low and mean servants of others.
+{{milestone:{label:1.14,id:UT22084-072-007-78}}}“The affluent and rich,
+Possessing all kinds of enjoyments, {S77}
+As well as money, grains, and servants,
+Are those who have served and relied on noble beings.
+{{milestone:{label:1.15,id:UT22084-072-007-79}}}“Those who live meritorious lives,
+By performing virtuous actions here and now,
+Will delight in great prosperity
+And abundance like a deva.{{note:{index:37,id:UT22084-072-007-80}}}
+{{milestone:{label:1.16,id:UT22084-072-007-81}}}“Since what is beyond the range of sense perception is not apparent, 
+Look directly at what is present: 
+When people experience happiness in this world,
+That is the karmic result of former generosity.{{note:{index:38,id:UT22084-072-007-82}}}
+{{milestone:{label:1.17,id:UT22084-072-007-83}}}“The humans{{note:{index:39,id:UT22084-072-007-84}}} inhabiting the northern continent
+Have no sense of mine and no notion of ownership.
+They use clothing from the wish-fulfilling tree—
+That is the result of former generosity.{{note:{index:40,id:UT22084-072-007-85}}}
+{{milestone:{label:1.18,id:UT22084-072-007-86}}}“They experience neither cold nor heat,
+They are free from illnesses,
+And they possess perfect bodies and complexion—
+That is the karmic result of former generosity.{{note:{index:41,id:UT22084-072-007-87}}}
+{{milestone:{label:1.19,id:UT22084-072-007-88}}}“On the northern continent 
+Grows very white rice
+Whose grains are unbroken, smooth, pure, and clean—
+That is the karmic result of former generosity.{{note:{index:42,id:UT22084-072-007-89}}}
+{{milestone:{label:1.20,id:UT22084-072-007-90}}}“Pure light-generating crystals
+Shine for beings continuously
+And cook their food— 
+That is the karmic result of former generosity.{{note:{index:43,id:UT22084-072-007-91}}}
+{{milestone:{label:1.21,id:UT22084-072-007-92}}}“They have no vegetables,
+And not even a little dahl.
+They always eat rice
+Endowed with perfect color, smell, and taste.
+{{milestone:{label:1.22,id:UT22084-072-007-93}}}“With only one serving of that food,
+Until they get up from their seats 
+The food on their plates is inexhaustible—
+That is the karmic result of former generosity.{{note:{index:44,id:UT22084-072-007-94}}}
+{{milestone:{label:1.23,id:UT22084-072-007-95}}}“A fruit that resembles the bottle gourd{{note:{index:45,id:UT22084-072-007-96}}}
+Grows on branches even when cut.
+One can eat them off the vine—{{note:{index:46,id:UT22084-072-007-97}}}
+That is the karmic result of former generosity. 
+{{milestone:{label:1.24,id:UT22084-072-007-98}}}“The rivers there carry cool water that
+When drunk, does not harm the stomach
+And that possesses the eight superior qualities{{note:{index:47,id:UT22084-072-007-99}}}— 
+That is the karmic result of former generosity. 
+{{milestone:{label:1.25,id:UT22084-072-007-100}}}“The people of Uttarakuru constantly divert themselves
+With magical trees that emit music.
+Their minds are always happy—
+That is the karmic result of former generosity.{{note:{index:48,id:UT22084-072-007-101}}}
+{{milestone:{label:1.26,id:UT22084-072-007-102}}}“The lovely magical music-trees,
+The many magical garment-trees,
+The perfect-smelling perfume-trees— 
+They are the karmic result of former generosity. {{page:{number:4,id:UT22084-072-007-483,folio:F.140.b}}}
+{{milestone:{label:1.27,id:UT22084-072-007-103}}}“Perfume, flowers, music,
+And garments too—
+Whatever the heart desires
+Manifests exactly as imagined. 
+{{milestone:{label:1.28,id:UT22084-072-007-104}}}“On lush green meadows,
+With grass soft like cotton wool,
+They enjoy themselves all day— [91]
+That is the karmic result of former generosity. 
+{{milestone:{label:1.29,id:UT22084-072-007-105}}}“They are without anger.
+Never begrudging or jealous,
+They enjoy one another{{note:{index:49,id:UT22084-072-007-106}}}—
+That is the karmic result of former generosity.
+{{milestone:{label:1.30,id:UT22084-072-007-107}}}“During the first watch of the night{{note:{index:50,id:UT22084-072-007-108}}}
+A rain shower falls for only an instant
+And cleans the air of dust—
+That is the karmic result of former generosity. 
+{{milestone:{label:1.31,id:UT22084-072-007-109}}}“Since they are not possessive,
+Even the mother-and-son relationship is unknown to them.{{note:{index:51,id:UT22084-072-007-110}}}
+When nothing unpleasant exists, sorrow is nonexistent{{note:{index:52,id:UT22084-072-007-111}}}— 
+That is the karmic result of former generosity. 
+{{milestone:{label:1.32,id:UT22084-072-007-112}}}“Mothers can even leave their children
+On empty roads and go their way,
+Because milk trickles from everyone’s thumbs— 
+That is the karmic result of former generosity.
+{{milestone:{label:1.33,id:UT22084-072-007-113}}}“No one cries there.
+When someone dies, they just leave the body and go on their way.
+Birds come and clean the island of the corpses—
+That is the karmic result of former generosity.
+{{milestone:{label:1.34,id:UT22084-072-007-114}}}“The whole of Uttarakuru is enclosed by a moat,
+Within which Uttarakuru’s inhabitants safely enjoy and divert themselves
+With songs and dance, most beautiful to behold—
+That is the karmic result of former generosity. 
+{{milestone:{label:1.35,id:UT22084-072-007-115}}}“The people there live for one thousand years,
+And they certainly use it up.
+They do not die prematurely{{note:{index:53,id:UT22084-072-007-116}}}— 
+That is the karmic result of former generosity!{{note:{index:54,id:UT22084-072-007-117}}}
+{{milestone:{label:1.36,id:UT22084-072-007-118}}}“Having fully enjoyed this beauty and abundance,{{note:{index:55,id:UT22084-072-007-119}}}
+Even though they will have to forsake their human bodies,
+They will take rebirth among the devas{{note:{index:56,id:UT22084-072-007-120}}}— 
+That is the karmic result of former generosity. {S78}
+{{milestone:{label:1.37,id:UT22084-072-007-121}}}“Monks, the lifespan of the humans of the southern continent of Jambudvīpa{{note:{index:57,id:UT22084-072-007-122}}} is not fixed; it varies.{{note:{index:58,id:UT22084-072-007-123}}} More precisely, monks, the maximum lifespans of the humans of Jambudvīpa are unlimited, eighty thousand years, one hundred years, and ten years.{{note:{index:59,id:UT22084-072-007-124}}}
+{{milestone:{label:1.38,id:UT22084-072-007-125}}}“Monks, the lifespan at the present time of the humans of Jambudvīpa amounts to one hundred years.{{note:{index:60,id:UT22084-072-007-126}}} Monks, presently those among the humans of Jambudvīpa who live long can reach an age of one hundred years, or a little more than that, when looked after with proper care.{{note:{index:61,id:UT22084-072-007-127}}}
+{{milestone:{label:1.39,id:UT22084-072-007-128}}}“Monks, during a lifespan of one hundred years, people undergo ten stages.{{note:{index:62,id:UT22084-072-007-129}}}{{page:{number:5,id:UT22084-072-007-484,folio:F.141.a}}} At the first stage, they are infants, feeble and lying on their back. At the second stage they are children, disposed to playing. At the third stage, as youths, they chase after pleasure. At the fourth stage they are endowed with physical strength and strong enthusiasm. At the fifth stage they possess prudence and self-confidence.{{note:{index:63,id:UT22084-072-007-130}}} At the sixth stage they are experienced and more given to reflection. At the seventh stage they practice religion with all their heart.{{note:{index:64,id:UT22084-072-007-131}}} At the eighth stage they are venerable and people of distinction.{{note:{index:65,id:UT22084-072-007-132}}} At the ninth stage they are old, fragile, and weakened by age. At the tenth stage life is exhausted and only death remains.{{note:{index:66,id:UT22084-072-007-133}}} Monks, in a hundred years, their lives undergo those ten stages.
+{{milestone:{label:1.40,id:UT22084-072-007-134}}}“Monks, living for one hundred years, they live for one hundred times each the three seasons: one hundred winters, one hundred summers, and one hundred rains.{{note:{index:67,id:UT22084-072-007-135}}} Living three seasons one hundred times each, they live for twelve months one hundred times: four months each of winters, four of summers, and four of rains. Living for twelve months one hundred times, they live for twenty-four times one hundred half-months, or two thousand four hundred half-months: eight half-months each of winters, eight half-months of summers, and eight half-months of rains. Living twenty-four times one hundred half-months, they live for thirty-six thousand days: twelve thousand days each of summer, winter, and rains.
+{{milestone:{label:1.41,id:UT22084-072-007-136}}}“Living for thirty-six thousand days, they eat seventy-two thousand meals, except for when there is something that prevents them from eating.{{note:{index:68,id:UT22084-072-007-137}}} These meal interruptions are as follows: when they are angry, they do not eat; when they suffer, they do not eat; when impoverished,{{note:{index:69,id:UT22084-072-007-138}}} they do not eat; during fasting,{{note:{index:70,id:UT22084-072-007-139}}} they do not eat; because of loss, they do not eat; because of gain, too, they do not eat; when sleeping, they do not eat; when drunk, {{page:{number:6,id:UT22084-072-007-485,folio:F.141.b}}} they do not eat; due to being drowsy, they do not eat. Thus, in sum, the meals that are eaten and the meals that are not eaten are altogether seventy-two thousand meals during one lifetime, including the milk from their mother that they have drunk. {S79}
+{{milestone:{label:1.42,id:UT22084-072-007-140}}}“Monks, I have expounded and itemized the lives of human beings in Jambudvīpa in terms of seasons, months, half months, days, meals, and even the interruptions to meals.{{note:{index:71,id:UT22084-072-007-141}}}
+{{milestone:{label:1.43,id:UT22084-072-007-142}}}“Monks, fifty human years corresponds to one day and night in the life of the devas belonging to the retinue of the Four Great Kings. Since thirty such days constitute one month, and twelve months constitute one year, the lifespan of the devas belonging to the retinue of the Four Great Kings is five hundred divine years by this way of calculating. According to human years, this is nine million years. Premature death does occur.
+{{milestone:{label:1.44,id:UT22084-072-007-143}}}“This—that is, nine million years—corresponds to one day and night for the beings{{note:{index:72,id:UT22084-072-007-144}}} in the great hell Revival.{{note:{index:73,id:UT22084-072-007-145}}}{{note:{index:74,id:UT22084-072-007-146}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of beings in the great hell Revival is, by this way of calculating, five hundred years. In human years, this is 1 trillion 620 billion years. Premature death does occur.”
+{{milestone:{label:1.45,id:UT22084-072-007-147}}}Then, at that time, the Bhagavān spoke the following verses: 
+“By committing harmful actions 
+With body, speech, and mind, 
+And whatever other actions that bring harm, 
+Beings are reborn in the hell Revival. 
+For one thousand times ten million years
+They are tortured and killed, only to be revived.
+{{milestone:{label:1.46,id:UT22084-072-007-149}}}“People who kill other people, 
+Because they are tied to one another by hatred,
+Will, by virtue of this karma,
+Be reborn in Revival.
+{{milestone:{label:1.47,id:UT22084-072-007-150}}}“Monks, one hundred human years corresponds to one day and night for the devas of the Heaven of the Thirty-Three. Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the devas of the Heaven of the Thirty-Three is one thousand divine years by this way of calculating. {{page:{number:7,id:UT22084-072-007-486,folio:F.142.a}}} According to human years, this is thirty-six million years. Premature death does occur.
+{{milestone:{label:1.48,id:UT22084-072-007-151}}}“This—that is, thirty-six million years—corresponds to one day and night for the beings in the great hell Black Thread.{{note:{index:75,id:UT22084-072-007-152}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of beings in the great hell Black Thread is one thousand years by this way of calculating. According to human years, this is 12 trillion 960 billion years.{{note:{index:76,id:UT22084-072-007-153}}} Untimely death{{note:{index:77,id:UT22084-072-007-154}}} does occur.” {S80}
+{{milestone:{label:1.49,id:UT22084-072-007-155}}}Then, at that time, the Bhagavān spoke the following verses:
+“Those who harm{{note:{index:78,id:UT22084-072-007-157}}} their father or mother,
+Or buddhas or śrāvakas,
+Will be born in the great hell Black Thread
+And experience painful bodily sensations.
+{{milestone:{label:1.50,id:UT22084-072-007-158}}}“Those who are lackadaisical and brag about it,{{note:{index:79,id:UT22084-072-007-159}}}
+And people who create discord among friends,
+Are reborn in Black Thread.
+Likewise, those who repeatedly tell lies{{note:{index:80,id:UT22084-072-007-160}}}
+Are reborn in the great hell Black Thread 
+Because of that karma.
+{{milestone:{label:1.51,id:UT22084-072-007-161}}}“Monks, two hundred human years corresponds to one day and night for the devas of the Heaven Free from Strife. Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the devas of the Heaven Free from Strife is two thousand divine years by this way of calculating. According to human years this is 144 million years.{{note:{index:81,id:UT22084-072-007-162}}} Premature death does occur.
+{{milestone:{label:1.52,id:UT22084-072-007-163}}}“This—that is, one hundred forty-four million years—is one day and night for the beings in the great hell Crushing.{{note:{index:82,id:UT22084-072-007-164}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the beings in the great hell Crushing is two thousand years by this way of calculating. According to human years, this is 103 trillion 680 billion years.{{note:{index:83,id:UT22084-072-007-165}}} Premature death does occur.”
+{{milestone:{label:1.53,id:UT22084-072-007-166}}}Then, at that time, the Bhagavān spoke the following verses:
+“Having committed the threefold{{note:{index:84,id:UT22084-072-007-168}}} unwholesome deeds,
+And having neglected the threefold wholesome ones,
+Through this karma one will be reborn
+In the great hell Crushing.{{note:{index:85,id:UT22084-072-007-169}}}
+{{milestone:{label:1.54,id:UT22084-072-007-170}}}“Having slain cows,{{note:{index:86,id:UT22084-072-007-171}}} goats, water buffalo, {{page:{number:8,id:UT22084-072-007-487,folio:F.142.b}}}
+Game, fowl,{{note:{index:87,id:UT22084-072-007-172}}} pigs,
+Or other such animals,
+One will be reborn in Crushing.
+{{milestone:{label:1.55,id:UT22084-072-007-173}}}“Monks, four hundred human years corresponds to one day and night for the devas of the Heaven of Joy. Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the devas of the Heaven of Joy is four thousand divine years by this way of calculating. According to human years, this is 576 million {S81} years. Premature death does occur.
+{{milestone:{label:1.56,id:UT22084-072-007-174}}}“This—that is, five hundred seventy-six million human years—corresponds to one day and night for the beings in the great hell Wailing.{{note:{index:88,id:UT22084-072-007-175}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the beings in the great hell Wailing is four thousand years by this way of calculating. According to human years, this is 829 trillion 440 billion years.{{note:{index:89,id:UT22084-072-007-176}}} Premature death does occur.” 
+{{milestone:{label:1.57,id:UT22084-072-007-177}}}Then, at that time, the Bhagavān spoke the following verses:
+“Those whose hands are smeared with blood,
+Whose appearance is dreadful, fierce, and terrifying,
+Through their evil conduct
+Will forever go to Wailing.
+{{milestone:{label:1.58,id:UT22084-072-007-179}}}“Flatterers and conjurers,{{note:{index:90,id:UT22084-072-007-180}}} and those who use deceit to cheat others,{{note:{index:91,id:UT22084-072-007-181}}}
+May not utter terrifying sounds,
+But because they ruin people,
+They will burn in hell for a long time. 
+{{milestone:{label:1.59,id:UT22084-072-007-182}}}“Monks, eight hundred human years corresponds to one day and night for the devas of the Heaven of Delighting in Emanations. Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the devas of the Heaven of Delighting in Emanations is eight thousand years by this way of calculating. According to human years, this is 2 billion 304 million years. Premature death does occur.
+{{milestone:{label:1.60,id:UT22084-072-007-183}}}“This—that is, 2 billion 304 million years—corresponds to one day and night for the beings inhabiting the great hell Loud Wailing. Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the beings inhabiting the great hell Loud Wailing{{note:{index:92,id:UT22084-072-007-184}}}{{page:{number:9,id:UT22084-072-007-488,folio:F.143.a}}} is eight thousand years by this way of calculating. According to human years, this is 6 quadrillion 635 trillion 520 billion years.{{note:{index:93,id:UT22084-072-007-185}}} Premature death does occur.”
+{{milestone:{label:1.61,id:UT22084-072-007-186}}}Then, at that time, the Bhagavān spoke the following verses:
+“Those who are obstructed by the thicket of wrong views
+And blinded by the veil of craving
+Will certainly go to Loud Wailing{{note:{index:94,id:UT22084-072-007-188}}}
+Due to their evil conduct. {S82}
+{{milestone:{label:1.62,id:UT22084-072-007-189}}}“People who violate friendship and confidentiality{{note:{index:95,id:UT22084-072-007-190}}}
+Will burn in the blazing, 
+Bloodcurdling hell Loud Wailing,
+Where they are imprisoned in a circular house.{{note:{index:96,id:UT22084-072-007-191}}}
+{{milestone:{label:1.63,id:UT22084-072-007-192}}}“There, swords will cut to pieces the bodies
+Of people who have engaged in backbiting.
+Vultures, crows, owls, and dogs
+Will shake their bodies to and fro before devouring them. 
+{{milestone:{label:1.64,id:UT22084-072-007-193}}}“Monks, one thousand six hundred{{note:{index:97,id:UT22084-072-007-194}}} human years corresponds to one day and night for the devas of the Heaven of the Masters of Others’ Creations.{{note:{index:98,id:UT22084-072-007-195}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the devas of the Heaven of the Masters of Others’ Creations is sixteen thousand years by this way of calculating. According to human years, this is 9 billion 216 million years. Premature death does occur.
+{{milestone:{label:1.65,id:UT22084-072-007-196}}}“This—that is, nine billion two hundred sixteen million years—corresponds to one day and night for the beings inhabiting the great hell Heat.{{note:{index:99,id:UT22084-072-007-197}}} Since thirty such days constitute one month, and twelve such months constitute one year, the lifespan of the beings inhabiting the great hell Heat is sixteen thousand years by this way of calculating. According to human years this is 53 quadrillion 84 trillion 160 billion years.{{note:{index:100,id:UT22084-072-007-198}}} Premature death does occur.”
+{{milestone:{label:1.66,id:UT22084-072-007-199}}}Then, at that time, the Bhagavān spoke the following verses:
+“Those who repeatedly{{note:{index:101,id:UT22084-072-007-201}}} afflict{{note:{index:102,id:UT22084-072-007-202}}}
+Good monks and brahmins,{{note:{index:103,id:UT22084-072-007-203}}}
+As well as their father and mother,{{note:{index:104,id:UT22084-072-007-204}}}
+Will be reborn in Heat.
+{{milestone:{label:1.67,id:UT22084-072-007-205}}}“Someone who inflicts a lot of pain
+On many beings in this world
+Will be reborn in Heat
+On account of this karma. {{page:{number:10,id:UT22084-072-007-489,folio:F.143.b}}}
+{{milestone:{label:1.68,id:UT22084-072-007-206}}}“Monks, do you want to hear about the lifespan of beings who have been reborn in the Blistering Hell?”{{note:{index:105,id:UT22084-072-007-207}}}
+“Yes, Bhagavān, the time is right for that. Sugata, this is the right time for it. We, the monks, having heard the teaching from the Blessed One about the lifespan of beings that have been reborn in the Blistering Hell, will retain the teaching well.”{{note:{index:106,id:UT22084-072-007-209}}}
+{{milestone:{label:1.69,id:UT22084-072-007-210}}}“Monks, in that case, listen carefully and concentrate! I will teach. Monks, it is like this: Imagine a container{{note:{index:107,id:UT22084-072-007-211}}} with a capacity of twenty khārī{{note:{index:108,id:UT22084-072-007-212}}} that contains a full measure of twenty khārī of Kosalan sesame seeds and is filled to the brim with them. {S83} Now imagine that someone were to remove a single seed from that container every hundred years.{{note:{index:109,id:UT22084-072-007-213}}} I say, monks, that the contents of that container holding twenty khārīs of sesame seeds would quickly be emptied out completely by this method, but, monks, not so the lifespan of beings who have been reborn in the Blistering Hell.
+{{milestone:{label:1.70,id:UT22084-072-007-214}}}“Twenty times the lifespan in the Blistering Hell is that in the Bursting Blister Hell.{{note:{index:110,id:UT22084-072-007-215}}} Twenty times the lifespan in the Bursting Blister Hell is that in the Hell of Chattering Teeth. Twenty times the lifespan in the Hell of Chattering Teeth is that in the Hell of Lamentation. Twenty times the lifespan in the Hell of Lamentation is that in the Cold Whimpering Hell. Twenty times the lifespan in the Cold Whimpering Hell is that in the Splitting Open Like a Blue Lotus Hell. Twenty times the lifespan in the Splitting Open Like a Blue Lotus Hell is that in the Splitting Open Like a Lotus Hell. Twenty times the lifespan in the Splitting Open Like a Lotus Hell is the Great Splitting Open Like a Lotus Hell.{{note:{index:111,id:UT22084-072-007-216}}} Devadatta’s{{note:{index:112,id:UT22084-072-007-217}}} partisan,{{note:{index:113,id:UT22084-072-007-218}}} the monk Kokālika, because he felt anger toward{{note:{index:114,id:UT22084-072-007-219}}} the monks Śāriputra and Maudgalyāyana,{{note:{index:115,id:UT22084-072-007-220}}} will be reborn in the Great Splitting Open Like a Lotus Hell with his own body.{{note:{index:116,id:UT22084-072-007-221}}}
+{{milestone:{label:1.71,id:UT22084-072-007-222}}}“Therefore, monks, you should train the mind thus: not even toward the burnt stump of a tree should you generate an attitude of hatred, let alone toward a conscious being! You should train in that way, monks!”
+{{milestone:{label:1.72,id:UT22084-072-007-223}}}Then, at this point, the Bhagavān spoke the following verses:{{note:{index:117,id:UT22084-072-007-224}}}
+“Some people are born {{page:{number:11,id:UT22084-072-007-490,folio:F.144.a}}},
+With a hatchet in their mouth,
+With which they only cut themselves
+When speaking words of evil. {S84}
+{{milestone:{label:1.73,id:UT22084-072-007-226}}}“Those who praise the ones who are to be reproached
+And those who reproach the ones who are to be praised
+Accumulate with their mouths that evil,
+Due to which they cannot find happiness.
+{{milestone:{label:1.74,id:UT22084-072-007-227}}}“This is a small sin:
+Losing all one’s wealth through gambling. 
+This is a great sin:
+Getting angry at the Tathāgata.{{note:{index:118,id:UT22084-072-007-228}}}
+{{milestone:{label:1.75,id:UT22084-072-007-229}}}“Those who abuse the noble ones,
+Having thus directed evil words and thoughts against them,
+Will go to hell for one hundred thousand nirarbudas
+And thirty-six arbudas.{{note:{index:119,id:UT22084-072-007-230}}}
+{{milestone:{label:1.76,id:UT22084-072-007-231}}}“Speaking untruth with a mind intending evil 
+Is what destroys one and hurls one into hell.{{note:{index:120,id:UT22084-072-007-232}}}
+A mind that is not tainted by these stains,
+That is blameless, is steadfast. {S85}
+{{milestone:{label:1.77,id:UT22084-072-007-233}}}“Monks, the lifespan of beings inhabiting the great hell Intense Heat{{note:{index:121,id:UT22084-072-007-234}}} is half an eon. Premature death does occur.”
+{{milestone:{label:1.78,id:UT22084-072-007-235}}}Then, at that point, the Bhagavān spoke the following verses: 
+“Having abandoned wholesome actions 
+Through which one is reborn in heaven,
+And having done harmful actions here, in this world,
+One is reborn in Intense Heat.
+{{milestone:{label:1.79,id:UT22084-072-007-237}}}“Those who harm good ascetics or brahmins,
+Or their father or mother,
+Or any other teacher
+Will boil in Intense Heat.
+{{milestone:{label:1.80,id:UT22084-072-007-238}}}“Monks, the lifespan of the beings in the great hell Incessant Torture{{note:{index:122,id:UT22084-072-007-239}}} is one eon. Premature death does occur. This is where the fool Devadatta was reborn with his own body because he split the undivided Saṅgha{{note:{index:123,id:UT22084-072-007-240}}} and, with evil intentions, drew the Tathāgata’s blood{{note:{index:124,id:UT22084-072-007-241}}} and beat a nun, who was an arhantī, to death.”{{note:{index:125,id:UT22084-072-007-242}}}
+{{milestone:{label:1.81,id:UT22084-072-007-243}}}Then, at that time, the Bhagavān spoke the following verses:{{note:{index:126,id:UT22084-072-007-244}}}
+“Those who are so foolish as to treat with contempt and reject 
+The teaching of those noble ones who worthily live according to the truth,
+Because they have resorted to evil views,
+Cultivate a deadly fruit, like the fruit of the thorny bamboo.{{note:{index:127,id:UT22084-072-007-246}}}{{note:{index:128,id:UT22084-072-007-247}}}
+{{milestone:{label:1.82,id:UT22084-072-007-248}}}They should only speak benevolently.
+They should not speak maliciously. {{page:{number:12,id:UT22084-072-007-491,folio:F.144.b}}}
+When they speak benevolently, things will turn out well.
+When they speak maliciously, they will burn.
+{{milestone:{label:1.83,id:UT22084-072-007-249}}}When fools utter malicious speech,
+They become enchained. 
+Only fools speak maliciously;
+Noble ones never utter them!{{note:{index:129,id:UT22084-072-007-250}}}
+{{milestone:{label:1.84,id:UT22084-072-007-251}}}“Having committed heinous acts in this world,
+Which lead to unfortunate rebirth-destinies,
+Through this karma,
+One will be reborn in Incessant Torture. {S86}
+{{milestone:{label:1.85,id:UT22084-072-007-252}}}“Monks, the lifespan of the devas in the Heaven of Brahmā’s Retinue{{note:{index:130,id:UT22084-072-007-253}}} is half an eon. Premature death does occur. 
+“Monks, the lifespan of the devas in the Heaven of Brahmā’s Ministers is three quarters of an eon.{{note:{index:131,id:UT22084-072-007-255}}} Premature death does occur. 
+{{milestone:{label:1.86,id:UT22084-072-007-256}}}“Monks, the lifespan of the devas in the Heaven of Great Brahmā is one eon.{{note:{index:132,id:UT22084-072-007-257}}} Premature death does occur.
+“Monks, the lifespan of the devas in the Heaven of Limited Radiance is two eons. Premature death does occur.
+{{milestone:{label:1.87,id:UT22084-072-007-259}}}“Monks, the lifespan of the devas in the Heaven of Boundless Radiance is four eons. Premature death does occur.
+“Monks, the lifespan of the devas in the Heaven of Luminous Radiance{{note:{index:133,id:UT22084-072-007-261}}} is eight eons. Premature death does occur.
+{{milestone:{label:1.88,id:UT22084-072-007-262}}}“Monks, the lifespan of the devas in the Heaven of Limited Virtue{{note:{index:134,id:UT22084-072-007-263}}} is sixteen eons. Premature death does occur.
+“Monks, the lifespan of the devas in the Heaven of Boundless Virtue{{note:{index:135,id:UT22084-072-007-265}}} is thirty-two eons. Premature death does occur. 
+{{milestone:{label:1.89,id:UT22084-072-007-266}}}“Monks, the lifespan of the devas in the Heaven of Perfect Virtue{{note:{index:136,id:UT22084-072-007-267}}} is sixty-four eons. Premature death does occur. 
+“Monks, the lifespan of the devas in the Cloudless Heaven{{note:{index:137,id:UT22084-072-007-269}}} is one hundred twenty-five eons. Premature death does occur.
+{{milestone:{label:1.90,id:UT22084-072-007-270}}}“Monks, the lifespan of the devas in the Heaven Born from Merit{{note:{index:138,id:UT22084-072-007-271}}} is two hundred fifty eons. Premature death does occur.
+“Monks, the lifespan of the devas in the Heaven of Great Reward{{note:{index:139,id:UT22084-072-007-273}}} is five hundred eons. Premature death does occur.
+{{milestone:{label:1.91,id:UT22084-072-007-274}}}“Monks, the lifespan of both the Insentient Beings and the devas of the Unlofty Heaven{{note:{index:140,id:UT22084-072-007-275}}} is one thousand eons.{{note:{index:141,id:UT22084-072-007-276}}} Premature death does occur. {S87}
+“Monks, the lifespan of the devas in Sorrowless Heaven{{note:{index:142,id:UT22084-072-007-278}}}{{page:{number:13,id:UT22084-072-007-492,folio:F.145.a}}} is two thousand eons. Premature death does occur. 
+{{milestone:{label:1.92,id:UT22084-072-007-279}}}“Monks, the lifespan of the devas in the Heaven of Sublime Vision{{note:{index:143,id:UT22084-072-007-280}}} is four thousand eons. Premature death does occur.
+“Monks, the lifespan of the devas in the Heaven of Great Vision{{note:{index:144,id:UT22084-072-007-282}}} is eight thousand eons. Premature death does occur.
+{{milestone:{label:1.93,id:UT22084-072-007-283}}}“Monks, the lifespan of the devas in the Highest Heaven{{note:{index:145,id:UT22084-072-007-284}}} is sixteen thousand eons. Premature death does occur.
+“Monks, the lifespan of the devas belonging to the Sphere of the Infinity of Space is twenty thousand eons.{{note:{index:146,id:UT22084-072-007-286}}} Premature death does occur.
+{{milestone:{label:1.94,id:UT22084-072-007-287}}}“Monks, the lifespan of the devas belonging to the Sphere of the Infinity of Consciousness is forty thousand eons. Premature death does occur.
+“Monks, the lifespan of the devas belonging to the Sphere of Nothingness is sixty thousand eons. Premature death does occur.
+{{milestone:{label:1.95,id:UT22084-072-007-289}}}“Monks, the lifespan of the devas belonging to the Sphere of Neither Perception nor Non-perception is eighty thousand eons. Premature death does occur.
+{{milestone:{label:1.96,id:UT22084-072-007-290}}}“Monks, from the hell Incessant Torture up to the Sphere of Neither Perception nor Non-perception—which, monks, is the peak of existence—these states respectively demarcate the upper and lower limits of the whole of existence. These states are the manifestation of existence. They are the places where living beings of the five rebirth-destinies come and go, live, die, and are reborn. Enough with the manifestation of existence!{{note:{index:147,id:UT22084-072-007-291}}} I do not speak with even the slightest praise of the manifestation of existence, however small it may be, however short in duration.{{note:{index:148,id:UT22084-072-007-292}}} Why is that? Because the manifestation of existence is suffering. Take, for instance, something that is impure: when even a little of it stinks, how much more so does a lot of it! In the same way, I do not speak with even the slightest praise of the manifestation of existence, however small it may be, however short in duration. Why is that? Because, monks, the manifestation of existence is suffering. Ordinary, worldly people, uneducated in the Dharma,{{note:{index:149,id:UT22084-072-007-293}}} continually cycle again and again in the five rebirth-destinies; {{page:{number:14,id:UT22084-072-007-493,folio:F.145.b}}} again and again they rush to the hells, again and again to the animal realm, again and again to evil states, to unfortunate rebirth-destinies, to destruction. Therefore, monks, you should train in this way: ‘I shall strive to cut off the stream of existence at any point and not let saṃsāra unfold!’ Monks, you should train in this way!”
+{{milestone:{label:1.97,id:UT22084-072-007-294}}}After the Blessed One had thus spoken, the monks were deeply overjoyed and rejoiced in the Blessed One’s words. 
+{{milestone:{label:1.98,id:UT22084-072-007-295}}}This concludes “The Sūtra on the Limits of Life.”
+Colophon
+{{milestone:{label:c.1,id:UT22084-072-007-296}}}This was translated by the Indian preceptor Viśuddhasiṃha and the monk Gewé Pal. It was revised and finalized by the Indian preceptor Vidyākarasiṃha and the chief editor-translator Bandé Paltsek.

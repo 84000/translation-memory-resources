@@ -1,0 +1,81 @@
+<tmx version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
+<body>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ གསེར་ གྱི་ མདོ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Noble Great Vehicle Sūtra |#| The Gold Sūtra</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>སངས་རྒྱས་ དང་ །_ བྱང་ཆུབ་ སེམས་དཔའ་ ཐམས་ཅད་ ལ་ ཕྱག་ འཚལ་ ལོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>$1 [293.a] Homage to all the buddhas and bodhisattvas.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འདི་སྐད་ བདག་ གིས་ ཐོས་པ་ དུས་ གཅིག་ ན །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$2 Thus did I hear at one time.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ མགོན་མེད་ ཟས་ སྦྱིན་ གྱི་ ཀུན་དགའ་ར་བ་ ན་ བཞུགས་ ཏེ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>The Blessed One was dwelling in the Jetavana, in the Park of Anātha­piṇḍada.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ འི་ ཚེ་ བཅོམ་ལྡན་འདས་ ལ་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>At that time the venerable Ānanda asked the Blessed One,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ཅི་ ལྟར་ བལྟ་བ ར་ བགྱི །_</seg></tuv>
+	<tuv xml:lang="en"><seg>“Blessed One, how should the mind of awakening be viewed?”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$3 The Blessed One replied,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ བྱང་ཆུབ་ ཀྱི་ སེམས་ ནི་ གསེར་ དང་ རང་བཞིན་ འདྲ་བ ར་ གནས་པ ར་ བལྟ་བ ར་ བགྱི འོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>“Venerable Ānanda, the mind of awakening should be viewed as being in nature like gold.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>གསེར་ རང་བཞིན་ གྱིས་ རྣམ་པར་ དག་པ་ ལྟར་ བྱང་ཆུབ་ ཀྱི་ སེམས་ རང་བཞིན་ གྱིས་ རྣམ་པར་ དག་པ ར་ གནས་ སོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Just as gold is pure by nature, so the mind of awakening is pure by nature.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>མགར་བ ས་ གསེར་ ལ་ བཟོའི་ བྱེ་བྲག་ ཐ་དད་ པར་ བྱས་ ཀྱང་ གསེར་ རང་བཞིན་ མི་འགྱུར་བ་ ལྟར །_</seg></tuv>
+	<tuv xml:lang="en"><seg>Just as a smith shapes gold into a multiplicity of forms, yet the nature of the gold does not change,</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ ཀྱི་ སེམས་ ལ་ ཡོན་ཏན་ ཁྱད་པར་ སྣ་ཚོགས་ པར་ སྣང་ ཡང་ དོན་དམ་ པར་བྱང་ ཆུབ་ ཀྱི་ སེམས་ལས་ མ་ གཡོས་པ ས་ རང་བཞིན་ མི་འགྱུར་བ འི་ ཕྱིར་ རོ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>although the mind of awakening may appear to have a variety of unique attributes, ultimately these never waver from the mind of awakening. |#| Therefore, its nature does not change.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚིགས་ སུ་ བཅད་ དེ་ བཀའ་ སྩལ་པ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$4 Then the Blessed One proclaimed the following verse:</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བྱང་ཆུབ་ སེམས་ཉིད་ རྣམ་པར་ དག _།</seg></tuv>
+	<tuv xml:lang="en"><seg>“The mind of awakening is pure.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བདག་ དང་ གཞན་ གྱི་ དོན་ ལ་ བརྩོན །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Strive for the benefit of self and other.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>དངོས་མེད་ ངོ་བོ་ ཉིད་ དུ་ སྒོམ །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Meditate on the insubstantial essence.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཤེས་རབ་ སྐྱེ་བ འི་ རྒྱུ་ལ་ མོས །_།</seg></tuv>
+	<tuv xml:lang="en"><seg>Be intent on what causes the birth of wisdom.”</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་པ་ དང་ །_</seg></tuv>
+	<tuv xml:lang="en"><seg>$5 The Blessed One spoke thus, and</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ དང་ །_ ཐམས་ཅད་ དང་ ལྡན་པ འི་ འཁོར་ དེ་དག་ དང་ །_ ལྷ་ དང་ །_ མི་ དང་ །_ ལྷ་མ་ ཡིན་ དང་ །_ དྲི་ཟ ར་ བཅས་པ འི་ འཇིག་རྟེན་ ཡི་ རངས་ ཏེ་ བཅོམ་ལྡན་འདས་ ཀྱིས་ གསུངས་པ་ ལ་ མངོན་པར་ བསྟོད་ དོ །།_།།</seg></tuv>
+	<tuv xml:lang="en"><seg>Venerable Ānanda, the entire retinue, and the world together with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg></tuv>
+</tu>
+<tu><prop type="x-sentbreak">|#|</prop>
+	<tuv xml:lang="bo"><seg>འཕགས་པ་ གསེར་ གྱི་ མདོ་ ཞེས་ བྱ་བ་ ཐེག་པ་ ཆེན་པོ འི་ མདོ་ རྫོགས་ སྷོ །།</seg></tuv>
+	<tuv xml:lang="en"><seg>$6 This completes the noble Great Vehicle sūtra “The Gold Sūtra.”</seg></tuv>
+</tu>
+</body>
+</tmx>

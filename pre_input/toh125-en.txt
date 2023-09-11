@@ -1,0 +1,14 @@
+{{version:v 1.1.4 2021}}
+The Noble Great Vehicle Sūtra
+The Gold Sūtra
+The Gold Sūtra
+{{milestone:{label:1.1,id:UT22084-054-006-5}}}{{page:{number:1,id:UT22084-054-006-20,folio:F.293.a}}} Homage to all the buddhas and bodhisattvas.
+{{milestone:{label:1.2,id:UT22084-054-006-6}}}Thus did I hear at one time. The Blessed One was dwelling in the Jetavana, in the Park of Anātha­piṇḍada. At that time the venerable Ānanda asked the Blessed One, “Blessed One, how should the mind of awakening be viewed?” 
+{{milestone:{label:1.3,id:UT22084-054-006-7}}}The Blessed One replied, “Venerable Ānanda, the mind of awakening should be viewed as being in nature like gold. Just as gold is pure by nature, so the mind of awakening is pure by nature. Just as a smith shapes gold into a multiplicity of forms, yet the nature of the gold does not change, although the mind of awakening may appear to have a variety of unique attributes, ultimately these never waver from the mind of awakening. Therefore, its nature does not change.”
+{{milestone:{label:1.4,id:UT22084-054-006-8}}}Then the Blessed One proclaimed the following verse:
+“The mind of awakening is pure. 
+Strive for the benefit of self and other.
+Meditate on the insubstantial essence.
+Be intent on what causes the birth of wisdom.”
+{{milestone:{label:1.5,id:UT22084-054-006-9}}}The Blessed One spoke thus, and Venerable Ānanda, the entire retinue, and the world together with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said. 
+{{milestone:{label:1.6,id:UT22084-054-006-10}}}This completes the noble Great Vehicle sūtra “The Gold Sūtra.”
