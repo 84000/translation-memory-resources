@@ -5,7 +5,7 @@
 
 # Creative Commons CC declaration:
 
-These works are provided under the protection of a Creative Commons CC BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright. They may be copied or printed for fair use, but only with full attribution, and not for commercial advantage or personal compensation. For full details, see the Creative Commons license.
+These works are provided under the protection of a Creative Commons CC BY-NC-ND (Attribution - Non-commercial - No-derivatives) 3.0 copyright. They may be copied or printed for fair use, but only with full attribution, and not for commercial advantage or personal compensation. For full details, see [Terms of Use documentation](https://github.com/84000/data-tm-alignments?tab=readme-ov-file#terms-of-use).
 
 ## **CONTENTS**
 **I. Documentation** 
